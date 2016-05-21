@@ -1,0 +1,72 @@
+apply plugin: 'application'
+apply plugin: 'groovy'
+
+mainClassName = "TransliteratorJFrame"
+//applicationDefaultJvmArgs = ["-Dwebdriver.chrome.driver=${System.getProperty('user.home')}/chromedriver/chromedriver.exe"]
+version=1.0
+repositories {
+    mavenCentral()
+    maven {
+        url "http://repo.jenkins-ci.org/releases"
+    }
+}
+
+
+sourceSets {
+    main {
+        groovy {
+            srcDirs = ['src/groovy', 'src/java']
+        }
+        resources {
+            srcDirs = ['resources']
+        }
+    }
+
+    test {
+        groovy {
+            srcDirs = ['test']
+        }
+    }
+}
+
+task transliterator(dependsOn: 'classes', type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = "com.egangotri.transliteratorAsSwing.TransliteratorJFrame"
+    //jvmArgs = applicationDefaultJvmArgs
+    args = []
+}
+
+
+task sandhi(dependsOn: 'classes', type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = "com.egangotri.sandhi.SandhiJFrame"
+    //jvmArgs = applicationDefaultJvmArgs
+    args = []
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.4'
+    compile 'org.codehaus.gpars:gpars:1.2.1'
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.21'
+    //compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.21'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.5'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.5'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.5'
+    compile 'org.apache.commons:commons-lang3:3.4'
+    compile 'commons-logging:commons-logging:1.2'
+    compile 'log4j:log4j:1.2.11'
+    testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
+    testCompile 'junit:junit:4.12'
+
+}
+
+
+task fatJar(type: Jar) {
+    baseName = project.name + '-all'
+    from { (configurations.compile + configurations.runtime).collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+    manifest {
+        attributes 'Implementation-Title': 'eGangotri Programming Tools', 'Implementation-Version': version
+        attributes 'Main-Class': mainClassName
+    }
+}
