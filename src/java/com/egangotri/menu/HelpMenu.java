@@ -9,6 +9,7 @@ import javax.swing.JOptionPane;
 
 import com.egangotri.sandhi.SandhiJFrame;
 import com.egangotri.transliteration.RTFDocsSwingDisplayer;
+import com.egangotri.util.CommonActions;
 import com.egangotri.util.Log;
 import com.egangotri.util.Project;
 
@@ -18,8 +19,6 @@ public class HelpMenu extends JMenu implements ActionListener
     
     Project project;
     
-    public static final String DOC_PATH      = "";
-
     public String aboutPro = "";
     
     public String jarFile;
@@ -33,7 +32,7 @@ public class HelpMenu extends JMenu implements ActionListener
         this.aboutPro = aboutPro;
         this.project = proj;
         if(project.equals(Project.SANDHI)){
-            jarFile = SandhiJFrame.JAR_NAME;
+            jarFile = "sandhi.jar";
         }
         
         if(project.equals(Project.TRANSLITERATOR)){
@@ -75,40 +74,23 @@ public class HelpMenu extends JMenu implements ActionListener
     @Override
     public void actionPerformed(ActionEvent e)
     {
-        Log.logInfo("Help Mnu Action Performed");
-        if ((e.getActionCommand()).equals("itrans_encoding"))
-        {
-            new RTFDocsSwingDisplayer("Itrans Encoding Scheme", "itrans.rtf", jarFile);
-        } 
-
-        else if ((e.getActionCommand()).equals("slp_encoding"))
-        {
-             new RTFDocsSwingDisplayer("SLP Encoding Scheme", DOC_PATH + "slp.rtf", jarFile);
-        } 
-
-        else if ((e.getActionCommand()).equals("hk_encoding"))
-        {
-            new RTFDocsSwingDisplayer("HK Encoding Scheme", DOC_PATH + "hk.rtf", jarFile);
-        } 
-
-        else if ((e.getActionCommand()).equals("iast_encoding"))
-        {
-            new RTFDocsSwingDisplayer("IAST Encoding Scheme", DOC_PATH + "iast.rtf", jarFile);
-        } 
-        
-        else if ((e.getActionCommand()).equals("notes_item"))
+        if ((e.getActionCommand()).equals("notes_item"))
         {
             String fileName = "Sandhi_Notes.rtf";
             if(project == Project.DICT){
                 fileName = "Dictionary_Notes.rtf";
             }
-            new RTFDocsSwingDisplayer("Notes on " + this.aboutPro, fileName , jarFile);
+            new RTFDocsSwingDisplayer("Notes on " + this.aboutPro, fileName );
         } 
         
         else if ((e.getActionCommand()).equals("about_item"))
         {
             String copyright = "\u00A9 2012 All Rights Reserved. Chetan Pandey\n" + "Pls. Contact taddhita_priya@yahoo.com for questions and suggestions.";
             JOptionPane.showMessageDialog(this, copyright, "About " + aboutPro, JOptionPane.PLAIN_MESSAGE);
+        }
+
+        else{
+            CommonActions.performActions(e.getActionCommand());
         }
         
     }

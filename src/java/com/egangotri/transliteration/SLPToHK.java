@@ -11,8 +11,8 @@ public class SLPToHK
         String transformed = s1;
         Log.logInfo("SLPToItrans: " + s1  );
 
-        transformed = transformed.replaceAll("N","0");  
-        transformed = transformed.replaceAll("Y","1");          
+        transformed = transformed.replaceAll("N","ň");  //tmp placeholder, reversd below
+        transformed = transformed.replaceAll("Y","ŷ");  //tmp placeholder, reversd below
         transformed = transformed.replaceAll("R","N");
         transformed = transformed.replaceAll("f", "R");            
         transformed = transformed.replaceAll("F","RR");// same reason as above
@@ -50,8 +50,8 @@ public class SLPToHK
         transformed = transformed.replaceAll("Z","z"); 
         transformed = transformed.replaceAll("'", ".a");    // avagraha
         
-        transformed = transformed.replaceAll("0","G");  
-        transformed = transformed.replaceAll("1","J"); 
+        transformed = transformed.replaceAll("ň","G");
+        transformed = transformed.replaceAll("ŷ","J");
         
         Log.logInfo("SLPToItrans: transformed" + s1 + " = " + transformed );            
         return transformed; // return transformed;

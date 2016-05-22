@@ -93,7 +93,6 @@ public class DvnToSLP
         unicode.put("\u093d" ,"'"  ); // avagraha using "'"
         unicode.put( "\u0969" ,"3" ); // 3 equals to pluta
 
-        unicode.put("\u0969", "3"); // 3 equals to pluta
         unicode.put("\u014F", "Z");// Z equals to upadhamaniya
         unicode.put( "\u0CF1","V");// V equals to jihvamuliya....but what character have u settled for jihvamuliya
         unicode.put( "\u0950","Ω"); // aum 
@@ -107,6 +106,17 @@ public class DvnToSLP
         unicode.put("\u0926\u093C","τa" ); // Urdu dwad
         unicode.put("\u0924\u093C","θa"); // Urdu toe
         unicode.put("\u0938\u093C","σa"); // Urdu swad, se
+
+        unicode.put("\u0966", "0");
+        unicode.put("\u0967", "1");
+        unicode.put("\u0968",  "2");
+        unicode.put("\u0969", "3"); // 3 equals to pluta
+        unicode.put("\u096A", "4");
+        unicode.put("\u096B", "5");
+        unicode.put("\u096C", "6");
+        unicode.put("\u096D", "7");
+        unicode.put("\u096E", "8");
+        unicode.put("\u096F", "9");
     }
 
     public String transform(String dvnString)

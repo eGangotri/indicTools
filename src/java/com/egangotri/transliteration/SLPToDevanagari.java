@@ -77,8 +77,9 @@ public class SLPToDevanagari
             unicode.put("r", "\u0930");
             unicode.put("l", "\u0932");
     
-            unicode.put("L", "\u0933"); // the Marathi and Vedic 'L'
-    
+            unicode.put("L", "\u0933"); // the Marathi and Vedic 'L' 'ळ'
+           // unicode.put("|", "\u0933\u0939"); // the Marathi and Vedic 'L' 'ळ्ह'
+
             unicode.put("v", "\u0935");
             unicode.put("S", "\u0936");
             unicode.put("z", "\u0937");
@@ -90,8 +91,10 @@ public class SLPToDevanagari
                                         // represent it\
             unicode.put("'", "\u093d"); // avagraha using "'"
             unicode.put("3", "\u0969"); // 3 equals to pluta
-            unicode.put("Z", "\u014F");// Z equals to upadhamaniya
-            unicode.put("V", "\u0CF1");// V equals to jihvamuliya....but what character have u settled for jihvamuliya
+
+            unicode.put("Z", "\u014F");// Z equals to jihvamuliya
+            unicode.put("V", "\u0CF1");// V equals to upadhamaniya....but what character have u settled for jihvamuliya
+
             unicode.put("Ω", "\u0950"); // aum 
             unicode.put("κ", "\u0958"); // Urdu qaif
             unicode.put("Κ", "\u0959"); //Urdu qhe
@@ -107,7 +110,26 @@ public class SLPToDevanagari
             
             unicode.put("ε", "\u0945"); // English 'e'. Using epsilon
             unicode.put("ο", "\u0949"); // English '0'. Using omicron
-            
+
+
+            unicode.put("0", "\u0966");
+            unicode.put("1", "\u0967");
+            unicode.put("3", "\u0968");
+            unicode.put("3", "\u0969"); // 3 equals to pluta
+            unicode.put("4", "\u096A");
+            unicode.put("5", "\u096B");
+            unicode.put("6", "\u096C");
+            unicode.put("7", "\u096D");
+            unicode.put("8", "\u096E");
+            unicode.put("9", "\u0975");
+
+            //Vedic
+            unicode.put("/", "\u0951"); // udataa
+            unicode.put("\\\\", "\u0952"); //anudatta
+            unicode.put("^", "\u1CDA"); //svarita
+
+
+
 
             /*
     transformed = transformed.replaceAll("AUM","Ω"); //omega or Ohm

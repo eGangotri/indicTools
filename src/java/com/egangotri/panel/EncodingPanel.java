@@ -7,6 +7,7 @@ import javax.swing.ButtonGroup;
 import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 
+import com.egangotri.util.Constants;
 import com.egangotri.util.EncodingUtil;
 import com.egangotri.util.Log;
 
@@ -14,33 +15,33 @@ public class EncodingPanel extends JPanel implements ActionListener
 {
     JRadioButton               itransRB, slpRB, hkRB, dvnRB, iastRB, velthuisRB;
     
-    private String encoding = EncodingUtil.DEFAULT_ENCODING;
+    private String encoding = Constants.DEFAULT_ENCODING;
     
     public EncodingPanel(){
         super();
         // JRadioButtons
-        itransRB = new JRadioButton(EncodingUtil.ITRANS);
+        itransRB = new JRadioButton(Constants.ITRANS);
         itransRB.setSelected(true);
         itransRB.setActionCommand("itransRB");
         itransRB.addActionListener(this);
 
-        slpRB = new JRadioButton(EncodingUtil.SLP);
+        slpRB = new JRadioButton(Constants.SLP);
         slpRB.setActionCommand("slpRB");
         slpRB.addActionListener(this);
 
-        hkRB = new JRadioButton(EncodingUtil.HK);
+        hkRB = new JRadioButton(Constants.HK);
         hkRB.setActionCommand("hkRB");
         hkRB.addActionListener(this);
 
-        dvnRB = new JRadioButton(EncodingUtil.UNICODE_DVN);
+        dvnRB = new JRadioButton(Constants.UNICODE_DVN);
         dvnRB.setActionCommand("dvnRB");
         dvnRB.addActionListener(this);
 
-        iastRB = new JRadioButton(EncodingUtil.IAST);
+        iastRB = new JRadioButton(Constants.IAST);
         iastRB.setActionCommand("iastRB");
         iastRB.addActionListener(this); 
 
-        velthuisRB = new JRadioButton(EncodingUtil.VELTHIUS);
+        velthuisRB = new JRadioButton(Constants.VELTHUIS);
         velthuisRB.setActionCommand("velthuisRB");
         velthuisRB.addActionListener(this); 
 
@@ -63,19 +64,19 @@ public class EncodingPanel extends JPanel implements ActionListener
 
    
     public void setEncodingRB(String encoding){
-        if(encoding.equals(EncodingUtil.SLP)){
+        if(encoding.equals(Constants.SLP)){
             slpRB.setSelected(true);
         }
-        else if(encoding.equals(EncodingUtil.HK)){
+        else if(encoding.equals(Constants.HK)){
             hkRB.setSelected(true);
         }
-        else if(encoding.equals(EncodingUtil.UNICODE_DVN)){
+        else if(encoding.equals(Constants.UNICODE_DVN)){
             dvnRB.setSelected(true);
         }
-        else if(encoding.equals(EncodingUtil.IAST)){
+        else if(encoding.equals(Constants.IAST)){
             iastRB.setSelected(true);
         }
-        else if(encoding.equals(EncodingUtil.VELTHIUS)){
+        else if(encoding.equals(Constants.VELTHUIS)){
             iastRB.setSelected(true);
         }
         else{
@@ -90,27 +91,27 @@ public class EncodingPanel extends JPanel implements ActionListener
       //clearTextFields();
         if ((e.getActionCommand()).equals("itransRB"))
         {
-            encoding = EncodingUtil.ITRANS;
+            encoding = Constants.ITRANS;
         }
         else if ((e.getActionCommand()).equals("slpRB"))
         {
-            encoding = EncodingUtil.SLP;
+            encoding = Constants.SLP;
         }
         else if ((e.getActionCommand()).equals("hkRB"))
         {
-            encoding = EncodingUtil.HK;
+            encoding = Constants.HK;
         }
         else if ((e.getActionCommand()).equals("dvnRB"))
         {
-            encoding = EncodingUtil.UNICODE_DVN;
+            encoding = Constants.UNICODE_DVN;
         }
         else if ((e.getActionCommand()).equals("iastRB"))
         {
-            encoding = EncodingUtil.IAST;
+            encoding = Constants.IAST;
         }        
         else if ((e.getActionCommand()).equals("velthuisRB"))
         {
-            encoding = EncodingUtil.VELTHIUS;
+            encoding = Constants.VELTHUIS;
         }        
     }
 
@@ -126,7 +127,7 @@ public class EncodingPanel extends JPanel implements ActionListener
     }
     
     public void setEncodingToDefault(){
-        encoding = EncodingUtil.DEFAULT_ENCODING;
+        encoding = Constants.DEFAULT_ENCODING;
         itransRB.setSelected(true);
     }
 }

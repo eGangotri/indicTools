@@ -11,9 +11,7 @@ import com.egangotri.menu.OptionsMenu;
 import com.egangotri.menu.PratyaharaMenu;
 import com.egangotri.panel.EncodingPanelForSandhi;
 import com.egangotri.panel.SandhiOptionsPanel;
-import com.egangotri.util.EncodingUtil;
-import com.egangotri.util.Log;
-import com.egangotri.util.Project;
+import com.egangotri.util.*;
 
 import java.awt.*;
 
@@ -70,10 +68,6 @@ public class SandhiJFrame extends JFrame implements ActionListener, KeyListener
     public static boolean      romanSutra    = false;
 
     public static final String title         = "Sandhi Engine";
-
-    public static final String DOC_PATH      = "";
-    
-    public static final String JAR_NAME = "sandhi.jar";
 
     public SandhiJFrame()
     {
@@ -141,8 +135,8 @@ public class SandhiJFrame extends JFrame implements ActionListener, KeyListener
         tf6.setEditable(false);
         tf1.setText("shiva");
         tf2.setText("Alaya");
-        tf4.setText(EncodingUtil.convertToDVN(tf1.getText(), EncodingUtil.ITRANS));
-        tf5.setText(EncodingUtil.convertToDVN(tf2.getText(), EncodingUtil.ITRANS));
+        tf4.setText(EncodingUtil.convertToDVN(tf1.getText(), Constants.ITRANS));
+        tf5.setText(EncodingUtil.convertToDVN(tf2.getText(), Constants.ITRANS));
 
 
         // Buttons
@@ -252,11 +246,6 @@ public class SandhiJFrame extends JFrame implements ActionListener, KeyListener
             clear();
         }
         
-        else if ((e.getActionCommand()).equals("Exit"))
-        {
-            System.exit(0);
-        }
-
         else if ((e.getActionCommand()).equals("previous"))
         {
             // if u r trying to scroll on the firsts added element
@@ -281,8 +270,11 @@ public class SandhiJFrame extends JFrame implements ActionListener, KeyListener
             Log.logInfo("next -> :  vector_tracker" + vectorTracker);
         }
 
-    }
+        else{
+            CommonActions.performActions(e.getActionCommand());
+        }
 
+    }
 
     public void setText()
     {

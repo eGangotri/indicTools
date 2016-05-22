@@ -649,10 +649,10 @@ public class ConsonantSandhi
         {
 
             Log.logInfo(" Sending to jhalam_char: anta == " + anta + " adi == " + adi);
-            Log.logInfo("******jhalam_char test");
+            Log.logInfo("******jhalam_char performActions");
             Log.logInfo("Consonant.is_jhalanta(anta) == " + ConsonantUtil.is_jhalanta(anta));
             Log.logInfo("Consonant.is_kharadi(adi) == " + ConsonantUtil.is_kharadi(adi));
-            Log.logInfo("******jhalam_char test over");
+            Log.logInfo("******jhalam_char performActions over");
 
             return_me = jhalam_char(anta, adi); // khari ca B74
 

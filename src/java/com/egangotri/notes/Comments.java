@@ -2,6 +2,7 @@ package com.egangotri.notes;
 
 
 import com.egangotri.sandhi.SandhiJFrame;
+import com.egangotri.util.Constants;
 import com.egangotri.util.EncodingUtil;
 import com.egangotri.util.Log;
 
@@ -166,7 +167,7 @@ public void setSutraNum(String s1) {
 
 public void setSutraPath(String s1) {	
 	if(SandhiJFrame.romanSutra == false )
-	sutraPath[optionsPointer] = EncodingUtil.convertRawItransToDevanagari(s1) ; 		
+	sutraPath[optionsPointer] = EncodingUtil.convertRawItransToDevanagari(s1) ;
 	else {sutraPath[optionsPointer] = s1;	}	
 	}
 	
@@ -181,7 +182,7 @@ public void setSource(String s1) {
 
 public void setVartikaPath(String s1) {
 	if(SandhiJFrame.romanSutra == false )
-	vartikaPath[optionsPointer] = EncodingUtil .convertRawItransToDevanagari(s1) ; 		
+	vartikaPath[optionsPointer] = EncodingUtil.convertRawItransToDevanagari(s1) ;
 	else {vartikaPath[optionsPointer] = s1;	}	
 	}
 	

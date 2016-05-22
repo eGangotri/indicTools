@@ -61,7 +61,7 @@ public class PratyahaarJFrame extends JFrame implements ActionListener, KeyListe
 
         // menuitems
         description = new JMenuItem("Siva Sutras of Panini");
-        description.setActionCommand("description");
+        description.setActionCommand("siva_sutra_desc");
         description.addActionListener(this);
 
         back_item = new JMenuItem("Back");
@@ -225,10 +225,10 @@ public class PratyahaarJFrame extends JFrame implements ActionListener, KeyListe
             this.dispose();
         } 
 
-        else if (actionCmd.equals("description"))
+        else if (actionCmd.equals("siva_sutra_desc"))
         {
-            new RTFDocsSwingDisplayer("The Siva Sutras of Panini", SandhiJFrame.DOC_PATH + "siva.rtf", "sandhi.jar");
-        } 
+            new RTFDocsSwingDisplayer("The Siva Sutras of Panini", "siva.rtf");
+        }
 
     }
 

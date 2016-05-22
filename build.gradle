@@ -1,7 +1,7 @@
 apply plugin: 'application'
 apply plugin: 'groovy'
 
-mainClassName = "TransliteratorJFrame"
+mainClassName = "com.egangotri.transliteratorAsSwing.TransliteratorJFrame"
 //applicationDefaultJvmArgs = ["-Dwebdriver.chrome.driver=${System.getProperty('user.home')}/chromedriver/chromedriver.exe"]
 version=1.0
 repositories {
