@@ -7,8 +7,7 @@ import javax.swing.ButtonGroup;
 import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 
-import com.egangotri.util.Constants;
-import com.egangotri.util.EncodingUtil;
+import com.egangotri.constants.Constants;
 import com.egangotri.util.Log;
 
 public class EncodingPanel extends JPanel implements ActionListener

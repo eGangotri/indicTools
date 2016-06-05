@@ -1,4 +1,4 @@
-package com.egangotri.util
+package com.egangotri.constants
 
 /**
  * Created by user on 5/21/2016.
@@ -20,7 +20,9 @@ class Constants {
 
     public static String VELTHUIS = "VELTHUIS";
 
-    public static List ENCODINGS = [ITRANS , SLP, HK, UNICODE_DVN, IAST, VELTHUIS ]
+    public static String IPA = "IPA";
+
+    public static List ENCODINGS = [ITRANS , SLP, HK, UNICODE_DVN, IAST, VELTHUIS, IPA ]
 
     public static final String ARIAL_UNICODE_MS = "ARIAL UNICODE MS"
     public static final String ENCODING_SCHEME = "ENCODING SCHEME"

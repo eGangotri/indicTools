@@ -2,7 +2,6 @@ package com.egangotri.notes;
 
 
 import com.egangotri.sandhi.SandhiJFrame;
-import com.egangotri.util.Constants;
 import com.egangotri.util.EncodingUtil;
 import com.egangotri.util.Log;
 

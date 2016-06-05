@@ -2,6 +2,7 @@ package com.egangotri.util;
 
 import java.io.UnsupportedEncodingException;
 
+import com.egangotri.constants.Constants;
 import com.egangotri.transliteration.*;
 import org.apache.commons.lang3.text.WordUtils;
 
@@ -120,18 +121,17 @@ public class EncodingUtil {
 
     public static String convert(String str, String inputEncoding, String outputEncoding, boolean capitalizeIAST) {
         String toSLP = convertToSLP(str, inputEncoding);
-        if(Constants.SLP.equalsIgnoreCase(outputEncoding)){
+        if (Constants.SLP.equalsIgnoreCase(outputEncoding)) {
             return toSLP;
-        }
-        else{
-            if(Constants.IAST.equalsIgnoreCase(outputEncoding) && capitalizeIAST == true){
+        } else {
+            if (Constants.IAST.equalsIgnoreCase(outputEncoding) && capitalizeIAST == true) {
                 return WordUtils.capitalizeFully(convertSLPToEncoding(toSLP, outputEncoding));
-            }
-            else{
+            } else {
                 return convertSLPToEncoding(toSLP, outputEncoding);
             }
         }
     }
+
     public static String convertToDVN(String str, String encoding) {
         if (Constants.ITRANS.equalsIgnoreCase(encoding))
             return convertRawItransToDevanagari(str);
@@ -147,6 +147,18 @@ public class EncodingUtil {
             return str;
     }
 
+    public static String convertSLPToIPA(String str) {
+        return SLPToIPA.transform(str);
+    }
+
+    public static String convertIPAToSLP(String str) {
+        return IPAToSLP.transform(str);
+    }
+
+    public static String convertDevanagariToIPA(String str) {
+        return DevangariToIPA.transform(str);
+    }
+
     public static String convertToSLP(String str, String encoding) {
         if (Constants.ITRANS.equalsIgnoreCase(encoding))
             return convertRawItransToSLP(str);
@@ -158,6 +170,8 @@ public class EncodingUtil {
             return convertIASTToSLP(str);
         else if (Constants.VELTHUIS.equalsIgnoreCase(encoding))
             return convertVelthuisToSLP(str);
+        else if (Constants.IPA.equalsIgnoreCase(encoding))
+            return convertIPAToSLP(str);
         else
             return str;
     }
@@ -173,6 +187,8 @@ public class EncodingUtil {
             return convertSLPToIAST(str);
         else if (Constants.VELTHUIS.equalsIgnoreCase(encoding))
             return convertSLPToVelthuis(str);
+        else if (Constants.IPA.equalsIgnoreCase(encoding))
+            return convertSLPToIPA(str);
         else
             return str;
     }

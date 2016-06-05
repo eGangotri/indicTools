@@ -1,6 +1,6 @@
 package com.egangotri.db.db
 
-import com.egangotri.util.Constants
+import com.egangotri.constants.Constants
 import com.egangotri.vo.WordMaster
 import groovy.sql.GroovyRowResult
 import groovy.sql.Sql

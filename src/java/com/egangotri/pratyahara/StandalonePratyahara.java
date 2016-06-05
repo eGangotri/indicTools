@@ -1,9 +1,6 @@
 package com.egangotri.pratyahara;
 
-import com.egangotri.sandhi.SandhiJFrame;
-import com.egangotri.transliteration.RTFDocsSwingDisplayer;
 import com.egangotri.util.CommonActions;
-import com.egangotri.util.Constants;
 import com.egangotri.util.EncodingUtil;
 
 import java.awt.event.*;

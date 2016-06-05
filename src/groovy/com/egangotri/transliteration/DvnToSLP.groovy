@@ -1,4 +1,6 @@
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
+
+import com.egangotri.constants.SLPConstants;
 
 import java.util.ArrayList;
 import java.util.Hashtable;
@@ -93,19 +95,20 @@ public class DvnToSLP
         unicode.put("\u093d" ,"'"  ); // avagraha using "'"
         unicode.put( "\u0969" ,"3" ); // 3 equals to pluta
 
-        unicode.put("\u014F", "Z");// Z equals to upadhamaniya
-        unicode.put( "\u0CF1","V");// V equals to jihvamuliya....but what character have u settled for jihvamuliya
-        unicode.put( "\u0950","Ω"); // aum 
-        unicode.put( "\u0958","κa"); // Urdu qaif
-        unicode.put("\u0959","Κa" ); //Urdu qhe
-        unicode.put("\u095A","γa" ); // Urdu gain
-        unicode.put("\u095B","ζa" ); //Urdu zal, ze, zoe
-        unicode.put("\u095E","φa" ); // Urdu f
-        unicode.put("\u095C","δa" ); // Hindi 'dh' as in padh
-        unicode.put( "\u095D","Δa"); // hindi dhh
-        unicode.put("\u0926\u093C","τa" ); // Urdu dwad
-        unicode.put("\u0924\u093C","θa"); // Urdu toe
-        unicode.put("\u0938\u093C","σa"); // Urdu swad, se
+        //NOT PART OF SLP-1
+        unicode.put("\u014F", "${SLPConstants.UPADHAMANIYA}");// Z equals to upadhamaniya
+        unicode.put( "\u0CF1","${SLPConstants.JIHNVAMULIYA}");// V equals to jihvamuliya....but what character have u settled for jihvamuliya
+        unicode.put( "\u0950","${SLPConstants.OM}"); // aum
+        unicode.put( "\u0958","${SLPConstants.K_WITH_NUKTA}a"); // Urdu qaif
+        unicode.put("\u0959","${SLPConstants.KH_WITH_NUKTA}a" ); //Urdu qhe
+        unicode.put("\u095A","${SLPConstants.G_WITH_NUKTA}a" ); // Urdu gain
+        unicode.put("\u095B","${SLPConstants.Z_WITH_NUKTA}a" ); //Urdu zal, ze, zoe
+        unicode.put("\u095E","${SLPConstants.F_WITH_NUKTA}a" ); // Urdu f
+        unicode.put("\u095C","${SLPConstants.D_HARD__WITH_BINDI}a" ); // Hindi 'dh' as in padh
+        unicode.put( "\u095D","${SLPConstants.DH_HARD_WITH_BINDI}a"); // hindi dhh
+        unicode.put("\u0926\u093C","${SLPConstants.D_SOFT_WITH_NUKTA}a" ); // Urdu dwad
+        unicode.put("\u0924\u093C","${SLPConstants.T_SOFT_WITH_NUKTA}a"); // Urdu toe
+        unicode.put("\u0938\u093C","${SLPConstants.S_SOFT_WITH_NUKTA}a"); // Urdu swad, se
 
         unicode.put("\u0966", "0");
         unicode.put("\u0967", "1");

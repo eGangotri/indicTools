@@ -21,7 +21,7 @@ import javax.swing.text.rtf.RTFEditorKit;
 
 import com.egangotri.io.FileIO;
 import com.egangotri.util.CommonActions;
-import com.egangotri.util.Constants;
+import com.egangotri.constants.Constants;
 import org.apache.commons.lang3.text.WordUtils;
 
 import com.egangotri.util.EncodingUtil;
@@ -59,7 +59,7 @@ public class TransliteratorJFrame extends JFrame implements ActionListener, KeyL
     boolean capitalizeIAST = false;
 
     public TransliteratorJFrame() {
-        super("Devanagari Transliterator");
+        super("eGangotri Indic Transliterator");
 
         PrintWriter pw = new PrintWriter(System.out, true);
         setSize(650, 650);

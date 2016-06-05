@@ -1,7 +1,5 @@
 package com.egangotri.transliteration
 
-import com.egangotri.util.Constants;
-
 import java.awt.Container;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -13,9 +11,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextPane;
-import javax.swing.text.rtf.RTFEditorKit;
-
-import com.egangotri.util.Log;
+import javax.swing.text.rtf.RTFEditorKit
 
 public class RTFDocsSwingDisplayer extends JFrame implements ActionListener {
     JButton b1, b2, b3;
