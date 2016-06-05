@@ -1,4 +1,6 @@
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
+
+import com.egangotri.constants.SLPConstants;
 
 import java.util.Hashtable;
 
@@ -27,17 +29,17 @@ public class SLPToIAST
         //unicode.put("Z", "\u014F");// Z equals to upadhamaniya
         //unicode.put("V", "\u0CF1");// V equals to jihvamuliya....but what character have u settled for jihvamuliya
        
-        unicode.put("Ω", "\u0950"); // aum 
-        unicode.put("κ", "q"); // Urdu qaif
-        unicode.put("Κ", "qh"); //Urdu qhe
-        unicode.put("γ", "g" ); // Urdu gain
-        unicode.put("ζ", "z"); //Urdu zal, ze, zoe
-        unicode.put("φ", "f"); // Urdu f
-        unicode.put("δ",  "ṛ" ); // Hindi 'dh' as in padh
-        unicode.put("Δ",  "ṝ" + "h"); // hindi dhh
-        unicode.put("τ", "d"); // Urdu dwad
-        unicode.put("θ", "t"); // Urdu toe
-        unicode.put("σ", "s"); // Urdu swad, se
+        unicode.put(SLPConstants.OM, "\u0950"); // aum
+        unicode.put(SLPConstants.K_WITH_NUKTA, "q"); // Urdu qaif
+        unicode.put(SLPConstants.KH_WITH_NUKTA, "qh"); //Urdu qhe
+        unicode.put(SLPConstants.G_WITH_NUKTA, "g" ); // Urdu gain
+        unicode.put(SLPConstants.Z_WITH_NUKTA, "z"); //Urdu zal, ze, zoe
+        unicode.put(SLPConstants.F_WITH_NUKTA, "f"); // Urdu f
+        unicode.put(SLPConstants.D_HARD__WITH_BINDI,  "ṛ" ); // Hindi 'dh' as in padh
+        unicode.put(SLPConstants.DH_HARD_WITH_BINDI,  "ṝ" + "h"); // hindi dhh
+        unicode.put(SLPConstants.D_SOFT_WITH_NUKTA, "d"); // Urdu dwad
+        unicode.put(SLPConstants.T_SOFT_WITH_NUKTA, "t"); // Urdu toe
+        unicode.put(SLPConstants.S_SOFT_WITH_NUKTA, "s"); // Urdu swad, se
         
         
         unicode.put("A","ā" /*"a" + bar_above*/); // a + bar above
@@ -101,7 +103,7 @@ public class SLPToIAST
     {
 
         String transformed = "";
-        String shabdArray[] = vakya.split(" "); // for example 'saH punaH
+        String[] shabdArray = vakya.split(" "); // for example 'saH punaH
                                                     // chalati' ->
         // array_of_shabdas[0] = saH, [1] = punaH etc
 

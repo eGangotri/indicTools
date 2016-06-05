@@ -2,8 +2,9 @@
  * Purpose: Converts SLP to Devanagari
  */
 
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
 
+import com.egangotri.constants.SLPConstants;
 import com.egangotri.util.VowelUtil;
 
 import java.util.*;
@@ -48,7 +49,7 @@ public class SLPToDevanagari
             unicode.put("o", "\u0913");
             unicode.put("O", "\u0914");
     
-            unicode.put("k", "\u0915");
+            unicode.put(SLPConstants.KA, "\u0915");
             unicode.put("K", "\u0916");
             unicode.put("g", "\u0917");
             unicode.put("G", "\u0918");
@@ -77,7 +78,7 @@ public class SLPToDevanagari
             unicode.put("r", "\u0930");
             unicode.put("l", "\u0932");
     
-            unicode.put("L", "\u0933"); // the Marathi and Vedic 'L' 'ळ'
+            unicode.put(SLPConstants.L_HARD_VEDIC, "\u0933"); // the Marathi and Vedic 'L' 'ळ'
            // unicode.put("|", "\u0933\u0939"); // the Marathi and Vedic 'L' 'ळ्ह'
 
             unicode.put("v", "\u0935");
