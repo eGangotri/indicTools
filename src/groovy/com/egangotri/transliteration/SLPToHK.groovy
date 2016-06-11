@@ -1,7 +1,9 @@
 package com.egangotri.transliteration;
 
-import com.egangotri.util.Log;
+import com.egangotri.util.Log
+import groovy.util.logging.Slf4j;
 
+@Slf4j
 public class SLPToHK
 {
 
@@ -9,7 +11,7 @@ public class SLPToHK
         {
         
         String transformed = s1;
-        Log.logInfo("SLPToItrans: " + s1  );
+        log.info("SLPToItrans: " + s1  );
 
         transformed = transformed.replaceAll("N","ň");  //tmp placeholder, reversd below
         transformed = transformed.replaceAll("Y","ŷ");  //tmp placeholder, reversd below
@@ -53,7 +55,7 @@ public class SLPToHK
         transformed = transformed.replaceAll("ň","G");
         transformed = transformed.replaceAll("ŷ","J");
         
-        Log.logInfo("SLPToItrans: transformed" + s1 + " = " + transformed );            
+        log.info("SLPToItrans: transformed" + s1 + " = " + transformed );
         return transformed; // return transformed;
         }
 

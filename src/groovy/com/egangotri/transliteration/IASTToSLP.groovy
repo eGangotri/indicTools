@@ -1,7 +1,8 @@
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
 
-import com.egangotri.util.Log;
+import groovy.util.logging.Slf4j;
 
+@Slf4j
 public class IASTToSLP {
 
     public IASTToSLP() {
@@ -9,7 +10,7 @@ public class IASTToSLP {
 
     public static String transform(String transformed) {
         transformed = transformed.toLowerCase();
-        Log.logInfo("IASTToSLP: " + transformed);
+        log.info("IASTToSLP: " + transformed);
         //ā
         // Vowels
         transformed = transformed.replaceAll("ā", "A");

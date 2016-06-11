@@ -1,7 +1,8 @@
 package com.egangotri.transliteration;
 
-import com.egangotri.util.Log;
-
+import com.egangotri.util.Log
+import groovy.util.logging.Slf4j;
+@Slf4j
 @Deprecated
 public class ElatinToUniformItrans
 {
@@ -9,7 +10,7 @@ public class ElatinToUniformItrans
     {
     String transformed= "";
     transformed = s1;
-    Log.logInfo("ElatinToUniformItrans");
+    log.info("ElatinToUniformItrans");
 
     // Vowels
     transformed = transformed.replaceAll( "â","a"); // seems

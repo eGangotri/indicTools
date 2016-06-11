@@ -45,7 +45,7 @@ public class SandhiOptionsPanel extends JPanel  implements ItemListener
                 {
                     SandhiJFrame.padanta = true;
                 }
-                Log.logInfo("Padanta has been Altered, padanta == " + SandhiJFrame.padanta);
+                Log.info("Padanta has been Altered, padanta == " + SandhiJFrame.padanta);
 
             }
 
@@ -61,7 +61,7 @@ public class SandhiOptionsPanel extends JPanel  implements ItemListener
                     SandhiJFrame.pragrhya = true;
                 }
 
-                Log.logInfo("Pragrhya Option has been Altered, pragrhya == " + SandhiJFrame.pragrhya);
+                Log.info("Pragrhya Option has been Altered, pragrhya == " + SandhiJFrame.pragrhya);
 
             }
         }

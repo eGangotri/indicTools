@@ -185,7 +185,7 @@ public class StandalonePratyahara extends JFrame implements ActionListener, KeyL
 public void keyTyped(KeyEvent e) {
 }
 public void keyPressed(KeyEvent e) {
-	//Log.logInfo("keyPressed");
+	//Log.info("keyPressed");
 	}
 public void keyReleased(KeyEvent e) {
 		String str1 = "";
@@ -208,7 +208,7 @@ public void keyReleased(KeyEvent e) {
 		}
 
 
-//Log.logInfo("keyReleased");
+//Log.info("keyReleased");
 }
 
 //*******************END OF FUNCTION**********************//
@@ -241,7 +241,7 @@ public void actionPerformed(ActionEvent e)
 
 	else if( (e.getActionCommand()).equals("marker") )
 		{
-			//Log.logInfo("The 'it' markers will be displayed.");
+			//Log.info("The 'it' markers will be displayed.");
 			if(marker_chk.isSelected())
 			{
 				tb1.setText("The 'it' markers will be displayed.");

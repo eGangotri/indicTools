@@ -136,7 +136,7 @@ public class DvnToSLP
             {
                 shabda.add(unicode.get(varna));
                 lastEntry = unicode.get(varna);
-                Log.logInfo("words now is " +  listToString(shabda));
+                log.info("words now is " +  listToString(shabda));
             }
             else if (matra.containsKey(varna))
             {
@@ -147,10 +147,10 @@ public class DvnToSLP
             
             else if(halant.equals(varna))
             {
-                //Log.logInfo("before adding halant: lastEntry " + lastEntry + " word " + listToString(shabda) + ", size: " + shabda.size());
+                //log.info("before adding halant: lastEntry " + lastEntry + " word " + listToString(shabda) + ", size: " + shabda.size());
                 shabda.set(shabda.size()-1, String.valueOf(lastEntry.charAt(0)));
                 lastEntry = halant; 
-                //Log.logInfo("after adding halant: lastEntry " + lastEntry + " word " + listToString(shabda) + "size: " + shabda.size());
+                //log.info("after adding halant: lastEntry " + lastEntry + " word " + listToString(shabda) + "size: " + shabda.size());
             }
             
             else

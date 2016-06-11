@@ -3,7 +3,7 @@ apply plugin: 'groovy'
 
 mainClassName = "com.egangotri.transliteratorAsSwing.TransliteratorJFrame"
 //applicationDefaultJvmArgs = ["-Dwebdriver.chrome.driver=${System.getProperty('user.home')}/chromedriver/chromedriver.exe"]
-version=1.0
+version=1.1
 repositories {
     mavenCentral()
     maven {
@@ -11,6 +11,9 @@ repositories {
     }
 }
 
+
+compileJava.options.encoding = 'UTF-8'
+compileGroovy.options.encoding = 'UTF-8'
 
 sourceSets {
     main {

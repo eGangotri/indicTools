@@ -6,7 +6,9 @@ import com.egangotri.util.ConsonantUtil;
 import com.egangotri.util.Log;
 import com.egangotri.util.VarnaUtil;
 import com.egangotri.util.VowelUtil;
+import groovy.util.logging.Slf4j;
 
+@Slf4j
 public class ConsonantSandhi
 {
 
@@ -37,7 +39,7 @@ public class ConsonantSandhi
     public String combineIntoSandhi(String anta, String adi)
     {
         String return_me = anta + adi;
-        Log.logInfo(" I am in Consonant Sandhi.make_sandhi:::");
+        Log.info(" I am in Consonant Sandhi.make_sandhi:::");
 
         String stripped_anta = VarnaUtil.stripAntyaVarna(anta);
         String anta_varna = VarnaUtil.getAntyaVarna(anta);
@@ -199,7 +201,7 @@ public class ConsonantSandhi
         else if (ConsonantUtil.is_jhalanta(anta) && ConsonantUtil.is_ashadi(adi) && padanta == true)
         {
 
-            Log.logInfo("****** Entering in jhalaam jasho.ante");
+            Log.info("****** Entering in jhalaam jasho.ante");
             return_me = jhalam_jash(anta, adi);
 
             cnotes.start_adding_notes();
@@ -212,7 +214,7 @@ public class ConsonantSandhi
 
             if (ConsonantUtil.is_varganta(anta) && (decoder).adi_varna_in_pratyahara("Yam", adi)) // scharfe
             return_me += ", " + yar_anunasik(anta, adi);
-            Log.logInfo("****** Leaving in jhalaam jasho.ante");
+            Log.info("****** Leaving in jhalaam jasho.ante");
 
         }
         // **************End of else if**********************//
@@ -255,7 +257,7 @@ public class ConsonantSandhi
             else
             // if (SandhiBean.padanta == true)
             {
-                Log.logInfo(" Sending to yayi_parasavarna");
+                Log.info(" Sending to yayi_parasavarna");
                 return_me = yayi_parasvarna(anta, adi) + " " + anusvarikaran(anta, adi, "yes");
 
                 /** *********************** */
@@ -487,7 +489,7 @@ public class ConsonantSandhi
                                                                                                                      * true
                                                                                                                      */)
         {
-            Log.logInfo(" Sending to anusvarikaran");
+            Log.info(" Sending to anusvarikaran");
             String step1 = anusvarikaran(anta, adi);
             String anta_modified1 = VarnaUtil.stripAntyaVarna(step1, adi.length());
 
@@ -595,7 +597,7 @@ public class ConsonantSandhi
             String step1 = anusvarikaran(anta, adi);
             String anta_modified1 = VarnaUtil.stripAntyaVarna(step1, adi.length());
 
-            Log.logInfo("In mo.anusvaaraH anta_modified is ==" + anta_modified1);
+            Log.info("In mo.anusvaaraH anta_modified is ==" + anta_modified1);
 
             if (anta_modified1.endsWith("M") && ConsonantUtil.is_yayadi(adi) && !adi.startsWith("r"))
             {
@@ -624,7 +626,7 @@ public class ConsonantSandhi
 
             else
             {
-                Log.logInfo(" Sending to anusvarikaran");
+                Log.info(" Sending to anusvarikaran");
                 return_me = anusvarikaran(anta, adi, "yes");
                 /** ************************ */
                 cnotes.start_adding_notes();
@@ -648,11 +650,11 @@ public class ConsonantSandhi
                                                                                                                         // SLP
         {
 
-            Log.logInfo(" Sending to jhalam_char: anta == " + anta + " adi == " + adi);
-            Log.logInfo("******jhalam_char performActions");
-            Log.logInfo("Consonant.is_jhalanta(anta) == " + ConsonantUtil.is_jhalanta(anta));
-            Log.logInfo("Consonant.is_kharadi(adi) == " + ConsonantUtil.is_kharadi(adi));
-            Log.logInfo("******jhalam_char performActions over");
+            Log.info(" Sending to jhalam_char: anta == " + anta + " adi == " + adi);
+            Log.info("******jhalam_char performActions");
+            Log.info("Consonant.is_jhalanta(anta) == " + ConsonantUtil.is_jhalanta(anta));
+            Log.info("Consonant.is_kharadi(adi) == " + ConsonantUtil.is_kharadi(adi));
+            Log.info("******jhalam_char performActions over");
 
             return_me = jhalam_char(anta, adi); // khari ca B74
 
@@ -712,7 +714,7 @@ public class ConsonantSandhi
             cnotes.setConditions(cond1);
             /** ********************************** */
 
-            Log.logInfo(" Sending to choh_kuh");
+            Log.info(" Sending to choh_kuh");
         }
         // shouldnot be here but inserting for lack of time
 
@@ -745,7 +747,7 @@ public class ConsonantSandhi
 
         /** ***********END OF ELSE IF ******************* */
 
-        Log.logInfo(" Leaving Consonant Sandhi with rturn_me == " + return_me);
+        Log.info(" Leaving Consonant Sandhi with rturn_me == " + return_me);
         return return_me;
     }
 
@@ -996,7 +998,7 @@ public class ConsonantSandhi
 
     public String yayi_parasvarna(String anta, String adi)
     {
-        Log.logInfo("Welcome to yayi_parasavarna");
+        Log.info("Welcome to yayi_parasavarna");
         String return_me = anta + adi;
         String stripped_anta = VarnaUtil.stripAntyaVarna(anta);
 
@@ -1026,14 +1028,14 @@ public class ConsonantSandhi
 
             }
         }
-        Log.logInfo("Exiting yayi_parasavarna: returning " + return_me);
+        Log.info("Exiting yayi_parasavarna: returning " + return_me);
         return return_me;
     }
 
 
     public String jhayo_ha(String anta, String adi)
     {
-        Log.logInfo(" Welcome to jhayo_ha: anta == " + anta + " adi == " + adi);
+        Log.info(" Welcome to jhayo_ha: anta == " + anta + " adi == " + adi);
 
         String stripped_adi = VarnaUtil.stripAdiVarna(adi);
         String return_me = anta + adi;
@@ -1053,7 +1055,7 @@ public class ConsonantSandhi
 
         else if (ConsonantUtil.is_pavarganta(anta)) return_me = anta + "B" + stripped_adi;
 
-        Log.logInfo(" Quitting jhayo_ha: return_me == " + return_me);
+        Log.info(" Quitting jhayo_ha: return_me == " + return_me);
         return return_me;
     }
 
@@ -1061,7 +1063,7 @@ public class ConsonantSandhi
     // stoh schunA schuH
     {
 
-        Log.logInfo("Welcome to dental_to_palatal");
+        Log.info("Welcome to dental_to_palatal");
         String anta_varna = VarnaUtil.getAntyaVarna(anta);
         String adi_varna = VarnaUtil.getAdiVarna(adi);
         String return_me = anta + adi;
@@ -1117,14 +1119,14 @@ public class ConsonantSandhi
         {
             return_me = anta + "S" + stripped2;
         }
-        Log.logInfo("Exiting dental_to_palatal: returning " + return_me);
+        Log.info("Exiting dental_to_palatal: returning " + return_me);
         return return_me;
     }
 
     public String dental_to_cerebral(String anta, String adi)
     {
 
-        Log.logInfo("Welcome to dental_to_cerebral");
+        Log.info("Welcome to dental_to_cerebral");
         String anta_varna = VarnaUtil.getAntyaVarna(anta);
         String adi_varna = VarnaUtil.getAdiVarna(adi);
         String return_me = anta + adi;
@@ -1181,13 +1183,13 @@ public class ConsonantSandhi
         {
             return_me = stripped1 + "z" + adi;
         }
-        Log.logInfo("Exiting dental_to_cerebral: returning " + return_me);
+        Log.info("Exiting dental_to_cerebral: returning " + return_me);
         return return_me;
     }
 
     public String jhalam_jash(String anta, String adi)
     {
-        Log.logInfo(" Welcome to jhalam_jash: anta == " + anta + " adi == " + adi);
+        Log.info(" Welcome to jhalam_jash: anta == " + anta + " adi == " + adi);
         String anta_varna = VarnaUtil.getAntyaVarna(anta);
         String stripped_anta = VarnaUtil.stripAntyaVarna(anta);
         String return_me = anta + adi;
@@ -1219,13 +1221,13 @@ public class ConsonantSandhi
             // 'sa'..taken care off
         }
 
-        Log.logInfo(" Quitting jhalam_jash: return_me == " + return_me);
+        Log.info(" Quitting jhalam_jash: return_me == " + return_me);
         return return_me;
     }
 
     public String yar_anunasik(String anta, String adi)
     {
-        Log.logInfo("Welcome to yar_anunasika");
+        Log.info("Welcome to yar_anunasika");
         String return_me = anta + adi;
         String strippedLastWord = VarnaUtil.stripAntyaVarna(anta);
 
@@ -1253,14 +1255,14 @@ public class ConsonantSandhi
         String cond1 = "Padanta Dependency.\n" + "padanta <yar>** + anunasika = savarNa-anunasika + anunasika.\n" + "Optional in Vedic but compulsory in Classical Sanskrit if the succeeding item is a nasal affix" + "\n**According to Bhaimi Vyakhya, <yar> implies only the 'sparshas'(k-m)";
         cnotes.setConditions(cond1);
 
-        Log.logInfo("Exiting yar_anunasika: returning " + return_me);
+        Log.info("Exiting yar_anunasika: returning " + return_me);
         return return_me;
     }
 
     public String jhalam_char(String anta, String adi)
     {
         // // jhal + khar = car
-        Log.logInfo("Welcome to jhalam_char");
+        Log.info("Welcome to jhalam_char");
         String returnMe = anta + adi;
         String stripped_anta = VarnaUtil.stripAntyaVarna(anta);
 
@@ -1289,7 +1291,7 @@ public class ConsonantSandhi
         else if (ConsonantUtil.is_pavarganta(anta) && !ConsonantUtil.is_vargiya5_anta(anta)) returnMe = stripped_anta + "p" + adi;
 
         // adeshas for S,z, and s are they themselves
-        Log.logInfo("Exiting jhalam_char: returning " + returnMe);
+        Log.info("Exiting jhalam_char: returning " + returnMe);
         return returnMe;
     }
 
@@ -1356,7 +1358,7 @@ public class ConsonantSandhi
     {
         String return_me = anta + adi;
         String stripped_adi = VarnaUtil.stripAdiVarna(adi);
-        Log.logInfo(" Came in chhakaar adeh condition");
+        Log.info(" Came in chhakaar adeh condition");
         String step1 = dental_to_palatal(anta, adi);
         String anta_modified1 = VarnaUtil.stripAntyaVarna(step1, adi.length());
         String step2 = jhalam_char(anta_modified1, adi); // khari ca

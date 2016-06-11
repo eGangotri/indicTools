@@ -76,11 +76,11 @@ public class Launcher2 extends JFrame implements ActionListener {
 //**************************************************************///		
 public static void copyFile(File src,File dest) throws IOException
  {
- Log.logInfo("entering copyFile() ") ;
+ Log.info("entering copyFile() ") ;
   
-  Log.logInfo(" src.getPath() ==" + src.getAbsolutePath()) ;
-  Log.logInfo(" src.getPath() ==" + src.getAbsolutePath()) ;
-  Log.logInfo(" dest.getPath() ==" + dest.getAbsolutePath()) ;
+  Log.info(" src.getPath() ==" + src.getAbsolutePath()) ;
+  Log.info(" src.getPath() ==" + src.getAbsolutePath()) ;
+  Log.info(" dest.getPath() ==" + dest.getAbsolutePath()) ;
   
   FileChannel in = new FileInputStream(src).getChannel();
   FileChannel out = new FileOutputStream(dest).getChannel();
@@ -91,7 +91,7 @@ public static void copyFile(File src,File dest) throws IOException
   }
   in.close();
   out.close();
- Log.logInfo("exiting copyFile() ") ;
+ Log.info("exiting copyFile() ") ;
  }		
 
 //*******************Begining******************************///			
@@ -101,12 +101,12 @@ try {
 f1.mkdirs();
 File dest_file = new File(f1.getAbsolutePath()+ File.separator + src_file.getName());
 copyFile(src_file,dest_file);
-Log.logInfo("Created " + f1.getName() );
+Log.info("Created " + f1.getName() );
 
 }
 catch( Exception ex )
   {
-    Log.logInfo("In File Creation Exception: " );
+    Log.info("In File Creation Exception: " );
   }
 
 }
@@ -128,7 +128,7 @@ public void actionPerformed(ActionEvent e)
 		{
 			if( chooser.getSelectedFile() != null )
 			{
-			Log.logInfo("You chose to open this file: " +
+			Log.info("You chose to open this file: " +
             chooser.getSelectedFile().getPath());
 			String path = chooser.getSelectedFile().getPath();
 			tf1.setText(path);
@@ -154,7 +154,7 @@ public void actionPerformed(ActionEvent e)
 		{
 		String dest_path = tf1.getText();
 		
-		Log.logInfo("dest_path = " + dest_path);
+		Log.info("dest_path = " + dest_path);
 		
 		File f = new File(dest_path);
 		
@@ -162,7 +162,7 @@ public void actionPerformed(ActionEvent e)
 		if( !f.exists() )
 			{
 				
-				Log.logInfo("File " + f.getPath() + " does not exist");
+				Log.info("File " + f.getPath() + " does not exist");
 				
 				String saval = "File " + f.getPath() + " does not exist." +
 								"\nWould you like to create instead?";
@@ -171,7 +171,7 @@ public void actionPerformed(ActionEvent e)
 				if(n == 0)
 				{
 				create_Dir(f);
-				Log.logInfo("after creating directory");
+				Log.info("after creating directory");
 			
 				this.setVisible(false);
 				new Launcher3();
@@ -191,12 +191,12 @@ public void actionPerformed(ActionEvent e)
 			{
 				create_Dir(f);
 				
-				Log.logInfo("after creating directory");
+				Log.info("after creating directory");
 				this.setVisible(false);
 				new Launcher3();
 			}	
 		
-		Log.logInfo(dest_path + " is a valid file name" );
+		Log.info(dest_path + " is a valid file name" );
 		}
 
 

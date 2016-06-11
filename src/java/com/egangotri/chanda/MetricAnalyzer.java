@@ -61,7 +61,7 @@ public class MetricAnalyzer
         
         for(String s: lengthList)
         {
-            Log.logInfo(s);
+            Log.info(s);
         }
         return str;
     }

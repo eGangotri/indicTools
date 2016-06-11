@@ -81,7 +81,7 @@ public class EncodingPanel extends JPanel implements ActionListener
         else{
             itransRB.setSelected(true);
         }
-        Log.logInfo("Encoding set to " + encoding);
+        Log.info("Encoding set to " + encoding);
     }
     
     @Override

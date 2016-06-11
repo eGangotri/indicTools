@@ -84,7 +84,7 @@ public class SivaSutraInfo extends JFrame implements ActionListener
 
         int dot = textPane.getCaretPosition();
         int len = textPane.getDocument().getLength();
-        Log.logInfo("dot position == " + dot + " len == " + len);
+        Log.info("dot position == " + dot + " len == " + len);
         // panel additons
         p1.setLayout(new BoxLayout(this.p1, BoxLayout.Y_AXIS));
         // p1.add(new JScrollPane(tb1));
@@ -153,7 +153,7 @@ public class SivaSutraInfo extends JFrame implements ActionListener
 
         catch (Exception e)
         {
-            Log.logInfo("File not found.");
+            Log.info("File not found.");
             e.printStackTrace();
         }
         return return_me;

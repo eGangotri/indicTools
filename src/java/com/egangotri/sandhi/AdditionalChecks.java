@@ -38,7 +38,7 @@ public String anaciCa(String shabda, Comments tip)
   int len = shabda.length();
   char []mem = new char[len+3]; // Assuming there no more than three instances of yar_dvitva!!!!
   int mem_index = 0;
-     Log.logInfo("anaci ca ******shabda == " + shabda);
+     Log.info("anaci ca ******shabda == " + shabda);
 
   //For anaci_ca to be meaning ful it must have atleast 3 chars
   if(len < 3 ) {return return_me ;}
@@ -46,7 +46,7 @@ public String anaciCa(String shabda, Comments tip)
         {
          if(even_more_sandhis == false) mem[mem_index++] = shabda.charAt(i);
           else {even_more_sandhis = false;}
-        Log.logInfo("mem_index== " + (mem_index-1) + " " + " mem[mem_index]== " + mem[mem_index-1] );
+        Log.info("mem_index== " + (mem_index-1) + " " + " mem[mem_index]== " + mem[mem_index-1] );
           if(VowelUtil.isHrasva(shabda.charAt(i)) && i < len - 2 ) // must be atleast the third last word
           {
             String char_after = (new Character(shabda.charAt(i+1))).toString();
@@ -75,7 +75,7 @@ public String anaciCa(String shabda, Comments tip)
             else  mem[mem_index++] = shabda.charAt(i+1) ; // optional dvitva
             
               
-            Log.logInfo(" ^^^^^^^^^^^^error_chk == " + any_new_sandhis);                
+            Log.info(" ^^^^^^^^^^^^error_chk == " + any_new_sandhis);
             spotted_change = true;
             tip.start_adding_notes();					
             tip.setSutraNum("8.4.47") ;
@@ -102,11 +102,11 @@ public String anaciCa(String shabda, Comments tip)
         String new_str = "";
         for(int i = 0; i < mem.length;i++)
         {
-        Log.logInfo("mem ==[" + i + "]== " + mem[i]);
+        Log.info("mem ==[" + i + "]== " + mem[i]);
          if(mem[i] == '\u0000') break;
           new_str += (new Character(mem[i])).toString();         
         }
-        Log.logInfo("new_str == " + new_str);
+        Log.info("new_str == " + new_str);
          shabda = new_str;        
          
         }
@@ -125,7 +125,7 @@ public String yanAfterMayDvitva(String shabda,Comments tip)
   int len = shabda.length();
   char []mem = new char[len+3]; // Assuming there no more than three instances of yan_dvitva!!!!
   int mem_index = 0;
-     Log.logInfo("yan_after_may_divtva******shabda == " + shabda);
+     Log.info("yan_after_may_divtva******shabda == " + shabda);
 
   //For anaci_ca to be meaning ful it must have atleast 3 chars
   if(len < 2 ) {return return_me ;}
@@ -133,7 +133,7 @@ public String yanAfterMayDvitva(String shabda,Comments tip)
         {
          mem[mem_index++] = shabda.charAt(i);
          
-         Log.logInfo("mem_index== " + (mem_index-1) + " " + " mem[mem_index]== " + mem[mem_index-1] );
+         Log.info("mem_index== " + (mem_index-1) + " " + " mem[mem_index]== " + mem[mem_index-1] );
          
          String char1 = (new Character(shabda.charAt(i))).toString();
          
@@ -169,11 +169,11 @@ public String yanAfterMayDvitva(String shabda,Comments tip)
         String new_str = "";
         for(int i = 0; i < mem.length;i++)
         {
-        Log.logInfo("mem ==[" + i + "]== " + mem[i]);
+        Log.info("mem ==[" + i + "]== " + mem[i]);
          if(mem[i] == '\u0000') break;
           new_str += (new Character(mem[i])).toString();         
         }
-        Log.logInfo("new_str == " + new_str);
+        Log.info("new_str == " + new_str);
          shabda = new_str;        
          
         }
@@ -190,7 +190,7 @@ public String savarnaJharoJhariLopa(String shabda,Comments tip)
   int len = shabda.length();
   char []mem = new char[len+5]; // Assuming there no more than three instances of yan_dvitva!!!!
   int mem_index = 0;
-     Log.logInfo("savarna_jharo_jhari_lopa******shabda == " + shabda);
+     Log.info("savarna_jharo_jhari_lopa******shabda == " + shabda);
 
   //For savarna_jharo_jhari_lopa to be meaning ful it must have atleast 2 chars
   if(len < 3 ) {return return_me ;}
@@ -198,7 +198,7 @@ public String savarnaJharoJhariLopa(String shabda,Comments tip)
         {
          if(skip == false )mem[mem_index++] = shabda.charAt(i);
          else { skip = false; }
-         Log.logInfo("mem_index== " + (mem_index-1) + " " + " mem[mem_index]== " + mem[mem_index-1] );
+         Log.info("mem_index== " + (mem_index-1) + " " + " mem[mem_index]== " + mem[mem_index-1] );
       
         if(i < len - 2  )
         {
@@ -244,11 +244,11 @@ public String savarnaJharoJhariLopa(String shabda,Comments tip)
         String new_str = "";
         for(int i = 0; i < mem.length;i++)
         {
-        Log.logInfo("mem ==[" + i + "]== " + mem[i]);
+        Log.info("mem ==[" + i + "]== " + mem[i]);
          if(mem[i] == '\u0000') break;
           new_str += (new Character(mem[i])).toString();         
         }
-        Log.logInfo("new_str == " + new_str);
+        Log.info("new_str == " + new_str);
          shabda = new_str;        
          
         }
@@ -259,7 +259,7 @@ public String savarnaJharoJhariLopa(String shabda,Comments tip)
 
   public String getModified_string(String shabda, Comments tip)
   {
-   Log.logInfo("ADDITIONAL CHECKS ******shabda == " + shabda);
+   Log.info("ADDITIONAL CHECKS ******shabda == " + shabda);
     int len = shabda.length();
     if(len < 2 ) ;
     else 

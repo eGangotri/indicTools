@@ -105,7 +105,7 @@ public class EncodingUtil {
 
     public static String convertDVNToIAST(String string) {
         String wordInSLP = convertDevanagariToSLP(string);
-        //Log.logInfo("" + wordInSLP);
+        //Log.info("" + wordInSLP);
         return convertSLPToIAST(wordInSLP);
     }
 
@@ -222,7 +222,7 @@ public class EncodingUtil {
                 utf8String = new String(stringBytesISO, "UTF-8");
             } catch (UnsupportedEncodingException e) {
                 // As we can't translate just send back the best guess.
-                Log.logInfo("UnsupportedEncodingException is: " + e.getMessage());
+                Log.info("UnsupportedEncodingException is: " + e.getMessage());
                 utf8String = isoString;
             }
         } else {

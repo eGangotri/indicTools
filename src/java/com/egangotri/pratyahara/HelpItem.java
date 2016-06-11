@@ -43,7 +43,7 @@ public String display_Vector()
 		check1++;
 	}	
 	
-	Log.logInfo(" itrans_display == " + itrans_display );
+	Log.info(" itrans_display == " + itrans_display );
 	return itrans_display;
 }
 

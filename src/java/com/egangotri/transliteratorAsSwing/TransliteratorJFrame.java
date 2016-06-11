@@ -310,7 +310,7 @@ public class TransliteratorJFrame extends JFrame implements ActionListener, KeyL
 
     public void actionPerformed(ActionEvent e) {
         String actionCommand =  e.getActionCommand();
-        Log.logInfo("actionCommand: " + actionCommand);
+        Log.info("actionCommand: " + actionCommand);
         if (actionCommand.equals("clear")) {
             clear();
             this.repaint();
@@ -322,15 +322,15 @@ public class TransliteratorJFrame extends JFrame implements ActionListener, KeyL
             copyToClipBoard("cb3");
         } else if (actionCommand.equals("comboBox1")) {
             inputEncoding = comboBox1.getSelectedItem().toString();
-            Log.logInfo("inputEncoding: " + inputEncoding);
+            Log.info("inputEncoding: " + inputEncoding);
             setText();
         } else if (actionCommand.equals("comboBox2")) {
             outputEncoding1 = comboBox2.getSelectedItem().toString();
-            Log.logInfo("outputEncoding1: " + outputEncoding1);
+            Log.info("outputEncoding1: " + outputEncoding1);
             setText();
         } else if (actionCommand.equals("comboBox3")) {
             outputEncoding2 = comboBox3.getSelectedItem().toString();
-            Log.logInfo("outputEncoding2: " + outputEncoding2);
+            Log.info("outputEncoding2: " + outputEncoding2);
             setText();
         } else if (actionCommand.equals("open")) {
             chooseFile(tb1);
@@ -381,7 +381,7 @@ public class TransliteratorJFrame extends JFrame implements ActionListener, KeyL
         int option = chooser.showOpenDialog(this);
         if (option == JFileChooser.APPROVE_OPTION) {
             if (chooser.getSelectedFile() != null) {
-                Log.logInfo("You chose to open this file: " + chooser.getSelectedFile().getPath());
+                Log.info("You chose to open this file: " + chooser.getSelectedFile().getPath());
                 String path = chooser.getSelectedFile().getPath();
                 FileIO.readFile(new File(path), jta);
             }

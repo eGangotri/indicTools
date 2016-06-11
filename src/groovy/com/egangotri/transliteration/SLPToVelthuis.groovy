@@ -1,13 +1,14 @@
 package com.egangotri.transliteration;
 
-import com.egangotri.util.Log;
-
+import com.egangotri.util.Log
+import groovy.util.logging.Slf4j;
+@Slf4j
 public class SLPToVelthuis {
     public static String transform(String s1)
     {
 
         String transformed = s1;
-        Log.logInfo("SLPToItrans: " + s1  );
+        log.info("SLPToItrans: " + s1  );
 
         transformed = transformed.replaceAll("A","aa");
         transformed = transformed.replaceAll("I","ii");

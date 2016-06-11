@@ -212,7 +212,7 @@ public class SivaSutra
             returnVal = "Error: " + EncodingUtil.convertSLPToDevanagari(strInSLP) + " is not a Vaid Pratyahara";
         }
         
-       // Log.logInfo("return_me == " + returnVal);
+       // Log.info("return_me == " + returnVal);
         return returnVal;
 
     }

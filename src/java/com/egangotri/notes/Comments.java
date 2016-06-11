@@ -28,7 +28,7 @@ public class Comments
 //*******************BEGINNING OF Default Constructor********************//	
 	public Comments()
 	{
-		Log.logInfo("i came in constructor of tippani ");
+		Log.info("i came in constructor of tippani ");
 		//encoding = new EncodingUtil();		
 		notesNotes = default_notes;
 		options = 1;
@@ -40,8 +40,8 @@ public class Comments
 		sutraProc = new String[DEFAULT_ARRAY_SIZE] ;	
 		source = new String[DEFAULT_ARRAY_SIZE] ;	
 		conditions = new String[DEFAULT_ARRAY_SIZE] ;
-		Log.logInfo("isEmpty() ?" + isEmpty());
-		Log.logInfo("i came in constructor of tippani ");		
+		Log.info("isEmpty() ?" + isEmpty());
+		Log.info("i came in constructor of tippani ");
 	}
 //*******************END OF Default Constructor**********************//
 
@@ -76,7 +76,7 @@ public class Comments
 //*******************BEGINNING OF FUNCTION********************//	
 	public boolean isEmpty()
 	{ 
-		Log.logInfo("i am in isEmpty()");
+		Log.info("i am in isEmpty()");
 		if(optionsPointer == -1)
 		return true;	
 		return false;
@@ -86,7 +86,7 @@ public class Comments
 //*******************BEGINNING OF FUNCTION********************//	
 	public boolean rikta_asti()
 	{
-		Log.logInfo("i am in isEmpty()"); flush();
+		Log.info("i am in isEmpty()"); flush();
 		if(optionsPointer == -1)
 		return true;	
 		return false;
@@ -115,8 +115,8 @@ public class Comments
 		notesNotes += get_conditions(i) + "\n\n"; 				
 		}
 		
-		Log.logInfo("*_*_*_*_*_*_*_*_options_pointer == " + optionsPointer );
-		Log.logInfo( "\n *_*_*_*_*_*_*_*_notes_notes == "  + notesNotes);
+		Log.info("*_*_*_*_*_*_*_*_options_pointer == " + optionsPointer );
+		Log.info( "\n *_*_*_*_*_*_*_*_notes_notes == "  + notesNotes);
 
 	}
 
@@ -153,8 +153,8 @@ public void copyNotes(Comments n)
 
 
 public void start_adding_notes() {
-	 Log.logInfo( "*_*_*_*_*_*_*_*_ started Adding Notes... "); 
-		Log.logInfo("*_*_*_*_*_*_*_*_*_*_options_pointer == " + optionsPointer );		
+	 Log.info( "*_*_*_*_*_*_*_*_ started Adding Notes... ");
+		Log.info("*_*_*_*_*_*_*_*_*_*_options_pointer == " + optionsPointer );
 	 optionsPointer++;	 
 	 }
 	 
@@ -176,7 +176,7 @@ public void setSutraProc(String s1) {sutraProc[optionsPointer] = s1; }
 
 public void setSource(String s1) {
 	source[optionsPointer] = s1;	 
-	Log.logInfo("*_*_*_*_*_*_*_*_*_*_options_pointer == " + optionsPointer );
+	Log.info("*_*_*_*_*_*_*_*_*_*_options_pointer == " + optionsPointer );
 	}
 
 public void setVartikaPath(String s1) {

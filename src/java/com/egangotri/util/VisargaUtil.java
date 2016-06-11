@@ -5,7 +5,7 @@ public class VisargaUtil {
 
 public VisargaUtil()
 {
-	Log.logInfo("In Visarga");
+	Log.info("In Visarga");
 }
 
 
@@ -26,11 +26,11 @@ public static boolean isVisarga(String str)
 public static boolean isVisargadi(String str)
 	{
 		
-		Log.logInfo(" Checking if  is_visargadi:::");
+		Log.info(" Checking if  is_visargadi:::");
 		String s1 = VarnaUtil.getAdiVarna(str);
 		if(isVisarga(s1) )
 			{
-				Log.logInfo("I am visargadi");
+				Log.info("I am visargadi");
 				return true;
 			}
 		
@@ -42,7 +42,7 @@ public static boolean isVisargadi(String str)
 //*******************BEGINNING OF FUNCTION********************//
 public static boolean isVisarganta(String str)
 	{
-		Log.logInfo(" Checking if  is_visarganta:::");
+		Log.info(" Checking if  is_visarganta:::");
 		String s1 = VarnaUtil.getAntyaVarna(str);
 		if(isVisarga(s1) )
 			return true;		

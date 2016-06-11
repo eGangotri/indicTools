@@ -104,7 +104,7 @@ public class ItransToSLP
 
 
 
-        // Log.logInfo("I2S after : " + transformed);
+        // log.info("I2S after : " + transformed);
         // return transformed;
         return transformed;
     }

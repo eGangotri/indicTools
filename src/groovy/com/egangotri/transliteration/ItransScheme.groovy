@@ -105,7 +105,7 @@ public class ItransScheme
             check1++;
         }
 
-        // Log.logInfo(" transliteration_scheme_display == " +
+        // log.info(" transliteration_scheme_display == " +
         // transliteration_scheme_display );
         return transliterationSchemeDisplay;
     }

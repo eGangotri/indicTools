@@ -20,7 +20,7 @@ private PratyaharaDecoder pratyahara1;
         this.padanta = padanta;
         this.pragrhya = pragrhya;
         
-		Log.logInfo("VisargaDisplay()");
+		Log.info("VisargaDisplay()");
 		pratyahara1 = new PratyaharaDecoder();
 		
 		notes1 = new Comments();
@@ -147,7 +147,7 @@ private PratyaharaDecoder pratyahara1;
 				   (adi.length() > 1) &&
 				 (ConsonantUtil.is_shar((new Character(adi.charAt(1))).toString() ) ) )// scharfe
 		{
-			Log.logInfo("adi == " + adi);
+			Log.info("adi == " + adi);
 			return_me = anta + " " + adi;
 			
 			//******OPT1******//
@@ -274,7 +274,7 @@ private PratyaharaDecoder pratyahara1;
 				   anta.endsWith("as") || anta.endsWith("As") || anta.endsWith("a3s")   )  )
 				
 		{
-			Log.logInfo("******bho-bhago Condition");
+			Log.info("******bho-bhago Condition");
 			
 			//B108
 			if(VowelUtil.isAjadi(adi) )
@@ -463,7 +463,7 @@ private PratyaharaDecoder pratyahara1;
 	
 		
 		
-   Log.logInfo("quitting visarga::make_sandhi:: return_me ==  "+ return_me);
+   Log.info("quitting visarga::make_sandhi:: return_me ==  "+ return_me);
 		return return_me;
 	}
 
@@ -491,7 +491,7 @@ public String dirghaTo_aN(String anta, String adi)
 	else if(stripped.endsWith("u") || stripped.endsWith("u3") )
 	return_me = stripped2 + "U" + " "  + adi;
 	
-	Log.logInfo("quitting dirgha_to_aN   return_me ==  "+ return_me);
+	Log.info("quitting dirgha_to_aN   return_me ==  "+ return_me);
 	
 	return return_me;
 }
@@ -502,8 +502,8 @@ public String dirghaTo_aN(String anta, String adi)
 //*******************BEGINNING OF FUNCTION********************//	
 public String u_adesh(String anta, String adi)
 {
-	Log.logInfo("********Came in u_adesh");
-	Log.logInfo(" in u_adesh" );
+	Log.info("********Came in u_adesh");
+	Log.info(" in u_adesh" );
 	String return_me = anta + " " + adi;
 	String strip_anta = anta.substring(0,anta.length()-1);
 	
@@ -511,7 +511,7 @@ public String u_adesh(String anta, String adi)
 	VowelSandhi vs = new VowelSandhi(strip_anta,"u", pragrhya);
 	String step1 = vs.guna_sandhi(strip_anta,"u");
 	String step2;
-		Log.logInfo("step1 == " + step1);
+		Log.info("step1 == " + step1);
 	
 	if(ConsonantUtil.is_haladi(adi))
 	step2 = step1 + " " + adi;//if adi is a consonant then no need to go furthur
@@ -524,7 +524,7 @@ public String u_adesh(String anta, String adi)
 	
 	
 	return_me =  step2;
-    Log.logInfo("***********quitting u_adesh return_me ==  "+ return_me);
+    Log.info("***********quitting u_adesh return_me ==  "+ return_me);
 	return return_me;
 	
 }
@@ -534,7 +534,7 @@ public String u_adesh(String anta, String adi)
 //*******************BEGINNING OF FUNCTION********************//	
 public String visarjaniya_saH(String anta, String adi)
 {
-	Log.logInfo(" in visarjaniya_saH" );
+	Log.info(" in visarjaniya_saH" );
 	String return_me = anta + " " + adi;
 	String strip_anta = anta.substring(0,anta.length()-1);
 	String sakar_adesh = strip_anta + "s";
@@ -544,7 +544,7 @@ public String visarjaniya_saH(String anta, String adi)
 	//notes1.copyNotes(con_tip);
 	
 	
-   Log.logInfo("quitting visarjaniya_saH return_me ==  "+ return_me);
+   Log.info("quitting visarjaniya_saH return_me ==  "+ return_me);
 	return return_me;
 	
 }
@@ -572,13 +572,13 @@ public void check_padanta(boolean b)
 //*******************BEGINNING OF FUNCTION********************//	
 	public String jihva_etc(String anta, String adi)
 {
-	Log.logInfo(" in jihva_etc" );
+	Log.info(" in jihva_etc" );
 	String return_me = anta + " " + adi;
 	String strip_anta = anta.substring(0,anta.length()-1);
 	return_me =  strip_anta + "8" + adi;
 	
 	
-   Log.logInfo("quitting jihva_etc return_me ==  "+ return_me);
+   Log.info("quitting jihva_etc return_me ==  "+ return_me);
 	return return_me;
 	
 }

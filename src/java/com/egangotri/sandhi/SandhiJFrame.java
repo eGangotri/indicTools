@@ -213,11 +213,11 @@ public class SandhiJFrame extends JFrame implements ActionListener, KeyListener
     // The three events
     public void keyTyped(KeyEvent e)
     {
-    }// Log.logInfo("keyTyped");
+    }// Log.info("keyTyped");
 
     public void keyPressed(KeyEvent e)
     {
-    }// Log.logInfo("keyPressed");
+    }// Log.info("keyPressed");
 
     public void keyReleased(KeyEvent e)
     {
@@ -253,22 +253,22 @@ public class SandhiJFrame extends JFrame implements ActionListener, KeyListener
             // and for some reason it is not disabled, then time to disable it
             if (vectorTracker <= 0) previous.setEnabled(false);
 
-            Log.logInfo("previous -> :  vector_tracker " + vectorTracker);
+            Log.info("previous -> :  vector_tracker " + vectorTracker);
             next.setEnabled(true);
             setText(beanVector.elementAt(--vectorTracker));
             if (vectorTracker <= 0) previous.setEnabled(false);
 
-            Log.logInfo("previous -> :  vector_tracker" + vectorTracker);
+            Log.info("previous -> :  vector_tracker" + vectorTracker);
         }
 
         else if ((e.getActionCommand()).equals("next"))
         {
-            Log.logInfo("next -> :  vector_tracker" + vectorTracker);
+            Log.info("next -> :  vector_tracker" + vectorTracker);
             previous.setEnabled(true);
             setText(beanVector.elementAt(++vectorTracker));
             if (vectorTracker >= beanVector.size() - 1) next.setEnabled(false);
 
-            Log.logInfo("next -> :  vector_tracker" + vectorTracker);
+            Log.info("next -> :  vector_tracker" + vectorTracker);
         }
 
         else{

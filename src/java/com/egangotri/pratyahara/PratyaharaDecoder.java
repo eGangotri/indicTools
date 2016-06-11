@@ -39,7 +39,7 @@ public class PratyaharaDecoder
         // It will not make a Difference
         
         
-        // Log.logInfo( "*********the pratyahara for short form " +
+        // Log.info( "*********the pratyahara for short form " +
         // short_form + " is == \n" + expanded_form + "*********\n and varna ==
         // " + varna + "*********\n" );
 
@@ -52,7 +52,7 @@ public class PratyaharaDecoder
 
         else if (expanded_form.contains(varna) && !(varna.equals(",")) && !(varna.equals(" ")))
         {
-            // Log.logInfo( "I came in main condition for
+            // Log.info( "I came in main condition for
             // contains....retrning true");
 
             return true;

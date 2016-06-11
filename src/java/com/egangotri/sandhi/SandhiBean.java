@@ -56,7 +56,7 @@ public class SandhiBean
         SandhiMaker sandhiMaker = new SandhiMaker(tf1InSLP, tf2InSLP, padanta, pragrhya);
 
         String sandhiMergedForm = sandhiMaker.getSandhiCombinedForm(); // Merge the Two Words
-        Log.logInfo("sandhiMerged Form " + sandhiMergedForm);
+        Log.info("sandhiMerged Form " + sandhiMergedForm);
 
         romanInput3 = EncodingUtil.convertSLPToEncoding(sandhiMergedForm, encoding);
         dvnInput3 = EncodingUtil.convertSLPToDevanagari(sandhiMergedForm);

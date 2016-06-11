@@ -37,7 +37,7 @@ public class TransliterationSchemeDisplay extends JFrame implements ActionListen
 		tb1.setText(text);
 		tb1.setCaretPosition(0);
 		tb1.setEditable(false);
-		Log.logInfo("display contents == " + text);
+		Log.info("display contents == " + text);
 		
 		
 		Container contentPane = getContentPane();

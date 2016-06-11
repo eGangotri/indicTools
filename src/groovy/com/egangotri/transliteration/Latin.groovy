@@ -13,7 +13,7 @@ private Hashtable<String,String> unicode;
 
 public Latin()
 	{
-	Log.logInfo("**** Entered Latin:::");
+	log.info("**** Entered Latin:::");
 	transformed = "";
 	unicode = new Hashtable<String,String>();
 	
@@ -21,7 +21,7 @@ public Latin()
 	
 	//matra = new Hashtable<String,String>();
 	//my_hashtable();
-	Log.logInfo("**** Leaving Latin:::");
+	log.info("**** Leaving Latin:::");
 	}
 
 

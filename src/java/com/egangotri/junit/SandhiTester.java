@@ -24,8 +24,8 @@ public class SandhiTester
         long totalTime = time2 - time1;
         long mem1 = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
 
-        Log.logInfo("Total Time: [" + time2 + " - " + time1 + "]" + totalTime);
-        Log.logInfo("Total Mem Usage: [" + mem1 + " - " + mem0 + "]" + (mem1 - mem0));
+        Log.info("Total Time: [" + time2 + " - " + time1 + "]" + totalTime);
+        Log.info("Total Mem Usage: [" + mem1 + " - " + mem0 + "]" + (mem1 - mem0));
 
         // System.gc();
         long mem3 = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
@@ -34,8 +34,8 @@ public class SandhiTester
         long time4 = System.currentTimeMillis();
         long totalTime2 = time4 - time3;
         long mem4 = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
-        Log.logInfo("Total Time: [" + time4 + " - " + time3 + "]" + totalTime2);
-        Log.logInfo("Total Mem Usage: [" + mem4 + " - " + mem3 + "]" + (mem4 - mem3));
+        Log.info("Total Time: [" + time4 + " - " + time3 + "]" + totalTime2);
+        Log.info("Total Mem Usage: [" + mem4 + " - " + mem3 + "]" + (mem4 - mem3));
         
         
 
@@ -60,9 +60,9 @@ public class SandhiTester
         String s1 = "yogaścittavṛttinirodhaḥ rAma rIma rUma rAima rauma. sa~njanayan sa~Nkalpa raNam Ta Tha Da Dha yaralava";
         String s2 = "rāma rīma rūma rāima rauma. saṇjanayan saṅkalpa raṇam ṭa ṭha ḍa ḍha yaralava";
         String inSLP = EncodingUtil.convertIASTToSLP(s2);
-        Log.logInfo("\nIAST To SLP->\n");
-        Log.logInfo("Original: " + s1 + "\n");
-        Log.logInfo(inSLP  + "\n");
+        Log.info("\nIAST To SLP->\n");
+        Log.info("Original: " + s1 + "\n");
+        Log.info(inSLP  + "\n");
     }
 
     /**

@@ -40,7 +40,7 @@ public class AkrutiToeLatin extends JFrame implements ActionListener, KeyListene
 		{
 		super("Welcome to My Word Processor");
 	    setSize( 650,450);
-	    Log.logInfo("You are in akruti_to_e_latin.java");
+	    Log.info("You are in akruti_to_e_latin.java");
 	    encod = new EncodingUtil();
 		//menus
 		menubar = new JMenuBar();
@@ -159,21 +159,21 @@ public void keyTyped(KeyEvent e) {
 	String result = EncodingUtil.convertSLPToIAST(input);
 	tb3.append(result);
 	
-Log.logInfo("input: " + "\"" + input + "\"");
+Log.info("input: " + "\"" + input + "\"");
 	}
 public void keyPressed(KeyEvent e) {}
 public void keyReleased(KeyEvent e) {
 		//(tf1.getText().toString()).trim();
-//	Log.logInfo("i came in e.getComponent() == this.tb1");	   
+//	Log.info("i came in e.getComponent() == this.tb1");
 	if(e.getComponent() == this.tb1 ) 
 		{	
 		
 		String str1 =  (tb1.getText().toString());	
 		String result = EncodingUtil.convertRawItransToDevanagari(str1);
 		tb2.setText(result);
-//	Log.logInfo("i came in e.getComponent() == this.tb1");
-//	Log.logInfo("Key Location is : " + e.getKeyLocation()	);
-//	Log.logInfo("Key Code is : " + e.getKeyCode());
+//	Log.info("i came in e.getComponent() == this.tb1");
+//	Log.info("Key Location is : " + e.getKeyLocation()	);
+//	Log.info("Key Code is : " + e.getKeyCode());
 	String keytext = KeyEvent.getKeyText(e.getKeyCode() );
 	
 	if(keytext == "Backspace")
@@ -181,7 +181,7 @@ public void keyReleased(KeyEvent e) {
 	if(keytext == "Delete")
 	;
 	
-	Log.logInfo("Key Text is : " + keytext );
+	Log.info("Key Text is : " + keytext );
 //	String gkt = e.getKeyText(e.getKeyCode() );
 	
 //	String result = encod.elatin_view(gkt);
@@ -191,23 +191,23 @@ public void keyReleased(KeyEvent e) {
 		//tb2.setText(encod.convertRawItransToDevanagari(str1));
 	//	tb3.setText(encod.get_raw_to_latin_view(str1));
 		
-//	if (e.getKeyCode() == e.VK_ENTER )	Log.logInfo("Pressed Enter");
-//	if (e.getKeyCode() == e.VK_A )	Log.logInfo("A");
-//	if (e.getKeyCode() == e.VK_I )	Log.logInfo("Pressed I");
-//	if (e.getKeyCode() == e.VK_L )	Log.logInfo("Pressed L");
-//	if (e.getKeyCode() == e.VK_M )	Log.logInfo("Pressed M");
+//	if (e.getKeyCode() == e.VK_ENTER )	Log.info("Pressed Enter");
+//	if (e.getKeyCode() == e.VK_A )	Log.info("A");
+//	if (e.getKeyCode() == e.VK_I )	Log.info("Pressed I");
+//	if (e.getKeyCode() == e.VK_L )	Log.info("Pressed L");
+//	if (e.getKeyCode() == e.VK_M )	Log.info("Pressed M");
 		}
 		
 	else if(e.getComponent() == this.tb2 ) 
 	{
-		/*Log.logInfo("i came in e.getComponent() == this.tb2");
+		/*Log.info("i came in e.getComponent() == this.tb2");
 		str1 = (tb2.getText().toString()).trim();
 		tb2.setText(encod.convertRawItransToDevanagari(str1));
 		//tf1.setText(encod.get_dvn_to_uniform_itrans(tf4.getText()));
 		tb1.setText(input); */
 	}
 
-//Log.logInfo("keyReleased");
+//Log.info("keyReleased");
 }
 
 //*******************END OF FUNCTION**********************//
@@ -220,7 +220,7 @@ public void actionPerformed(ActionEvent e)
 	if( (e.getActionCommand()).equals("Enter") ) 
 		{
 			//OutputStreamWriter out = new OutputStreamWriter(new ByteArrayOutputStream());
-			//Log.logInfo(out.getEncoding());
+			//Log.info(out.getEncoding());
 
 			setText(); // method setText();
 		} 
@@ -248,7 +248,7 @@ public void actionPerformed(ActionEvent e)
 				{
 					if( chooser.getSelectedFile() != null )
 					{
-					Log.logInfo("You chose to open this file: " +
+					Log.info("You chose to open this file: " +
 		            chooser.getSelectedFile().getPath());
 					
 					}
@@ -272,7 +272,7 @@ public void actionPerformed(ActionEvent e)
 				{
 					if( chooser.getSelectedFile() != null )
 					{
-					Log.logInfo("You chose to save this file as " +
+					Log.info("You chose to save this file as " +
 		            chooser.getSelectedFile().getPath());
 					}
 				}

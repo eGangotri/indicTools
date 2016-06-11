@@ -1,12 +1,14 @@
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
 
+import groovy.util.logging.Slf4j;
+@Slf4j
 public class SLPToItrans
 {
 
 public static String transform(String transformed)
 	{
 	
-//	Log.logInfo("SLPToItrans: " + transformed  );
+//	log.info("SLPToItrans: " + transformed  );
 
 
 	transformed = transformed.replaceAll("f", "6"); // if I make f == "RRi" 
@@ -64,7 +66,7 @@ public static String transform(String transformed)
 	transformed = transformed.replaceAll("6", "RRi");
 	transformed = transformed.replaceAll("7", "RRI");
 	
-	//Log.logInfo("SLPToItrans: transformed" +  transformed );			
+	//log.info("SLPToItrans: transformed" +  transformed );
 	return transformed; // return transformed;
 	}
 

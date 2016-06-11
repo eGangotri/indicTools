@@ -12,7 +12,7 @@ public class SLPToIAST
 
     public SLPToIAST()
     {
-        // Log.logInfo("**** EnteredSLPToeLatin");
+        // log.info("**** EnteredSLPToeLatin");
         transformed = "";
         unicode = new Hashtable<String, String>();
         myHashTable();
@@ -126,7 +126,7 @@ public class SLPToIAST
 
         }
         shabdArray = null;
-        // Log.logInfo(" altered from " + s1 + " to == " + transformed );
+        // log.info(" altered from " + s1 + " to == " + transformed );
         return transformed; // return transformed;
     }
 

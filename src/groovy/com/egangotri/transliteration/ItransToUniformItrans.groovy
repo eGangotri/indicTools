@@ -1,5 +1,8 @@
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
 
+import groovy.util.logging.Slf4j;
+
+@Slf4j
 public class ItransToUniformItrans
 {
 
@@ -15,7 +18,7 @@ public class ItransToUniformItrans
      */
     public static String transform(String transformed)
     {
-        //Log.logInfo("I2UI before " + transformed);
+        //log.info("I2UI before " + transformed);
         transformed = transformed.replaceAll("x", "kSh");
         transformed = transformed.replaceAll("GY", "j~n");
         transformed = transformed.replaceAll("dny", "j~n");
@@ -46,7 +49,7 @@ public class ItransToUniformItrans
         transformed = transformed.replaceAll("\\.m", "M");
         // difficulty handling the dot, special regex meaning ..... 3MAR05 taken
         // care of using \\
-        //Log.logInfo("I2UI after = " + transformed );
+        //log.info("I2UI after = " + transformed );
         return transformed;
     }
 }

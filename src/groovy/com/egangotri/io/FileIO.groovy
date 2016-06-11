@@ -2,16 +2,15 @@ package com.egangotri.io
 
 import com.egangotri.sandhi.DisplayMessage;
 import com.egangotri.transliteratorAsSwing.TransliteratorJFrame;
-import com.egangotri.util.Log;
+import com.egangotri.util.Log
+import groovy.util.logging.Slf4j;
 
 import javax.swing.*
 import javax.swing.filechooser.FileNameExtensionFilter;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 
-/**
- * Created by user on 5/22/2016.
- */
+@Slf4j
 public class FileIO {
     public static boolean writeFile(File file, JTextArea jta) {
 //        FileOutputStream fos = null;
@@ -28,7 +27,7 @@ public class FileIO {
 //            oswr.flush();
             String txt = jta.getText();
 //            for (int i = 0; i < txt.length(); i++) {
-//                // Log.logInfo(txt.charAt(i));
+//                // log.info(txt.charAt(i));
 //                oswr.write(txt.charAt(i));
 //                oswr.flush();
 //                bw.write(txt.charAt(i));
@@ -38,13 +37,13 @@ public class FileIO {
             file.write(txt)
             return true;
         } catch (FileNotFoundException fnf) {
-            Log.logInfo("FileNotFoundException");
+            log.info("FileNotFoundException");
             String err_msg = "File name you entered \"" + file.getPath() + "\" not found.\nPls try again";
             JOptionPane.showMessageDialog(jta, err_msg, "File Not Found Error", JOptionPane.ERROR_MESSAGE);
             // fnf.printStackTrace();
             return false;
         } catch (IOException ioe) {
-            Log.logInfo("IOException");
+            log.info("IOException");
             String err_msg = "File name you entered \"" + file.getPath() + "\" cannot be found.\nPls try again";
             JOptionPane.showMessageDialog(jta, err_msg, "Input/Output Error", JOptionPane.ERROR_MESSAGE);
             // ioe.printStackTrace();
@@ -64,21 +63,21 @@ public class FileIO {
         // Ask User to choose File
         int option = chooser.showSaveDialog(tjf);
 
-        Log.logInfo("JFileChooser.APPROVE_OPTION  = " + JFileChooser.APPROVE_OPTION);
+        log.info("JFileChooser.APPROVE_OPTION  = " + JFileChooser.APPROVE_OPTION);
 
         // If User chooses a to open a File
         if (option == JFileChooser.APPROVE_OPTION) {
             // If the User chooses a File
             if (chooser.getSelectedFile() != null) {
-                Log.logInfo("You chose to save this file as " + chooser.getSelectedFile().getPath());
+                log.info("You chose to save this file as " + chooser.getSelectedFile().getPath());
 
                 // Complete Name of File Chosen
                 String path = chooser.getSelectedFile().getAbsolutePath();
-                Log.logInfo("File name chosen for saving is " + path);
+                log.info("File name chosen for saving is " + path);
 
                 // Short Name of File Chosen
                 String shortpath = chooser.getSelectedFile().getName();
-                Log.logInfo("Short File name chosen for saving is " + shortpath);
+                log.info("Short File name chosen for saving is " + shortpath);
 
                 // If File doesnt end with .rtf then automatically provide it
                 if (!path.endsWith(".txt")) path += ".txt";
@@ -95,7 +94,7 @@ public class FileIO {
                     // Catch handles the situation when a filename entered is
                     // errorneous
                     catch (IOException ioe) {
-                        Log.logInfo("IOException");
+                        log.info("IOException");
                         String err_msg = "The filename, directory name, or volume label syntax of file name specified \n\"" + file.getName() + "\" \n" + "in" + "\n" + "\"" + file.getParent() + "\"\nis incorrect.\nPls try again";
                         JOptionPane.showMessageDialog(jta, err_msg, "Input/Output Error", JOptionPane.ERROR_MESSAGE);
                     } // end of catch
@@ -129,18 +128,18 @@ public class FileIO {
             return true;
         }
         catch (UnsupportedEncodingException e) {
-            Log.logInfo(e.getMessage());
+            log.info(e.getMessage());
             String err_msg = "UnsupportedEncodingException while reading \n" + "\"" + file.getName() + "\"" + "\n" + "in" + "\n" + "\"" + file.getParent() + "\"" + "\nPls try again";
             JOptionPane.showMessageDialog(jta, err_msg, "File Not Found Error", JOptionPane.ERROR_MESSAGE);
             return false;
         }
         catch (FileNotFoundException fnf) {
-            Log.logInfo("FileNotFoundException");
+            log.info("FileNotFoundException");
             String err_msg = "Filename you entered \n" + "\"" + file.getName() + "\"" + "\n" + "in" + "\n" + "\"" + file.getParent() + "\"" + "\nwas not found.\nPls try again";
             JOptionPane.showMessageDialog(jta, err_msg, "File Not Found Error", JOptionPane.ERROR_MESSAGE);
             return false;
         } catch (IOException ioe) {
-            Log.logInfo("IOException");
+            log.info("IOException");
             String err_msg = "Input/Output Error when reading from file\n" + "\"" + file.getName() + "\"" + "\n" + "in" + "\n" + "\"" + file.getParent() + "\"" + "\nPls try again";
             JOptionPane.showMessageDialog(jta, err_msg, "Input/Output Error", JOptionPane.ERROR_MESSAGE);
             return false;

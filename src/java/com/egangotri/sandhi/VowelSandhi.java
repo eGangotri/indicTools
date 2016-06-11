@@ -5,7 +5,9 @@ import com.egangotri.util.EncodingUtil;
 import com.egangotri.util.Log;
 import com.egangotri.util.VarnaUtil;
 import com.egangotri.util.VowelUtil;
+import groovy.util.logging.Slf4j;
 
+@Slf4j
 public class VowelSandhi
 {
     private String   combinedSandhiForm;
@@ -22,10 +24,10 @@ public class VowelSandhi
     {
         this.pragrhya = pragrhya;
 
-        Log.logInfo("VowelSandhi() ");
+        Log.info("VowelSandhi() ");
         comments = new Comments();
         comments.set_sandhi_type("Vowel Sandhi");
-        Log.logInfo("done creating a notes object ");
+        Log.info("done creating a notes object ");
         combinedSandhiForm = combineIntoSandhi(p1, p2);
     }
 
@@ -58,7 +60,7 @@ public class VowelSandhi
         // + begins with
         // any Vowel
         {
-            Log.logInfo("sending to ayadi");
+            Log.info("sending to ayadi");
             return_me = ayadi_sandhi(anta, adi);
         }
         // checked:29-6
@@ -101,7 +103,7 @@ public class VowelSandhi
             // akaH savarNe dIrghaH
             if (VowelUtil.isAkaradi(adi))
             {
-                // Log.logInfo("sending to dirgha");
+                // Log.info("sending to dirgha");
                 return_me = dirgha_sandhi(anta, adi);
             }
             // Ad guNaH
@@ -116,7 +118,7 @@ public class VowelSandhi
                 return_me = vriddhi_sandhi(anta, adi);
             }
         }
-        Log.logInfo("came in makeasandhi: worked on anta " + anta + " + adi " + adi + " == " + return_me);
+        Log.info("came in makeasandhi: worked on anta " + anta + " + adi " + adi + " == " + return_me);
         return return_me;
     }
 
@@ -127,14 +129,14 @@ public class VowelSandhi
 
         // making life easier by dealing with ITRANS CODING
 
-        Log.logInfo("*******ENTERED AAPAVADA NIYAMA UNO**********");
-        Log.logInfo("X_adi == " + X_adi);
+        Log.info("*******ENTERED AAPAVADA NIYAMA UNO**********");
+        Log.info("X_adi == " + X_adi);
         String anta = EncodingUtil.convertSLPToUniformItrans(X_anta);
         // x.transform(X_anta); // anta is ITRANS equivalent
         String adi = EncodingUtil.convertSLPToUniformItrans(X_adi);
         // x.transform(X_adi); // adi is ITRANS equivalent
 
-        Log.logInfo("adi == " + adi);
+        Log.info("adi == " + adi);
 
         String return_me = "UNAPPLICABLE";
 
@@ -402,7 +404,7 @@ public class VowelSandhi
             // but checked with SC Basu Trans. it is RRIta not RRikara
             // checked:29-6
 
-            Log.logInfo(" Rules 215 applies");
+            Log.info(" Rules 215 applies");
             return_me = utsarga_sandhi(X_anta, X_adi) + ", " + vriddhi_sandhi(X_anta, X_adi) + "**";
             // We have to remove vriddhi_sandhi default notes
             // this is done by
@@ -427,8 +429,8 @@ public class VowelSandhi
         }
         // **********END OF ELSE IF****************//
 
-        Log.logInfo("return_me == " + return_me);
-        Log.logInfo("*******EXITED AAPAVADA NIYAMA UNO**********");
+        Log.info("return_me == " + return_me);
+        Log.info("*******EXITED AAPAVADA NIYAMA UNO**********");
 
         if (return_me.equals("UNAPPLICABLE"))
         {
@@ -448,7 +450,7 @@ public class VowelSandhi
 
         // making life easier by dealing with ITRANS CODING
 
-        Log.logInfo("*******ENTERED AAPAVADA NIYAMA 2**********");
+        Log.info("*******ENTERED AAPAVADA NIYAMA 2**********");
         String anta = EncodingUtil.convertSLPToUniformItrans(X_anta); // anta
         // is
         // ITRANS
@@ -466,7 +468,7 @@ public class VowelSandhi
         if (VowelUtil.isAkaranta(anta) && (adi.equals("eva")))
 
         {
-            Log.logInfo(" Rules 215 applies");
+            Log.info(" Rules 215 applies");
             return_me = utsarga_sandhi(X_anta, X_adi) + ", " + para_rupa(X_anta, X_adi) + "**";
 
             comments.start_adding_notes();
@@ -488,7 +490,7 @@ public class VowelSandhi
         // Sharfe
         // Encoding
         {
-            Log.logInfo(" Came in Rule 217 ");
+            Log.info(" Came in Rule 217 ");
             return_me = utsarga_sandhi(X_anta, X_adi) + ", " + para_rupa(X_anta, X_adi) + "**";
 
             comments.start_adding_notes();
@@ -528,7 +530,7 @@ public class VowelSandhi
         // Sharfe
         // Encoding
         {// checked:29-6
-            Log.logInfo(" Rules 220 applies");
+            Log.info(" Rules 220 applies");
             return_me = utsarga_sandhi(X_anta, X_adi) + ", " + para_rupa(X_anta, X_adi) + "**";
 
             comments.start_adding_notes();
@@ -549,7 +551,7 @@ public class VowelSandhi
         // Sharfe
         // Encoding
         {// checked:29-6
-            Log.logInfo(" Rules 220 applies");
+            Log.info(" Rules 220 applies");
             return_me = utsarga_sandhi(X_anta, X_adi) + ", " + para_rupa(X_anta, X_adi) + "**";
 
             comments.start_adding_notes();
@@ -664,8 +666,8 @@ public class VowelSandhi
         }
         // **********END OF ELSE IF****************//
 
-        Log.logInfo("return_me == " + return_me);
-        Log.logInfo("*******EXITED AAPAVADA NIYAMA 2**********");
+        Log.info("return_me == " + return_me);
+        Log.info("*******EXITED AAPAVADA NIYAMA 2**********");
 
         if (return_me.equals("UNAPPLICABLE"))
         {
@@ -683,7 +685,7 @@ public class VowelSandhi
 
         // making life easier by dealing with ITRANS CODING
 
-        Log.logInfo("*******ENTERED AAPAVADA NIYAMA 3**********");
+        Log.info("*******ENTERED AAPAVADA NIYAMA 3**********");
         String anta = EncodingUtil.convertSLPToUniformItrans(X_anta); // anta
         // is
         // ITRANS
@@ -742,7 +744,7 @@ public class VowelSandhi
         else if ((X_anta.endsWith("I3") || X_anta.endsWith("i3")) && VowelUtil.isAjadi(X_adi))
         // was making mistake of using vowel.is_Vowel(X_adi) */ )
         {// checked:29-6
-            Log.logInfo("came in 250");
+            Log.info("came in 250");
             return_me = utsarga_sandhi(X_anta, X_adi); // fixed error above:
             // was sending ITRANS
             // values rather than
@@ -768,7 +770,7 @@ public class VowelSandhi
         else if ((VowelUtil.isPlutanta(X_anta) || this.pragrhya == true) && VowelUtil.isAjadi(X_adi))
         // was making mistake of using Vowel.is_Vowel(X_adi) */ )
         {// checked:29-6
-            Log.logInfo("came in 243");
+            Log.info("came in 243");
             return_me = prakruti_bhava(X_anta, X_adi); // fixed error above:
             // was sending ITRANS
             // values rather than
@@ -870,8 +872,8 @@ public class VowelSandhi
 
         // 246 -250 , 253-260
 
-        Log.logInfo("return_me == " + return_me);
-        Log.logInfo("*******EXITED AAPAVADA NIYAMA3s**********");
+        Log.info("return_me == " + return_me);
+        Log.info("*******EXITED AAPAVADA NIYAMA3s**********");
 
         return return_me; // apavada rules formulated by Panini
     }
@@ -882,7 +884,7 @@ public class VowelSandhi
         String hrasva = make_hrasvanta(anta); // make hrasvanta for
         // prakrutibhava
 
-        Log.logInfo("***Welcome to Utsarga Prakruti Bhava sandhi");
+        Log.info("***Welcome to Utsarga Prakruti Bhava sandhi");
         // 248a
         boolean bool1 = VowelUtil.isAkaranta(anta) && adi.startsWith("f");
         boolean bool2 = (VowelUtil.isRRikaranta(anta) || VowelUtil.isLLikaranta(anta)) && adi.startsWith("f");
@@ -946,7 +948,7 @@ public class VowelSandhi
             return_me = guna_sandhi(anta, adi); // prakruti bhava doesnot apply
         }
 
-        Log.logInfo("****Leaving Utsarga Prakruti Bhava sandhi == " + return_me);
+        Log.info("****Leaving Utsarga Prakruti Bhava sandhi == " + return_me);
         return return_me;
     }
 
@@ -954,7 +956,7 @@ public class VowelSandhi
     {
         if (!VowelUtil.isSavarna(s1, s2))
         {
-            Log.logInfo("NOT ELIGIBLE FOR dIrgha sandhi");
+            Log.info("NOT ELIGIBLE FOR dIrgha sandhi");
             return "Error";
         }
 
@@ -1004,11 +1006,11 @@ public class VowelSandhi
 
     public String guna_sandhi(String s1, String s2)
     {
-        Log.logInfo("Welcome to guNa Sandhi");
+        Log.info("Welcome to guNa Sandhi");
 
         if (!(VowelUtil.isAkaranta(s1) || VowelUtil.isIgadi(s2)))
         {
-            Log.logInfo("NOT ELIGIBLE FOR guNa sandhi");
+            Log.info("NOT ELIGIBLE FOR guNa sandhi");
             return "Error";
         }
 
@@ -1048,7 +1050,7 @@ public class VowelSandhi
 
         if (!(VowelUtil.isAjanta(s1) || VowelUtil.isAjadi(s2)))
         {
-            Log.logInfo("NOT ELIGIBLE FOR Vowel Sandhi");
+            Log.info("NOT ELIGIBLE FOR Vowel Sandhi");
             return "Error";
         }
 
@@ -1091,14 +1093,14 @@ public class VowelSandhi
         String cond1 = "a/A followed by an <ec>-vowel merge and are replaced by their vRRiddhi<ai/au>  counterpart\na/A + <ec>(e/ai/o/au) = ai/au";
         comments.setConditions(cond1);
 
-        Log.logInfo(" string " + s1 + " + " + s2 + " == after vriddhi == " + return_me);
+        Log.info(" string " + s1 + " + " + s2 + " == after vriddhi == " + return_me);
         return return_me;
     }
 
     public String yan_sandhi(String s1, String s2)
     {
-        Log.logInfo("Weclome to YaN Sandhi");
-        if (VowelUtil.isSavarna(s1, s2)) Log.logInfo("NOT ELIGIBLE FOR yaN sandhi");
+        Log.info("Weclome to YaN Sandhi");
+        if (VowelUtil.isSavarna(s1, s2)) Log.info("NOT ELIGIBLE FOR yaN sandhi");
 
         String stripped = VarnaUtil.stripAntyaVarna(s1); // s1.substring(0,
         // str_len - 1);
@@ -1129,7 +1131,7 @@ public class VowelSandhi
         String cond1 = "If an <ik> phoneme is followed by an <ac> - vowel - " + "it is replaced by its corresponding <yaN>" + "<ik> (i/u/RRi/LLi) + <ac>(Vowel) = <yaN> y/v/r/l + <ac>(Vowel) "; // Fill
         // Later
         comments.setConditions(cond1);
-        Log.logInfo("came in iko_yan: string modified is " + s1);
+        Log.info("came in iko_yan: string modified is " + s1);
 
         return s1;
     }
@@ -1137,11 +1139,11 @@ public class VowelSandhi
     public String ayadi_sandhi(String s1, String s2)
     {
         // DONOT STRIP ADI i.e s2
-        Log.logInfo("Welcome to ayadi Sandhi");
+        Log.info("Welcome to ayadi Sandhi");
 
-        if (!VowelUtil.isEjanta(s1)) Log.logInfo("NOT ELIGIBLE FOR ayadi sandhi");
+        if (!VowelUtil.isEjanta(s1)) Log.info("NOT ELIGIBLE FOR ayadi sandhi");
 
-        if (!VowelUtil.isAjadi(s2)) Log.logInfo("NOT ELIGIBLE FOR ayadi sandhi");
+        if (!VowelUtil.isAjadi(s2)) Log.info("NOT ELIGIBLE FOR ayadi sandhi");
         // if 2nd string is not a Vowel, then cannot proceed.
         String return_me = s1 + s2;
 
@@ -1189,14 +1191,14 @@ public class VowelSandhi
 
     public String purva_rupa(String s1, String s2)
     {
-        Log.logInfo("Welcome to purva_rupa Sandhi");
+        Log.info("Welcome to purva_rupa Sandhi");
 
         if (!(VowelUtil.isAjanta(s1) && VowelUtil.isAjadi(s2))) // if
         // consonant-anta
         // or
         // consonant-ado
         {
-            Log.logInfo("NOT ELIGIBLE FOR purva_rupa sandhi");
+            Log.info("NOT ELIGIBLE FOR purva_rupa sandhi");
             return "Error";
         }
         String return_me = s1 + s2;
@@ -1214,21 +1216,21 @@ public class VowelSandhi
         else
             return_me = s1 + stripped1;
 
-        Log.logInfo("Welcome to para_rupa Sandhi: returning string == " + return_me);
+        Log.info("Welcome to para_rupa Sandhi: returning string == " + return_me);
         return return_me;
 
     }
 
     public String para_rupa(String s1, String s2)
     {
-        Log.logInfo("Welcome to para_rupa Sandhi");
+        Log.info("Welcome to para_rupa Sandhi");
 
         if (!(VowelUtil.isAjanta(s1) && VowelUtil.isAjadi(s2))) // if
         // consonant-anta
         // or
         // consonant-ado
         {
-            Log.logInfo("NOT ELIGIBLE FOR para_rupa sandhi");
+            Log.info("NOT ELIGIBLE FOR para_rupa sandhi");
             return "Error";
         }
 
@@ -1241,18 +1243,18 @@ public class VowelSandhi
 
     public String prakruti_bhava(String s1, String s2)
     {
-        Log.logInfo("Welcome to prakruti_bhava Sandhi");
+        Log.info("Welcome to prakruti_bhava Sandhi");
 
         if (!(VowelUtil.isAjanta(s1) && VowelUtil.isAjadi(s2))) // if
         // consonant-anta
         // or
         // consonant-adi
         {
-            Log.logInfo("NOT ELIGIBLE FOR para_rupa sandhi");
+            Log.info("NOT ELIGIBLE FOR para_rupa sandhi");
             return "Error";
         }
 
-        Log.logInfo("Leaving prakruti_bhava Sandhi:");
+        Log.info("Leaving prakruti_bhava Sandhi:");
 
         return s1 + " " + s2;
     }
@@ -1264,7 +1266,7 @@ public class VowelSandhi
     public String make_hrasvanta(String s1)
     {
         String return_me = s1;
-        if (!VowelUtil.isAjanta(s1)) Log.logInfo("ERROR: not a Vowel.Cant make hrasvanta");
+        if (!VowelUtil.isAjanta(s1)) Log.info("ERROR: not a Vowel.Cant make hrasvanta");
 
         String stripped = VarnaUtil.stripAntyaVarna(s1);
 

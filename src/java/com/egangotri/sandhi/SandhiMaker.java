@@ -20,7 +20,7 @@ public class SandhiMaker
     public String combineIntoSandhi(String anta, String adi, boolean padanta, boolean pragrhya)
     {
 
-        Log.logInfo(" anta == " + anta + " adi == " + adi);
+        Log.info(" anta == " + anta + " adi == " + adi);
         String returnString = anta + adi;
 
         if (anta == null || adi == null || adi.length() == 0 || anta.length() == 0) return returnString;
@@ -30,7 +30,7 @@ public class SandhiMaker
 
             if (VowelUtil.isAjanta(anta) && VowelUtil.isAjadi(adi))
             {
-                Log.logInfo(" Sending for Vowel Sandhi");
+                Log.info(" Sending for Vowel Sandhi");
                 VowelSandhi vowelSandhi = new VowelSandhi(anta, adi, pragrhya);
                 returnString = vowelSandhi.getCombinedSandhiForm();
                 sandhiNotes = vowelSandhi.getNotes();
@@ -38,32 +38,32 @@ public class SandhiMaker
 
             else if (VisargaUtil.isVisarganta(anta))
             {
-                Log.logInfo(" Sending for Visarga Sandhi");
+                Log.info(" Sending for Visarga Sandhi");
                 VisargaDisplay visargaSandhi = new VisargaDisplay(anta, adi, padanta, pragrhya);
                 returnString = visargaSandhi.getCombinedSandhiForm();
                 sandhiNotes = visargaSandhi.getNotes();
-                Log.logInfo(" Quitting Visarga Sandhi: " + returnString);
+                Log.info(" Quitting Visarga Sandhi: " + returnString);
             }
 
             else if (ConsonantUtil.is_halanta(anta) || ConsonantUtil.is_haladi(adi))
             {
-                Log.logInfo(" Sending for Consonant Sandhi");
+                Log.info(" Sending for Consonant Sandhi");
                 ConsonantSandhi consonantSandhi = new ConsonantSandhi(anta, adi, padanta);
                 returnString = consonantSandhi.getCombinedSandhiForm();
                 sandhiNotes = consonantSandhi.getNotes();
-                Log.logInfo(" Quitting Consonant Sandhi: " + returnString);
+                Log.info(" Quitting Consonant Sandhi: " + returnString);
             }
 
             else if ((ConsonantUtil.is_halanta(anta) || VowelUtil.isAjanta(anta)) && (VowelUtil.isAjadi(adi) || ConsonantUtil.is_haladi(adi)))
 
             {
-                Log.logInfo(" Sending for Vowel-Consonant Sandhi");
+                Log.info(" Sending for Vowel-Consonant Sandhi");
                 VisargaDisplay vs = new VisargaDisplay(anta, adi, padanta, pragrhya);
                 returnString = vs.getCombinedSandhiForm();
                 sandhiNotes = vs.getNotes();
             }
 
-            Log.logInfo("i m leaving sandhimaker.make_sandhi::::" + returnString);
+            Log.info("i m leaving sandhimaker.make_sandhi::::" + returnString);
 
         }
 

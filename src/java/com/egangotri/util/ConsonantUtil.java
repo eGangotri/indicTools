@@ -8,7 +8,7 @@ public class ConsonantUtil
 
     public ConsonantUtil()
     {
-        // Log.logInfo("I came in Consonant.java");
+        // Log.info("I came in Consonant.java");
     }
 
     // *******************BEGINNING OF FUNCTION********************//
@@ -55,11 +55,11 @@ public class ConsonantUtil
     public static boolean is_kharadi(String str)
     {
 
-        // Log.logInfo(" Checking if is_kharadi:::");
+        // Log.info(" Checking if is_kharadi:::");
         String s1 = VarnaUtil.getAdiVarna(str);
         if (is_khar(s1))
         {
-            // Log.logInfo("I am kharadi");
+            // Log.info("I am kharadi");
             return true;
         }
 
@@ -165,10 +165,10 @@ public class ConsonantUtil
         String s1 = VarnaUtil.getAdiVarna(str);
         if (is_yay(s1))
         {
-            // Log.logInfo("true");
+            // Log.info("true");
             return true;
         }
-        // Log.logInfo("false");
+        // Log.info("false");
         return false;
     }
 
@@ -194,10 +194,10 @@ public class ConsonantUtil
         String s1 = VarnaUtil.getAntyaVarna(str);
         if (is_jhal(s1))
         {
-            // Log.logInfo("true");
+            // Log.info("true");
             return true;
         }
-        // Log.logInfo("false");
+        // Log.info("false");
         return false;
     }
 
@@ -222,10 +222,10 @@ public class ConsonantUtil
         // System.out.print("s1 == " + s1);
         if (is_kavarga(s1))
         {
-            // Log.logInfo("true");
+            // Log.info("true");
             return true;
         }
-        // Log.logInfo("false");
+        // Log.info("false");
         return false;
     }
 
@@ -486,7 +486,7 @@ public class ConsonantUtil
     // *******************BEGINNING OF FUNCTION********************//
     public static boolean is_am(String str)
     {
-        Log.logInfo("in is_am");
+        Log.info("in is_am");
         if (VowelUtil.isVowel(str) || str.equals("h") || str.equals("y") || str.equals("v") || str.equals("r") || str.equals("l") || str.equals("Y") || str.equals("m") || str.equals("N") || str.equals("R") || str.equals("n")) return true;
 
         return false;
@@ -561,7 +561,7 @@ public class ConsonantUtil
     // *******************BEGINNING OF FUNCTION********************//
     public static boolean is_savarna(String str1, String str2)
     {
-        // Log.logInfo(" in is_savarna " );
+        // Log.info(" in is_savarna " );
         if (is_kavarganta(str1) && is_kavargadi(str2)) return true;
         if (is_chavarganta(str1) && is_chavargadi(str2)) return true;
         if (is_Tavarganta(str1) && is_Tavargadi(str2)) return true;
@@ -570,7 +570,7 @@ public class ConsonantUtil
 
         // what abt the others y,r,;,v etc
 
-        // Log.logInfo(" is not savarna " );
+        // Log.info(" is not savarna " );
 
         return false;
     }

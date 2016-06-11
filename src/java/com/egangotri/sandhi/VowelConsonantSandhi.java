@@ -44,7 +44,7 @@ private static final String padanta = "Condition: Only if String 1 is padanta";
 					return_me = choh_kuh(anta,adi);
 					notes = "Halanta Sandhi." + sutra + "'coH kuH'(8.2.30)" +
 					"\n" + padanta + ". Or is followed by a jhala-beginning Word";
-					Log.logInfo(" Sending to choh_kuh");
+					Log.info(" Sending to choh_kuh");
 				}
 			//262
 			else if( ConsonantUtil.is_jhalanta(anta) && (padanta == true) )
@@ -52,7 +52,7 @@ private static final String padanta = "Condition: Only if String 1 is padanta";
 				return_me = jhalam_jash(anta,adi);	
 				notes = "Halanta Sandhi." + sutra + "'jhalAm jasho.ante'(8.2.39)" +
 						"\n" + padanta;
-				Log.logInfo(" Sending to jhalam_jash");
+				Log.info(" Sending to jhalam_jash");
 				}
 		}
 		
@@ -87,7 +87,7 @@ return notes;
 //*******************BEGINNING OF FUNCTION********************//	
 public String jhalam_jash(String anta,String adi)
 {
-	Log.logInfo(" Welcome to jhalam_jash: anta == " + anta + " adi == " + adi);
+	Log.info(" Welcome to jhalam_jash: anta == " + anta + " adi == " + adi);
 	String anta_varna = VarnaUtil.getAntyaVarna(anta);
 	String stripped = strip_anta(anta);
 	String return_me = anta + adi;
@@ -113,7 +113,7 @@ public String jhalam_jash(String anta,String adi)
 			// INCOMPLETE ... need to check for adeshas for 'sha' 'Sa' amd 'sa'..take care off
 		}
 		
-			Log.logInfo(" Quitting jhalam_jash: return_me == " + return_me);
+			Log.info(" Quitting jhalam_jash: return_me == " + return_me);
 			return return_me;
 }
 
