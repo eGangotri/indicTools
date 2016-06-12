@@ -119,6 +119,11 @@ public class EncodingUtil {
         return convertSLPToDevanagari(wordInSLP);
     }
 
+    public static String convertIPAToDevanagari(String string) {
+        String wordInSLP = convertIPAToSLP(string);
+        return convertSLPToDevanagari(wordInSLP);
+    }
+
     public static String convert(String str, String inputEncoding, String outputEncoding, boolean capitalizeIAST) {
         String toSLP = convertToSLP(str, inputEncoding);
         if (Constants.SLP.equalsIgnoreCase(outputEncoding)) {
@@ -143,6 +148,8 @@ public class EncodingUtil {
             return convertIASTToDVN(str);
         else if (Constants.VELTHUIS.equalsIgnoreCase(encoding))
             return convertVelthuisToDVN(str);
+        else if (Constants.IPA.equalsIgnoreCase(encoding))
+            return convertIPAToDevanagari(str);
         else
             return str;
     }
