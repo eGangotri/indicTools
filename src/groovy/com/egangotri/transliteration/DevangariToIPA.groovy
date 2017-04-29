@@ -1,8 +1,11 @@
 package com.egangotri.transliteration
 
+import groovy.util.logging.Slf4j
+
 /**
  * Created by user on 6/3/2016.
  */
+@Slf4j
 class DevangariToIPA {
     public static String transform(String transformed) {
         transformed = transformed.replaceAll('अ', 'ə')

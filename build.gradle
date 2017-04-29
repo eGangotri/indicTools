@@ -39,6 +39,13 @@ task transliterator(dependsOn: 'classes', type: JavaExec) {
     args = []
 }
 
+task console_transliterator(dependsOn: 'classes', type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = "com.egangotri.util.TransliteratorUtil"
+    //jvmArgs = applicationDefaultJvmArgs
+    args = ["C:\\tmp\\TantraChintamani.txt"]
+}
+
 
 task sandhi(dependsOn: 'classes', type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath

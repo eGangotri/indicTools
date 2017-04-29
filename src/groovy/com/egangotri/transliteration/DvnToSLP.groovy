@@ -1,6 +1,7 @@
 package com.egangotri.transliteration
 
-import com.egangotri.constants.SLPConstants;
+import com.egangotri.constants.SLPConstants
+import groovy.util.logging.Slf4j;
 
 import java.util.ArrayList;
 import java.util.Hashtable;
@@ -8,6 +9,7 @@ import java.util.Hashtable;
 import com.egangotri.util.Log;
 
 
+@Slf4j
 public class DvnToSLP
 {
     private Hashtable<String, String> unicode;
