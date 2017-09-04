@@ -1,4 +1,7 @@
-/build
+/build/*
 /.gradle
-/.idea
-/bin
+/.idea/*
+/bin/*
+all.log
+out/
+src/groovy/com/egangotri/mains/
