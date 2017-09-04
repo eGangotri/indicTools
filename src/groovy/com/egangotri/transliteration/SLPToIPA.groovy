@@ -1,5 +1,7 @@
 package com.egangotri.transliteration
 
+import org.apache.commons.lang3.StringUtils
+
 import static com.egangotri.constants.SLPConstants.*
 
 /**
@@ -8,91 +10,91 @@ import static com.egangotri.constants.SLPConstants.*
 class SLPToIPA {
     public static String transform(String transformed) {
 
-        transformed = transformed.replaceAll("F", "ɹ̩ː");
-        transformed = transformed.replaceAll("f","ɹ");
-        transformed = transformed.replaceAll("X","l̩ː");
-        transformed = transformed.replaceAll("x","l̩");
+        transformed = StringUtils.replacePattern(transformed,"F", "ɹ̩ː");
+        transformed = StringUtils.replacePattern(transformed,"f","ɹ");
+        transformed = StringUtils.replacePattern(transformed,"X","l̩ː");
+        transformed = StringUtils.replacePattern(transformed,"x","l̩");
 
-        transformed = transformed.replaceAll( "E", "aːi");
-        transformed = transformed.replaceAll("O", "aːu");
-        transformed = transformed.replaceAll( "e", "eː");
-        transformed = transformed.replaceAll( "o", "oː");
-
-
-
-        transformed = transformed.replaceAll( "A", "ɑː");
-        transformed = transformed.replaceAll( 'a', 'ə')
-
-        transformed = transformed.replaceAll( "I", "iː");
-        transformed = transformed.replaceAll( 'i', 'i')
-
-        transformed = transformed.replaceAll("U", "uː");
-        transformed = transformed.replaceAll("u", "u");
+        transformed = StringUtils.replacePattern(transformed, "E", "aːi");
+        transformed = StringUtils.replacePattern(transformed,"O", "aːu");
+        transformed = StringUtils.replacePattern(transformed, "e", "eː");
+        transformed = StringUtils.replacePattern(transformed, "o", "oː");
 
 
-        transformed = transformed.replaceAll("H", "h");
-        transformed = transformed.replaceAll("M", "ⁿ");
+
+        transformed = StringUtils.replacePattern(transformed, "A", "ɑː");
+        transformed = StringUtils.replacePattern(transformed, 'a', 'ə')
+
+        transformed = StringUtils.replacePattern(transformed, "I", "iː");
+        transformed = StringUtils.replacePattern(transformed, 'i', 'i')
+
+        transformed = StringUtils.replacePattern(transformed,"U", "uː");
+        transformed = StringUtils.replacePattern(transformed,"u", "u");
 
 
-        transformed = transformed.replaceAll('~', '̃')
+        transformed = StringUtils.replacePattern(transformed,"H", "h");
+        transformed = StringUtils.replacePattern(transformed,"M", "ⁿ");
 
-        transformed = transformed.replaceAll( KHA, 'kʰ')
-        transformed = transformed.replaceAll(KA, 'k')
-        transformed = transformed.replaceAll(GHA,'gʰ')
-        transformed = transformed.replaceAll(GA,'g')
-        transformed = transformed.replaceAll(ANGA, 'ŋ')
 
-        transformed = transformed.replaceAll(CHHA, 'tʃʰ')
-        transformed = transformed.replaceAll(CHA,'tʃ')
-        transformed = transformed.replaceAll(JHA,'dʒʱ')
-        transformed = transformed.replaceAll(JA, 'dʒ')
-        transformed = transformed.replaceAll(YAN, 'ɲ')
+        transformed = StringUtils.replacePattern(transformed,'~', '̃')
 
-        transformed = transformed.replaceAll(THA_HARD, 'ʈʰ')
-        transformed = transformed.replaceAll( TA_HARD, 'ʈ')
-        transformed = transformed.replaceAll(DHA_HARD, 'ɖʰ')
-        transformed = transformed.replaceAll(DA_HARD, 'ɖ')
-        transformed = transformed.replaceAll(NA_RAJASTHANI,'ɳ')
+        transformed = StringUtils.replacePattern(transformed, KHA, 'kʰ')
+        transformed = StringUtils.replacePattern(transformed,KA, 'k')
+        transformed = StringUtils.replacePattern(transformed,GHA,'gʰ')
+        transformed = StringUtils.replacePattern(transformed,GA,'g')
+        transformed = StringUtils.replacePattern(transformed,ANGA, 'ŋ')
 
-        transformed = transformed.replaceAll(THA_SOFT, 't̪ʰ' )
-        transformed = transformed.replaceAll(TA_SOFT, 't̪');
-        transformed = transformed.replaceAll(DHA_SOFT, 'd̪ʰ')
-        transformed = transformed.replaceAll(DA_SOFT,'d̪')
-        transformed = transformed.replaceAll(NA, 'n')
+        transformed = StringUtils.replacePattern(transformed,CHHA, 'tʃʰ')
+        transformed = StringUtils.replacePattern(transformed,CHA,'tʃ')
+        transformed = StringUtils.replacePattern(transformed,JHA,'dʒʱ')
+        transformed = StringUtils.replacePattern(transformed,JA, 'dʒ')
+        transformed = StringUtils.replacePattern(transformed,YAN, 'ɲ')
 
-        transformed = transformed.replaceAll(PHA,'pʰ')
-        transformed = transformed.replaceAll(PA, 'p')
-        transformed = transformed.replaceAll(BHA, 'bʰ')
-        transformed = transformed.replaceAll( BA, 'b')
-        transformed = transformed.replaceAll(MA, 'm')
+        transformed = StringUtils.replacePattern(transformed,THA_HARD, 'ʈʰ')
+        transformed = StringUtils.replacePattern(transformed, TA_HARD, 'ʈ')
+        transformed = StringUtils.replacePattern(transformed,DHA_HARD, 'ɖʰ')
+        transformed = StringUtils.replacePattern(transformed,DA_HARD, 'ɖ')
+        transformed = StringUtils.replacePattern(transformed,NA_RAJASTHANI,'ɳ')
 
-        transformed = transformed.replaceAll(YA, 'j')
-        transformed = transformed.replaceAll(RA, 'r')
-        transformed = transformed.replaceAll(LA,'l')
-        transformed = transformed.replaceAll(VA, 'ʋ' )
+        transformed = StringUtils.replacePattern(transformed,THA_SOFT, 't̪ʰ' )
+        transformed = StringUtils.replacePattern(transformed,TA_SOFT, 't̪');
+        transformed = StringUtils.replacePattern(transformed,DHA_SOFT, 'd̪ʰ')
+        transformed = StringUtils.replacePattern(transformed,DA_SOFT,'d̪')
+        transformed = StringUtils.replacePattern(transformed,NA, 'n')
 
-        transformed = transformed.replaceAll(SHA, 'ʃ')
-        transformed = transformed.replaceAll(SHA_RETROFLEX, 'ʂ')
-        transformed = transformed.replaceAll(SA,'s')
-        transformed = transformed.replaceAll(HA, 'ɦ')
+        transformed = StringUtils.replacePattern(transformed,PHA,'pʰ')
+        transformed = StringUtils.replacePattern(transformed,PA, 'p')
+        transformed = StringUtils.replacePattern(transformed,BHA, 'bʰ')
+        transformed = StringUtils.replacePattern(transformed, BA, 'b')
+        transformed = StringUtils.replacePattern(transformed,MA, 'm')
 
-        /*     transformed = transformed.replaceAll('kʃ', 'kz')
-             transformed = transformed.replaceAll('t̪ɾ', 'tr')
-             transformed = transformed.replaceAll('gj', 'jY')
-             transformed = transformed.replaceAll('ɕc', 'Sr')*/
-        transformed = transformed.replaceAll(K_WITH_NUKTA, 'q' )
-        transformed = transformed.replaceAll( KH_WITH_NUKTA, 'x')
-        transformed = transformed.replaceAll(G_WITH_NUKTA, 'ɣ')
-        transformed = transformed.replaceAll( Z_WITH_NUKTA, 'z')
-        transformed = transformed.replaceAll(F_WITH_NUKTA, 'f')
+        transformed = StringUtils.replacePattern(transformed,YA, 'j')
+        transformed = StringUtils.replacePattern(transformed,RA, 'r')
+        transformed = StringUtils.replacePattern(transformed,LA,'l')
+        transformed = StringUtils.replacePattern(transformed,VA, 'ʋ' )
 
-        transformed = transformed.replaceAll(T_SOFT_WITH_NUKTA, 't̪') //त़      "त़" /त़/
-        transformed = transformed.replaceAll(DH_HARD_WITH_BINDI, 'ɽʱ')
+        transformed = StringUtils.replacePattern(transformed,SHA, 'ʃ')
+        transformed = StringUtils.replacePattern(transformed,SHA_RETROFLEX, 'ʂ')
+        transformed = StringUtils.replacePattern(transformed,SA,'s')
+        transformed = StringUtils.replacePattern(transformed,HA, 'ɦ')
 
-        transformed = transformed.replaceAll(D_HARD__WITH_BINDI, 'ɽ')
+        /*     transformed = StringUtils.replacePattern(transformed,'kʃ', 'kz')
+             transformed = StringUtils.replacePattern(transformed,'t̪ɾ', 'tr')
+             transformed = StringUtils.replacePattern(transformed,'gj', 'jY')
+             transformed = StringUtils.replacePattern(transformed,'ɕc', 'Sr')*/
+        transformed = StringUtils.replacePattern(transformed,K_WITH_NUKTA, 'q' )
+        transformed = StringUtils.replacePattern(transformed, KH_WITH_NUKTA, 'x')
+        transformed = StringUtils.replacePattern(transformed,G_WITH_NUKTA, 'ɣ')
+        transformed = StringUtils.replacePattern(transformed, Z_WITH_NUKTA, 'z')
+        transformed = StringUtils.replacePattern(transformed,F_WITH_NUKTA, 'f')
 
-        transformed = transformed.replaceAll(D_SOFT_WITH_NUKTA, 'XXX')
-        transformed = transformed.replaceAll(S_SOFT_WITH_NUKTA, 'XXX')
+        transformed = StringUtils.replacePattern(transformed,T_SOFT_WITH_NUKTA, 't̪') //त़      "त़" /त़/
+        transformed = StringUtils.replacePattern(transformed,DH_HARD_WITH_BINDI, 'ɽʱ')
+
+        transformed = StringUtils.replacePattern(transformed,D_HARD__WITH_BINDI, 'ɽ')
+
+        transformed = StringUtils.replacePattern(transformed,D_SOFT_WITH_NUKTA, 'XXX')
+        transformed = StringUtils.replacePattern(transformed,S_SOFT_WITH_NUKTA, 'XXX')
     }
 
     static main(def args) {

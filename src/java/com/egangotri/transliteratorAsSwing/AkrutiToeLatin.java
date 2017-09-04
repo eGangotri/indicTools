@@ -159,7 +159,7 @@ public void keyTyped(KeyEvent e) {
 	String result = EncodingUtil.convertSLPToIAST(input);
 	tb3.append(result);
 	
-Log.info("input: " + "\"" + input + "\"");
+//Log.info("input: " + "\"" + input + "\"");
 	}
 public void keyPressed(KeyEvent e) {}
 public void keyReleased(KeyEvent e) {
@@ -181,7 +181,7 @@ public void keyReleased(KeyEvent e) {
 	if(keytext == "Delete")
 	;
 	
-	Log.info("Key Text is : " + keytext );
+	//Log.info("Key Text is : " + keytext );
 //	String gkt = e.getKeyText(e.getKeyCode() );
 	
 //	String result = encod.elatin_view(gkt);

@@ -1,4 +1,6 @@
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
+
+import org.apache.commons.lang3.StringUtils;
 
 public class KrutiToeLatin
 {
@@ -14,55 +16,55 @@ public String transform(String s1)
 		
 	transformed = s1;
 
-	transformed = transformed.replaceAll("\\.a","'");   // SLP for avagraha,,,,,using from own system
+	transformed = StringUtils.replacePattern(transformed,"\\.a","'");   // SLP for avagraha,,,,,using from own system
 										// watch out!!!! use "\\.a" not ".a"
-	transformed = transformed.replaceAll("RRi","f");	
+	transformed = StringUtils.replacePattern(transformed,"RRi","f");
 	
-	transformed = transformed.replaceAll("RRI","F");
-	transformed = transformed.replaceAll("LLi","x");
-	transformed = transformed.replaceAll("LLI","X");
+	transformed = StringUtils.replacePattern(transformed,"RRI","F");
+	transformed = StringUtils.replacePattern(transformed,"LLi","x");
+	transformed = StringUtils.replacePattern(transformed,"LLI","X");
 
-	transformed = transformed.replaceAll("ai","E");
-	transformed = transformed.replaceAll("au","O");
-	transformed = transformed.replaceAll("kh","K");
+	transformed = StringUtils.replacePattern(transformed,"ai","E");
+	transformed = StringUtils.replacePattern(transformed,"au","O");
+	transformed = StringUtils.replacePattern(transformed,"kh","K");
 
-	transformed = transformed.replaceAll("gh","G");
+	transformed = StringUtils.replacePattern(transformed,"gh","G");
 		
 	
 	/***NOTE 1 ***/
 	// we have to convert ITRANS '~N' - SKT LIB 'N' but confuses with ITRANS 'N'
 	//therefore mdifying
-	//transformed = transformed.replaceAll("~N","N"); // watch out!!!!
+	//transformed = StringUtils.replacePattern(transformed,"~N","N"); // watch out!!!!
 	// to
-	transformed = transformed.replaceAll("~N","5"); // itrans N is fifth of T-vargas, hence 5
+	transformed = StringUtils.replacePattern(transformed,"~N","5"); // itrans N is fifth of T-vargas, hence 5
 	// SKT LIB 'N' = 5, later 5 back again to 'N' at the end
 
 	/***Note 1 ***/
-	transformed = transformed.replaceAll("\\.N","~"); // chandra-bindu...watch out do not just use .N use \\.N
+	transformed = StringUtils.replacePattern(transformed,"\\.N","~"); // chandra-bindu...watch out do not just use .N use \\.N
 													// must be below .replaceAll("~N","5")
-	transformed = transformed.replaceAll("Dh","Q"); // must be before .replaceAll("dh","D");
-	transformed = transformed.replaceAll("Th","W"); // must be before .replaceAll("th","T");
-	transformed = transformed.replaceAll("Ch","C");
-	transformed = transformed.replaceAll("jh","J"); 
-	transformed = transformed.replaceAll("~n","Y");
-	transformed = transformed.replaceAll("T","w");
+	transformed = StringUtils.replacePattern(transformed,"Dh","Q"); // must be before .replaceAll("dh","D");
+	transformed = StringUtils.replacePattern(transformed,"Th","W"); // must be before .replaceAll("th","T");
+	transformed = StringUtils.replacePattern(transformed,"Ch","C");
+	transformed = StringUtils.replacePattern(transformed,"jh","J");
+	transformed = StringUtils.replacePattern(transformed,"~n","Y");
+	transformed = StringUtils.replacePattern(transformed,"T","w");
 	
-	transformed = transformed.replaceAll("D","q");
+	transformed = StringUtils.replacePattern(transformed,"D","q");
 	
-	transformed = transformed.replaceAll("N","R");// confusion with .replaceAll("~N","N")
+	transformed = StringUtils.replacePattern(transformed,"N","R");// confusion with .replaceAll("~N","N")
 																	
-	transformed = transformed.replaceAll("th","T"); // watch out!!!!
-	transformed = transformed.replaceAll("dh","D");// watch out!!!!
-	transformed = transformed.replaceAll("ph","P"); 
-	transformed = transformed.replaceAll("bh","B");
-	transformed = transformed.replaceAll("S","z");// must be above .replaceAll("sh","S")
+	transformed = StringUtils.replacePattern(transformed,"th","T"); // watch out!!!!
+	transformed = StringUtils.replacePattern(transformed,"dh","D");// watch out!!!!
+	transformed = StringUtils.replacePattern(transformed,"ph","P");
+	transformed = StringUtils.replacePattern(transformed,"bh","B");
+	transformed = StringUtils.replacePattern(transformed,"S","z");// must be above .replaceAll("sh","S")
 																	// to avoid confusion
 
-	transformed = transformed.replaceAll("sh","S");// watchout!!!!
+	transformed = StringUtils.replacePattern(transformed,"sh","S");// watchout!!!!
 	
 
 
-	transformed = transformed.replaceAll("5","N"); // refer to NOTE 1
+	transformed = StringUtils.replacePattern(transformed,"5","N"); // refer to NOTE 1
 
 		
 	// return transformed;

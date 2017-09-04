@@ -1,6 +1,7 @@
 package com.egangotri.transliteration
 
-import groovy.util.logging.Slf4j;
+import groovy.util.logging.Slf4j
+import org.apache.commons.lang3.StringUtils;
 
 @Slf4j
 public class IASTToSLP {
@@ -10,69 +11,69 @@ public class IASTToSLP {
 
     public static String transform(String transformed) {
         transformed = transformed.toLowerCase();
-        log.info("IASTToSLP: " + transformed);
+        //log.info("IASTToSLP: " + transformed);
         //ā
         // Vowels
-        transformed = transformed.replaceAll("ā", "A");
-        transformed = transformed.replaceAll("ī", "I");
-        transformed = transformed.replaceAll("ū", "U");
-        transformed = transformed.replaceAll("ṛ", "f");
-        transformed = transformed.replaceAll("ṝ", "F");
-        transformed = transformed.replaceAll("ḷ", "x");
-        transformed = transformed.replaceAll("ḹ", "X");
+        transformed = StringUtils.replacePattern(transformed, "ā", "A")
+        transformed = StringUtils.replacePattern(transformed,"ā", "A");
+        transformed = StringUtils.replacePattern(transformed,"ī", "I");
+        transformed = StringUtils.replacePattern(transformed,"ū", "U");
+        transformed = StringUtils.replacePattern(transformed,"ṛ", "f");
+        transformed = StringUtils.replacePattern(transformed,"ṝ", "F");
+        transformed = StringUtils.replacePattern(transformed,"ḷ", "x");
+        transformed = StringUtils.replacePattern(transformed,"ḹ", "X");
 
-        transformed = transformed.replaceAll("ai", "E");
-        transformed = transformed.replaceAll("au", "O");
+        transformed = StringUtils.replacePattern(transformed,"ai", "E");
+        transformed = StringUtils.replacePattern(transformed,"au", "O");
 
-        transformed = transformed.replaceAll("ḥ", "H");
-        transformed = transformed.replaceAll("ṃ", "M");
+        transformed = StringUtils.replacePattern(transformed,"ḥ", "H");
+        transformed = StringUtils.replacePattern(transformed,"ṃ", "M");
 
-        transformed = transformed.replaceAll("kh", "K");
-        transformed = transformed.replaceAll("gh", "G");
+        transformed = StringUtils.replacePattern(transformed,"kh", "K");
+        transformed = StringUtils.replacePattern(transformed,"gh", "G");
 
-        transformed = transformed.replaceAll("ch", "C");
-        transformed = transformed.replaceAll("jh", "J");
+        transformed = StringUtils.replacePattern(transformed,"ch", "C");
+        transformed = StringUtils.replacePattern(transformed,"jh", "J");
 
 
-        transformed = transformed.replaceAll("ṭh", "W");
-        transformed = transformed.replaceAll("ṭ", "w");
+        transformed = StringUtils.replacePattern(transformed,"ṭh", "W");
+        transformed = StringUtils.replacePattern(transformed,"ṭ", "w");
 
-        transformed = transformed.replaceAll("ḍh", "Q");
+        transformed = StringUtils.replacePattern(transformed,"ḍh", "Q");
         // vargiyas
-        transformed = transformed.replaceAll("ḍ", "q");
+        transformed = StringUtils.replacePattern(transformed,"ḍ", "q");
 
-        transformed = transformed.replaceAll("th", "T");
-        transformed = transformed.replaceAll("dh", "D");
+        transformed = StringUtils.replacePattern(transformed,"th", "T");
+        transformed = StringUtils.replacePattern(transformed,"dh", "D");
 
-        transformed = transformed.replaceAll("ph", "P");
-        transformed = transformed.replaceAll("bh", "B");
+        transformed = StringUtils.replacePattern(transformed,"ph", "P");
+        transformed = StringUtils.replacePattern(transformed,"bh", "B");
 
         // Nasals:
-        transformed = transformed.replaceAll("ñ", "Y"); // represents
+        transformed = StringUtils.replacePattern(transformed,"ñ", "Y"); // represents
         // SLP
         // "Y"(jYaana)
-        transformed = transformed.replaceAll("ṅ", "N"); // represents
+        transformed = StringUtils.replacePattern(transformed,"ṅ", "N"); // represents
         // SLP
         // "N"(kalaNka)
-        transformed = transformed.replaceAll("ṇ", "R"); // represents
+        transformed = StringUtils.replacePattern(transformed,"ṇ", "R"); // represents
         // SLP
         // "R"(N)
-        transformed = transformed.replaceAll("ś", "S"); // represents
+        transformed = StringUtils.replacePattern(transformed,"ś", "S"); // represents
         // SLP
         // "S"(Sh
         // as
         // in
         // Sharma)
 
-        transformed = transformed.replaceAll("ṣ", "z"); // represents
+        transformed = StringUtils.replacePattern(transformed,"ṣ", "z"); // represents
         // SLP
         // "z"(kzaNa)
 
-
         //Vedic Accents
-        transformed = transformed.replaceAll("á", "/"); // uddata  "/", "\" and "^"
-        transformed = transformed.replaceAll("á", "\\"); // uddata  "/", "\" and "^"
-        transformed = transformed.replaceAll("à", "^"); // uddata  "/", "\" and "^"
+        transformed = StringUtils.replacePattern(transformed,"á", "/"); // uddata  "/", "\" and "^"
+        transformed = StringUtils.replacePattern(transformed,"á", "\\"); // uddata  "/", "\" and "^"
+        transformed = StringUtils.replacePattern(transformed,"à", "^"); // uddata  "/", "\" and "^"
 
         return transformed;
     }

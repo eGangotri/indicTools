@@ -486,7 +486,7 @@ public class ConsonantUtil
     // *******************BEGINNING OF FUNCTION********************//
     public static boolean is_am(String str)
     {
-        Log.info("in is_am");
+        //Log.info("in is_am");
         if (VowelUtil.isVowel(str) || str.equals("h") || str.equals("y") || str.equals("v") || str.equals("r") || str.equals("l") || str.equals("Y") || str.equals("m") || str.equals("N") || str.equals("R") || str.equals("n")) return true;
 
         return false;

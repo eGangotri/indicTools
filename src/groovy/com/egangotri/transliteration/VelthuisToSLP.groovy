@@ -1,5 +1,7 @@
 package com.egangotri.transliteration
 
+import org.apache.commons.lang3.StringUtils
+
 public class VelthuisToSLP {
 
     public VelthuisToSLP() {
@@ -13,40 +15,40 @@ public class VelthuisToSLP {
      */
     public static String transform(String transformed) {
 
-        transformed = transformed.replaceAll("O", "ॐ")
-        transformed = transformed.replaceAll("\\.rr", "F") // a dot without escape will be interpreted as regex
-        transformed = transformed.replaceAll("\\.ll", "X")
-        transformed = transformed.replaceAll('"s', "S")
-        transformed = transformed.replaceAll("\\.s", "z")
-        transformed = transformed.replaceAll("\\.n", "R")
-        transformed = transformed.replaceAll("\\.dh", "Q")
-        transformed = transformed.replaceAll("\\.d", "q")
-        transformed = transformed.replaceAll("\\.th", "W")
-        transformed = transformed.replaceAll("\\.t", "w")
-        transformed = transformed.replaceAll("~n", "Y")
-        transformed = transformed.replaceAll("\"n", "N")
+        transformed = StringUtils.replacePattern(transformed,"O", "ॐ")
+        transformed = StringUtils.replacePattern(transformed,"\\.rr", "F") // a dot without escape will be interpreted as regex
+        transformed = StringUtils.replacePattern(transformed,"\\.ll", "X")
+        transformed = StringUtils.replacePattern(transformed,'"s', "S")
+        transformed = StringUtils.replacePattern(transformed,"\\.s", "z")
+        transformed = StringUtils.replacePattern(transformed,"\\.n", "R")
+        transformed = StringUtils.replacePattern(transformed,"\\.dh", "Q")
+        transformed = StringUtils.replacePattern(transformed,"\\.d", "q")
+        transformed = StringUtils.replacePattern(transformed,"\\.th", "W")
+        transformed = StringUtils.replacePattern(transformed,"\\.t", "w")
+        transformed = StringUtils.replacePattern(transformed,"~n", "Y")
+        transformed = StringUtils.replacePattern(transformed,"\"n", "N")
 
 
-        transformed = transformed.replaceAll("aa", "A")
-        transformed = transformed.replaceAll("ii", "I")
-        transformed = transformed.replaceAll("uu", "U")
-        transformed = transformed.replaceAll("ai", "E")
-        transformed = transformed.replaceAll("au", "O")
-        transformed = transformed.replaceAll("\\.r", "f")
-        transformed = transformed.replaceAll("\\.l", "x")
-        transformed = transformed.replaceAll("\\.m", "M")
-        transformed = transformed.replaceAll("\\.h", "H")
-        transformed = transformed.replaceAll("/", "~")
-        transformed = transformed.replaceAll("\\.a", "'")
+        transformed = StringUtils.replacePattern(transformed,"aa", "A")
+        transformed = StringUtils.replacePattern(transformed,"ii", "I")
+        transformed = StringUtils.replacePattern(transformed,"uu", "U")
+        transformed = StringUtils.replacePattern(transformed,"ai", "E")
+        transformed = StringUtils.replacePattern(transformed,"au", "O")
+        transformed = StringUtils.replacePattern(transformed,"\\.r", "f")
+        transformed = StringUtils.replacePattern(transformed,"\\.l", "x")
+        transformed = StringUtils.replacePattern(transformed,"\\.m", "M")
+        transformed = StringUtils.replacePattern(transformed,"\\.h", "H")
+        transformed = StringUtils.replacePattern(transformed,"/", "~")
+        transformed = StringUtils.replacePattern(transformed,"\\.a", "'")
 
-        transformed = transformed.replaceAll("kh", "K")
-        transformed = transformed.replaceAll("gh", "G")
-        transformed = transformed.replaceAll("ch", "C")
-        transformed = transformed.replaceAll("jh", "J")
-        transformed = transformed.replaceAll("th", "T")
-        transformed = transformed.replaceAll("dh", "D")
-        transformed = transformed.replaceAll("ph", "P")
-        transformed = transformed.replaceAll("bh", "B")
+        transformed = StringUtils.replacePattern(transformed,"kh", "K")
+        transformed = StringUtils.replacePattern(transformed,"gh", "G")
+        transformed = StringUtils.replacePattern(transformed,"ch", "C")
+        transformed = StringUtils.replacePattern(transformed,"jh", "J")
+        transformed = StringUtils.replacePattern(transformed,"th", "T")
+        transformed = StringUtils.replacePattern(transformed,"dh", "D")
+        transformed = StringUtils.replacePattern(transformed,"ph", "P")
+        transformed = StringUtils.replacePattern(transformed,"bh", "B")
 
         return transformed
     }

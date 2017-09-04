@@ -133,21 +133,21 @@ public class SLPToDevanagari
 
 
             /*
-    transformed = transformed.replaceAll("AUM","Ω"); //omega or Ohm
-    transformed = transformed.replaceAll("OM","Ω"); //Omega or Ohm
+    transformed = StringUtils.replacePattern(transformed,"AUM","Ω"); //omega or Ohm
+    transformed = StringUtils.replacePattern(transformed,"OM","Ω"); //Omega or Ohm
 
-    transformed = transformed.replaceAll("q","κ");  //Greek kappa
-    transformed = transformed.replaceAll("K","Κ");  // Greek Capital Kappa
-    transformed = transformed.replaceAll("G","γ"); //gamma
-    transformed = transformed.replaceAll("z","ζ"); //Zeta
-    transformed = transformed.replaceAll("J","ζ"); //Zeta
-    transformed = transformed.replaceAll("f","φ"); //phi
-    transformed = transformed.replaceAll(".Dh","Δ");  //Capital Delta
-    transformed = transformed.replaceAll(".D","δ"); //delta
-    transformed = transformed.replaceAll(".d","τ"); //tau
-    transformed = transformed.replaceAll(".t","θ"); //theta
-    transformed = transformed.replaceAll(".s","σ"); //sigma
-    transformed = transformed.replaceAll(".c","ω"); //omega
+    transformed = StringUtils.replacePattern(transformed,"q","κ");  //Greek kappa
+    transformed = StringUtils.replacePattern(transformed,"K","Κ");  // Greek Capital Kappa
+    transformed = StringUtils.replacePattern(transformed,"G","γ"); //gamma
+    transformed = StringUtils.replacePattern(transformed,"z","ζ"); //Zeta
+    transformed = StringUtils.replacePattern(transformed,"J","ζ"); //Zeta
+    transformed = StringUtils.replacePattern(transformed,"f","φ"); //phi
+    transformed = StringUtils.replacePattern(transformed,".Dh","Δ");  //Capital Delta
+    transformed = StringUtils.replacePattern(transformed,".D","δ"); //delta
+    transformed = StringUtils.replacePattern(transformed,".d","τ"); //tau
+    transformed = StringUtils.replacePattern(transformed,".t","θ"); //theta
+    transformed = StringUtils.replacePattern(transformed,".s","σ"); //sigma
+    transformed = StringUtils.replacePattern(transformed,".c","ω"); //omega
     */
             
         }

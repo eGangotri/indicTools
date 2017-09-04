@@ -10,10 +10,10 @@ import groovy.util.logging.Slf4j;
 @Slf4j
 public class Log {
     public static void info(String info) {
-        println(info)
+       log.info(info)
     }
     public static void info(String info, Exception e) {
-        println(info)
+        //println(info)
         e.printStackTrace()
     }
 }

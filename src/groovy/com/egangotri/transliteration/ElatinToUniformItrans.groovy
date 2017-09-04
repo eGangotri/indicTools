@@ -1,7 +1,8 @@
 package com.egangotri.transliteration;
 
 import com.egangotri.util.Log
-import groovy.util.logging.Slf4j;
+import groovy.util.logging.Slf4j
+import org.apache.commons.lang3.StringUtils;
 @Slf4j
 @Deprecated
 public class ElatinToUniformItrans
@@ -13,85 +14,85 @@ public class ElatinToUniformItrans
     log.info("ElatinToUniformItrans");
 
     // Vowels
-    transformed = transformed.replaceAll( "â","a"); // seems
+    transformed = StringUtils.replacePattern(transformed, "â","a"); // seems
     // like
     // a
     // variation
     // of
     // a)
-    transformed = transformed.replaceAll( "á","a"); // represents
+    transformed = StringUtils.replacePattern(transformed, "á","a"); // represents
     // SLP
     // "a"(aham)
-    //transformed = transformed.replaceAll( "&#x0101;", "\u0101"); //   
-    transformed = transformed.replaceAll( "ā","A" ); // represents
+    //transformed = StringUtils.replacePattern(transformed, "&#x0101;", "\u0101"); //
+    transformed = StringUtils.replacePattern(transformed, "ā","A" ); // represents
     // SLP
     // "A"
-    transformed = transformed.replaceAll( "Ā","A"); // capitalized
+    transformed = StringUtils.replacePattern(transformed, "Ā","A"); // capitalized
     // version
     // of
     // 'A'
 
-    transformed = transformed.replaceAll("ī" ,"I"); // represents
+    transformed = StringUtils.replacePattern(transformed,"ī" ,"I"); // represents
     // SLP
     // "I"(vIra)
-    transformed = transformed.replaceAll("í" ,"I"); // represents
+    transformed = StringUtils.replacePattern(transformed,"í" ,"I"); // represents
     // SLP
     // "I"(vIra)
-    transformed = transformed.replaceAll( "Ī","I"); // capitalized
+    transformed = StringUtils.replacePattern(transformed, "Ī","I"); // capitalized
     // "I"(vIra)
 
-    transformed = transformed.replaceAll( "ū", "U"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ū", "U"); // represents
     // SLP
     // "U"(krUra)
-    transformed = transformed.replaceAll( "ú", "U"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ú", "U"); // represents
     // SLP
     // "U"(krUra)
-    transformed = transformed.replaceAll( "Ū" ,"U"); // capitalized
+    transformed = StringUtils.replacePattern(transformed, "Ū" ,"U"); // capitalized
     // "U"(krUra)
-    transformed = transformed.replaceAll( "û" , "U"); // capitalized
+    transformed = StringUtils.replacePattern(transformed, "û" , "U"); // capitalized
     // "U"(krUra)
 
-    transformed = transformed.replaceAll("ṛ" ,"RRi"); // represents
+    transformed = StringUtils.replacePattern(transformed,"ṛ" ,"RRi"); // represents
     // SLP
     // "f"(RRi)
-    transformed = transformed.replaceAll( "Ṛ","RRi"); // capitalized
+    transformed = StringUtils.replacePattern(transformed, "Ṛ","RRi"); // capitalized
     // "f"(RRi)
-    transformed = transformed.replaceAll( "ṝ" , "RRI"); // capitalized
+    transformed = StringUtils.replacePattern(transformed, "ṝ" , "RRI"); // capitalized
     // "f"(RRi)
-    transformed = transformed.replaceAll( "Ḷ", "LLi"); // capitalized
+    transformed = StringUtils.replacePattern(transformed, "Ḷ", "LLi"); // capitalized
     // "f"(RRi)
 
-    transformed = transformed.replaceAll(  "é", "e"); //
-    transformed = transformed.replaceAll(  "ê", "ai"); //
+    transformed = StringUtils.replacePattern(transformed,  "é", "e"); //
+    transformed = StringUtils.replacePattern(transformed,  "ê", "ai"); //
 
-    transformed = transformed.replaceAll(  "ô", "o"); // represents
+    transformed = StringUtils.replacePattern(transformed,  "ô", "o"); // represents
     // SLP
     // "o"(meghodaya)
-    transformed = transformed.replaceAll(  "ó", "o"); // represents
+    transformed = StringUtils.replacePattern(transformed,  "ó", "o"); // represents
     // SLP
     // "o"(meghodaya)
 
-    transformed = transformed.replaceAll( "ṃ","M"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ṃ","M"); // represents
     // SLP
     // "M"(aMsha)
-    transformed = transformed.replaceAll( "ḥ", "H"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ḥ", "H"); // represents
     // visarga
 
     // vargiyas
-    transformed = transformed.replaceAll( "ḍ" , "D"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ḍ" , "D"); // represents
     // SLP
     // "q"(D
     // as
     // in
     // Danda)
-    transformed = transformed.replaceAll( "Ḍ" ,"D"); // represents
+    transformed = StringUtils.replacePattern(transformed, "Ḍ" ,"D"); // represents
     // SLP
     // "q"(D
     // as
     // in
     // Danda)
 
-    transformed = transformed.replaceAll( "ṭ", "T"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ṭ", "T"); // represents
     // SLP
     // "w"(T
     // as
@@ -99,24 +100,24 @@ public class ElatinToUniformItrans
     // TamaaTar)
 
     // Nasals:
-    transformed = transformed.replaceAll( "ñ","~n"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ñ","~n"); // represents
     // SLP
     // "Y"(jYaana)
-    transformed = transformed.replaceAll( "ṅ","Y"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ṅ","Y"); // represents
     // SLP
     // "N"(kalaNka)
-    transformed = transformed.replaceAll( "ṇ","N"); // represents
+    transformed = StringUtils.replacePattern(transformed, "ṇ","N"); // represents
     // SLP
     // "R"(N)
 
     // sh-sh
-    transformed = transformed.replaceAll("ś", "sh"); // represents
+    transformed = StringUtils.replacePattern(transformed,"ś", "sh"); // represents
     // SLP
     // "S"(Sh
     // as
     // in
     // Sharma)
-    transformed = transformed.replaceAll("Ś","sh"); // Capitalized
+    transformed = StringUtils.replacePattern(transformed,"Ś","sh"); // Capitalized
     // form
     // of
     // SLP
@@ -125,10 +126,10 @@ public class ElatinToUniformItrans
     // in
     // Sharma)
 
-    transformed = transformed.replaceAll("ṣ","z"); // represents
+    transformed = StringUtils.replacePattern(transformed,"ṣ","z"); // represents
     // SLP
     // "z"(kzaNa)
-    transformed = transformed.replaceAll("Ṣ","z");
+    transformed = StringUtils.replacePattern(transformed,"Ṣ","z");
         
     // return transformed;
     return transformed;

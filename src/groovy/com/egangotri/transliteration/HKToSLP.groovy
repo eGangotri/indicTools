@@ -1,4 +1,6 @@
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
+
+import org.apache.commons.lang3.StringUtils;
 
 public class HKToSLP
 {
@@ -6,44 +8,44 @@ public class HKToSLP
     public static String transform(String s1)
     {
         String transformed = s1;
-        transformed = transformed.replaceAll("ai", "E");
-        transformed = transformed.replaceAll("au", "O");
+        transformed = StringUtils.replacePattern(transformed,"ai", "E");
+        transformed = StringUtils.replacePattern(transformed,"au", "O");
 
-        transformed = transformed.replaceAll("IRR", "X");
-        transformed = transformed.replaceAll("IR", "x");
-        transformed = transformed.replaceAll("RR", "F");
-        transformed = transformed.replaceAll("R", "f");
-        
-
-        transformed = transformed.replaceAll("N", "R");
-        transformed = transformed.replaceAll("G", "N");
-        transformed = transformed.replaceAll("J", "Y"); 
-        
-        transformed = transformed.replaceAll("kh", "K");
-        transformed = transformed.replaceAll("gh", "G");
-        
-        transformed = transformed.replaceAll("ch", "C");
-        transformed = transformed.replaceAll("jh", "J");
+        transformed = StringUtils.replacePattern(transformed,"IRR", "X");
+        transformed = StringUtils.replacePattern(transformed,"IR", "x");
+        transformed = StringUtils.replacePattern(transformed,"RR", "F");
+        transformed = StringUtils.replacePattern(transformed,"R", "f");
         
 
-        transformed = transformed.replaceAll("Th", "W");  
-        transformed = transformed.replaceAll("T", "w");    
-        transformed = transformed.replaceAll("Dh", "Q");  
-        transformed = transformed.replaceAll("D", "q");
+        transformed = StringUtils.replacePattern(transformed,"N", "R");
+        transformed = StringUtils.replacePattern(transformed,"G", "N");
+        transformed = StringUtils.replacePattern(transformed,"J", "Y"); 
+        
+        transformed = StringUtils.replacePattern(transformed,"kh", "K");
+        transformed = StringUtils.replacePattern(transformed,"gh", "G");
+        
+        transformed = StringUtils.replacePattern(transformed,"ch", "C");
+        transformed = StringUtils.replacePattern(transformed,"jh", "J");
         
 
-        transformed = transformed.replaceAll("th", "T");
-        transformed = transformed.replaceAll("dh", "D");
-
-        transformed = transformed.replaceAll("ph", "P");
-        transformed = transformed.replaceAll("bh", "B");
+        transformed = StringUtils.replacePattern(transformed,"Th", "W");  
+        transformed = StringUtils.replacePattern(transformed,"T", "w");    
+        transformed = StringUtils.replacePattern(transformed,"Dh", "Q");  
+        transformed = StringUtils.replacePattern(transformed,"D", "q");
         
 
-        transformed = transformed.replaceAll("z", "@@"); //'@@' is a temporary holder.
-        transformed = transformed.replaceAll("S", "z");
-        transformed = transformed.replaceAll("@@", "S");
+        transformed = StringUtils.replacePattern(transformed,"th", "T");
+        transformed = StringUtils.replacePattern(transformed,"dh", "D");
+
+        transformed = StringUtils.replacePattern(transformed,"ph", "P");
+        transformed = StringUtils.replacePattern(transformed,"bh", "B");
         
-        transformed = transformed.replaceAll("\\.a", "'"); // SLP for
+
+        transformed = StringUtils.replacePattern(transformed,"z", "@@"); //'@@' is a temporary holder.
+        transformed = StringUtils.replacePattern(transformed,"S", "z");
+        transformed = StringUtils.replacePattern(transformed,"@@", "S");
+        
+        transformed = StringUtils.replacePattern(transformed,"\\.a", "'"); // SLP for
                                                             // avagraha,,,,,using
                                                             // from own system
         // watch out!!!! use "\\.a" not ".a"
@@ -51,7 +53,7 @@ public class HKToSLP
 
 
         /** *NOTE 1 ** */
-        transformed = transformed.replaceAll("\\.N", "~"); // chandra-bindu...watch
+        transformed = StringUtils.replacePattern(transformed,"\\.N", "~"); // chandra-bindu...watch
                                                             // out do not just
                                                             // use .N use \\.N
 

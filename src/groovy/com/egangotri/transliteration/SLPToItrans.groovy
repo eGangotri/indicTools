@@ -1,6 +1,7 @@
 package com.egangotri.transliteration
 
-import groovy.util.logging.Slf4j;
+import groovy.util.logging.Slf4j
+import org.apache.commons.lang3.StringUtils;
 @Slf4j
 public class SLPToItrans
 {
@@ -11,60 +12,60 @@ public static String transform(String transformed)
 //	log.info("SLPToItrans: " + transformed  );
 
 
-	transformed = transformed.replaceAll("f", "6"); // if I make f == "RRi" 
+	transformed = StringUtils.replacePattern(transformed,"f", "6"); // if I make f == "RRi"
 											//then RRi will later become NNI, 
 											//hence storing in 6
 	
 	/***NOTE 1 ***/
-	transformed = transformed.replaceAll("N","5"); // N (kvargIya) -> 5 -> ~N 
+	transformed = StringUtils.replacePattern(transformed,"N","5"); // N (kvargIya) -> 5 -> ~N
 	/***Note 1 ***/
 	
-	transformed = transformed.replaceAll("R","N");// confusion with .replaceAll("N","~N"), ref. note 1
+	transformed = StringUtils.replacePattern(transformed,"R","N");// confusion with .replaceAll("N","~N"), ref. note 1
 														//  must be above replaceAll("f", "RRi");
-	//transformed = transformed.replaceAll("f", "RRi");	
+	//transformed = StringUtils.replacePattern(transformed,"f", "RRi");
 		
-	transformed = transformed.replaceAll("F","7");// same reason as above
-	transformed = transformed.replaceAll("x","LLi");
-	transformed = transformed.replaceAll("X","LLI");
+	transformed = StringUtils.replacePattern(transformed,"F","7");// same reason as above
+	transformed = StringUtils.replacePattern(transformed,"x","LLi");
+	transformed = StringUtils.replacePattern(transformed,"X","LLI");
 
-	transformed = transformed.replaceAll("E","ai");
-	transformed = transformed.replaceAll("O","au");
-	transformed = transformed.replaceAll("K","kh");
+	transformed = StringUtils.replacePattern(transformed,"E","ai");
+	transformed = StringUtils.replacePattern(transformed,"O","au");
+	transformed = StringUtils.replacePattern(transformed,"K","kh");
 
-	transformed = transformed.replaceAll("G","gh");
+	transformed = StringUtils.replacePattern(transformed,"G","gh");
 
-    transformed = transformed.replaceAll("c","ch");
-	transformed = transformed.replaceAll("C","Ch");
-	transformed = transformed.replaceAll("J","jh"); 
-	transformed = transformed.replaceAll("Y","~n");
+    transformed = StringUtils.replacePattern(transformed,"c","ch");
+	transformed = StringUtils.replacePattern(transformed,"C","Ch");
+	transformed = StringUtils.replacePattern(transformed,"J","jh");
+	transformed = StringUtils.replacePattern(transformed,"Y","~n");
 
-	transformed = transformed.replaceAll("T","th"); // watch out!!!!
+	transformed = StringUtils.replacePattern(transformed,"T","th"); // watch out!!!!
 																// must be above .replaceAll("w","T")
-	transformed = transformed.replaceAll("D","dh");// watch out!!!!
+	transformed = StringUtils.replacePattern(transformed,"D","dh");// watch out!!!!
 																// must be above .replaceAll("q","D")
-	transformed = transformed.replaceAll("w","T");
-	transformed = transformed.replaceAll("W","Th");
-	transformed = transformed.replaceAll("q","D");
-	transformed = transformed.replaceAll("Q","Dh");
+	transformed = StringUtils.replacePattern(transformed,"w","T");
+	transformed = StringUtils.replacePattern(transformed,"W","Th");
+	transformed = StringUtils.replacePattern(transformed,"q","D");
+	transformed = StringUtils.replacePattern(transformed,"Q","Dh");
 																	
 
-	transformed = transformed.replaceAll("P","ph"); 
-	transformed = transformed.replaceAll("B","bh");
+	transformed = StringUtils.replacePattern(transformed,"P","ph");
+	transformed = StringUtils.replacePattern(transformed,"B","bh");
 	
-	transformed = transformed.replaceAll("S","sh");
-	transformed = transformed.replaceAll("z","Sh");
+	transformed = StringUtils.replacePattern(transformed,"S","sh");
+	transformed = StringUtils.replacePattern(transformed,"z","Sh");
 	
 	
-	transformed = transformed.replaceAll("~",".N"); // chandrabindu 
-	transformed = transformed.replaceAll("'", ".a");	// avagraha
+	transformed = StringUtils.replacePattern(transformed,"~",".N"); // chandrabindu
+	transformed = StringUtils.replacePattern(transformed,"'", ".a");	// avagraha
 	
-	transformed = transformed.replaceAll("5","~N"); // refer to NOTE 1, 5 -> ~N ( kavargIya )
+	transformed = StringUtils.replacePattern(transformed,"5","~N"); // refer to NOTE 1, 5 -> ~N ( kavargIya )
 													//must be below ...replaceAll("~",".N") otherwise confusion
 
 				
 	
-	transformed = transformed.replaceAll("6", "RRi");
-	transformed = transformed.replaceAll("7", "RRI");
+	transformed = StringUtils.replacePattern(transformed,"6", "RRi");
+	transformed = StringUtils.replacePattern(transformed,"7", "RRI");
 	
 	//log.info("SLPToItrans: transformed" +  transformed );
 	return transformed; // return transformed;

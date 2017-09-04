@@ -1,103 +1,105 @@
-package com.egangotri.transliteration;
+package com.egangotri.transliteration
+
+import org.apache.commons.lang3.StringUtils;
 
 public class ItransToSLP
 {
 
     public static String transform(String transformed)
     {
-        transformed = transformed.replaceAll("AUM", "Ω"); // omega or Ohm
-        transformed = transformed.replaceAll("OM", "Ω"); // Omega or Ohm
-        transformed = transformed.replaceAll("q", "κ"); // Greek kappa
-        transformed = transformed.replaceAll("K", "Κ"); // Greek Capital Kappa
-        transformed = transformed.replaceAll("G", "γ"); // gamma
-        transformed = transformed.replaceAll("z", "ζ"); // Zeta
-        transformed = transformed.replaceAll("J", "ζ"); // Zeta
-        transformed = transformed.replaceAll("f", "φ"); // phi
-        transformed = transformed.replaceAll("\\.Dh", "Δ"); // Capital Delta
-        transformed = transformed.replaceAll("\\.D", "δ"); // delta
-        transformed = transformed.replaceAll("\\.d", "τ"); // tau
-        transformed = transformed.replaceAll("\\.t", "θ"); // theta
-        transformed = transformed.replaceAll("\\.s", "σ"); // sigma
-        // transformed = transformed.replaceAll("\\.c", "ω"); //omega
+        transformed = StringUtils.replacePattern(transformed,"AUM", "Ω"); // omega or Ohm
+        transformed = StringUtils.replacePattern(transformed,"OM", "Ω"); // Omega or Ohm
+        transformed = StringUtils.replacePattern(transformed,"q", "κ"); // Greek kappa
+        transformed = StringUtils.replacePattern(transformed,"K", "Κ"); // Greek Capital Kappa
+        transformed = StringUtils.replacePattern(transformed,"G", "γ"); // gamma
+        transformed = StringUtils.replacePattern(transformed,"z", "ζ"); // Zeta
+        transformed = StringUtils.replacePattern(transformed,"J", "ζ"); // Zeta
+        transformed = StringUtils.replacePattern(transformed,"f", "φ"); // phi
+        transformed = StringUtils.replacePattern(transformed,"\\.Dh", "Δ"); // Capital Delta
+        transformed = StringUtils.replacePattern(transformed,"\\.D", "δ"); // delta
+        transformed = StringUtils.replacePattern(transformed,"\\.d", "τ"); // tau
+        transformed = StringUtils.replacePattern(transformed,"\\.t", "θ"); // theta
+        transformed = StringUtils.replacePattern(transformed,"\\.s", "σ"); // sigma
+        // transformed = StringUtils.replacePattern(transformed,"\\.c", "ω"); //omega
 
 
 
         //Special Situation where you dont want the vowels to merge but remain separate entities
-        transformed = transformed.replaceAll("\\{a\\}", "a");
-        transformed = transformed.replaceAll("\\{aa\\}", "A");
-        transformed = transformed.replaceAll("\\{A\\}", "A");
-        transformed = transformed.replaceAll("\\{i\\}", "i");
-        transformed = transformed.replaceAll("\\{ii\\}", "I");
-        transformed = transformed.replaceAll("\\{I\\}", "I");
-        transformed = transformed.replaceAll("\\{I\\}", "I");
+        transformed = StringUtils.replacePattern(transformed,"\\{a\\}", "a");
+        transformed = StringUtils.replacePattern(transformed,"\\{aa\\}", "A");
+        transformed = StringUtils.replacePattern(transformed,"\\{A\\}", "A");
+        transformed = StringUtils.replacePattern(transformed,"\\{i\\}", "i");
+        transformed = StringUtils.replacePattern(transformed,"\\{ii\\}", "I");
+        transformed = StringUtils.replacePattern(transformed,"\\{I\\}", "I");
+        transformed = StringUtils.replacePattern(transformed,"\\{I\\}", "I");
 
-        transformed = transformed.replaceAll("\\{u\\}", "u");
-        transformed = transformed.replaceAll("\\{uu\\}", "U");
-        transformed = transformed.replaceAll("\\{U\\}", "U");
+        transformed = StringUtils.replacePattern(transformed,"\\{u\\}", "u");
+        transformed = StringUtils.replacePattern(transformed,"\\{uu\\}", "U");
+        transformed = StringUtils.replacePattern(transformed,"\\{U\\}", "U");
 
-        transformed = transformed.replaceAll("\\{RRi\\}", "f");
-        transformed = transformed.replaceAll("\\{RRI\\}", "F");
-        transformed = transformed.replaceAll("\\{LLi\\}", "x");
-        transformed = transformed.replaceAll("\\{LLI\\}", "X");
+        transformed = StringUtils.replacePattern(transformed,"\\{RRi\\}", "f");
+        transformed = StringUtils.replacePattern(transformed,"\\{RRI\\}", "F");
+        transformed = StringUtils.replacePattern(transformed,"\\{LLi\\}", "x");
+        transformed = StringUtils.replacePattern(transformed,"\\{LLI\\}", "X");
 
-        transformed = transformed.replaceAll("\\{e\\}", "e");
-        transformed = transformed.replaceAll("\\{ai\\}", "E");
-        transformed = transformed.replaceAll("\\{o\\}", "X");
-        transformed = transformed.replaceAll("\\{au\\}", "X");
+        transformed = StringUtils.replacePattern(transformed,"\\{e\\}", "e");
+        transformed = StringUtils.replacePattern(transformed,"\\{ai\\}", "E");
+        transformed = StringUtils.replacePattern(transformed,"\\{o\\}", "X");
+        transformed = StringUtils.replacePattern(transformed,"\\{au\\}", "X");
 
         //Vowels
-        transformed = transformed.replaceAll("RRi", "f");
+        transformed = StringUtils.replacePattern(transformed,"RRi", "f");
 
-        transformed = transformed.replaceAll("RRI", "F");
-        transformed = transformed.replaceAll("LLi", "x");
-        transformed = transformed.replaceAll("LLI", "X");
+        transformed = StringUtils.replacePattern(transformed,"RRI", "F");
+        transformed = StringUtils.replacePattern(transformed,"LLi", "x");
+        transformed = StringUtils.replacePattern(transformed,"LLI", "X");
 
-        transformed = transformed.replaceAll("ai", "E");
-        transformed = transformed.replaceAll("au", "O");
+        transformed = StringUtils.replacePattern(transformed,"ai", "E");
+        transformed = StringUtils.replacePattern(transformed,"au", "O");
 
         //Consonants
-        transformed = transformed.replaceAll("kh", "K");
+        transformed = StringUtils.replacePattern(transformed,"kh", "K");
 
-        transformed = transformed.replaceAll("gh", "G");
+        transformed = StringUtils.replacePattern(transformed,"gh", "G");
 
         /** *NOTE 1 ** */
         // we have to convert ITRANS '~N' - SKT LIB 'N' but confuses with ITRANS
         // 'N'
         // therefore mdifying
-        // transformed = transformed.replaceAll("~N","N"); // watch out!!!!
+        // transformed = StringUtils.replacePattern(transformed,"~N","N"); // watch out!!!!
         // to
-        transformed = transformed.replaceAll("~N", "@@"); // itrans N is fifth
+        transformed = StringUtils.replacePattern(transformed,"~N", "@@"); // itrans N is fifth
         // of T-vargas,
         // hence @@
         // SKT LIB 'N' = @@, later @@ back again to 'N' at the end
 
         /** *Note 1 ** */
-        transformed = transformed.replaceAll("\\.N", "~"); // chandra-bindu...watch
+        transformed = StringUtils.replacePattern(transformed,"\\.N", "~"); // chandra-bindu...watch
         // out do not just
         // use .N use \\.N
         // must be below .replaceAll("~N","5")
-        transformed = transformed.replaceAll("Dh", "Q"); // must be before
+        transformed = StringUtils.replacePattern(transformed,"Dh", "Q"); // must be before
         // .replaceAll("dh","D");
-        transformed = transformed.replaceAll("Th", "W"); // must be before
+        transformed = StringUtils.replacePattern(transformed,"Th", "W"); // must be before
         // .replaceAll("th","T");
-        // transformed = transformed.replaceAll("Ch","C");
-        transformed = transformed.replaceAll("jh", "J");
-        transformed = transformed.replaceAll("~n", "Y");
-        transformed = transformed.replaceAll("T", "w");
+        // transformed = StringUtils.replacePattern(transformed,"Ch","C");
+        transformed = StringUtils.replacePattern(transformed,"jh", "J");
+        transformed = StringUtils.replacePattern(transformed,"~n", "Y");
+        transformed = StringUtils.replacePattern(transformed,"T", "w");
 
-        transformed = transformed.replaceAll("D", "q");
+        transformed = StringUtils.replacePattern(transformed,"D", "q");
 
-        transformed = transformed.replaceAll("N", "R");// confusion with
+        transformed = StringUtils.replacePattern(transformed,"N", "R");// confusion with
         // .replaceAll("~N","N")
 
-        transformed = transformed.replaceAll("th", "T"); // watch out!!!!
-        transformed = transformed.replaceAll("dh", "D");// watch out!!!!
-        transformed = transformed.replaceAll("ph", "P");
-        transformed = transformed.replaceAll("bh", "B");
+        transformed = StringUtils.replacePattern(transformed,"th", "T"); // watch out!!!!
+        transformed = StringUtils.replacePattern(transformed,"dh", "D");// watch out!!!!
+        transformed = StringUtils.replacePattern(transformed,"ph", "P");
+        transformed = StringUtils.replacePattern(transformed,"bh", "B");
 
-        transformed = transformed.replaceAll("Sh", "z");
-        transformed = transformed.replaceAll("sh", "S");
-        transformed = transformed.replaceAll("@@", "N"); // refer to NOTE 1
+        transformed = StringUtils.replacePattern(transformed,"Sh", "z");
+        transformed = StringUtils.replacePattern(transformed,"sh", "S");
+        transformed = StringUtils.replacePattern(transformed,"@@", "N"); // refer to NOTE 1
 
 
 
