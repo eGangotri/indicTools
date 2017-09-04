@@ -54,8 +54,10 @@ task sandhi(dependsOn: 'classes', type: JavaExec) {
     args = []
 }
 
+def String mainClass = ""
+def String jarSuffix = ""
 
-task fatJar(type: Jar) {
+task fatJarTrans(type: Jar) {
     baseName = project.name + '-transliterator'
     from { (configurations.compile + configurations.runtime).collect { it.isDirectory() ? it : zipTree(it) } }
     with jar
@@ -73,6 +75,16 @@ task fatJarSandhi(type:Jar) {
     }
 }
 
+task fatJar(dependsOn:[fatJarTrans, fatJarSandhi]){
+    doLast {
+        println 'jarring'
+        copy {
+            from "build/libs/"
+            into 'latestJarForUse'
+            include '*.jar'
+        }
+    }
+}
 
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.4'
