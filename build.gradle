@@ -2,8 +2,8 @@ apply plugin: 'application'
 apply plugin: 'groovy'
 
 mainClassName = "com.egangotri.transliteratorAsSwing.TransliteratorJFrame"
+
 //applicationDefaultJvmArgs = ["-Dwebdriver.chrome.driver=${System.getProperty('user.home')}/chromedriver/chromedriver.exe"]
-version=1.1
 repositories {
     mavenCentral()
     maven {
@@ -54,6 +54,26 @@ task sandhi(dependsOn: 'classes', type: JavaExec) {
     args = []
 }
 
+
+task fatJar(type: Jar) {
+    baseName = project.name + '-transliterator'
+    from { (configurations.compile + configurations.runtime).collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+    manifest {
+        attributes('Implementation-Title': 'eGangotri Programming Tools', 'Implementation-Version': "", 'Main-Class': mainClassName)
+    }
+}
+
+task fatJarSandhi(type:Jar) {
+    baseName = project.name + '-sandhi'
+    from { (configurations.compile + configurations.runtime).collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+    manifest {
+        attributes 'Implementation-Title': 'eGangotri Programming Tools', 'Implementation-Version': "", 'Main-Class': 'com.egangotri.sandhi.SandhiJFrame'
+    }
+}
+
+
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.4'
     compile 'org.codehaus.gpars:gpars:1.2.1'
@@ -71,12 +91,4 @@ dependencies {
 }
 
 
-task fatJar(type: Jar) {
-    baseName = project.name + '-all'
-    from { (configurations.compile + configurations.runtime).collect { it.isDirectory() ? it : zipTree(it) } }
-    with jar
-    manifest {
-        attributes 'Implementation-Title': 'eGangotri Programming Tools', 'Implementation-Version': version
-        attributes 'Main-Class': mainClassName
-    }
-}
+

@@ -129,6 +129,11 @@ class EncodingUtil {
         if (inputEncoding == outputEncoding) {
             return convertibleText
         }
+
+        if(convertibleText.length() < 1000){
+           return _convert(convertibleText, inputEncoding, outputEncoding, capitalizeIAST)
+        }
+
         int start = System.currentTimeMillis()
         def userInputSplit = convertibleText.split(" ").toList()
         println("userInput.split(\" \").size(): ${userInputSplit.size()}")
