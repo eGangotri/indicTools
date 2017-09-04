@@ -14,5 +14,12 @@ Transliterator for Indic Scripts with support for back and forth Conversion betw
 * Sandhi Engine
 * Pratyahara Decoder
 
-Download JAR from
-https://archive.org/download/EGangotriIndicTransliterator
+####Download JAR from####
+https://github.com/eGangotri/indicTools/tree/master/latestJarForUse
+
+####To use:####
+Download Java 8 or above
+Double Click Jar to Launch.
+or from Command Prompt issue command.
+java -jar <PATH TO JAR>
+
