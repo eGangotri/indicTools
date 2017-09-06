@@ -1,0 +1,83 @@
+    <dl>
+           <dt>tha 1</dt>
+           <dd><em>tha</em> aspirate of the preceding letter</dd>
+
+           <dt>&#x22d9; thak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>th</em></dd>
+
+           <dt>&#x226b; tha 2</dt>
+           <dd><em>tha</em> m. a mountain <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a protector <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a sign of danger <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of a disease <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; eating <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. preservation <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; fear <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; an auspicious prayer <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>thakkana </dt>
+           <dd><em>thakkana</em> m. <em>&#x1e6d;hakk&#x25cb;</em> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>thakriya </dt>
+           <dd><em>thakriya</em> m. N. of a man, iv, 493</dd>
+
+           <dt>thakviyaka </dt>
+           <dd><em>thakviyaka</em> N. of a man, v, 151</dd>
+
+           <dt>tharathar&#x0101;ya </dt>
+           <dd><em>tharathar&#x0101;ya</em> Nom. &#x0100;. (p. <em>&#x25cb;yam&#x0101;na</em>) to grow giddy, tumble, K&#x0101;r&#x0101;&#x1e47;&#x1e0d;. xi, 130</dd>
+
+           <dt>tharv </dt>
+           <dd><em>tharv</em> cl. 1. P. to go <a href="worksAuthorsAbbrs.html#Nir">Nir.</a> xi, 18</dd>
+
+           <dt>thalyoraka </dt>
+           <dd><em>thalyoraka</em> N. of a village <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>thu&#x1e0d; </dt>
+           <dd><em>thu&#x1e0d;</em> cl. 6. <em>&#x25cb;&#x1e0d;ati</em>, to cover <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a></dd>
+
+           <dt>thutk&#x0101;ra </dt>
+           <dd><em>thut-k&#x0101;ra</em> m. = <em>th&#x016b;t-k&#x25cb;</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; thutthuk&#x0101;raka </dt>
+           <dd><em>thutthu-k&#x0101;raka</em> mfn. one who smacks his lips in eating (not admitted into the <a href="worksAuthorsAbbrs.html#Buddh">Buddh.</a> brotherhood) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; thuthu </dt>
+           <dd><em>thuthu</em> = <em>th&#x016b;th&#x016b;</em></dd>
+
+           <dt>&#x22d9; thuthuk&#x1e5b;t </dt>
+           <dd><em>&#x25cb;k&#x1e5b;t</em> m. N. of a bird <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>thurv </dt>
+           <dd><em>thurv</em> cl. 1. p. <em>th&#x016b;&#x0341;rvat</em>, (Agni) hurting (cf. Dh&#x0101;tup. xv, 62 </dd>
+           <dd>&#x2022; <a href="worksAuthorsAbbrs.html#&#x221a;">&#x221a;.</a><em>turv</em>) <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> ii, 10, 1</dd>
+
+           <dt>th&#x016b;t </dt>
+           <dd><em>th&#x016b;t</em> ind. (fr. <em>&#x1e63;&#x1e6d;hy&#x016b;ta</em> ?)</dd>
+
+           <dt>&#x22d9; th&#x016b;tk&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the sound made in spitting <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> vii f</dd>
+
+           <dt>&#x22d9; th&#x016b;tk&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ta</em> n. id., vii, 1116</dd>
+
+           <dt>&#x22d9; th&#x016b;tk&#x1e5b;tya </dt>
+           <dd><em>&#x25cb;k&#x1e5b;tya</em> ind. spitting <a href="worksAuthorsAbbrs.html#ib">ib.</a> <font color="#FF0000" font size=-2><a name="p464-3"></a>[Page 464, Column 3]</font>
+</dd>
+
+           <dt>&#x22d9; th&#x016b;th&#x016b; </dt>
+           <dd><em>th&#x016b;th&#x016b;</em> imitative sound of spitting, S&#x00fb;ktik</dd>
+
+           <dt>thaithai </dt>
+           <dd><em>thaithai</em> (in music) imitative sound of a musical instrument</dd>
+
+           <dt>tho&#x1e0d;ana </dt>
+           <dd><em>tho&#x1e0d;ana</em> n. fr. &#x221a;<em>thu&#x1e0d;</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>thau&#x1e47;eya </dt>
+           <dd><em>thau&#x1e47;eya</em> <em>&#x25cb;yaka</em> n. = <em>sth&#x25cb;</em> <a href="worksAuthorsAbbrs.html#Car">Car.</a> vi f</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

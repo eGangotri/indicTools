@@ -1,0 +1,540 @@
+    <dl>
+           <dt>o 1</dt>
+           <dd><em>o</em> the thirteenth vowel of the alphabet (corresponding to English <em>o</em>)</dd>
+
+           <dt>&#x22d9; ok&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>o</em> <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> <a href="worksAuthorsAbbrs.html#APr&#x0101;t">APr&#x0101;t.</a></dd>
+
+           <dt>o 2</dt>
+           <dd><em>o</em> ind. an interjection <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a particle of addressing </dd>
+           <dd>&#x2022; calling </dd>
+           <dd>&#x2022; reminiscence </dd>
+           <dd>&#x2022; of compassion <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>o 3</dt>
+           <dd><em>o</em> <em>os</em> m. N. of Brahm&#x0101; <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>o 4</dt>
+           <dd><em>&#x00f4;</em> (<em>&#x0101;-&#x221a;u</em>)</dd>
+
+           <dt>&#x226b; ota 1</dt>
+           <dd><em>&#x00f4;&#x0341;ta</em> (for 2. See col. 3), mfn. addressed, invoked, summoned <a href="worksAuthorsAbbrs.html#AV">AV.</a></dd>
+
+           <dt>oka </dt>
+           <dd><em>oka</em> m. (&#x221a;<em>uc</em> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iv, 215), a house, refuge, asylum (cf. <em>an-oka-&#x015b;&#x0101;yin</em>) </dd>
+           <dd>&#x2022; a bird <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>v&#x1e5b;&#x1e63;ala</em> <a href="worksAuthorsAbbrs.html#T">T.</a> </dd>
+           <dd>&#x2022; conjunction of heavenly bodies <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; okaja </dt>
+           <dd><em>&#x25cb;ja</em> mfn. born in the house, bred at home (as cows) <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a></dd>
+
+           <dt>&#x226b; okas </dt>
+           <dd><em>&#x00f3;kas</em> <em>as</em> n. house, dwelling, place of abiding, abode, home, refuge, asylum         <br>          <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> &amp;c. (cf. <em>div&#x00e2;ukas</em>, <em>van&#x00e2;ukas</em>, &amp;c.)</dd>
+
+           <dt>&#x22d9; oka&#x1e25;s&#x0101;rin </dt>
+           <dd><em>oka&#x1e25;s&#x0101;rin</em> mfn. going after or frequenting an abode <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a></dd>
+
+           <dt>&#x22d9; okonidhana </dt>
+           <dd><em>oko-nidhana</em> n. N. of a S&#x0101;man</dd>
+
+           <dt>&#x226b; okivas </dt>
+           <dd><em>okivas</em> mfn. (irr. p.p. P. of &#x221a;<em>uc</em>) accustomed to, used to, having a liking for <a href="worksAuthorsAbbrs.html#RV">RV.</a> vi, 59, 3</dd>
+
+           <dt>&#x226b; okya </dt>
+           <dd><em>oky&#x00e1;</em> mfn. fit for or belonging to a home <a href="worksAuthorsAbbrs.html#RV">RV.</a> ix, 86, 45 </dd>
+           <dd>&#x2022; (<em>am</em>), n. = <em>&#x00f3;kas</em> above <a href="worksAuthorsAbbrs.html#RV">RV.</a></dd>
+
+           <dt>oka&#x1e47;a </dt>
+           <dd><em>oka&#x1e47;a</em> <em>as</em>, <em>oka&#x1e47;i</em> m. a bug <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; okodan&#x012b; </dt>
+           <dd><em>okodan&#x012b;</em></dd>
+
+           <dt>&#x22d9; okka&#x1e47;&#x012b; </dt>
+           <dd><em>okka&#x1e47;&#x012b;</em> f. id. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>okula </dt>
+           <dd><em>okula</em> m. wheat fried slightly <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ok&#x1e63; </dt>
+           <dd><em>&#x00f4;k&#x1e63;</em> (<em>&#x0101;-&#x221a;uk&#x1e63;</em>), P. <em>-uk&#x1e63;ati</em>, to sprinkle over or upon <a href="worksAuthorsAbbrs.html#RV">RV.</a></dd>
+
+           <dt>okh </dt>
+           <dd><em>okh</em> cl. 1. P. <em>okhati</em>, <em>okh&#x0101;&#x1e43;-cak&#x0101;ra</em>, <em>okhit&#x0101;</em>, &amp;c., to be dry or arid </dd>
+           <dd>&#x2022; to be able, suffice </dd>
+           <dd>&#x2022; to adorn </dd>
+           <dd>&#x2022; to refuse, ward off <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> v, 7</dd>
+
+           <dt>oga&#x1e47;a </dt>
+           <dd><em>oga&#x1e47;&#x00e1;</em> mfn. assembled, united [<a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>] <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 89, 15. <font color="#FF0000" font size=-2><a name="p235-2"></a>[Page 235, Column 2]</font>
+</dd>
+
+           <dt>og&#x012b;yas </dt>
+           <dd><em>og&#x012b;yas</em> (= <em>&#x00f3;j&#x012b;yas</em>), compar. of <em>ugr&#x00e1;</em>, p. 172, col. 2 <a href="worksAuthorsAbbrs.html#B&#x1e5b;&#x0100;rUp">B&#x1e5b;&#x0100;rUp.</a></dd>
+
+           <dt>ogha </dt>
+           <dd><em>ogha</em> m. (ifc. f. <em>&#x0101;</em>) </dd>
+           <dd>&#x2022; (&#x221a;<em>vah</em>) flood, stream, rapid flow of water <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> &amp;c </dd>
+           <dd>&#x2022; heap or quantity, flock, multitude, abundance <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> &amp;c </dd>
+           <dd>&#x2022; quick time (in music) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; uninterrupted tradition <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; instruction <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>augha</em>.)</dd>
+
+           <dt>&#x22d9; oghaniryukti </dt>
+           <dd><em>&#x25cb;niryukti</em> f. N. of wk</dd>
+
+           <dt>&#x22d9; ogharatha </dt>
+           <dd><em>&#x25cb;ratha</em> m. N. of a son of Oghavat <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii</dd>
+
+           <dt>&#x22d9; oghavat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. having a strong stream (as a river) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii </dd>
+           <dd>&#x2022; (<em>&#x0101;n</em>), m. N. of a king <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; (<em>t&#x012b;</em>), f. N. of a daughter (cf. MBh.) or sister (cf. BhP.) of Oghavat </dd>
+           <dd>&#x2022; N. of a river <a href="worksAuthorsAbbrs.html#VP">VP.</a></dd>
+
+           <dt>oj </dt>
+           <dd><em>oj</em> cl. 1. 10. P. <em>ojati</em>, <em>ojayati</em>, to be strong or able </dd>
+           <dd>&#x2022; to increase, have vital power <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxxv, 84</dd>
+
+           <dt>oja </dt>
+           <dd><em>oja</em> mfn. odd (as the first, third, fifth, &amp;c. in a series) <a href="worksAuthorsAbbrs.html#RPr&#x0101;t">RPr&#x0101;t.</a> <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; m. N. of a son of K&#x1e5b;ish&#x1e47;a <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; = <em>&#x00f3;jas</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ojas </dt>
+           <dd><em>&#x00f3;jas</em> <em>as</em> n. (&#x221a;<em>vaj</em>, or <em>uj</em> </dd>
+           <dd>&#x2022; cf. <em>ugra</em>), bodily strength, vigour, energy, ability, power <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c </dd>
+           <dd>&#x2022; vitality (the principle of vital warmth and action throughout the body) <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> &amp;c </dd>
+           <dd>&#x2022; (in rhet.) elaborate style (abounding with compounds) </dd>
+           <dd>&#x2022; vigorous or emphatic expression <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> <a href="worksAuthorsAbbrs.html#V&#x0101;m">V&#x0101;m.</a> </dd>
+           <dd>&#x2022; water <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; light, splendour, lustre <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; manifestation, appearance <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; support <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;s</em>), m. N. of a Yaksha <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> ; [<a href="worksAuthorsAbbrs.html#Zd">Zd.</a> <em>avja&#x1e45;h</em>, 'power' </dd>
+           <dd>&#x2022; Gk. ?, ?, ? ; Lat. <em>vige1re</em>, <em>augere</em>, <em>augur</em>, [235, 2] <em>augus-tus</em>, <em>auxilium</em> ; Goth. <em>aukan</em>, Eng. <em>eke</em>.]</dd>
+
+           <dt>&#x22d9; ojastara </dt>
+           <dd><em>&#x25cb;tara</em> mfn. = <em>&#x00f3;j&#x012b;yas</em> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#B&#x1e5b;&#x0100;rUp">B&#x1e5b;&#x0100;rUp.</a></dd>
+
+           <dt>&#x22d9; ojasvat </dt>
+           <dd><em>&#x25cb;"&#x1e63;vat</em> mfn. vigorous, powerful, strong, energetic <a href="worksAuthorsAbbrs.html#RV">RV.</a> viii, 76, 5 <a href="worksAuthorsAbbrs.html#AV">AV.</a> viii, 5, 4 ; 16 <a href="worksAuthorsAbbrs.html#VS">VS.</a></dd>
+
+           <dt>&#x22d9; ojasvin </dt>
+           <dd><em>&#x25cb;"&#x1e63;v&#x00ed;n</em>         <br>          mfn. id. <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), m. N. of a son of Manu Bhautya <a href="worksAuthorsAbbrs.html#VP">VP.</a> (<em>ojasvi</em>) <em>-t&#x0101;</em> f. an energetic or emphatic manner of expression or style <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a></dd>
+
+           <dt>&#x226b; ojas&#x012b;na </dt>
+           <dd><em>ojas&#x012b;&#x0341;na</em> mfn. having strength, powerful <a href="worksAuthorsAbbrs.html#TS">TS.</a> iv <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a></dd>
+
+           <dt>&#x226b; ojasya </dt>
+           <dd><em>ojasy&#x00e1;</em> mfn. vigorous, powerful <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> ii <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a></dd>
+
+           <dt>&#x226b; oj&#x0101;ya </dt>
+           <dd><em>oj&#x0101;ya</em> Nom. &#x0100;. <em>oj&#x0101;yate</em> (p. <em>oj&#x0101;y&#x00e1;m&#x0101;na</em>) to exhibit strength or energy, make effort <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 140, 6 ; ii, 12, 11 ; iii, 32, 11 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 3-1, 11 <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a></dd>
+
+           <dt>&#x226b; oj&#x0101;yita </dt>
+           <dd><em>oj&#x0101;yita</em> n. stout-heartedness, courageous behaviour</dd>
+
+           <dt>&#x226b; oji&#x1e63;&#x1e6d;ha </dt>
+           <dd><em>&#x00f3;ji&#x1e63;&#x1e6d;ha</em> mfn. superl. of <em>ugr&#x00e1;</em>, q.v </dd>
+           <dd>&#x2022; m. N. of a Muni, BrahmP </dd>
+           <dd>&#x2022; (<em>&#x0101;s</em>), m. pl. the decendants of the same <a href="worksAuthorsAbbrs.html#ib">ib.</a> ; [<a href="worksAuthorsAbbrs.html#Zd">Zd.</a> <em>aojista</em>.]</dd>
+
+           <dt>&#x226b; oj&#x012b;yas </dt>
+           <dd><em>&#x00f3;j&#x012b;yas</em> mfn. compar. of <em>ugr&#x00e1;</em>, q.v</dd>
+
+           <dt>&#x226b; ojo </dt>
+           <dd><em>ojo</em> (in comp. for <em>&#x00f3;jas</em> above)</dd>
+
+           <dt>&#x22d9; ojod&#x0101; </dt>
+           <dd><em>&#x25cb;d&#x0101;&#x0341;</em> mfn. granting power, strengthening <a href="worksAuthorsAbbrs.html#RV">RV.</a> viii, 3, 24 <a href="worksAuthorsAbbrs.html#TS">TS.</a> v ; [<a href="worksAuthorsAbbrs.html#Zd">Zd.</a> <em>aoga&#x015b;d&#x00e2;o</em>] </dd>
+           <dd>&#x2022; <em>-tama</em>, granting great power, very strengthening <a href="worksAuthorsAbbrs.html#RV">RV.</a> viii, 92, 17 ; [<a href="worksAuthorsAbbrs.html#Zd">Zd.</a> <em>aoga&#x015b;dactema</em>.]</dd>
+
+           <dt>&#x22d9; ojopati </dt>
+           <dd><em>&#x25cb;pati</em> (with irr. Sandhi), m. N. of a deity of the Bodhi tree <a href="worksAuthorsAbbrs.html#Lalit">Lalit.</a></dd>
+
+           <dt>&#x22d9; ojobal&#x0101; </dt>
+           <dd><em>&#x25cb;bal&#x0101;</em> f. N. of a goddess of the Bodhi tree <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; ojom&#x0101;n&#x012b; </dt>
+           <dd><em>&#x25cb;m&#x0101;n&#x012b;</em> f. N. of a plant <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a></dd>
+
+           <dt>&#x226b; ojman </dt>
+           <dd><em>ojm&#x00e1;n</em> <em>&#x0101;</em> m. power, vigour, energy, speed velocity <a href="worksAuthorsAbbrs.html#RV">RV.</a> vi, 47, 27 <a href="worksAuthorsAbbrs.html#AV">AV.</a> ; [<a href="worksAuthorsAbbrs.html#Lat">Lat.</a> <em>augmentu-m</em> ; Lith. <em>augmu&#x25cb;</em>.]</dd>
+
+           <dt>o&#x1e0d;a </dt>
+           <dd><em>o&#x1e0d;a</em> m. N. of a man <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>o&#x1e0d;ava </dt>
+           <dd><em>o&#x1e0d;ava</em> (<em>o&#x1e0d;aka</em> <a href="worksAuthorsAbbrs.html#W">W.</a>), m. (in mus.) a mode which consists of five notes only (omitting &#x1e5a;ishabha and Pa&#x00f1;cama)</dd>
+
+           <dt>o&#x1e0d;ik&#x0101; </dt>
+           <dd><em>o&#x1e0d;ik&#x0101;</em> <em>o&#x1e0d;&#x012b;</em> f. wild rice <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>odan&#x00e1;</em>.)</dd>
+
+           <dt>o&#x1e0d;ra </dt>
+           <dd><em>o&#x1e0d;ra</em> m. N. of a country (the modern Orissa </dd>
+           <dd>&#x2022; See Lassen, IA. i, 224, note 2) </dd>
+           <dd>&#x2022; (<em>&#x0101;s</em>), m. pl. the inhabitants of that country <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> x, 44 <a href="worksAuthorsAbbrs.html#R">R.</a> &amp;c </dd>
+           <dd>&#x2022; the China rose <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; o&#x1e0d;rade&#x015b;a </dt>
+           <dd><em>&#x25cb;de&#x015b;a</em> m. N. of the country Orissa</dd>
+
+           <dt>&#x22d9; o&#x1e0d;rapu&#x1e63;pa </dt>
+           <dd><em>&#x25cb;pu&#x1e63;pa</em> n. the flower of the China rose <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; o&#x1e0d;r&#x0101;khy&#x0101; </dt>
+           <dd><em>o&#x1e0d;r&#x00e2;khy&#x0101;</em> f. the China rose <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>o&#x1e0d;ha </dt>
+           <dd><em>&#x00f4;&#x0341;&#x1e0d;ha</em> mfn. (p.p. of <em>&#x0101;-&#x221a;vah</em>, q.v.) brought or carried near</dd>
+
+           <dt>o&#x1e47; </dt>
+           <dd><em>o&#x1e47;</em> cl. 1. P. <em>o&#x1e47;ati</em>, <em>o&#x1e47;&#x0101;&#x1e43;-cak&#x0101;ra</em>, <em>o&#x1e47;it&#x0101;</em>, &amp;c., to remove, take away, drag along <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xiii, 11</dd>
+
+           <dt>&#x226b; o&#x1e47;i </dt>
+           <dd><em>o&#x1e47;&#x00ed;</em> m. (or f. ?) protection (from misfortune), shelter [<a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>] <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 61, 14 </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), m. (or f. ?) du. 'the two protectors', the parents <a href="worksAuthorsAbbrs.html#RV">RV.</a> ix, 101, 14 </dd>
+           <dd>&#x2022; (metaphorically) heaven and earth <a href="worksAuthorsAbbrs.html#RV">RV.</a> ix, 16, 1 ; 65, 11 <a href="worksAuthorsAbbrs.html#AV">AV.</a> vii, 14, 1 (= <a href="worksAuthorsAbbrs.html#VS">VS.</a> iv, 25)</dd>
+
+           <dt>o&#x1e47;&#x1e0d;ra </dt>
+           <dd><em>o&#x1e47;&#x1e0d;ra</em> m. N. of a king <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a> <font color="#FF0000" font size=-2><a name="p235-3"></a>[Page 235, Column 3]</font>
+</dd>
+
+           <dt>ota 2</dt>
+           <dd><em>&#x00f4;&#x0341;ta</em> (for 1. See 4. <em>&#x00f4;</em>), p.p. of <em>&#x0101;-&#x221a;ve</em>, p. 156, col. 2</dd>
+
+           <dt>&#x22d9; otaprota </dt>
+           <dd><em>&#x25cb;prota</em> See id</dd>
+
+           <dt>otu 1</dt>
+           <dd><em>&#x00f3;tu</em> m. (&#x221a;<em>ve</em>), the woof or cross-threads of a web <a href="worksAuthorsAbbrs.html#RV">RV.</a> vi, 9, 2 <a href="worksAuthorsAbbrs.html#AV">AV.</a> xiv, 2, 51 <a href="worksAuthorsAbbrs.html#TS">TS.</a> vi <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> </dd>
+           <dd>&#x2022; (<em>u</em>), n. N. of a S&#x0101;man <a href="worksAuthorsAbbrs.html#&#x0100;rshBr">&#x0100;rshBr.</a></dd>
+
+           <dt>&#x226b; otave </dt>
+           <dd><em>&#x00f3;tave</em></dd>
+
+           <dt>&#x22d9; otavai </dt>
+           <dd><em>&#x00f3;tavai</em> Ved. inf</dd>
+
+           <dt>otu 2</dt>
+           <dd><em>otu</em> <em>us</em> mf. (&#x221a;<em>av</em> <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> i, 70), a cat <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-1, 94</dd>
+
+           <dt>ots&#x016b;ryam </dt>
+           <dd><em>&#x00f4;ts&#x016b;ry&#x00e1;m</em> ind. until the sun rises <a href="worksAuthorsAbbrs.html#AV">AV.</a> iv, 5, 7</dd>
+
+           <dt>odaka </dt>
+           <dd><em>odak&#x00e1;</em> n. (probably irr. for <em>audaka</em>) an animal living in water <a href="worksAuthorsAbbrs.html#T&#x0100;r">T&#x0100;r.</a> i, 26, 7</dd>
+
+           <dt>odat&#x012b; </dt>
+           <dd><em>&#x00f3;dat&#x012b;</em> f. (pres. p. of &#x221a;<em>ud</em>) 'sprinkling or refreshing', N. of Ushas or the dawn <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 48, 6 ; viii, 69, 2</dd>
+
+           <dt>&#x226b; odana </dt>
+           <dd><em>odan&#x00e1;</em> <em>as</em>, <em>am</em> m. n. (&#x221a;<em>ud</em> <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> ii, 76), grain mashed and cooked with milk, porridge, boiled rice, any pap or pulpy substance <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c </dd>
+           <dd>&#x2022; m. cloud <a href="worksAuthorsAbbrs.html#Nigh">Nigh.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. Sida Cordifolia <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; odanapacana </dt>
+           <dd><em>&#x25cb;pacana</em> m. N. of the fire on the southern altar <a href="worksAuthorsAbbrs.html#K&#x0101;&#x1e6d;h">K&#x0101;&#x1e6d;h.</a></dd>
+
+           <dt>&#x22d9; odanap&#x0101;k&#x012b; </dt>
+           <dd><em>&#x25cb;p&#x0101;k&#x012b;</em> f. (cf. P&#x0101;&#x1e47;. 4-1, 64) Barleria Caerulea <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> <a href="worksAuthorsAbbrs.html#Nigh">Nigh.</a></dd>
+
+           <dt>&#x22d9; odanap&#x0101;&#x1e47;in&#x012b;ya </dt>
+           <dd><em>&#x25cb;p&#x0101;&#x1e47;in&#x012b;ya</em> m. one who becomes a pupil of or studies the work of P&#x0101;&#x1e47;ini only for the sake of getting boiled rice <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-2, 69 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 1-1, 73</dd>
+
+           <dt>&#x22d9; odanabhojik&#x0101; </dt>
+           <dd><em>&#x25cb;bhojik&#x0101;</em> f. eating boiled rice <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 3-3, 111</dd>
+
+           <dt>&#x22d9; odanavat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. provided with boiled rice <a href="worksAuthorsAbbrs.html#TS">TS.</a> ii</dd>
+
+           <dt>&#x22d9; odanasava </dt>
+           <dd><em>&#x25cb;sava</em> m. a particular oblation <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#TBr">TBr.</a> ii, 7, 7</dd>
+
+           <dt>&#x22d9; odan&#x0101;hvay&#x0101; </dt>
+           <dd><em>odan&#x00e2;hvay&#x0101;</em> and f. N. of a plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; odan&#x0101;hv&#x0101; </dt>
+           <dd><em>odan&#x00e2;hv&#x0101;</em> f. N. of a plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; odanika </dt>
+           <dd><em>odanika</em> mf(<em>&#x012b;</em>)n. receiving boiled rice <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 67 </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. Sida Cordifolia <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; odan&#x012b;ya 1</dt>
+           <dd><em>odan&#x012b;ya</em> Nom. P. <em>odan&#x012b;yati</em>, to wish for boiled rice <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x226b; odan&#x012b;ya 2</dt>
+           <dd><em>odan&#x012b;ya</em> mfn. consisting of or belonging to boiled rice, g. <em>ap&#x016b;p&#x00e2;di</em>, <em>p&#x0101;&#x1e47;</em>. v, 1, 4</dd>
+
+           <dt>&#x226b; odanya </dt>
+           <dd><em>odanya</em> mfn. id. <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x226b; odma </dt>
+           <dd><em>odma</em> m. the act of wetting, moistening <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-4, 29</dd>
+
+           <dt>&#x226b; odman </dt>
+           <dd><em>&#x00f3;dman</em> <em>a</em> n. flowing, flooding <a href="worksAuthorsAbbrs.html#VS">VS.</a> xiii, 53 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-1, 94 </dd>
+           <dd>&#x2022; [cf. <em>olla</em> (= <em>od-la</em>) ; also Zd. <em>aodha</em> pl. 'waters', 'flood.']</dd>
+
+           <dt>odhas </dt>
+           <dd><em>odhas</em> <em>as</em> n. = <em>&#x016b;dhas</em>, q.v. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>opadru </dt>
+           <dd><em>&#x00f4;pa-&#x221a;dru</em> P. (Impv. 2. sg. <em>-drava</em>) to hasten near to <a href="worksAuthorsAbbrs.html#RV">RV.</a> vi, 48, 16</dd>
+
+           <dt>opa&#x015b;a </dt>
+           <dd><em>opa&#x015b;&#x00e1;</em> m. (fr. <em>upa-&#x221a;&#x015b;&#x012b;</em>), that on which any one rests, a cushion, pillow <a href="worksAuthorsAbbrs.html#RV">RV.</a> ix, 71, 1 ; x, 85, 8 <a href="worksAuthorsAbbrs.html#AV">AV.</a> ix, 3, 8 ; xiv, 1, 8 </dd>
+           <dd>&#x2022; top-knot, plume (perhaps for <em>avapa&#x015b;a</em>, &#x221a;<em>pa&#x015b;</em>) </dd>
+           <dd>&#x2022; (<em>am</em>), n. a support, stay, pillar <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 173, 6 ; viii, 14, 5</dd>
+
+           <dt>&#x226b; opa&#x015b;in </dt>
+           <dd><em>opa&#x015b;&#x00ed;n</em> mfn. provided with or lying upon cushions or pillows, effeminate <a href="worksAuthorsAbbrs.html#AV">AV.</a> vi, 138, 1 </dd>
+           <dd>&#x2022; 2</dd>
+
+           <dt>opya </dt>
+           <dd><em>&#x00f4;pya</em> (<em>&#x0101;-upya</em>), ind. p. of <em>&#x0101;-&#x221a;vap</em> (q.v.), having scattered or thrown into, pouring down <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;vG&#x1e5b;">&#x0100;&#x015b;vG&#x1e5b;.</a> &amp;c</dd>
+
+           <dt>om </dt>
+           <dd><em>&#x00f3;m</em> ind. (&#x221a;<em>av</em> <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> i, 141 </dd>
+           <dd>&#x2022; originally <em>o&#x1e43;</em> = <em>&#x0101;&#x1e43;</em>, which may be derived from <em>&#x0101;</em> <a href="worksAuthorsAbbrs.html#BRD">BRD.</a>), a word of solemn affirmation and respectful assent, sometimes translated by 'yes, verily, so be it' (and in this sense compared with Amen </dd>
+           <dd>&#x2022; it is placed at the commencement of most Hind&#x016b; works, and as a sacred exclamation may be uttered <em>but not so as to be heard by ears profane</em> at the beginning and end of a reading of the Vedas or previously to any prayer </dd>
+           <dd>&#x2022; it is also regarded as a particle of auspicious salutation [Hail!] </dd>
+           <dd>&#x2022; <em>om</em> appears first in the Upanishads as a mystic monosyllable, and is there set forth as the object of profound religious meditation, the highest spiritual efficacy being attributed not only to the whole word but also to the three sounds <em>a</em>, <em>u</em>, <em>m</em>, of which it consists </dd>
+           <dd>&#x2022; in later times <em>om</em> is the mystic name for the Hind&#x016b; triad, and represents the union of the three gods, viz. a (Vish&#x1e47;u), <em>u</em> (&#x015a;iva), <em>m</em> (Brahm&#x0101;) </dd>
+           <dd>&#x2022; it may also be typical of the three Vedas </dd>
+           <dd>&#x2022; <em>om</em> is usually called <em>pra&#x1e47;ava</em>, more rarely <em>ak&#x1e63;ara</em>, or <em>ek&#x0101;k&#x1e63;ara</em>, and only in later times <em>o&#x1e43;k&#x0101;ra</em>) <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> &amp;c </dd>
+           <dd>&#x2022; (Buddhists place <em>om</em> at the beginning of their <em>vidy&#x0101; &#x1e63;a&#x1e0d;ak&#x1e63;ar&#x012b;</em> or mystical formulary in six syllables [viz. <em>om ma&#x1e47;i padme h&#x016b;&#x1e43;</em>] </dd>
+           <dd>&#x2022; according to <a href="worksAuthorsAbbrs.html#T">T.</a> <em>om</em> may be used in the following senses: <em>pra&#x1e47;ave</em>, <em>&#x0101;rambhe</em>, <em>sviik&#x0101;re</em>, <em>anumatau</em>, <em>ap&#x00e2;k&#x1e5b;tau</em>, <em>asviik&#x0101;re</em>, <em>ma&#x1e45;gale</em>, <em>&#x015b;ubhe</em>, <em>j&#x00f1;eye</em>, <em>brahma&#x1e47;i</em> </dd>
+           <dd>&#x2022; with preceding <em>a</em> or <em>&#x0101;</em>, the <em>o</em> of <em>om</em> does not form V&#x1e5b;iddhi (<em>au</em>), but Gu&#x1e47;a (<em>o</em>) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-1, 95.)</dd>
+
+           <dt>&#x22d9; omk&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> (<em>o&#x1e43;-k&#x25cb;</em>), m. the sacred and mystical syllable <em>om</em>, the exclamation <em>om</em>, pronouncing the syllable <em>om</em> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> ii, 75 ; 81 <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a> &amp;c., (cf. <em>vijayo&#x1e43;k&#x0101;ra</em>, <em>k&#x1e5b;to&#x1e43;k&#x0101;ra</em>) <font color="#FF0000" font size=-2><a name="p236-1"></a>[Page 236, Column 1]</font> </dd>
+           <dd>&#x2022; a beginning, prosperous or auspicious beginning of (e.g. a science) <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a> </dd>
+           <dd>&#x2022; N. of a Li&#x1e45;ga </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a Buddhist &#x015a;akti or female personification of divine energy <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; <em>-grantha</em> m. N. of wk. of N&#x0101;r&#x0101;ya&#x1e47;a </dd>
+           <dd>&#x2022; <em>-t&#x012b;rtha</em> n. N. of a T&#x012b;rtha </dd>
+           <dd>&#x2022; <em>-p&#x012b;&#x1e6d;ha</em> n. N. of a place </dd>
+           <dd>&#x2022; <em>-bha&#x1e6d;&#x1e6d;a</em> m. N. of a man</dd>
+
+           <dt>&#x22d9; omk&#x0101;r&#x012b;ya </dt>
+           <dd><em>&#x25cb;"&#x1e63;k&#x0101;r&#x012b;ya</em> Nom. P. <em>o&#x1e43;k&#x0101;r&#x012b;yati</em>, to be an O&#x1e43;k&#x0101;ra (?) <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-1, 95</dd>
+
+           <dt>&#x22d9; omk&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ta</em> mfn. having an uttered <em>om</em> </dd>
+           <dd>&#x2022; accompanied by <em>om</em></dd>
+
+           <dt>&#x226b; oma </dt>
+           <dd><em>oma</em> (<em>om&#x0101;sas</em> voc. pl.), m. (&#x221a;<em>av</em>), a friend helper, protector <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 3, 7</dd>
+
+           <dt>&#x226b; oman </dt>
+           <dd><em>om&#x00e1;n</em> <em>&#x0101;</em> m. help, protection, favour, kindness <a href="worksAuthorsAbbrs.html#RV">RV.</a> </dd>
+           <dd>&#x2022; (<em>&#x00f3;man</em>, <em>&#x0101;</em>, m.) a friend, helper, protector <a href="worksAuthorsAbbrs.html#RV">RV.</a> v, 43. 13</dd>
+
+           <dt>&#x22d9; omanvat </dt>
+           <dd><em>&#x25cb;vat</em> (<em>&#x00f3;man-</em>), mfn. helping, useful <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 39, 9 </dd>
+           <dd>&#x2022; favourable, propitious <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> iv, 3, 9 <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> i</dd>
+
+           <dt>&#x226b; om&#x0101;tr&#x0101; </dt>
+           <dd><em>&#x00f3;m&#x0101;tr&#x0101;</em> f. protection, favour, readiness to help <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 50, 5</dd>
+
+           <dt>&#x226b; omy&#x0101; </dt>
+           <dd><em>omy&#x0101;&#x0341;</em> f. id. <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> i 8, 9 <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a></dd>
+
+           <dt>&#x22d9; omy&#x0101;vat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. helping, useful, favourable <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 112, 7 ; 20</dd>
+
+           <dt>omal&#x0101; </dt>
+           <dd><em>omal&#x0101;</em> f. N. of a &#x015a;akti <a href="worksAuthorsAbbrs.html#N&#x1e5b;isUp">N&#x1e5b;isUp.</a> </dd>
+           <dd>&#x2022; (v. l. <em>aupal&#x0101;</em>.)</dd>
+
+           <dt>omila </dt>
+           <dd><em>omila</em> m. N. of a man</dd>
+
+           <dt>orimik&#x0101; </dt>
+           <dd><em>orimik&#x0101;</em> f. N. of a section of the K&#x0101;&#x1e6d;haka recension of the Yajur-veda</dd>
+
+           <dt>ola </dt>
+           <dd><em>ola</em> or <em>olla</em> mfn. wet, damp <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. Arum Campanulatum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ola&#x1e47;&#x1e0d; </dt>
+           <dd><em>ola&#x1e47;&#x1e0d;</em> cl. 1. 8. 10. P. <em>ola&#x1e47;&#x1e0d;ati</em>, <em>ola&#x1e47;&#x1e0d;ayati</em>, <em>ola&#x1e47;&#x1e0d;&#x0101;&#x1e43;-</em>, or <em>ola&#x1e47;&#x1e0d;ay&#x0101;m-babh&#x016b;va</em>, <em>aula&#x1e47;&#x1e0d;&#x012b;t</em>, to throw out, eject <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxxii, 9 (cf. <em>ula&#x1e0d;</em>.)</dd>
+
+           <dt>&#x226b; olaj </dt>
+           <dd><em>olaj</em></dd>
+
+           <dt>&#x22d9; olj </dt>
+           <dd><em>olj</em> vv. ll. for the above</dd>
+
+           <dt>ov&#x0101; </dt>
+           <dd><em>ov&#x0101;</em> f. a particular exclamation at sacrifices <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> vii, ix</dd>
+
+           <dt>ovil&#x012b; </dt>
+           <dd><em>ovil&#x012b;</em> or <em>oviil&#x012b;</em> f. that in which the upper part of the churning-stick turns <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> </dd>
+           <dd>&#x2022; (vv. ll. <em>aupaviil&#x012b;</em> and <em>auviil&#x012b;</em>.)</dd>
+
+           <dt>o&#x1e63;a </dt>
+           <dd><em>o&#x1e63;a</em> m. (&#x221a;<em>u&#x1e63;</em>), burning, combustion <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; (<em>o&#x1e63;&#x00e1;</em>) mfn. burning, shining <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 119, 10 </dd>
+           <dd>&#x2022; (<em>&#x00e1;m</em>), ind. with ardour or vehemence, eagerly, quickly <a href="worksAuthorsAbbrs.html#AV">AV.</a></dd>
+
+           <dt>&#x226b; o&#x1e63;a&#x1e47;a </dt>
+           <dd><em>o&#x1e63;a&#x1e47;a</em> m. pungent taste, sharp flavour, pungency <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. a kind of vegetable <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; o&#x1e63;am </dt>
+           <dd><em>&#x00f3;&#x1e63;am</em> ind. p. while burning <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> ii, 2, 4, 5</dd>
+
+           <dt>&#x226b; o&#x1e63;i&#x1e63;&#x1e6d;ha </dt>
+           <dd><em>o&#x1e63;i&#x1e63;&#x1e6d;ha</em> mfn. (superl. of <em>o&#x1e63;&#x00e1;</em> above)</dd>
+
+           <dt>&#x22d9; o&#x1e63;i&#x1e63;&#x1e6d;had&#x0101;van </dt>
+           <dd><em>&#x25cb;d&#x0101;&#x0341;van</em> mfn. giving eagerly or immediately <a href="worksAuthorsAbbrs.html#TS">TS.</a> i, 6, 12, 3</dd>
+
+           <dt>&#x22d9; o&#x1e63;i&#x1e63;&#x1e6d;hahan </dt>
+           <dd><em>&#x25cb;h&#x00e1;n</em> mfn. killing vehemently or suddenly</dd>
+
+           <dt>o&#x1e63;adhi </dt>
+           <dd><em>&#x00f3;&#x1e63;a-dhi</em> f. (etym. doubtful </dd>
+           <dd>&#x2022; probably fr. <em>o&#x1e63;a</em> above, 'light-containing', <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> ii, 2, 4, 5 <a href="worksAuthorsAbbrs.html#Nir">Nir.</a> ix, 27) a herb, plant, simple, esp. any medicinal herb <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c </dd>
+           <dd>&#x2022; an annual plant or herb (which dies after becoming ripe) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> i, 46, &amp;c. <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i, 4, 16 ; 18 <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> &amp;c </dd>
+           <dd>&#x2022; a remedy in general <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i, 4, 15</dd>
+
+           <dt>&#x22d9; o&#x1e63;adhigarbha </dt>
+           <dd><em>&#x25cb;garbha</em> m. 'producer of herbs', the moon <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the sun <a href="worksAuthorsAbbrs.html#T">T.</a> (with reference to <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 164, 52)</dd>
+
+           <dt>&#x22d9; o&#x1e63;adhija </dt>
+           <dd><em>&#x25cb;j&#x00e1;</em> mfn. born or living amongst herbs (as snakes) <a href="worksAuthorsAbbrs.html#AV">AV.</a> x, 4, 23 </dd>
+           <dd>&#x2022; produced from plants (as fire) <a href="worksAuthorsAbbrs.html#Kir">Kir.</a> v, 14</dd>
+
+           <dt>&#x22d9; o&#x1e63;adhipati </dt>
+           <dd><em>&#x25cb;pati</em> m. 'lord of herbs', the moon <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> &amp;c </dd>
+           <dd>&#x2022; the Soma plant </dd>
+           <dd>&#x2022; camphor <a href="worksAuthorsAbbrs.html#T">T.</a> </dd>
+           <dd>&#x2022; 'master of plants', a physician</dd>
+
+           <dt>&#x22d9; o&#x1e63;adhiprastha </dt>
+           <dd><em>&#x25cb;prastha</em> n. N. of the city of Him&#x0101;laya <a href="worksAuthorsAbbrs.html#Kum">Kum.</a></dd>
+
+           <dt>&#x22d9; o&#x1e63;adhiloka </dt>
+           <dd><em>&#x25cb;lok&#x00e1;</em> m. the world of plants <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xiii</dd>
+
+           <dt>&#x22d9; o&#x1e63;adhivanaspati </dt>
+           <dd><em>&#x25cb;vanaspat&#x00ed;</em> n. herbs and trees <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> vi </dd>
+           <dd>&#x2022; (<em>ayas</em>), m. pl. id. <a href="worksAuthorsAbbrs.html#AitUp">AitUp.</a></dd>
+
+           <dt>&#x22d9; o&#x1e63;adh&#x012b;&#x015b;a </dt>
+           <dd><em>o&#x1e63;adh&#x012b;7&#x015b;a</em> m. 'lord of herbs', the moon <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; o&#x1e63;adhyanuv&#x0101;ka </dt>
+           <dd><em>o&#x1e63;adhy-anuv&#x0101;ka</em> m. a particular Anuv&#x0101;ka</dd>
+
+           <dt>&#x226b; o&#x1e63;adh&#x012b; </dt>
+           <dd><em>&#x00f3;&#x1e63;adh&#x012b;</em> f. (only Ved. and not in nom. c. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-3, 132 </dd>
+           <dd>&#x2022; but occasional exceptions are found) = <em>&#x00f3;&#x1e63;a-dhi</em> above</dd>
+
+           <dt>&#x22d9; o&#x1e63;adh&#x012b;pati </dt>
+           <dd><em>&#x25cb;pati</em> m. 'lord of herbs', the moon <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; the Soma plant <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x22d9; o&#x1e63;adh&#x012b;mat </dt>
+           <dd><em>&#x25cb;mat</em> mfn. provided with herbs <a href="worksAuthorsAbbrs.html#AV">AV.</a> xix, 17, 6 ; 18, 6</dd>
+
+           <dt>&#x22d9; o&#x1e63;adh&#x012b;sa&#x1e43;&#x015b;ita </dt>
+           <dd><em>&#x25cb;sa&#x1e43;&#x015b;ita</em> mfn. sharpened by herbs (used in a formula) <a href="worksAuthorsAbbrs.html#AV">AV.</a> x, 5, 32</dd>
+
+           <dt>&#x22d9; o&#x1e63;adh&#x012b;s&#x016b;kta </dt>
+           <dd><em>&#x25cb;s&#x016b;kta</em> n. N. of a hymn</dd>
+
+           <dt>o&#x1e63;&#x1e6d;&#x1e5b; </dt>
+           <dd><em>o&#x1e63;&#x1e6d;&#x1e5b;</em> v. l. for <em>u&#x1e63;&#x1e6d;&#x1e5b;</em>, q.v. <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> v, 11, 13</dd>
+
+           <dt>o&#x1e63;&#x1e6d;ha </dt>
+           <dd><em>&#x00f3;&#x1e63;&#x1e6d;ha</em> m. (etym. doubtful </dd>
+           <dd>&#x2022; &#x221a;<em>u&#x1e63;</em> <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> ii, 4) the lip (generally du.) <a href="worksAuthorsAbbrs.html#RV">RV.</a> ii, 39, 6 <a href="worksAuthorsAbbrs.html#AV">AV.</a> x, 9, 14 ; xx, 127, 4 <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c </dd>
+           <dd>&#x2022; the forepart of an Agniku&#x1e47;&#x1e0d;a, q.v. <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. the plant Coccinia Grandis (to whose red fruits lips are commonly compared) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (in a compound the <em>o</em> of <em>o&#x1e63;&#x1e6d;ha</em> forms with a preceding <em>a</em> either V&#x1e5b;iddhi <em>au</em>, or Gu&#x1e47;a <em>o</em> <a href="worksAuthorsAbbrs.html#K&#x0101;ty">K&#x0101;ty.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-1, 94) <font color="#FF0000" font size=-2><a name="p236-2"></a>[Page 236, Column 2]</font>
+ ; [<a href="worksAuthorsAbbrs.html#Zd">Zd.</a> <em>aoshtra</em> ; O. Pruss. <em>austa</em>, 'mouth' ; O. Slav. <em>usta</em>, 'mouth.']</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;hakar&#x1e47;aka </dt>
+           <dd><em>&#x25cb;kar&#x1e47;aka</em> <em>&#x0101;s</em> m. pl., N. of a people <a href="worksAuthorsAbbrs.html#VP">VP.</a> <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;hakopa </dt>
+           <dd><em>&#x25cb;kopa</em> m. disease of the lips <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;haja </dt>
+           <dd><em>&#x25cb;ja</em> mfn. produced by the lips, labial</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;haj&#x0101;ha </dt>
+           <dd><em>&#x25cb;j&#x0101;ha</em> n. the &#x221a;of the lips (?) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-2, 24</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;hapallava </dt>
+           <dd><em>&#x25cb;pallava</em> n. 'lip-bud', a lip</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;hapu&#x1e6d;a </dt>
+           <dd><em>&#x25cb;pu&#x1e6d;a</em> m. the space between the lips <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> &amp;c</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;haprakopa </dt>
+           <dd><em>&#x25cb;prakopa</em> m. = <em>-kopa</em> above</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;haphal&#x0101; </dt>
+           <dd><em>&#x25cb;phal&#x0101;</em> f. bearing lip-like fruits, the plant Coccinia Grandis <a href="worksAuthorsAbbrs.html#Nigh">Nigh.</a></dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;haroga </dt>
+           <dd><em>&#x25cb;roga</em> m. = <em>-kopa</em> above</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;h&#x0101;dhara </dt>
+           <dd><em>o&#x1e63;&#x1e6d;h&#x00e2;dhara</em> <em>au</em> m. du. the upper and lower lip</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;h&#x0101;pidh&#x0101;na </dt>
+           <dd><em>o&#x1e63;&#x1e6d;h&#x00e2;pidh&#x0101;na</em> mfn. covered by the lips <a href="worksAuthorsAbbrs.html#MantraBr">MantraBr.</a> <a href="worksAuthorsAbbrs.html#Ait&#x0100;r">Ait&#x0100;r.</a></dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;hopamaphal&#x0101; </dt>
+           <dd><em>o&#x1e63;&#x1e6d;h&#x00f4;pama-phal&#x0101;</em> f. = <em>o&#x1e63;&#x1e6d;ha-phal&#x0101;</em> above <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; o&#x1e63;&#x1e6d;haka </dt>
+           <dd><em>o&#x1e63;&#x1e6d;haka</em> ifc. = <em>&#x00f3;&#x1e63;&#x1e6d;ha</em>, lip </dd>
+           <dd>&#x2022; (mfn.) taking care of the lips <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-2, 66</dd>
+
+           <dt>&#x226b; o&#x1e63;&#x1e6d;hya </dt>
+           <dd><em>o&#x1e63;&#x1e6d;hya</em> mfn. being at the lips, belonging to the lips <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> &amp;c </dd>
+           <dd>&#x2022; esp. produced by the lips, labial (as certain sounds) <a href="worksAuthorsAbbrs.html#RPr&#x0101;t">RPr&#x0101;t.</a> <a href="worksAuthorsAbbrs.html#APr&#x0101;t">APr&#x0101;t.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> &amp;c </dd>
+           <dd>&#x2022; m. a labial sound <a href="worksAuthorsAbbrs.html#P&#x0101;rG&#x1e5b;">P&#x0101;rG&#x1e5b;.</a> iii, 16</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;hyayoni </dt>
+           <dd><em>&#x25cb;yoni</em> mfn. produced from labial sounds</dd>
+
+           <dt>&#x22d9; o&#x1e63;&#x1e6d;hyasth&#x0101;na </dt>
+           <dd><em>&#x25cb;sth&#x0101;na</em> mfn. pronounced with the lips</dd>
+
+           <dt>o&#x1e63;&#x1e47;a </dt>
+           <dd><em>&#x00f4;&#x1e63;&#x1e47;a</em> (fr. <em>u&#x1e63;&#x1e47;a</em> with 4. <em>&#x0101;</em> in the sense of diminution), mfn. a little warm, tepid</dd>
+
+           <dt>oha </dt>
+           <dd><em>&#x00f3;ha</em> m. (fr. &#x221a;<em>vah</em>, or <em>&#x0101;-&#x221a;vah</em> </dd>
+           <dd>&#x2022; fr. &#x221a;2. <em>&#x016b;h</em> <a href="worksAuthorsAbbrs.html#BRD">BRD.</a>), a vehicle, means <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 180, 5 </dd>
+           <dd>&#x2022; (mfn.) bringing near, causing to approach <a href="worksAuthorsAbbrs.html#RV">RV.</a> iv, 10, 1 </dd>
+           <dd>&#x2022; worthy to be approached, excellent <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 61, 1 [<a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>] </dd>
+           <dd>&#x2022; (attention, consideration <a href="worksAuthorsAbbrs.html#NBD">NBD.</a>)</dd>
+
+           <dt>&#x22d9; ohabrahman </dt>
+           <dd><em>&#x25cb;brahman</em> m. (a priest) possessing or conveying Brahman or sacred knowledge (<em>uhyam&#x0101;nam brahma</em>.. <em>ye&#x1e63;&#x0101;&#x1e43; te</em> <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>) <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 71, 8</dd>
+
+           <dt>&#x226b; ohas </dt>
+           <dd><em>&#x00f3;has</em> <em>as</em> n. a vehicle, means (fig. said of a Stotra <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>) <a href="worksAuthorsAbbrs.html#RV">RV.</a> vi, 67, 9</dd>
+
+           <dt>ohala </dt>
+           <dd><em>ohala</em> m. N. of a man</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

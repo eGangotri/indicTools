@@ -1,0 +1,17 @@
+    <dl>
+           <dt>&#x1e39; 1</dt>
+           <dd><em>&#x1e39;</em> the tenth vowel of the alphabet (the corresponding long vowel to <em>&#x1e37;</em>, entirely artificial and only appearing in the works of some grammarians and lexicographers)</dd>
+
+           <dt>&#x1e39; 2</dt>
+           <dd><em>&#x1e39;</em> <em>&#x1e39;s</em> m. &#x015a;iva <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; f. the mother of the cow of plenty </dd>
+           <dd>&#x2022; the mother of the D&#x0101;navas </dd>
+           <dd>&#x2022; wife of a Daitya </dd>
+           <dd>&#x2022; mother </dd>
+           <dd>&#x2022; divine female </dd>
+           <dd>&#x2022; female nature</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

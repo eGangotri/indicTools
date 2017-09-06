@@ -1,0 +1,20 @@
+    <dl>
+   <dt>&#x1e45;a 1</dt>
+   <dd><em>&#x1e45;a</em> the 5th consonant of the Sansk&#x1e5b;it alphabet, nasal of the 1st class. No word in use begins with this letter </dd>
+   <dd>&#x2022; it is usually found as the 1st member of a conjunct consonant preceded by a vowel</dd>
+
+           <dt>&#x22d9; &#x1e45;ak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>&#x1e45;a</em></dd>
+
+           <dt>&#x1e45;a 2</dt>
+           <dd><em>&#x1e45;a</em> m. an object of sense <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; desire for any sensual object <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; &#x015a;iva (<em>bhairava</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x1e45;u </dt>
+           <dd><em>&#x1e45;u</em> cl. 1. &#x0100;. <em>&#x1e45;avate</em>, to sound <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxii, 57: Desid. <em>&#x00f1;u&#x1e47;&#x016b;&#x1e63;ate</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-4, 62 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

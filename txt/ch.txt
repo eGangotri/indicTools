@@ -1,0 +1,1902 @@
+    <dl>
+           <dt>cha 1</dt>
+           <dd><em>cha</em> the 7th consonant (aspirate of the preceding)</dd>
+
+           <dt>&#x22d9; chak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>cha</em></dd>
+
+           <dt>cha 2</dt>
+           <dd><em>cha</em> m. (&#x221a;<em>cho</em>) dividing <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a fragment <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chama&#x1e47;&#x1e0d;ala </dt>
+           <dd><em>&#x25cb;ma&#x1e47;&#x1e0d;ala</em> n. = <em>prade&#x015b;a-vi&#x015b;e&#x1e63;a</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>cha 3</dt>
+           <dd><em>cha</em> mfn. pure, clean <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; tremulous, unsteady <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>a</em>), f. covering, concealing (cf. &#x221a;<em>chad</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a mark, sign <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; cf. <em>ch&#x0101;</em>'</dd>
+
+           <dt>chaga </dt>
+           <dd><em>chaga</em> m.= <em>ch&#x0101;&#x0341;ga</em>, a he-goat <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chagala </dt>
+           <dd><em>chagal&#x00e1;</em> m. id. <a href="worksAuthorsAbbrs.html#TS">TS.</a> v, 6, 22, 1 <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; (cf. P&#x0101;&#x1e47;. 4-1, 117) N. of a muni <a href="worksAuthorsAbbrs.html#V&#x0101;yuP">V&#x0101;yuP.</a> i, 23, 198 </dd>
+           <dd>&#x2022; of a locality, g. <em>tak&#x1e63;a&#x015b;il&#x00e2;di</em> </dd>
+           <dd>&#x2022; pl. N. of a family <a href="worksAuthorsAbbrs.html#Pravar">Pravar.</a> iii, i </dd>
+           <dd>&#x2022; n. blue cloth <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. N. of a woman, g. <em>bahv-adi</em> = <em>&#x25cb;l&#x00e2;ntrika</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>i</em>), f. id. <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a she-goat <a href="worksAuthorsAbbrs.html#Car">Car.</a> i, 3, 21 (<em>-payas</em> n.)</dd>
+
+           <dt>&#x22d9; chagal&#x0101;&#x1e45;ghr&#x012b; </dt>
+           <dd><em>chagal&#x00e2;&#x1e45;ghr&#x012b;</em> v&#x1e37;. for <em>&#x25cb;l&#x00e2;ntr&#x012b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; chagal&#x0101;&#x1e47;&#x1e0d;a </dt>
+           <dd><em>chagal&#x00e2;&#x1e47;&#x1e0d;a</em> n. 'goat-testicle', N. of a Tirtha <a href="worksAuthorsAbbrs.html#MatsyaP">MatsyaP.</a> xiii (v. l. <em>ch&#x0101;g&#x25cb;</em>) </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), v. l. for <em>&#x25cb;l&#x00e2;ntri</em> <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; chagal&#x0101;ntrik&#x0101; </dt>
+           <dd><em>chagal&#x00e2;ntrik&#x0101;</em> f. Argyreia speciosa or argentea (<em>aj&#x00e2;ntr&#x012b;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chagal&#x0101;ntrin </dt>
+           <dd><em>chagal&#x00e2;ntrin</em> m. 'having goats in the bowels', a wolf <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chagal&#x0101;ntr&#x012b; </dt>
+           <dd><em>chagal&#x00e2;ntr&#x012b;</em> f. = <em>&#x25cb;trik&#x0101;</em> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i, 38, 26 and 39, 2 ; 46, 4, 39</dd>
+
+           <dt>&#x226b; chagalaka </dt>
+           <dd><em>chagalaka</em> m. a he-goat <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>ik&#x0101;</em>), f. a shegoat <a href="worksAuthorsAbbrs.html#Divy&#x0101;v">Divy&#x0101;v.</a> xviii, 136</dd>
+
+           <dt>&#x22d9; chagalin </dt>
+           <dd><em>chagalin</em> m. N. of a teacher (pupil of Kal&#x0101;pin <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 104 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>), 109</dd>
+
+           <dt>chaga&#x1e47;a </dt>
+           <dd><em>chaga&#x1e47;a</em> (fr. <em>&#x015b;akn-</em> of <em>&#x015b;ak&#x1e5b;t</em>), m. [n. <a href="worksAuthorsAbbrs.html#L">L.</a>) dried cow-dung <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cad">Pa&#x00f1;cad.</a> iv, 9 </dd>
+           <dd>&#x2022; cf. <em>ch&#x0101;g&#x25cb;</em></dd>
+
+           <dt>chagala </dt>
+           <dd><em>chagal&#x00e1;</em> &amp;c. See <em>chaga</em></dd>
+
+           <dt>chacchik&#x0101; </dt>
+           <dd><em>chacchik&#x0101;</em> butter-milk <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v</dd>
+
+           <dt>chajj&#x016b; </dt>
+           <dd><em>chajj&#x016b;</em> m&#x1e46;. of a man <a href="worksAuthorsAbbrs.html#Kath&#x00e2;r&#x1e47;">Kath&#x00e2;r&#x1e47;.</a> xxx</dd>
+
+           <dt>cha&#x1e6d;&#x0101; </dt>
+           <dd><em>cha&#x1e6d;&#x0101;</em> f. a mass, lump, assemblage, number <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a> i, 47 <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> v, 332 <a href="worksAuthorsAbbrs.html#Prasannar">Prasannar.</a> <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> </dd>
+           <dd>&#x2022; a collection of rays, lustre         <br>          <a href="worksAuthorsAbbrs.html#Pa&#x00f1;car">Pa&#x00f1;car.</a> <a href="worksAuthorsAbbrs.html#Dh&#x016b;rtas">Dh&#x016b;rtas.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> iv, 127 <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> </dd>
+           <dd>&#x2022; = <em>cha&#x1e0d;&#x012b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of a <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#Vop">Vop.</a> (also <em>ch&#x0101;&#x1e6d;&#x0101;</em>)</dd>
+
+           <dt>&#x22d9; cha&#x1e6d;&#x0101;phala </dt>
+           <dd><em>&#x25cb;phala</em> m. the betel-nut tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; cha&#x1e6d;&#x0101;bh&#x0101; </dt>
+           <dd><em>cha&#x1e6d;&#x00e2;bh&#x0101;</em> f. lightning <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; cha&#x1e0d;&#x012b; </dt>
+           <dd><em>cha&#x1e0d;&#x012b;</em> f. a kind of palm <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>cha&#x1e0d;&#x1e0d;alik&#x0101; </dt>
+           <dd><em>cha&#x1e0d;&#x1e0d;alik&#x0101;</em> N. of a metre <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a></dd>
+
+           <dt>chattra </dt>
+           <dd><em>chattra</em> &amp;c. See &#x221a;<em>chad</em></dd>
+
+           <dt>chad 1</dt>
+           <dd><em>chad</em> cl. 1. <em>&#x25cb;dati</em>, to cover <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxxii, 41 (v&#x1e37;.): Caus. (or cl. 10) <em>ch&#x0101;d&#x00e1;yati</em> (once <em>ch&#x00e1;d&#x25cb;</em> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> i, 30 </dd>
+           <dd>&#x2022; <em>chand&#x25cb;</em> [fr. &#x221a;1. <em>chand</em>] <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxxii, 41 </dd>
+           <dd>&#x2022; ep. also &#x0100;., pf. <em>ch&#x0101;day&#x0101;&#x1e43;</em> <em>cakre</em> <a href="worksAuthorsAbbrs.html#R">R.</a> iv, 58, 7 </dd>
+           <dd>&#x2022; p. <em>&#x25cb;y&#x0101;na</em> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> vi, 2430), to cover, cover over, clothe, veil <a href="worksAuthorsAbbrs.html#RV">RV.</a> vi, 75, 18 <a href="worksAuthorsAbbrs.html#AV">AV.</a> ix, 3, 14 <a href="worksAuthorsAbbrs.html#TS">TS.</a> ii, v <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> &amp;c </dd>
+           <dd>&#x2022; to spread as a cover <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> i, 30 </dd>
+           <dd>&#x2022; to cover one's self. <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> i, 4, 2 </dd>
+           <dd>&#x2022; to hide, conceal, keep secret <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> v, 90, 16 </dd>
+           <dd>&#x2022; to protect <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;khG&#x1e5b;">&#x015a;&#x0101;&#x1e45;khG&#x1e5b;.</a> iii, 11 <a href="worksAuthorsAbbrs.html#P&#x0101;rG&#x1e5b;">P&#x0101;rG&#x1e5b;.</a> iii, 9, 6 (cf. K&#x0101;&#x1e6d;hG&#x1e5b;. 47): Caus. Desid. <em>cicch&#x0101;dayi&#x1e63;ati</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-4, 83 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 2 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> ; [<a href="worksAuthorsAbbrs.html#Goth">Goth.</a> <em>scadus</em>.]</dd>
+
+           <dt>&#x226b; chattra </dt>
+           <dd><em>chattra</em> m. (<a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-4, 97 </dd>
+           <dd>&#x2022; often spelt <em>chatra</em>) a mushroom <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Andropogon Schoenanthus <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a parasol-shaped bee-hive <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; n. a parasol, Chattar (ensign of royal or delegated power <a href="worksAuthorsAbbrs.html#Jain">Jain.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> v, 18 <a href="worksAuthorsAbbrs.html#PSarv">PSarv.</a>) <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xxi, 3, 6 <a href="worksAuthorsAbbrs.html#Gobh">Gobh.</a> <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;vG&#x1e5b;">&#x0100;&#x015b;vG&#x1e5b;.</a> iii, 8 <a href="worksAuthorsAbbrs.html#AdbhBr">AdbhBr.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c. (ifc. f. <em>a</em> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 933) </dd>
+           <dd>&#x2022; an umbrella <a href="worksAuthorsAbbrs.html#C&#x0101;&#x1e47;">C&#x0101;&#x1e47;.</a> </dd>
+           <dd>&#x2022; a particular constellation <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;">VarB&#x1e5b;.</a> xii, 8 <a href="worksAuthorsAbbrs.html#Laghuj">Laghuj.</a> x, 8 </dd>
+           <dd>&#x2022; 'shelter (of pupils)', a teacher (a meaning derived fr. <em>ch&#x0101;ttra</em>) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 62 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. N. of a plant growing in Ka&#x015b;mir <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i, 19, 27 ; iv, 30 </dd>
+           <dd>&#x2022; Anethum Sowa <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Asteracantha longifolia <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Rubia Munjista <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a mushroom <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; cf. <em>ati-</em>, <em>ahi-</em>, <em>eka-</em>, <em>gomaya-</em>, <em>sita-</em> </dd>
+           <dd>&#x2022; <em>&#x0101;k&#x1e5b;ti-cchattr&#x0101;</em></dd>
+
+           <dt>&#x22d9; chattraguccha </dt>
+           <dd><em>&#x25cb;guccha</em> m. 'umbrella-clustered', Scirpus Kysoor <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chattrag&#x1e5b;ha </dt>
+           <dd><em>&#x25cb;g&#x1e5b;ha</em> n. the room in which the parasol (or badge of royalty) is kept <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> v, 3544</dd>
+
+           <dt>&#x22d9; chattragr&#x0101;hi&#x1e47;&#x012b; </dt>
+           <dd><em>&#x25cb;gr&#x0101;hi&#x1e47;&#x012b;</em> f. a female parasolbearer <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a></dd>
+
+           <dt>&#x22d9; chattracakra </dt>
+           <dd><em>&#x25cb;cakra</em> n. (in astrol.) a kind of diagram</dd>
+
+           <dt>&#x22d9; chattradh&#x0101;nya </dt>
+           <dd><em>&#x25cb;dh&#x0101;nya</em> n. coriander <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chattradh&#x0101;ra </dt>
+           <dd><em>&#x25cb;dh&#x0101;ra</em> m. (cf. P&#x0101;&#x1e47;. 6-2, 75 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>) a parasol-bearer <a href="worksAuthorsAbbrs.html#R">R.</a> iii, 58, 3 <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> (<em>-tva</em> n. abstr., i, 10, 2/3)</dd>
+
+           <dt>&#x22d9; chattradh&#x0101;ra&#x1e47;a </dt>
+           <dd><em>&#x25cb;dh&#x0101;ra&#x1e47;a</em> n. carrying or using a parasol <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> ii, 178 (ifc.) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 62 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a></dd>
+
+           <dt>&#x22d9; chattradh&#x0101;rin </dt>
+           <dd><em>&#x25cb;dh&#x0101;rin</em> mfn. bearing a parasol <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> v, 11/12 </dd>
+           <dd>&#x2022; m. N. of a son of Horila-si&#x1e43;ha</dd>
+
+           <dt>&#x22d9; chattrapa </dt>
+           <dd><em>&#x25cb;pa</em> m. = <em>-pati</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chattrapati </dt>
+           <dd><em>&#x25cb;pati</em> m. the officer watching over the royal parasol, Si&#x1e47;h&#x00e2;s. xxiii, 0/1</dd>
+
+           <dt>&#x22d9; chattrapattra </dt>
+           <dd><em>&#x25cb;pattra</em> m. 'parasol-leaved', Hibiscus mutabilis <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Betula Bhojpatra <a href="worksAuthorsAbbrs.html#Npr">Npr.</a> <font color="#FF0000" font size=-2><a name="p404-2"></a>[Page 404, Column 2]</font>
+</dd>
+
+           <dt>&#x22d9; chattrapar&#x1e47;a </dt>
+           <dd><em>&#x25cb;par&#x1e47;a</em> m. 'parasol-leaved', Alstonia scholaris <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chattrapu&#x1e63;paka </dt>
+           <dd><em>&#x25cb;pu&#x1e63;paka</em> m. 'parasol flowered', the Tilaka tree <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x22d9; chattrabha&#x1e45;ga </dt>
+           <dd><em>&#x25cb;bha&#x1e45;ga</em> m. destruction of the royal parasol', loss of dominion <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; anarchy (<em>sv&#x0101;tantrya</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; widowhood <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chattramukh&#x0101; </dt>
+           <dd><em>&#x25cb;mukh&#x0101;</em> f., parasol-faced', N. of a N&#x0101;ga virgin, K&#x0101;ra&#x1e47;d. i, 48</dd>
+
+           <dt>&#x22d9; chattrayukti </dt>
+           <dd><em>&#x25cb;yukti</em> f.' use of the parasol', N. of a chapter of Bhoja's Yukti-kalpa-taru</dd>
+
+           <dt>&#x22d9; chattravat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. furnished with a parasol <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i, 10, 1 </dd>
+           <dd>&#x2022; (<em>t&#x012b;</em>), f. N. of a town (<em>ahi-cchattra</em> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a>) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 6348</dd>
+
+           <dt>&#x22d9; chattrav&#x1e5b;k&#x1e63;a </dt>
+           <dd><em>&#x25cb;v&#x1e5b;k&#x1e63;a</em> m. Pterospermum suberifolium <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x22d9; chattras&#x0101;la </dt>
+           <dd><em>&#x25cb;s&#x0101;la</em> m. N. of prince Sabh&#x0101;-si&#x1e43;ha's father</dd>
+
+           <dt>&#x22d9; chattrasinha </dt>
+           <dd><em>&#x25cb;sinha</em> n. N. of a T&#x012b;rtha <a href="worksAuthorsAbbrs.html#Rasik">Rasik.</a> xi, 38</dd>
+
+           <dt>&#x22d9; chattrahaya </dt>
+           <dd><em>&#x25cb;haya</em> m. pl. N. of a family <a href="worksAuthorsAbbrs.html#Pravar">Pravar.</a>&#x012b;, 3, 6 ; v, 1</dd>
+
+           <dt>&#x22d9; chattr&#x0101;k&#x0101;ra&#x015b;iras </dt>
+           <dd><em>chattr&#x00e2;k&#x0101;ra&#x015b;iras</em> mfn. having a parasol-shaped head <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a></dd>
+
+           <dt>&#x22d9; chattr&#x0101;ticchattra </dt>
+           <dd><em>chattr&#x00e2;ticchattra</em> m. a fragrant grass <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. id. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chattr&#x0101;di </dt>
+           <dd><em>chattr&#x00e2;di</em> a Ga&#x1e47;a of <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 62</dd>
+
+           <dt>&#x22d9; chattrop&#x0101;naha </dt>
+           <dd><em>chattr&#x00f4;p&#x0101;naha</em> n. sg. (cf. P&#x0101;&#x1e47;. 5-4, 106 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>) the parasol and the shoes <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> ii, 246 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii, 4641</dd>
+
+           <dt>&#x226b; chattraka </dt>
+           <dd><em>chattraka</em> m. a parasol-shaped temple in honour of Siva <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a parasol-shaped bee-hive (cf. <em>ch&#x0101;ttr&#x25cb;</em>) <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; Asteracantha longifolia <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a mushroom <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a kingfisher <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a parasol <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> i, 7, 268 </dd>
+           <dd>&#x2022; (<em>ik&#x0101;</em>), f. a parasol, 323 and 1446 </dd>
+           <dd>&#x2022; a small parasol <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> vi, 177 </dd>
+           <dd>&#x2022; a mushroom <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; candied sugar <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>&#x226b; chattr&#x0101;ka </dt>
+           <dd><em>chattr&#x0101;ka</em> m. a plant akin to Acacia arabica <a href="worksAuthorsAbbrs.html#L">L.</a>, n. a mushroom <a href="worksAuthorsAbbrs.html#&#x1e62;a&#x1e0d;vBr">&#x1e62;a&#x1e0d;vBr.</a> v, 6 <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> v, 19 <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> i, 176 <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> x, 25, 19 </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. the ichneumon plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chattrika </dt>
+           <dd><em>chattrika</em> m.= <em>&#x25cb;ttra-dhara</em> g. <em>purohit&#x00e2;di</em></dd>
+
+           <dt>&#x226b; chattri&#x1e47;a </dt>
+           <dd><em>chattri&#x1e47;a</em> m. N. of a man <a href="worksAuthorsAbbrs.html#Pravar">Pravar.</a> ii, 3, 5</dd>
+
+           <dt>&#x226b; chattrin </dt>
+           <dd><em>chattrin</em> mfn. furnished with a parasol <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii, 739 <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 14205 <a href="worksAuthorsAbbrs.html#R">R.</a> i, iii </dd>
+           <dd>&#x2022; m. a barber <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chattriny&#x0101;ya </dt>
+           <dd><em>chattri-ny&#x0101;ya</em> m. 'the manner of applying the term <em>chattrin</em> to a king', permitted synonym <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 19 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> xiv, 11, 3 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; chattr&#x012b; </dt>
+           <dd><em>chattr&#x012b;</em> ind. in comp. for <em>&#x25cb;ttra</em>. root</dd>
+
+           <dt>&#x22d9; chattr&#x012b;k&#x1e5b; </dt>
+           <dd><em>&#x25cb;k&#x1e5b;</em> to use as a parasol <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> iii, 983 <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxix, 150</dd>
+
+           <dt>&#x226b; chattvara </dt>
+           <dd><em>chattvara</em> m. a house <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iii, 1 </dd>
+           <dd>&#x2022; a bower <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x226b; chad 2</dt>
+           <dd><em>chad</em> mfn. ifc. (cf. P&#x0101;&#x1e47;. 6-4, 97) 'covering', See <em>dh&#x0101;ma-</em> and (?) <em>bh&#x016b;te-cch&#x00e1;d</em>, <em>mallik&#x0101;-</em> </dd>
+           <dd>&#x2022; cf. <em>&#x0101;-</em></dd>
+
+           <dt>&#x226b; chada </dt>
+           <dd><em>chada</em> mfn. ifc. covering <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> x, 83, 36 </dd>
+           <dd>&#x2022; m. a cover, covering (ifc.) <a href="worksAuthorsAbbrs.html#R">R.</a> vii, 23, 4, 32 </dd>
+           <dd>&#x2022; cf. <em>alpa-</em>, <em>uttara-</em>, <em>ura&#x015b;-</em>, <em>ghana-</em>, <em>tanu-</em>, <em>danta-</em>, <em>da&#x015b;ana-</em>, <em>vadana-</em> </dd>
+           <dd>&#x2022; (ifc. f. <em>&#x0101;</em>) a wing <a href="worksAuthorsAbbrs.html#Nal">Nal.</a> ix, 12 </dd>
+           <dd>&#x2022; a leaf. <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> iv, 27/28 </dd>
+           <dd>&#x2022; cf. <em>a-yuk-</em>, <em>kara-</em>, <em>karka&#x015b;a-</em>, &amp;c </dd>
+           <dd>&#x2022; <em>asra-bindu-</em> &amp; <em>&#x0101;yata-cchad&#x0101;</em> </dd>
+           <dd>&#x2022; the lip <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Xanthochymus pictorius <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the plant <em>granthi-par&#x1e47;a</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. feathers <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a> v, 13</dd>
+
+           <dt>&#x22d9; chadapattra </dt>
+           <dd><em>&#x25cb;pattra</em> m. a kind of birch <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chadana </dt>
+           <dd><em>chadana</em> n. a cover, covering <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 12671 <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 56, 32 (ifc. f. <em>a</em>) </dd>
+           <dd>&#x2022; cf. <em>mallik&#x0101;-</em> </dd>
+           <dd>&#x2022; a sheath <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; a wing <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 11595 </dd>
+           <dd>&#x2022; a leaf. <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; the leaf of Laurus Cassia <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chadi </dt>
+           <dd><em>chadi</em> mfn. ifc. covering <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> vii, 14, 13 </dd>
+           <dd>&#x2022; 'a roof', See <em>n&#x00e1;va-</em></dd>
+
+           <dt>&#x22d9; chadin </dt>
+           <dd><em>chadin</em> mfn. ifc. covering, xii, 8, 44 </dd>
+           <dd>&#x2022; 'having leaves', See <em>da&#x015b;a-</em> </dd>
+           <dd>&#x2022; having wheels (<em>pattra</em> = <em>dh&#x0101;r&#x0101;</em> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a>), iii, 21, 18</dd>
+
+           <dt>&#x226b; chadis </dt>
+           <dd><em>chad&#x00ed;s</em> n. (cf. P&#x0101;&#x1e47;. 6-4, 97) a cover, roof of a carriage, roof (<em>g&#x1e5b;ha</em> <a href="worksAuthorsAbbrs.html#Naigh">Naigh.</a> iii, 4) <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 85, 10 <a href="worksAuthorsAbbrs.html#AV">AV.</a> iii, 7, 3 <a href="worksAuthorsAbbrs.html#VS">VS.</a>v, 28 <a href="worksAuthorsAbbrs.html#TS">TS.</a>vi <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a>i, 29 <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> iii <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a>i, 2, 22 </dd>
+           <dd>&#x2022; iii <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a>&#x012b;, 49 </dd>
+           <dd>&#x2022; cf. <em>ch&#x0101;di&#x1e63;eya</em></dd>
+
+           <dt>&#x22d9; chadirdar&#x015b;a </dt>
+           <dd><em>ch&#x00e1;dir-dar&#x015b;&#x00e1;</em> m. appearance of roofs <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> ii, 2, 3 <a href="worksAuthorsAbbrs.html#&#x0100;p&#x015a;r">&#x0100;p&#x015a;r.</a> vi, 25, 6 </dd>
+           <dd>&#x2022; (<em>a-cch&#x25cb;</em> neg.) xv, 20, 2 and 8 ; 21, 3 and 10 </dd>
+           <dd>&#x2022; <a href="worksAuthorsAbbrs.html#cf">cf.</a> A&#x015b;vG&#x1e5b;. iv, 8, 12</dd>
+
+           <dt>&#x22d9; chadi&#x1e63;mat </dt>
+           <dd><em>chadi&#x1e63;-mat</em> mfn. having a cover or roof (a carriage) <a href="worksAuthorsAbbrs.html#&#x0100;p&#x015a;r">&#x0100;p&#x015a;r.</a> x, 24, 2</dd>
+
+           <dt>&#x22d9; chadi&#x1e25;sammita </dt>
+           <dd><em>chad&#x00ed;&#x1e25;-sammita</em> mfn. corresponding to a cover <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> iii, 5, 3, 9</dd>
+
+           <dt>&#x226b; chadma </dt>
+           <dd><em>chadma</em> in comp. for <em>&#x25cb;dman</em></dd>
+
+           <dt>&#x22d9; chadmagati </dt>
+           <dd><em>&#x25cb;gati</em> f. approaching clandestinely <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a> ix, i, 9 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; chadmagh&#x0101;tin </dt>
+           <dd><em>&#x25cb;gh&#x0101;tin</em> mfn. killing deceitfully <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxiv, 87</dd>
+
+           <dt>&#x22d9; chadmat&#x0101;pasa </dt>
+           <dd><em>&#x25cb;t&#x0101;pasa</em> m. a pretended ascetic <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chadmady&#x016b;ta </dt>
+           <dd><em>&#x25cb;dy&#x016b;ta</em> n. deceitful playing at dice <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 146</dd>
+
+           <dt>&#x22d9; chadmar&#x016b;pin </dt>
+           <dd><em>&#x25cb;r&#x016b;pin</em> mfn. disguised as (in comp.), 1792 <a href="worksAuthorsAbbrs.html#R">R.</a> vi, 11, 32</dd>
+
+           <dt>&#x22d9; chadmar&#x016b;pe&#x1e47;a </dt>
+           <dd><em>&#x25cb;r&#x016b;pe&#x1e47;a</em> instr. ind in disguise <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chadmavallabha </dt>
+           <dd><em>&#x25cb;vallabha</em> m. the perfume <em>coraka</em> <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>&#x22d9; chadmave&#x1e63;a </dt>
+           <dd><em>&#x25cb;ve&#x1e63;a</em> m. a deceptive dress, disguise <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chadmave&#x1e63;in </dt>
+           <dd><em>&#x25cb;ve&#x1e63;in</em> mfn. of a pretended appearance <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> vii, 5, 27 </dd>
+           <dd>&#x2022; a cheat <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chadmastha </dt>
+           <dd><em>&#x25cb;stha</em> m. (Pr&#x0101;k&#x1e5b;it <em>chauma-ttha</em>), 'remaining in error', a common man or ascetic (not possessing the knowledge of a <em>kevalin</em>) <a href="worksAuthorsAbbrs.html#Jain">Jain.</a></dd>
+
+           <dt>&#x22d9; chadmasthita </dt>
+           <dd><em>&#x25cb;sthita</em> mfn. ifc. pretending to practise (austerity, <em>tapa&#x015b;-</em>) <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> iii</dd>
+
+           <dt>&#x226b; chadman </dt>
+           <dd><em>chadman</em> n. (cf. P&#x0101;&#x1e47;. 6-4, 97) a roof <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;vG&#x1e5b;">&#x0100;&#x015b;vG&#x1e5b;.</a> iii, 8 <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> i, 7, 15 </dd>
+           <dd>&#x2022; external covering, deceptive dress, disguise, pretext, pretence, deceit, fraud <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> iii, 15, 1/2 <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> xii, 2 </dd>
+           <dd>&#x2022; (in dram.) deceitful intelligence or tidings <a href="worksAuthorsAbbrs.html#Da&#x015b;ar">Da&#x015b;ar.</a> i, 38 </dd>
+           <dd>&#x2022; cf. <em>k&#x016b;&#x1e6d;a-</em></dd>
+
+           <dt>&#x226b; chadmik&#x0101; </dt>
+           <dd><em>chadmik&#x0101;</em> f. Cocculus cordifolius <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chadmin </dt>
+           <dd><em>chadmin</em> mfn. ifc. disguised as <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii</dd>
+
+           <dt>&#x226b; chadvara </dt>
+           <dd><em>chadvara</em> m. a tooth <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; a bower <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; chanda 1</dt>
+           <dd><em>chanda</em> mfn. = <em>&#x25cb;nna</em> <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; chandas 1</dt>
+           <dd><em>chandas</em> n. 'roof', See <em>b&#x1e5b;h&#x00e1;c-</em> </dd>
+           <dd>&#x2022; deceit <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> <font color="#FF0000" font size=-2><a name="p404-3"></a>[Page 404, Column 3]</font>
+</dd>
+
+           <dt>&#x226b; channa </dt>
+           <dd><em>channa</em> mfn. covered, covered over <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 800 <a href="worksAuthorsAbbrs.html#R">R.</a> i f. <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> &amp;c. (ifc., <a href="worksAuthorsAbbrs.html#cf">cf.</a> P&#x0101;&#x1e47;. 6-2, 170) </dd>
+           <dd>&#x2022; obscured (the moon) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 2699 <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> iv, 10 and 22 </dd>
+           <dd>&#x2022; hidden, unnoticed by (dat.), secret, clandestine, disguised <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii f. <a href="worksAuthorsAbbrs.html#R">R.</a> ii, v <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), ind. secretly <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> ix, 98 and 100 <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> <a href="worksAuthorsAbbrs.html#Da&#x015b;">Da&#x015b;.</a> </dd>
+           <dd>&#x2022; (in comp. <em>&#x25cb;nna-</em>) <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> v, 467 </dd>
+           <dd>&#x2022; (with &#x221a;<em>gai</em>, to sing) privately, in a low voice <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> iii, 1, 12 ff </dd>
+           <dd>&#x2022; (<em>e</em>), loc. ind. secretly <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 8686</dd>
+
+           <dt>&#x226b; ch&#x0101;ttra </dt>
+           <dd><em>ch&#x0101;ttra</em> m. (fr. <em>chattra</em> <em>q.v.</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 62) 'sheltered', a pupil, scholar <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> vi, 87 <a href="worksAuthorsAbbrs.html#Vop">Vop.</a> </dd>
+           <dd>&#x2022; n. a kind of honey <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i, 45, 8, 2 and 6 <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 21, 14</dd>
+
+           <dt>&#x22d9; ch&#x0101;ttraga&#x1e47;&#x1e0d;a </dt>
+           <dd><em>&#x25cb;ga&#x1e47;&#x1e0d;a</em> m. a bad scholar (knowing only the beginnings of verses) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ttragomin </dt>
+           <dd><em>&#x25cb;gomin</em> mfn. any one attendant on pupils <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ttrat&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> f. pupilage <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> i, 4, 1/2</dd>
+
+           <dt>&#x22d9; ch&#x0101;ttradar&#x015b;ana </dt>
+           <dd><em>&#x25cb;dar&#x015b;ana</em> n. 'looked at by pupils', fresh butter <a href="worksAuthorsAbbrs.html#L">L.</a>'</dd>
+
+           <dt>&#x22d9; ch&#x0101;ttranilaya </dt>
+           <dd><em>&#x25cb;nilaya</em> m', pupils' abode', a college <a href="worksAuthorsAbbrs.html#Gal">Gal.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ttrapriya </dt>
+           <dd><em>&#x25cb;priya</em> mfn. dear to pupils <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-2, 16 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ttramitra </dt>
+           <dd><em>&#x25cb;mitra</em> m. 'pupils' friend', N. of a grammarian <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iii, 70 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ttravya&#x1e43;saka </dt>
+           <dd><em>&#x25cb;vya&#x1e43;saka</em> m. a knavish pupil, g. <em>may&#x016b;ra-vyamasak&#x00e2;di</em></dd>
+
+           <dt>&#x226b; ch&#x0101;ttraka </dt>
+           <dd><em>ch&#x0101;ttraka</em> n. = <em>ra-t&#x0101;</em> g. <em>manoj&#x00f1;&#x00e2;di</em> </dd>
+           <dd>&#x2022; = <em>&#x25cb;ra</em>, a kind of honey <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;ttri </dt>
+           <dd><em>ch&#x0101;ttri</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-2, 86</dd>
+
+           <dt>&#x22d9; ch&#x0101;ttri&#x015b;&#x0101;la </dt>
+           <dd><em>&#x25cb;&#x015b;&#x0101;la</em> n' <a href="worksAuthorsAbbrs.html#ib">ib.</a> (cf. K&#x0101;&#x015b;.) </dd>
+           <dd>&#x2022; (<em>a</em>), f. <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ttry&#x0101;di </dt>
+           <dd><em>ch&#x0101;ttry-&#x0101;di</em> a Ga&#x1e47;a of <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;ttrikya </dt>
+           <dd><em>ch&#x0101;ttrikya</em> n. the office of a parasol-bearer (<em>chattrika</em>), g. <em>purohit&#x00e2;di</em></dd>
+
+           <dt>&#x226b; ch&#x0101;da </dt>
+           <dd><em>ch&#x0101;da</em> n. (irr. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-4, 96) a roof. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;daka </dt>
+           <dd><em>ch&#x0101;daka</em> mfn. covering <a href="worksAuthorsAbbrs.html#Priy">Priy.</a> i, 7 </dd>
+           <dd>&#x2022; any obscuring object (as a cloud) <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> iv, 9 f</dd>
+
+           <dt>&#x226b; ch&#x0101;dana </dt>
+           <dd><em>ch&#x0101;dana</em> m. 'coverer', Barleria caerulea <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the skin <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; covering, cover <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 3685 <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 3537 <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> civ, 8 <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> </dd>
+           <dd>&#x2022; concealing <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; darkening <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> xxiv, 34 </dd>
+           <dd>&#x2022; (in dram.) ignoring or tolerating offences if useful for one's aims <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> vi, 107 </dd>
+           <dd>&#x2022; a leaf <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;dita </dt>
+           <dd><em>ch&#x0101;dita</em> mfn. covered, covered over <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> lxxiii, 1 <a href="worksAuthorsAbbrs.html#Gha&#x1e6d;">Gha&#x1e6d;.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> i, 116 </dd>
+           <dd>&#x2022; obscured (the moon) <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> i, 53 </dd>
+           <dd>&#x2022; concealed, disguised <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> xvii, 44</dd>
+
+           <dt>&#x226b; ch&#x0101;din </dt>
+           <dd><em>ch&#x0101;din</em> mfn. ifc. hiding, obscuring <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> xxx, 18 </dd>
+           <dd>&#x2022; (<em>in&#x012b;</em>), f. the skin <a href="worksAuthorsAbbrs.html#Gal">Gal.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;di&#x1e63;eya </dt>
+           <dd><em>ch&#x0101;di&#x1e63;eya</em> mfn. suitable for the roof of a carriage or house (<em>chad&#x00ed;s</em>) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-1, 1 3 ; 2 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 2 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;dmika </dt>
+           <dd><em>ch&#x0101;dmika</em> mfn. (fr. <em>chadman</em>) fraudulent <a href="worksAuthorsAbbrs.html#Mn">Mn.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;dya </dt>
+           <dd><em>ch&#x0101;dya</em> mfn. to be sheltered <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 62 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+           <dd>&#x2022; m. the object obscured <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> iv, 10</dd>
+
+           <dt>chad 3</dt>
+           <dd><em>chad</em> or 2. <em>chand</em>, cl. 10. <em>chad&#x00e1;yati</em> (also <em>&#x25cb;te</em> = &#x221a;<em>arc</em> <a href="worksAuthorsAbbrs.html#Naigh">Naigh.</a> iii, 14 [v. l, <em>&#x25cb;ti</em>] </dd>
+           <dd>&#x2022; Subj. <em>&#x25cb;yat</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> </dd>
+           <dd>&#x2022; 2. pl. <em>&#x25cb;y&#x0101;tha</em>, i, 165, 12), <em>chandayati</em> (twice cl. i <em>ch&#x00e1;ndati</em> [= <em>arcati</em> <a href="worksAuthorsAbbrs.html#Naigh">Naigh.</a> iii, 14] <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii </dd>
+           <dd>&#x2022; &#x0100;. [Subj. <em>&#x25cb;y&#x0101;te</em>] <a href="worksAuthorsAbbrs.html#RV">RV.</a> </dd>
+           <dd>&#x2022; aor. <em>acacchadat</em> <a href="worksAuthorsAbbrs.html#Nir">Nir.</a> ix, 8 </dd>
+           <dd>&#x2022; <em>acch&#x0101;n</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> </dd>
+           <dd>&#x2022; 2. pl. <em>&#x25cb;nta</em>, i, 165, 12 </dd>
+           <dd>&#x2022; 3. pl. <em>&#x25cb;ntsur</em>, x, 119, 3 </dd>
+           <dd>&#x2022; Subj. <em>chantsat</em> [<a href="worksAuthorsAbbrs.html#Naigh">Naigh.</a> ii, 6] <a href="worksAuthorsAbbrs.html#RV">RV.</a> </dd>
+           <dd>&#x2022; 2. sg. <em>&#x25cb;tsi</em>, i, 163, 4 </dd>
+           <dd>&#x2022; perf. <em>cacchanda</em>, vii, 73, 3 </dd>
+           <dd>&#x2022; Pot. <em>cacchady&#x0101;t</em>, x, 73, 9) to seem, appear, be considered as <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> xiv, 5 </dd>
+           <dd>&#x2022; to seem good, please (with dat.) <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> viii </dd>
+           <dd>&#x2022; (with acc, ) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 7379 (cf. 7376) </dd>
+           <dd>&#x2022; &#x0100;. to be pleased with, delight in (acc. or loc.) <a href="worksAuthorsAbbrs.html#RV">RV.</a> viii, 50, 5 ; x, 27, 8 </dd>
+           <dd>&#x2022; <em>chandayati</em>, to gratify any one (acc </dd>
+           <dd>&#x2022; exceptionally gen. <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 7275 <a href="worksAuthorsAbbrs.html#R">R.</a> iii, 3, 15) with anything (instr., esp. <em>vare&#x1e47;a</em>, 'with a boon' <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a>) </dd>
+           <dd>&#x2022; to try to seduce any one (acc.) <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> x, 45, 36</dd>
+
+           <dt>&#x226b; chad 4</dt>
+           <dd><em>chad</em> mfn. ifc. 'appearing as', See <em>prathamacch&#x00e1;d</em> </dd>
+           <dd>&#x2022;, pleased with', See <em>kavi-</em> and (?) <em>bh&#x016b;te-cch&#x00e1;d</em></dd>
+
+           <dt>&#x226b; chanda </dt>
+           <dd><em>ch&#x00e1;nda</em> mfn. pleasing, alluring, inviting <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 92, 6 ; viii, 7, 36 </dd>
+           <dd>&#x2022; <em>&#x25cb;nd&#x00e1;</em>, praising (<em>ch&#x00e1;nda</em> <a href="worksAuthorsAbbrs.html#Naigh">Naigh.</a> iii, 16) <a href="worksAuthorsAbbrs.html#RV">RV.</a> vi, 11, 3 </dd>
+           <dd>&#x2022; cf. <em>madhu-cch&#x25cb;</em> </dd>
+           <dd>&#x2022; m. appearance, look, shape <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 8359 ff </dd>
+           <dd>&#x2022; cf. <em>prati</em> and <em>vi-cch&#x25cb;</em> </dd>
+           <dd>&#x2022; pleasure, delight, appetite, liking, predilection, desire, will <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> ii, 195 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c </dd>
+           <dd>&#x2022; (<em>ena</em>), instr. ind. [also with <em>svena</em>, viii, 1249 <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 83, 25 </dd>
+           <dd>&#x2022; or ifc. with <em>sva-</em> (<a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 7017) or <em>&#x0101;tma-</em> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> v, xiii <a href="worksAuthorsAbbrs.html#R">R.</a> v, 26, 18] according to one's own wish <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> viii, 176 <a href="worksAuthorsAbbrs.html#Nal">Nal.</a> xxiii, 15 <a href="worksAuthorsAbbrs.html#R">R.</a> v </dd>
+           <dd>&#x2022; according to the wish of (gen.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 7096 <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 7097 </dd>
+           <dd>&#x2022; (<em>a-cch&#x25cb;</em> neg. 'against the wish of') 7098 and 8557 </dd>
+           <dd>&#x2022; (<em>&#x0101;t</em>), abl. ind. according to the wish of (in comp.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> viii, 3542 </dd>
+           <dd>&#x2022; (<em>a-cch&#x25cb;</em> neg. 'involuntarily' <a href="worksAuthorsAbbrs.html#R">R.</a> iii, 5, 2) </dd>
+           <dd>&#x2022; poison <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of &#x015a;&#x0101;kya-muni's charioteer (<em>chandaka</em>) <a href="worksAuthorsAbbrs.html#Lalit">Lalit.</a> xv <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> xxvii, 159 </dd>
+           <dd>&#x2022; of a prince <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; cf. <em>sva-</em> </dd>
+           <dd>&#x2022; <em>indra-</em>, <em>kal&#x00e2;pa-</em>, <em>deva</em> and <em>vijaya-</em>, various kinds of pearl-ornaments</dd>
+
+           <dt>&#x22d9; chandagati </dt>
+           <dd><em>&#x25cb;gati</em> f. interpretation of the Veda (<em>&#x25cb;nda</em> for <em>&#x25cb;ndas</em>) <a href="worksAuthorsAbbrs.html#R">R.</a> vii, 36, 45</dd>
+
+           <dt>&#x22d9; chandac&#x0101;rin </dt>
+           <dd><em>&#x25cb;c&#x0101;rin</em> mfn. complying with the wishes of (gen.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii, 2789</dd>
+
+           <dt>&#x22d9; chandaja </dt>
+           <dd><em>&#x25cb;ja</em> mfn. 'originating from one's own wish', self-produced (gods) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 12296</dd>
+
+           <dt>&#x22d9; chandatas </dt>
+           <dd><em>&#x25cb;tas</em> ind. at will, at pleasure <a href="worksAuthorsAbbrs.html#Ka&#x1e6d;hUp">Ka&#x1e6d;hUp.</a> i, 25 <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> iii, 203 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> </dd>
+           <dd>&#x2022; according to the wish of (gen.) <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <font color="#FF0000" font size=-2><a name="p405-1"></a>[Page 405, Column 1]</font>
+</dd>
+
+           <dt>&#x22d9; chandap&#x0101;tana </dt>
+           <dd><em>&#x25cb;p&#x0101;tana</em> m. = &#x25cb;ndaka-p&#x25cb; <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chandapra&#x015b;asti </dt>
+           <dd><em>&#x25cb;pra&#x015b;asti</em> f. N. of wk. by Harsha</dd>
+
+           <dt>&#x22d9; chandam&#x1e5b;tyu </dt>
+           <dd><em>&#x25cb;m&#x1e5b;tyu</em> mfn. having death in one's power <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 1820 <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> i, 9, 29</dd>
+
+           <dt>&#x22d9; chandah&#x0101;nis </dt>
+           <dd><em>&#x25cb;h&#x0101;nis</em> mfn. giving up one's desires (?) <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> xxxv, 173</dd>
+
+           <dt>&#x22d9; chand&#x0101;nug&#x0101;min </dt>
+           <dd><em>chand&#x00e2;nug&#x0101;min</em> mfn. complying with the wishes (of others), submissive <a href="worksAuthorsAbbrs.html#C&#x0101;&#x1e47;">C&#x0101;&#x1e47;.</a></dd>
+
+           <dt>&#x22d9; chand&#x0101;nuvartin </dt>
+           <dd><em>chand&#x00e2;nuvartin</em> mfn. id. <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 296 <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 53, 10 <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;m">K&#x0101;m.</a> </dd>
+           <dd>&#x2022; following one's own will <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> iii, 141</dd>
+
+           <dt>&#x22d9; chand&#x0101;nuv&#x1e5b;tta </dt>
+           <dd><em>chand&#x00e2;nuv&#x1e5b;tta</em> v. l. for <em>&#x25cb;do-'nuv&#x25cb;</em></dd>
+
+           <dt>&#x226b; chandaka </dt>
+           <dd><em>chandaka</em> mfn. ifc. 'charming', See <em>sarva-</em> </dd>
+           <dd>&#x2022; m. N. of &#x015a;&#x0101;kya-muni's charioteer <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> xxvii, 158 <a href="worksAuthorsAbbrs.html#Lalit">Lalit.</a></dd>
+
+           <dt>&#x22d9; chandakanivartana </dt>
+           <dd><em>&#x25cb;nivartana</em> n. 'Candaka's return', 'N. of a Caitya, xv, 378</dd>
+
+           <dt>&#x22d9; chandakap&#x0101;tana </dt>
+           <dd><em>&#x25cb;p&#x0101;tana</em> m. a hypocrite <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; canda&#x1e25; </dt>
+           <dd><em>canda&#x1e25;</em>^ in comp. for <em>&#x25cb;das</em></dd>
+
+           <dt>&#x22d9; canda&#x1e25;kalpa </dt>
+           <dd><em>&#x25cb;kalpa</em> m. collection of ritualistic rules <a href="worksAuthorsAbbrs.html#&#x0100;p">&#x0100;p.</a> 11, 8, 11 </dd>
+           <dd>&#x2022; <em>-lat&#x0101;</em> f. N. of wk</dd>
+
+           <dt>&#x22d9; canda&#x1e25;puru&#x1e63;a </dt>
+           <dd><em>&#x25cb;puru&#x1e63;a</em> m. metre personified <a href="worksAuthorsAbbrs.html#Ait&#x0100;r">Ait&#x0100;r.</a> iii, 2, 3, 2 and 4</dd>
+
+           <dt>&#x22d9; canda&#x1e25;prakara&#x1e47;a </dt>
+           <dd><em>&#x25cb;prakara&#x1e47;a</em> n. a ch. on metre <a href="worksAuthorsAbbrs.html#PSarv">PSarv.</a></dd>
+
+           <dt>&#x22d9; canda&#x1e25;prak&#x0101;&#x015b;a </dt>
+           <dd><em>&#x25cb;prak&#x0101;&#x015b;a</em> m. N. of wk</dd>
+
+           <dt>&#x22d9; canda&#x1e25;pra&#x015b;asti </dt>
+           <dd><em>&#x25cb;pra&#x015b;asti</em> f. = &#x25cb;nda-pr&#x25cb;</dd>
+
+           <dt>&#x22d9; canda&#x1e25;&#x015b;&#x0101;stra </dt>
+           <dd><em>&#x25cb;&#x015b;&#x0101;stra</em> n. metrical science <a href="worksAuthorsAbbrs.html#V&#x0101;m">V&#x0101;m.</a> i, 3, 7 </dd>
+           <dd>&#x2022; = <em>-s&#x0101;ra</em></dd>
+
+           <dt>&#x22d9; canda&#x1e25;sa&#x1e43;graha </dt>
+           <dd><em>&#x25cb;sa&#x1e43;graha</em> m. 'summary of metres', N. of a work <a href="worksAuthorsAbbrs.html#Tantras">Tantras.</a> ii</dd>
+
+           <dt>&#x22d9; canda&#x1e25;s&#x0101;ra </dt>
+           <dd><em>&#x25cb;s&#x0101;ra</em> m. Pi&#x1e45;gala's work on metre <a href="worksAuthorsAbbrs.html#AgP">AgP.</a> cccxxvii ff</dd>
+
+           <dt>&#x22d9; canda&#x1e25;siddhi </dt>
+           <dd><em>&#x25cb;siddhi</em> f. a ch. of the K&#x0101;vya-kalpa-lat&#x0101;-v&#x1e5b;ittiparimala</dd>
+
+           <dt>&#x22d9; canda&#x1e25;sudh&#x0101;kara </dt>
+           <dd><em>&#x25cb;sudh&#x00e2;kara</em> m. N. of wk</dd>
+
+           <dt>&#x22d9; canda&#x1e25;s&#x016b;tra </dt>
+           <dd><em>&#x25cb;s&#x016b;tra</em> n. = <em>-s&#x0101;ra</em></dd>
+
+           <dt>&#x22d9; canda&#x1e25;stut </dt>
+           <dd><em>&#x25cb;stut</em> mfn. praising in hymns <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> v, 20, 8</dd>
+
+           <dt>&#x22d9; canda&#x1e25;stubh </dt>
+           <dd><em>&#x25cb;st&#x00fa;bh</em> mfn. id. <a href="worksAuthorsAbbrs.html#RV">RV.</a> v, 52, 12</dd>
+
+           <dt>&#x226b; chandana </dt>
+           <dd><em>chandana</em> mfn. charming <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> civ, 61</dd>
+
+           <dt>&#x226b; chanda&#x015b; </dt>
+           <dd><em>chanda&#x015b;</em> = <em>&#x25cb;das</em></dd>
+
+           <dt>&#x22d9; chanda&#x015b;cit </dt>
+           <dd><em>&#x25cb;cit</em> mfn. piled with metres, <a href="worksAuthorsAbbrs.html#&#x015a;ulbas">&#x015a;ulbas.</a> ii, 81</dd>
+
+           <dt>&#x22d9; chanda&#x015b;c&#x016b;&#x1e0d;&#x0101;ma&#x1e47;i </dt>
+           <dd><em>&#x25cb;c&#x016b;&#x1e0d;&#x0101;ma&#x1e47;i</em> m. a work by <a href="worksAuthorsAbbrs.html#Hemac">Hemac.</a></dd>
+
+           <dt>&#x226b; chandas 2</dt>
+           <dd><em>ch&#x00e1;ndas</em> n. desire, longing for, will <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 7376 <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 93 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> </dd>
+           <dd>&#x2022; intention, purport <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; a sacred hymn (of <a href="worksAuthorsAbbrs.html#AV">AV.</a> </dd>
+           <dd>&#x2022; as distinguished from those of <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#SV">SV.</a> and YajurV.), incantation-hymn <a href="worksAuthorsAbbrs.html#RV">RV.</a> x <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> viii <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> v, 1224 <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> i, 11 </dd>
+           <dd>&#x2022; the sacred text of the Vedic hymns <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xi, 5, 7, 3 <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;vG&#x1e5b;">&#x0100;&#x015b;vG&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> <a href="worksAuthorsAbbrs.html#Gobh">Gobh.</a> <a href="worksAuthorsAbbrs.html#VPr&#x0101;t">VPr&#x0101;t.</a> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c </dd>
+           <dd>&#x2022; metre (in general, supposed to consist of 3 or 7 typical forms [<a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> &amp;c.] to which Vir&#x0101;j is added as the 8th [<a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> viii, 3, 3, 6] </dd>
+           <dd>&#x2022; <em>ch&#x00e1;ndas</em> opposed to <em>g&#x0101;yatr&#x00ed;</em> and <em>tri&#x1e63;&#x1e6d;&#x00fa;bh</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 14, 16) </dd>
+           <dd>&#x2022; metrical science <a href="worksAuthorsAbbrs.html#Mu&#x1e47;&#x1e0d;Up">Mu&#x1e47;&#x1e0d;Up.</a> i, 1, 5 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 2887 <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#&#x015a;rut">&#x015a;rut.</a> </dd>
+           <dd>&#x2022; = <em>&#x25cb;do-grantha</em> <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a> ix, 2, 6 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> ; [<a href="worksAuthorsAbbrs.html#Lat">Lat.</a> <em>scando</em>, 'to step, scan.']</dd>
+
+           <dt>&#x22d9; chandask&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ta</em> mfn. composed in metre <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> iv, 100 </dd>
+           <dd>&#x2022; (<em>a-cch&#x25cb;</em> neg.) <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;khBr">&#x015a;&#x0101;&#x1e45;khBr.</a> iii, 2</dd>
+
+           <dt>&#x22d9; chandastva </dt>
+           <dd><em>&#x25cb;tva</em> n. the state of a sacred hymn or of its metre <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> i, 4, 2,</dd>
+
+           <dt>&#x22d9; chandaspak&#x1e63;a </dt>
+           <dd><em>&#x25cb;pak&#x1e63;a</em> (<em>ch&#x00e1;nd&#x25cb;</em>), mf(<em>&#x0101;</em>)n. borne aloft on the wings of desire <a href="worksAuthorsAbbrs.html#AV">AV.</a> viii, 9, 1 2</dd>
+
+           <dt>&#x22d9; chandasvat </dt>
+           <dd><em>&#x25cb;vat</em> (<em>ch&#x00e1;nd&#x25cb;</em>), mfn. desiring <a href="worksAuthorsAbbrs.html#TS">TS.</a> iv, 3, 11, 1 (<em>-pak&#x1e63;a</em> <a href="worksAuthorsAbbrs.html#AV">AV.</a>)</dd>
+
+           <dt>&#x226b; chandasik&#x0101; </dt>
+           <dd><em>chandasik&#x0101;</em> f. = <em>&#x25cb;ndo-grantha</em></dd>
+
+           <dt>&#x22d9; chandaska </dt>
+           <dd><em>chandaska</em> ifc. (f. <em>&#x0101;</em>) = <em>&#x25cb;das</em>, metre <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a> ix, 2, 5 and 8 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; chandasya </dt>
+           <dd><em>chandasy&#x00e1;</em> mfn. (<a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 71 and 4, 93, 140 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 1) taking the form of hymns, metrical, relating to or fit for hymns <a href="worksAuthorsAbbrs.html#RV">RV.</a> ix, 113, 6 <a href="worksAuthorsAbbrs.html#TS">TS.</a> i, 6, 11, 4 </dd>
+           <dd>&#x2022; made or done according to one's wish <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 93 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;&#x0341;</em>), f. (with <em>&#x012b;&#x0341;&#x1e63;&#x1e6d;ak&#x0101;</em>) N. of a sacrificial brick <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> vii, 5, 2, 42 ; viii, 2 f</dd>
+
+           <dt>&#x226b; chandita </dt>
+           <dd><em>chandita</em> mfn. gratified <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a></dd>
+
+           <dt>&#x226b; chandu </dt>
+           <dd><em>ch&#x00e1;ndu</em> mfn. pleasing <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 55, 4</dd>
+
+           <dt>&#x226b; chando </dt>
+           <dd><em>chando</em> in comp. for <em>&#x25cb;das</em></dd>
+
+           <dt>&#x22d9; chandoga </dt>
+           <dd><em>&#x25cb;g&#x00e1;</em> m. (&#x221a;<em>gai</em>) 'singer in metre', chanter&#x00f3;f the <a href="worksAuthorsAbbrs.html#SV">SV.</a>, Udg&#x0101;t&#x1e5b;i priest <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> iii, 32 <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> x <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> &amp;c </dd>
+           <dd>&#x2022; <em>-paddhati</em> f. N. of the work Yaj&#x00f1;a-p&#x0101;r&#x015b;va (YajurV. Pari&#x015b;. xv <a href="worksAuthorsAbbrs.html#Cara&#x1e47;">Cara&#x1e47;.</a>) </dd>
+           <dd>&#x2022; <em>-pari&#x015b;i&#x1e63;&#x1e6d;a</em> n. <a href="worksAuthorsAbbrs.html#K&#x0101;ty">K&#x0101;ty.</a>'s supplement on <a href="worksAuthorsAbbrs.html#Gobh">Gobh.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> ii, 44 <a href="worksAuthorsAbbrs.html#Kull">Kull.</a> </dd>
+           <dd>&#x2022; <em>-br&#x0101;hma&#x1e47;a</em> n. = <em>ch&#x0101;ndogya-br&#x25cb;</em> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> iv, 18 <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a> </dd>
+           <dd>&#x2022; <em>-m&#x0101;haki</em> m. N. of a teacher <a href="worksAuthorsAbbrs.html#VBr">VBr.</a> </dd>
+           <dd>&#x2022; <em>-v&#x1e5b;&#x1e63;&#x00f4;tsarga-tattva</em> n. N. of wk </dd>
+           <dd>&#x2022; <em>-&#x015b;&#x0101;kh&#x0101;</em> f. a branch of the <a href="worksAuthorsAbbrs.html#SV">SV.</a> (quoted in a work on &#x015a;r&#x0101;ddhas) </dd>
+           <dd>&#x2022; <em>-&#x015b;r&#x0101;ddha-tattva-pram&#x0101;&#x1e47;a</em> n. N. of wk. by Raghu-nandana </dd>
+           <dd>&#x2022; <em>-&#x015b;ruti</em> f. 'tradition of the Chandogas', the <a href="worksAuthorsAbbrs.html#SV">SV.</a> <a href="worksAuthorsAbbrs.html#Par&#x0101;&#x015b;">Par&#x0101;&#x015b;.</a> ii, 5/111, 3, 6 </dd>
+           <dd>&#x2022; <em>-sop&#x0101;na</em> n. N. of wk </dd>
+           <dd>&#x2022; <em>&#x25cb;g&#x00e2;hnika-paddhati</em> f. N. of wk. by R&#x0101;ma-k&#x1e5b;ish&#x1e47;a</dd>
+
+           <dt>&#x22d9; chandogovinda </dt>
+           <dd><em>&#x25cb;govinda</em> n. Ga&#x1e45;g&#x0101;-d&#x0101;sa's work on metre</dd>
+
+           <dt>&#x22d9; chandograntha </dt>
+           <dd><em>&#x25cb;grantha</em> m. 'metre-book' <a href="worksAuthorsAbbrs.html#SV">SV.</a> i <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a> ix, 2, 6 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; chandod&#x012b;pik&#x0101; </dt>
+           <dd><em>&#x25cb;d&#x012b;pik&#x0101;</em> f. N. of wk</dd>
+
+           <dt>&#x22d9; chandodeva </dt>
+           <dd><em>&#x25cb;deva</em> m. N. of Mata&#x1e45;ga <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii, 1937 </dd>
+           <dd>&#x2022; (<em>i</em>), f. 'metre-goddess', G&#x0101;yatr&#x012b; <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a></dd>
+
+           <dt>&#x22d9; chandon&#x0101;ma </dt>
+           <dd><em>&#x25cb;n&#x0101;m&#x00e1;</em> mfn. 'named metre', metrical <a href="worksAuthorsAbbrs.html#VS">VS.</a> iv, 24</dd>
+
+           <dt>&#x22d9; chandon&#x0101;man </dt>
+           <dd><em>&#x25cb;n&#x0101;man</em> mfn. id. <a href="worksAuthorsAbbrs.html#ib">ib.</a>, Sch'</dd>
+
+           <dt>&#x22d9; chandonuv&#x1e5b;tta </dt>
+           <dd><em>&#x25cb;'nuv&#x1e5b;tta</em> n. compliance with any one's wishes <a href="worksAuthorsAbbrs.html#C&#x0101;&#x1e47;">C&#x0101;&#x1e47;.</a> (cf. Hit </dd>
+           <dd>&#x2022; v. l. <em>&#x25cb;d&#x00e2;nuv&#x25cb;</em>)</dd>
+
+           <dt>&#x22d9; chandonu&#x015b;&#x0101;sanav&#x1e5b;tti </dt>
+           <dd><em>&#x25cb;'nu&#x015b;&#x0101;sana-v&#x1e5b;tti</em> f. N. of wk</dd>
+
+           <dt>&#x22d9; chandopah&#x0101;r&#x0101;vali </dt>
+           <dd><em>&#x25cb;pah&#x0101;r&#x00e2;vali</em> f. N. of wk</dd>
+
+           <dt>&#x22d9; chandobaddha </dt>
+           <dd><em>&#x25cb;baddha</em> mfn. = <em>&#x25cb;das-k&#x1e5b;ta</em> <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a> xv, 246</dd>
+
+           <dt>&#x22d9; chandobha&#x1e45;gavat </dt>
+           <dd><em>&#x25cb;bha&#x1e45;ga-vat</em> mfn. offending against metre <a href="worksAuthorsAbbrs.html#Sarasv">Sarasv.</a></dd>
+
+           <dt>&#x22d9; chandobh&#x0101;ga </dt>
+           <dd><em>&#x25cb;bh&#x0101;ga</em> mf(<em>&#x0101;</em>)n. one whose share is a metre <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> ii, 18</dd>
+
+           <dt>&#x22d9; chandobh&#x0101;&#x1e63;&#x0101; </dt>
+           <dd><em>&#x25cb;bh&#x0101;&#x1e63;&#x0101;</em> f. (g. <em>&#x1e5b;g-ayan&#x00e2;di</em>) the language of the Veda <a href="worksAuthorsAbbrs.html#TPr&#x0101;t">TPr&#x0101;t.</a> <a href="worksAuthorsAbbrs.html#Cara&#x1e47;">Cara&#x1e47;.</a> (DeviiP.)</dd>
+
+           <dt>&#x22d9; chandobh&#x0101;&#x1e63;ya </dt>
+           <dd><em>&#x25cb;bh&#x0101;&#x1e63;ya</em> n. N. of wk</dd>
+
+           <dt>&#x22d9; chandoma&#x00f1;jari </dt>
+           <dd><em>&#x25cb;ma&#x00f1;jari</em></dd>
+
+           <dt>&#x22d9; chandoma&#x00f1;jar&#x012b; </dt>
+           <dd><em>&#x25cb;ma&#x00f1;ja&#x1e0d;r&#x012b;</em> f. Ga&#x1e45;g&#x0101;-d&#x0101;sa's work on metre</dd>
+
+           <dt>&#x22d9; chandomaya </dt>
+           <dd><em>&#x25cb;m&#x00e1;ya</em> mfn. consisting of or containing or representing sacred hymns <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> vi, x <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> vi, 27 <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <font color="#FF0000" font size=-2><a name="p405-2"></a>[Page 405, Column 2]</font>
+</dd>
+
+           <dt>&#x22d9; chandom&#x0101;na </dt>
+           <dd><em>&#x25cb;m&#x0101;na</em> n. (g. <em>&#x1e5b;g-ayan&#x00e2;di</em>), measure of a metre', a syllable regarded as the metrical unit <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> i, xiii </dd>
+           <dd>&#x2022; (ifc.) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-2, 176 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a></dd>
+
+           <dt>&#x22d9; chandom&#x0101;rta&#x1e47;&#x1e0d;a </dt>
+           <dd><em>&#x25cb;m&#x0101;rta&#x1e47;&#x1e0d;a</em> m. N. of wk. on metre</dd>
+
+           <dt>&#x22d9; chandom&#x0101;l&#x0101; </dt>
+           <dd><em>&#x25cb;m&#x0101;l&#x0101;</em> f. a similar work</dd>
+
+           <dt>&#x22d9; chandoratn&#x0101;kara </dt>
+           <dd><em>&#x25cb;ratn&#x00e2;kara</em> m. a similar work by Sarvaj&#x00f1;a-ratn&#x00e2;kara-&#x015b;&#x0101;nti</dd>
+
+           <dt>&#x22d9; chandoru&#x1e6d;stoma </dt>
+           <dd><em>&#x25cb;ru&#x1e6d;-stoma</em> m. (fr. <em>-ruh-st&#x25cb;</em>) N. of a &#x1e62;a&#x1e0d;-aha rite <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> x, 8, 33</dd>
+
+           <dt>&#x22d9; chandor&#x016b;pa </dt>
+           <dd><em>&#x25cb;r&#x016b;pa</em> n. a form of metre, S&#x0101;&#x1e45;khBr. xx</dd>
+
+           <dt>&#x22d9; chandovat&#x012b; </dt>
+           <dd><em>&#x25cb;vat&#x012b;</em> f. (in music) a kind of &#x015a;ruti</dd>
+
+           <dt>&#x22d9; chandoviciti </dt>
+           <dd><em>&#x25cb;viciti</em> f. (g. <em>&#x1e5b;gayan&#x00e2;di</em>), examination of metres', metrical science <a href="worksAuthorsAbbrs.html#V&#x0101;m">V&#x0101;m.</a> i 3, 7 </dd>
+           <dd>&#x2022; N. of wk. (called Ved&#x00e2;&#x1e45;ga) <a href="worksAuthorsAbbrs.html#&#x0100;p">&#x0100;p.</a> ii, 8, 11 <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> civ, 64 <a href="worksAuthorsAbbrs.html#Bhar">Bhar.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;vy&#x00e2;d">K&#x0101;vy&#x00e2;d.</a> i, 12</dd>
+
+           <dt>&#x22d9; chandoviv&#x1e5b;ti </dt>
+           <dd><em>&#x25cb;viv&#x1e5b;ti</em> f. explanation of metres <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; = <em>&#x25cb;da&#x1e25;s&#x0101;ra</em> <a href="worksAuthorsAbbrs.html#Madhus">Madhus.</a></dd>
+
+           <dt>&#x22d9; chandov&#x1e5b;tta </dt>
+           <dd><em>&#x25cb;v&#x1e5b;tta</em> n. any metre <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 28'</dd>
+
+           <dt>&#x226b; chandoma </dt>
+           <dd><em>chandom&#x00e1;</em> m. (fr. <em>&#x25cb;do-'ma</em>, 'hymn's or metre's home '?) the 8th, 9th, and 10th day in the Dv&#x0101;da&#x015b;&#x00e2;ha rite (but <a href="worksAuthorsAbbrs.html#cf">cf.</a> &#x0100;&#x015b;v&#x015a;r. viii, 7, 18) <a href="worksAuthorsAbbrs.html#TS">TS.</a> vii <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xii <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> </dd>
+           <dd>&#x2022; N. of the 3 Stomas sung in that rite <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> x, xix,</dd>
+
+           <dt>&#x22d9; chandomatrikakud </dt>
+           <dd><em>&#x25cb;tri-kakud</em> m. N. of a Try-aha rite <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> xvi, 29, 16</dd>
+
+           <dt>&#x22d9; chandomada&#x015b;ar&#x0101;tra </dt>
+           <dd><em>&#x25cb;da&#x015b;ar&#x0101;tra</em> m. N. of a Da&#x015b;a-r&#x0101;tra rite <a href="worksAuthorsAbbrs.html#Ma&#x015b;">Ma&#x015b;.</a></dd>
+
+           <dt>&#x22d9; chandomada&#x015b;&#x0101;ha </dt>
+           <dd><em>&#x25cb;da&#x015b;&#x00e2;ha</em> m. id. <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xxiii f. <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> xiii <a href="worksAuthorsAbbrs.html#Vait">Vait.</a></dd>
+
+           <dt>&#x22d9; chandomapavam&#x0101;natrir&#x0101;tra </dt>
+           <dd><em>&#x25cb;pavam&#x0101;na-trir&#x0101;tra</em> m. = <em>-tri-kakud</em> <a href="worksAuthorsAbbrs.html#Ma&#x015b;">Ma&#x015b;.</a></dd>
+
+           <dt>&#x22d9; chandomavat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. accompanied by a Chandoma <a href="worksAuthorsAbbrs.html#Ma&#x015b;">Ma&#x015b;.</a> </dd>
+           <dd>&#x2022; <em>-par&#x0101;ka</em> m. <em>-tri-kakud</em> <a href="worksAuthorsAbbrs.html#Vait">Vait.</a> xli, 2</dd>
+
+           <dt>&#x226b; chandya </dt>
+           <dd><em>ch&#x00e1;ndya</em> mfn. = <em>&#x25cb;ndu</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> viii, 101, 5         ....</dd>
+
+           <dt>chad 5</dt>
+           <dd><em>chad</em> cl. 1. to nourish <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xix</dd>
+
+           <dt>chadma&#x1e6d; </dt>
+           <dd><em>chadma&#x1e6d;</em> See <em>chamba&#x1e6d;-kara</em></dd>
+
+           <dt>chadman </dt>
+           <dd><em>chadman</em> &amp;c. See &#x221a;1. <em>chad</em></dd>
+
+           <dt>chanacchaniti </dt>
+           <dd><em>chanacchan-iti</em> ind. (fr. <em>&#x25cb;natchanad-iti</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-1, 99) onomat. (imitative of the noise of drops falling on anything hot) <a href="worksAuthorsAbbrs.html#Amar">Amar.</a> 89 (v. l. <em>chamaccham-iti</em> <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;r&#x1e45;gP">&#x015a;&#x0101;r&#x1e45;gP.</a> cvi, 11, whence the author of the verse is called <em>&#x25cb;cchamik&#x0101;-ratna</em>)</dd>
+
+           <dt>chand 1</dt>
+           <dd><em>chand</em> and 2 See &#x221a;1. and &#x221a;3. <em>chad</em></dd>
+
+           <dt>chand 3</dt>
+           <dd><em>chand</em> v&#x1e37;. for &#x221a;<em>ch&#x1e5b;d</em>, q.v</dd>
+
+           <dt>chanda 1</dt>
+           <dd><em>chanda</em> and 2 See &#x221a;1. and &#x221a;3. <em>chad</em></dd>
+
+           <dt>&#x226b; chandaka </dt>
+           <dd><em>chandaka</em></dd>
+
+           <dt>&#x22d9; chandana </dt>
+           <dd><em>chan&#x1e0d;dana</em> 1. &amp; 2</dd>
+
+           <dt>&#x22d9; chandas </dt>
+           <dd><em>chan&#x1e0d;das</em> &amp;c. See <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x226b; channa </dt>
+           <dd><em>channa</em> See &#x221a;1. <em>chad</em></dd>
+
+           <dt>cham </dt>
+           <dd><em>cham</em> cl. 1. <em>&#x25cb;mati</em>, to eat <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xiii</dd>
+
+           <dt>chamacchamik&#x0101;ratna </dt>
+           <dd><em>chamacchamik&#x0101;-ratna</em> m. See <em>chanacchan-iti</em> at end</dd>
+
+           <dt>&#x226b; chamacchamita </dt>
+           <dd><em>chamacchamita</em> n. crackling <a href="worksAuthorsAbbrs.html#M&#x0101;rkP">M&#x0101;rkP.</a> viii, 112</dd>
+
+           <dt>chama&#x1e47;&#x1e0d;a </dt>
+           <dd><em>chama&#x1e47;&#x1e0d;a</em> m.= <em>chem&#x25cb;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a single man (who has no kinsmen) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>chama&#x1e47;&#x1e0d;ala </dt>
+           <dd><em>cha-ma&#x1e47;&#x1e0d;ala</em> See 2. <em>cha</em></dd>
+
+           <dt>champ </dt>
+           <dd><em>champ</em> cl. 10, to go <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxxiii</dd>
+
+           <dt>champa&#x1e47;a </dt>
+           <dd><em>champa&#x1e47;a</em> v&#x1e37;. for <em>&#x015b;a&#x1e45;kha&#x1e47;a</em></dd>
+
+           <dt>chamba&#x1e43;k&#x0101;ram </dt>
+           <dd><em>chamba&#x1e43;-k&#x0101;ram</em> ind. (= &#x25cb;baT-k&#x25cb;) so as to fail <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> xii, 4 ; xxiii, 1</dd>
+
+           <dt>&#x226b; chamba&#x1e6d; </dt>
+           <dd><em>chamb&#x00e1;&#x1e6d;</em> ind. (g. <em>c&#x00e2;di</em>) in comp. root</dd>
+
+           <dt>&#x22d9; chamba&#x1e6d;k&#x1e5b; </dt>
+           <dd><em>&#x25cb;k&#x1e5b;</em> to make a failure <a href="worksAuthorsAbbrs.html#TS">TS.</a> ii, 5, 5, 3 <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> iv, 10 ; v, 9</dd>
+
+           <dt>&#x22d9; chamba&#x1e6d;kara </dt>
+           <dd><em>&#x25cb;kara</em> mf(<em>&#x012b;</em>)n. ruining <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> iii, 18, 26 (v. l. <em>chadma&#x1e6d;-k&#x25cb;</em>)</dd>
+
+           <dt>&#x22d9; chamba&#x1e6d;k&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. only neg. dat. <em>&#x00e1;-cchamba&#x1e6d;k&#x0101;r&#x0101;ya</em> ind. for not making a failure <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xi, xiii</dd>
+
+           <dt>&#x22d9; chamba&#x1e6d;k&#x0101;ram </dt>
+           <dd><em>&#x25cb;k&#x0101;ram</em> ind. only neg, <em>&#x00e1;-cch&#x25cb;</em>, so as not to make a failure <a href="worksAuthorsAbbrs.html#TS">TS.</a> ii ; v, 4, 7, 4 <a href="worksAuthorsAbbrs.html#TBr">TBr.</a> i, 2, 1, 3</dd>
+
+           <dt>charda </dt>
+           <dd><em>charda</em> <em>&#x25cb;dana</em>, &amp;c. See &#x221a;<em>ch&#x1e5b;d</em></dd>
+
+           <dt>chardis 1</dt>
+           <dd><em>chard&#x00ed;s</em> n. (= <em>chad&#x00ed;s</em>) a fence, secure place or residence (<em>g&#x1e5b;ha</em> <a href="worksAuthorsAbbrs.html#Naigh">Naigh.</a> iii, 4) <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 48, 15 and 114, 5 </dd>
+           <dd>&#x2022; vi-viii, x <a href="worksAuthorsAbbrs.html#VS">VS.</a> xiii f</dd>
+
+           <dt>&#x22d9; chardi&#x1e63;p&#x0101; </dt>
+           <dd><em>chardi&#x1e63;-p&#x0101;&#x0341;</em> mfn. protecting a house <a href="worksAuthorsAbbrs.html#RV">RV.</a> viii, 9, 11</dd>
+
+           <dt>chal </dt>
+           <dd><em>chal</em> cl. 10. (or Nom. fr. <em>chala</em>) P. <em>chalayati</em> (inf. <em>&#x25cb;litum</em> <a href="worksAuthorsAbbrs.html#R">R.</a> vi, 86, 13) to deceive, cheat, delude, outwit <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, ix <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a> x, 36 <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> xvi, 61 <a href="worksAuthorsAbbrs.html#G&#x012b;t">G&#x012b;t.</a> i, 9 and 16 </dd>
+           <dd>&#x2022; to feign <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; chala </dt>
+           <dd><em>chala</em> (&#x221a;<em>skhal</em>) n. (exceptionally m. <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> vii, 15, 12 </dd>
+           <dd>&#x2022; g. <em>ardharc&#x00e2;di</em>) fraud, deceit, sham, guise, pretence, delusion, semblance, fiction, feint, trick, fallacy (often ifc., e.g. <em>upad&#x0101;-chalena</em>, 'under pretence of gifts of honour', i.e. with feigned gifts <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> vii, 27 </dd>
+           <dd>&#x2022; <em>raja&#x015b;-chalena</em>, 'under the semblance of dust', xvi, 28 </dd>
+           <dd>&#x2022; See <em>kanyak&#x0101;-</em>, <em>dharma-</em>, <em>v&#x0101;k-</em>) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> viii, 49 and (<em>a-cch&#x25cb;</em>, neg.) 187 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c. (ifc. f. <em>&#x0101;</em> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxii, 164) </dd>
+           <dd>&#x2022; deceitful disputation, perverting the sense of words <a href="worksAuthorsAbbrs.html#Ny&#x0101;yas">Ny&#x0101;yas.</a> i, 51 ff. <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a> </dd>
+           <dd>&#x2022; wickedness <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; for <em>sthala</em> MBH. xiii. 7257 m. N. of a son of Dala <a href="worksAuthorsAbbrs.html#VP">VP.</a> iv, 4, 47 </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. ifc. in names of several treatises or chapters belonging to <a href="worksAuthorsAbbrs.html#SV">SV.</a> (e.g. <em>-&#x016b;ha-</em>, <em>&#x016b;hya-</em>, &amp;c., qq. vv.)</dd>
+
+           <dt>&#x22d9; chalak&#x0101;raka </dt>
+           <dd><em>&#x25cb;k&#x0101;raka</em> mfn. practising fraud <a href="worksAuthorsAbbrs.html#W">W.</a> <font color="#FF0000" font size=-2><a name="p405-3"></a>[Page 405, Column 3]</font>
+</dd>
+
+           <dt>&#x22d9; chalak&#x0101;rin </dt>
+           <dd><em>&#x25cb;k&#x0101;rin</em> mfn. id. <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chalat&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> f. deception <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chalady&#x016b;ta </dt>
+           <dd><em>&#x25cb;dy&#x016b;ta</em> n. = <em>chadma-dy&#x25cb;</em> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cad">Pa&#x00f1;cad.</a> i, 28</dd>
+
+           <dt>&#x22d9; chal&#x0101;k&#x1e63;aras&#x016b;tra </dt>
+           <dd><em>chal&#x00e2;k&#x1e63;ara-s&#x016b;tra</em> n. N. of wk</dd>
+
+           <dt>&#x22d9; chalokti </dt>
+           <dd><em>chal&#x00f4;kti</em> f. = <em>v&#x0101;k-chala</em>, A&#x015b;vSr. viii, 12, 13 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; chalaka </dt>
+           <dd><em>chalaka</em> mfn. delusive <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 11476</dd>
+
+           <dt>&#x226b; chalana </dt>
+           <dd><em>chalana</em> n. deceiving, deluding, tricking, outwitting <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> vi, 28 </dd>
+           <dd>&#x2022; (in dram.) contempt (<em>avam&#x0101;nana</em>), Prat&#x0101;par. <a href="worksAuthorsAbbrs.html#Da&#x015b;ar">Da&#x015b;ar.</a> i, 46 </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. deceiving, iii 17 (cf. S&#x0101;h.)</dd>
+
+           <dt>&#x22d9; chalan&#x0101;para </dt>
+           <dd><em>chalan&#x0101;-para</em> mfn. deceitful <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a> i, 69</dd>
+
+           <dt>&#x226b; chalika </dt>
+           <dd><em>chalika</em> n. a song consisting of 4 parts (recited with gesticulation </dd>
+           <dd>&#x2022; subdivision of <em>n&#x0101;tya</em> <a href="worksAuthorsAbbrs.html#Bhar">Bhar.</a>) <a href="worksAuthorsAbbrs.html#M&#x0101;lav">M&#x0101;lav.</a> i, 3/4 (in Pr&#x0101;k&#x1e5b;it) and 18/19 (v. l. <em>&#x25cb;litaka</em>)</dd>
+
+           <dt>&#x226b; chalita </dt>
+           <dd><em>chalita</em> mfn. deceived <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 34, 36 <a href="worksAuthorsAbbrs.html#Hcar">Hcar.</a> <a href="worksAuthorsAbbrs.html#Amar">Amar.</a> 41 </dd>
+           <dd>&#x2022; n. a kind of dance performed by men <a href="worksAuthorsAbbrs.html#K&#x0101;vy&#x00e2;d">K&#x0101;vy&#x00e2;d.</a> i, 39</dd>
+
+           <dt>&#x22d9; chalitar&#x0101;ma </dt>
+           <dd><em>&#x25cb;r&#x0101;ma</em> n. 'the outwitted R&#x0101;ma', N. of a drama <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> vi, 2615</dd>
+
+           <dt>&#x22d9; chalitasv&#x0101;min </dt>
+           <dd><em>&#x25cb;sv&#x0101;min</em> m. N. of a sanctuary (called after Chalitaka) <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> iv, 81</dd>
+
+           <dt>&#x226b; chalitaka </dt>
+           <dd><em>chalitaka</em> m. N. of a man <a href="worksAuthorsAbbrs.html#ib">ib.</a> </dd>
+           <dd>&#x2022; n. See <em>&#x25cb;lika</em></dd>
+
+           <dt>&#x22d9; chalitakayoga </dt>
+           <dd><em>&#x25cb;yoga</em> m. pl. N. of a Kal&#x0101; (q.v.) <a href="worksAuthorsAbbrs.html#V&#x0101;tsy&#x0101;y">V&#x0101;tsy&#x0101;y.</a> i, 3, 17 <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> x, 45, 36 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; chalin </dt>
+           <dd><em>chalin</em> m. a cheat <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; a swindler <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>challi </dt>
+           <dd><em>challi</em> f. (Pr&#x0101;krit fr. 1. <em>chard&#x00ed;s</em>) bark [<em>&#x25cb;ll&#x012b;</em>, Kalpabh. i, 165 f. ; iv, 324] <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a cloak <a href="worksAuthorsAbbrs.html#H&#x0101;l">H&#x0101;l.</a></dd>
+
+           <dt>&#x226b; challita </dt>
+           <dd><em>challita</em> See <em>asthi-</em></dd>
+
+           <dt>&#x22d9; chall&#x012b; </dt>
+           <dd><em>chall&#x012b;</em> f. bark <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a creeper <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a kind of flower <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; offspring (<em>sa&#x1e43;t&#x0101;na</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>chavi </dt>
+           <dd><em>chavi</em> f. skin, cuticle, P&#x0101;rGr, iii, 12 <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 15709 <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> lxix, 28 ff </dd>
+           <dd>&#x2022; colour of the skin, colour <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 12387 <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> &amp;c </dd>
+           <dd>&#x2022; beauty, splendour <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> ix, 34 <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a> ix, 3 <a href="worksAuthorsAbbrs.html#Naish">Naish.</a> xxii, 55 </dd>
+           <dd>&#x2022; a ray of light <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; cf. <em>k&#x1e5b;&#x1e63;&#x1e47;a-cch&#x25cb;</em></dd>
+
+           <dt>&#x226b; chavi </dt>
+           <dd><em>chavi</em> f. skin, hide <a href="worksAuthorsAbbrs.html#TBr">TBr.</a>i f. <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> xvi, 6, 2 <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;khBr">&#x015a;&#x0101;&#x1e45;khBr.</a> xxv, 15 <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xxii <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> viii, 2, 1</dd>
+
+           <dt>chavill&#x0101;kara </dt>
+           <dd><em>chavill&#x00e2;kara</em> m. N. of a historian of Ka&#x015b;mir <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> i, 19</dd>
+
+           <dt>cha&#x1e63; </dt>
+           <dd><em>cha&#x1e63;</em> cl. 1 P. &#x0100;. to hurt <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a></dd>
+
+           <dt>ch&#x0101; </dt>
+           <dd><em>ch&#x0101;</em> <em>&#x0101;s</em> m. a young animal <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ch&#x0101;ga </dt>
+           <dd><em>ch&#x0101;&#x0341;ga</em> m.= <em>chaga</em> ('limping' ?, cf ? &amp;c.) a he-goat <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 162, 3: <a href="worksAuthorsAbbrs.html#VS">VS.</a> xix, xxi <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> v <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c </dd>
+           <dd>&#x2022; the sign Aries <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;">VarB&#x1e5b;.</a> v, 5 </dd>
+           <dd>&#x2022; N. of one of &#x015a;iva's attendants <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; mfn. coming from a goat or she-goat <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> i, 257 <a href="worksAuthorsAbbrs.html#Car">Car.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; (<em>a</em>), f. a she-goat <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> iii <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;khBr">&#x015a;&#x0101;&#x1e45;khBr.</a> vii, 10 </dd>
+           <dd>&#x2022; (<em>i</em>), f. id' <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxxi, 273</dd>
+
+           <dt>&#x22d9; ch&#x0101;gakar&#x1e47;a </dt>
+           <dd><em>&#x25cb;kar&#x1e47;a</em> m. 'goatear', Tectona grandis <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;gan&#x0101;&#x015b;ana </dt>
+           <dd><em>&#x25cb;n&#x0101;&#x015b;ana</em> m. 'goat-destroyer', a wolf. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;gamaya </dt>
+           <dd><em>&#x25cb;maya</em> mfn. like a goat <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;gamitra </dt>
+           <dd><em>&#x25cb;mitra</em> m. 'goat-friend', N. of a man, g. ? <em>&#x0101;di</em> (not in <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>)</dd>
+
+           <dt>&#x22d9; ch&#x0101;gamitrika </dt>
+           <dd><em>&#x25cb;"&#x1e63;mitrika</em> mf(<em>&#x0101;</em>, <em>&#x012b;</em>)n. fr. <em>&#x25cb;tra</em> <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;gamukha </dt>
+           <dd><em>&#x25cb;mukha</em> m. 'goat-faced', N. of a Kimpurusha <a href="worksAuthorsAbbrs.html#Gal">Gal.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;garatha </dt>
+           <dd><em>&#x25cb;ratha</em> m. 'whose vehicle is a goat', Agni <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;garomamaya </dt>
+           <dd><em>&#x25cb;roma-maya</em> mfn. consisting of goat-hair <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;galak&#x1e63;a&#x1e47;a </dt>
+           <dd><em>&#x25cb;lak&#x1e63;a&#x1e47;a</em> n. N. of &#x015a;ukla-Yajurveda-Pari&#x015b;. ii</dd>
+
+           <dt>&#x22d9; ch&#x0101;gav&#x0101;hana </dt>
+           <dd><em>&#x25cb;v&#x0101;hana</em> m. = <em>-ratha</em> <a href="worksAuthorsAbbrs.html#L">L.</a> =</dd>
+
+           <dt>&#x22d9; &#x015b;atru </dt>
+           <dd><em>&#x015b;atru</em> m. = <em>-n&#x0101;&#x015b;ana</em> <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;g&#x012b;k&#x1e63;&#x012b;ran&#x0101;&#x015b;a </dt>
+           <dd><em>ch&#x0101;g&#x012b;-k&#x1e63;&#x012b;ra-n&#x0101;&#x015b;a</em> m. 'goatmilk-destroyer', Trophis aspera <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;gaka </dt>
+           <dd><em>ch&#x0101;gaka</em> n. herd of goats <a href="worksAuthorsAbbrs.html#Gal">Gal.</a> </dd>
+           <dd>&#x2022; (<em>ik&#x0101;</em>), f. = <em>&#x25cb;g&#x012b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;gala </dt>
+           <dd><em>ch&#x0101;gala</em> mfn. coming from a goat (<em>chagal&#x00e1;</em>) or she-goat <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxxxii </dd>
+           <dd>&#x2022; born in Chagala, g. <em>takh&#x1e63;a&#x015b;il&#x00e2;di</em> (not in <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>) </dd>
+           <dd>&#x2022; m. a goat <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 3275 <a href="worksAuthorsAbbrs.html#R">R.</a> vi <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> cxxi </dd>
+           <dd>&#x2022; = <em>&#x25cb;laka</em> <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; patr. fr. Chagala (if of Atri's family) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 117 </dd>
+           <dd>&#x2022; N. of a mountain <a href="worksAuthorsAbbrs.html#V&#x0101;yuP">V&#x0101;yuP.</a> i, 23, 108</dd>
+
+           <dt>&#x22d9; ch&#x0101;gal&#x0101;&#x1e47;&#x1e0d;a </dt>
+           <dd><em>ch&#x0101;gal&#x00e2;&#x1e47;&#x1e0d;a</em> v. l. for <em>chag&#x25cb;</em></dd>
+
+           <dt>&#x22d9; ch&#x0101;gal&#x0101;nta </dt>
+           <dd><em>ch&#x0101;gal&#x00e2;nta</em> m. = <em>&#x25cb;ga-n&#x0101;&#x015b;ana</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;gal&#x0101;ntrik&#x0101; </dt>
+           <dd><em>ch&#x0101;gal&#x00e2;ntrik&#x0101;</em> f. = <em>chag&#x25cb;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;gal&#x0101;ntrin </dt>
+           <dd><em>ch&#x0101;gal&#x00e2;ntrin</em> m. = <em>chag&#x25cb;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;gal&#x0101;ntr&#x012b; </dt>
+           <dd><em>ch&#x0101;gal&#x00e2;ntr&#x012b;</em> f. = <em>chag&#x25cb;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;galaka </dt>
+           <dd><em>ch&#x0101;galaka</em> m. a kind of fish <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;gali </dt>
+           <dd><em>ch&#x0101;gali</em> m. patr. fr. Chagala (if not of Atri's family <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 117 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> </dd>
+           <dd>&#x2022; one of Atri's family <a href="worksAuthorsAbbrs.html#Pravar">Pravar.</a> iii, 1, v. l. <em>&#x25cb;la</em>, <em>&#x25cb;gava</em>) or metron. fr. Chagal&#x0101; (g. <em>b&#x0101;hv-&#x0101;di</em>), N. of a prince <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 5017 and 5498</dd>
+
+           <dt>&#x226b; ch&#x0101;galeya </dt>
+           <dd><em>ch&#x0101;galeya</em> mfn. fr. <em>chagal&#x00e1;</em> g. <em>sakhy-&#x0101;di</em> </dd>
+           <dd>&#x2022; m. N. of the author of a law-book <a href="worksAuthorsAbbrs.html#P&#x0101;rG&#x1e5b;">P&#x0101;rG&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> Introd. <a href="worksAuthorsAbbrs.html#Nir&#x1e47;ayas">Nir&#x1e47;ayas.</a> ii, 7 </dd>
+           <dd>&#x2022; v </dd>
+           <dd>&#x2022; (pl.) = <em>&#x25cb;geya</em> <a href="worksAuthorsAbbrs.html#Cara&#x1e47;">Cara&#x1e47;.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;galeyin </dt>
+           <dd><em>ch&#x0101;galeyin</em> m. pl. (cf. P&#x0101;&#x1e47;. 4-3, 109) the pupils of Chagalin <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> vi, i, 7 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;geya </dt>
+           <dd><em>ch&#x0101;geya</em> m. pl. N. of a school of the black Yajur-veda, DeviiP. <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> i, 7, 1071</dd>
+
+           <dt>&#x22d9; ch&#x0101;gy&#x0101;yani </dt>
+           <dd><em>ch&#x0101;gy&#x00e2;yani</em> m. patr. fr. Ch&#x0101;ga <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 155 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a></dd>
+
+           <dt>ch&#x0101;ga&#x1e47;a </dt>
+           <dd><em>ch&#x0101;ga&#x1e47;a</em> m. a fire of dried cowdung (<em>chag&#x25cb;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ch&#x0101;gala </dt>
+           <dd><em>ch&#x0101;gala</em> &amp;c. See <em>ch&#x0101;&#x0341;ga</em></dd>
+
+           <dt>ch&#x0101;gavya </dt>
+           <dd><em>ch&#x0101;gavya</em> m. pl. N. of a family, Privar. v, 1 (v. l. <em>sth&#x0101;g&#x25cb;</em>) </dd>
+           <dd>&#x2022; cf. <em>&#x25cb;va</em> s.v. <em>&#x25cb;gali</em></dd>
+
+           <dt>ch&#x0101;chik&#x0101; </dt>
+           <dd><em>ch&#x0101;chik&#x0101;</em> N. of a Tirtha <a href="worksAuthorsAbbrs.html#Rasik">Rasik.</a></dd>
+
+           <dt>ch&#x0101;&#x1e6d;&#x0101; </dt>
+           <dd><em>ch&#x0101;&#x1e6d;&#x0101;</em> See <em>cha&#x1e6d;&#x0101;</em> at end. <font color="#FF0000" font size=-2><a name="p406-1"></a>[Page 406, Column 1]</font>
+</dd>
+
+           <dt>ch&#x0101;ta </dt>
+           <dd><em>ch&#x0101;ta</em> See &#x221a;<em>cho</em></dd>
+
+           <dt>ch&#x0101;ttra </dt>
+           <dd><em>ch&#x0101;ttra</em> <em>&#x25cb;ttraka</em>, &amp;c. See &#x221a;1. <em>chad</em></dd>
+
+           <dt>&#x226b; ch&#x0101;da </dt>
+           <dd><em>ch&#x0101;da</em></dd>
+
+           <dt>&#x22d9; ch&#x0101;daka </dt>
+           <dd><em>ch&#x0101;&#x1e0d;daka</em></dd>
+
+           <dt>&#x22d9; ch&#x0101;dana </dt>
+           <dd><em>ch&#x0101;&#x1e0d;dana</em> &amp;c. See <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>ch&#x0101;nda </dt>
+           <dd><em>ch&#x0101;nda</em> See <em>&#x25cb;ndasa</em></dd>
+
+           <dt>ch&#x0101;nda&#x1e0d;a </dt>
+           <dd><em>ch&#x0101;nda&#x1e0d;a</em> m. N. of a Br&#x0101;hman, Kshit7i&#x015b;. i, 13</dd>
+
+           <dt>ch&#x0101;ndasa </dt>
+           <dd><em>ch&#x0101;ndasa</em> mf(<em>&#x012b;</em>)n. having the sacred text of the Veda (<em>ch&#x00e1;ndas</em>) as (its) subject, peculiar or relating or belonging to the Veda, Vedic <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 71 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 12284 <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; (once <em>&#x25cb;nda</em> <a href="worksAuthorsAbbrs.html#BhavP">BhavP.</a> i) </dd>
+           <dd>&#x2022; archaistic <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a> vi, 11 </dd>
+           <dd>&#x2022; (g. <em>manoj&#x00f1;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-2, 84 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>) studying the holy text of the Vedic hymns, familiar with it <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxii, cxviii </dd>
+           <dd>&#x2022; (ifc., g. <em>khas&#x016b;cy-&#x0101;di</em> <a href="worksAuthorsAbbrs.html#Ga&#x1e47;ar">Ga&#x1e47;ar.</a> 114 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a>) </dd>
+           <dd>&#x2022; relating to metre <a href="worksAuthorsAbbrs.html#RAnukr">RAnukr.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndasat&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> f. the being Vedic <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a> ix, 3, 9</dd>
+
+           <dt>&#x22d9; ch&#x0101;ndasatva </dt>
+           <dd><em>&#x25cb;tva</em> n. id. <a href="worksAuthorsAbbrs.html#ib">ib.</a> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-1, 39 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> <a href="worksAuthorsAbbrs.html#APr&#x0101;t">APr&#x0101;t.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> &amp;c </dd>
+           <dd>&#x2022; the being archaistic <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; the being metrical <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndasaba&#x1e6d;hara </dt>
+           <dd><em>&#x25cb;ba&#x1e6d;hara</em> m. the deceitful Ch&#x0101;ndasa <a href="worksAuthorsAbbrs.html#Ga&#x1e47;ar">Ga&#x1e47;ar.</a> 89 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;ndasaka </dt>
+           <dd><em>ch&#x0101;ndasaka</em> n. the being familiar with the Vedic hymns, g. <em>manoj&#x00f1;&#x00e2;di</em></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndas&#x012b;ya </dt>
+           <dd><em>ch&#x0101;ndas&#x012b;ya</em> m. one familiar with metrical science <a href="worksAuthorsAbbrs.html#&#x015a;rutab">&#x015a;rutab.</a> 19</dd>
+
+           <dt>&#x226b; ch&#x0101;ndoga </dt>
+           <dd><em>ch&#x0101;ndoga</em> mfn. 'relating to the Chando-gas', in comp</dd>
+
+           <dt>&#x22d9; ch&#x0101;ndogabr&#x0101;hma&#x1e47;a </dt>
+           <dd><em>&#x25cb;br&#x0101;hma&#x1e47;a</em> n. = &#x25cb;gya-br&#x25cb; <a href="worksAuthorsAbbrs.html#Par&#x0101;&#x015b;">Par&#x0101;&#x015b;.</a> i, 38/39, 4, 28 (v&#x1e37;. <em>chand&#x25cb;</em>)</dd>
+
+           <dt>&#x22d9; ch&#x0101;ndogas&#x016b;tra </dt>
+           <dd><em>&#x25cb;s&#x016b;tra</em> n. N. of wk. <a href="worksAuthorsAbbrs.html#Nir&#x1e47;ayas">Nir&#x1e47;ayas.</a> i, 429/430 (v&#x1e37;. <em>chand&#x25cb;</em>)</dd>
+
+           <dt>&#x226b; ch&#x0101;ndogi </dt>
+           <dd><em>ch&#x0101;ndogi</em> See <em>&#x25cb;geya</em></dd>
+
+           <dt>&#x226b; ch&#x0101;ndogika </dt>
+           <dd><em>ch&#x0101;ndogika</em> n. = <em>&#x25cb;gya</em> <a href="worksAuthorsAbbrs.html#B&#x1e5b;ih">B&#x1e5b;ih.</a> vi, 22</dd>
+
+           <dt>&#x22d9; ch&#x0101;ndogeya </dt>
+           <dd><em>ch&#x0101;ndogeya</em> m. pl. N. of a family <a href="worksAuthorsAbbrs.html#Pravar">Pravar.</a> iii, 1 (v. l. <em>&#x25cb;gi</em>)</dd>
+
+           <dt>&#x226b; ch&#x0101;ndogya </dt>
+           <dd><em>ch&#x0101;ndogya</em> n. 'doctrine of the Chando-gas', a Br&#x0101;hma&#x1e47;a of the <a href="worksAuthorsAbbrs.html#SV">SV.</a> (including the <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a>), K&#x0101;ty&#x015a;r' xxii <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 129 <a href="worksAuthorsAbbrs.html#Ved&#x00e2;ntas">Ved&#x00e2;ntas.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndogyabr&#x0101;hma&#x1e47;a </dt>
+           <dd><em>&#x25cb;br&#x0101;hma&#x1e47;a</em> n. id. <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndogyabh&#x0101;&#x1e63;ya </dt>
+           <dd><em>&#x25cb;bh&#x0101;&#x1e63;ya</em> n. = <em>-mantra-bh&#x25cb;</em></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndogyamantrabh&#x0101;&#x1e63;ya </dt>
+           <dd><em>&#x25cb;mantra-bh&#x0101;&#x1e63;ya</em> n. Gu&#x1e47;a-vish&#x1e47;us <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on the prayers and texts in <a href="worksAuthorsAbbrs.html#Gobh">Gobh.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndogyaveda </dt>
+           <dd><em>&#x25cb;veda</em> m. = <em>&#x25cb;gya</em> <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xxii, 1, 1 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndogyopan&#x012b;&#x1e63;ad </dt>
+           <dd><em>ch&#x0101;ndogy&#x00f4;pan&#x012b;&#x1e63;ad</em> f. N. of an <a href="worksAuthorsAbbrs.html#Up">Up.</a> (part of the <em>ch&#x0101;ndogya</em>) </dd>
+           <dd>&#x2022; <em>-bh&#x0101;&#x1e63;ya</em> n. &#x015a;amkara's <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;ndobh&#x0101;&#x1e63;a </dt>
+           <dd><em>ch&#x0101;ndobh&#x0101;&#x1e63;a</em> mfn. fr. <em>chando-bh&#x0101;&#x1e63;&#x0101;</em> g. <em>&#x1e5b;g-ayan&#x00e2;di</em></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndoma </dt>
+           <dd><em>ch&#x0101;ndoma</em> mfn. taken from the Chandomas <a href="worksAuthorsAbbrs.html#S&#x0101;&#x1e45;kh&#x015a;r">S&#x0101;&#x1e45;kh&#x015a;r.</a> xv, 6, 1</dd>
+
+           <dt>&#x22d9; ch&#x0101;ndom&#x0101;na </dt>
+           <dd><em>ch&#x0101;ndom&#x0101;na</em> mfn. fr. <em>chando-m&#x25cb;</em> g. <em>&#x1e5b;g-ayan&#x00e2;di</em></dd>
+
+           <dt>&#x22d9; ch&#x0101;ndomika </dt>
+           <dd><em>ch&#x0101;ndomika</em> mfn. belonging to the Chandomas, x, 9, 13 <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xxii <a href="worksAuthorsAbbrs.html#Nir">Nir.</a> vii, 24</dd>
+
+           <dt>&#x22d9; ch&#x0101;ndovicita </dt>
+           <dd><em>ch&#x0101;ndovicita</em> mfn. fr. <em>chando-viciti</em> g. <em>&#x1e5b;g-ayan&#x00e2;di</em></dd>
+
+           <dt>ch&#x0101;ya </dt>
+           <dd><em>ch&#x0101;ya</em> m. granting shade (&#x015a;iva) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 10374 </dd>
+           <dd>&#x2022; n. (cf. P&#x0101;&#x1e47;. 2-4, 22 and 25 ; vi, 2, 14) ifc. (especially after a word to be taken in the gen.) shadow <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> iii, 274 <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> iv, 20 ; vii, 4 ; xii, 50 </dd>
+           <dd>&#x2022; reflection <a href="worksAuthorsAbbrs.html#Naish">Naish.</a> vi, 34 </dd>
+           <dd>&#x2022; colour, complexion, beauty <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> 102 </dd>
+           <dd>&#x2022; (<em>&#x0101;&#x0341;</em>), f. ?, shade, shadow, a shady place ('a covered place, house' <a href="worksAuthorsAbbrs.html#Naigh">Naigh.</a> iii, 4) <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 73, 8 ; ii, 33, 6 ; vi, 16, 38 <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> v, xv <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> vii, 12 <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> &amp;c </dd>
+           <dd>&#x2022; the shadow of a gnomon <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> </dd>
+           <dd>&#x2022; shelter, protection, Hit iii, 8, 1/2 </dd>
+           <dd>&#x2022; a reflected image, reflection <a href="worksAuthorsAbbrs.html#RV">RV.</a> v, 44, 6 ; x, 121, 2 <a href="worksAuthorsAbbrs.html#VS">VS.</a> ii, 8 <a href="worksAuthorsAbbrs.html#AV">AV.</a> v, 21, 8 <a href="worksAuthorsAbbrs.html#Pra&#x015b;nUp">Pra&#x015b;nUp.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c </dd>
+           <dd>&#x2022; shading or blending of colours, play of light or colours, lustre, light, colour, colour of the face, complexion, features <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> lxviii, 89 ff. <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> iv, 5 <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> (ifc. f. <em>&#x0101;</em>) &amp;c </dd>
+           <dd>&#x2022; gracefulness, beauty, 77 &amp; 101 <a href="worksAuthorsAbbrs.html#VP">VP.</a> iv, 4, 31 <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> &#x012b;c </dd>
+           <dd>&#x2022; a series, multitude (<em>pa&#x1e45;kti</em>) <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> i, 16, 8 </dd>
+           <dd>&#x2022; a Sansk&#x1e5b;it gloss on a Pr&#x0101;k&#x1e5b;it text </dd>
+           <dd>&#x2022; a copy (of a <a href="worksAuthorsAbbrs.html#MS">MS.</a>) </dd>
+           <dd>&#x2022; a little (ifc.) <a href="worksAuthorsAbbrs.html#Ve&#x1e47;is">Ve&#x1e47;is.</a> vi, 13/14, 1 </dd>
+           <dd>&#x2022; nightmare, Buddh' <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a bribe <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; &#x1e62;adow', (like Sa&#x1e43;j&#x00f1;&#x0101;) wife of the sun and mother of the planet Saturn <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 545 ff. <a href="worksAuthorsAbbrs.html#VP">VP.</a> iii, 2 <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> vi, viii <a href="worksAuthorsAbbrs.html#MatsyaP">MatsyaP.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> cv </dd>
+           <dd>&#x2022; (N. of a &#x015a;akti) <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> i, 5, 197 </dd>
+           <dd>&#x2022; the sun <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a metre of 4 x 19 syllables </dd>
+           <dd>&#x2022; a kind of rhetorical figure <a href="worksAuthorsAbbrs.html#Sarasv">Sarasv.</a> ii, 5 </dd>
+           <dd>&#x2022; (in music) N. of a R&#x0101;ga </dd>
+           <dd>&#x2022; N. of K&#x0101;ty&#x0101;yan&#x012b; (or Durg&#x0101; <a href="worksAuthorsAbbrs.html#W">W.</a>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;yaka </dt>
+           <dd><em>ch&#x0101;&#x0341;yaka</em> mfn. (said of demons) causing nightmare (?) <a href="worksAuthorsAbbrs.html#AV">AV.</a> viii, 6, 21</dd>
+
+           <dt>&#x226b; ch&#x0101;y&#x0101; </dt>
+           <dd><em>ch&#x0101;y&#x0101;&#x0341;</em> See <em>&#x25cb;ya</em></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;kara </dt>
+           <dd><em>&#x25cb;kara</em> m. 'shading', a parasol-bearer <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a kind of metre <a href="worksAuthorsAbbrs.html#W">W.</a> =</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;graha </dt>
+           <dd><em>&#x25cb;graha</em> m. 'receiving the image or the gnomon's shadow', a mirror or = <em>-yantra</em> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> iii, 154</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;gr&#x0101;ha </dt>
+           <dd><em>&#x25cb;gr&#x0101;ha</em> mf(<em>&#x012b;</em>)n. depriving of the shadow <a href="worksAuthorsAbbrs.html#R">R.</a> iv, 41, 38</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;&#x1e45;ka </dt>
+           <dd><em>&#x25cb;"&#x1e63;&#x1e45;ka</em> (<em>&#x25cb;y&#x00e2;n&#x25cb;</em> ), m. marked by a (hare's) image', the moon <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;tanaya </dt>
+           <dd><em>&#x25cb;tanaya</em> m. 'son of Ch&#x0101;y&#x0101;', the planet Saturn <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;taru </dt>
+           <dd><em>&#x25cb;taru</em> m. an umbrageous tree <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> 1 <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> iv, 11 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;to&#x1e0d;&#x012b; </dt>
+           <dd><em>&#x25cb;to&#x1e0d;&#x012b;</em> f. (in music) N. of a R&#x0101;ga. <em>-tmaja</em> (<em>&#x25cb;y&#x00e2;t&#x25cb;</em>), m. = <em>-tanaya</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;tman </dt>
+           <dd><em>&#x25cb;"&#x1e63;tman</em> (<em>&#x25cb;y&#x00e2;l&#x25cb;</em>), m. 'shadow-self.' one's shadow or reflected image <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> 40</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;druma </dt>
+           <dd><em>&#x25cb;druma</em> m. = <em>-taru</em> <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> iv, 11</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;dvit&#x012b;ya </dt>
+           <dd><em>&#x25cb;dvit&#x012b;ya</em> mfn. accompanied by one's shadow, casting a shadow <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 57, 25. <font color="#FF0000" font size=-2><a name="p406-2"></a>[Page 406, Column 2]</font>
+</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;na&#x1e6d;&#x1e6d;a </dt>
+           <dd><em>&#x25cb;na&#x1e6d;&#x1e6d;a</em> m. (in music) N. of a R&#x0101;ga</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;n&#x0101;&#x1e6d;aka </dt>
+           <dd><em>&#x25cb;n&#x0101;&#x1e6d;aka</em> n. a small drama or one imitative of another (as the Dh&#x016b;t&#x00e2;&#x1e45;gada)</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;patha </dt>
+           <dd><em>&#x25cb;patha</em> m. the milky way <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;pi&#x1e45;ga </dt>
+           <dd><em>&#x25cb;pi&#x1e45;ga</em> m. = <em>&#x25cb;y&#x00e2;&#x1e45;ka</em> <a href="worksAuthorsAbbrs.html#Gal">Gal.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;puru&#x1e63;a </dt>
+           <dd><em>&#x25cb;puru&#x1e63;a</em> m. Purusha in the form of a shadow, Tantr</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;bhart&#x1e5b; </dt>
+           <dd><em>&#x25cb;bhart&#x1e5b;</em> m. 'husband of Ch&#x0101;y&#x0101;', the sun <a href="worksAuthorsAbbrs.html#Gal">Gal.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;bhinna </dt>
+           <dd><em>&#x25cb;bhinna</em> mfn. divided in radiance, reflecting light from various surfaces <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> 62</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;bh&#x1e5b;t </dt>
+           <dd><em>&#x25cb;bh&#x1e5b;t</em> m. 'bearing a (hare's) image', the moon <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;maya </dt>
+           <dd><em>&#x25cb;m&#x00e1;ya</em> mfn. shadow-like <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xiv, 5, 1, 12 and 6, 9, 16 </dd>
+           <dd>&#x2022; casting a shadow <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; reflected <a href="worksAuthorsAbbrs.html#Naish">Naish.</a> vi, 30</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;m&#x0101;na </dt>
+           <dd><em>&#x25cb;m&#x0101;na</em> n. an instrument measuring a shadow <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;mitra </dt>
+           <dd><em>&#x25cb;mitra</em> n. 'shade-friend', a parasol <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;m&#x1e5b;gadhara </dt>
+           <dd><em>&#x25cb;m&#x1e5b;ga-dhara</em> m. = <em>bh&#x1e5b;t</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;yantra </dt>
+           <dd><em>&#x25cb;yantra</em> n' 'shadow-instrument', a sun-dial <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> xiii, 20 <a href="worksAuthorsAbbrs.html#S&#x016b;ryapr">S&#x016b;ryapr.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;vat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. umbrageous <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 94, 10 ; vii, 54, 11</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;v&#x1e5b;k&#x1e63;a </dt>
+           <dd><em>&#x25cb;v&#x1e5b;k&#x1e63;a</em> m. = <em>-taru</em>, Hibiscus populneoides <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;vyavah&#x0101;ra </dt>
+           <dd><em>&#x25cb;vyavah&#x0101;ra</em> m. measuring the shadow cast by the sun on the dial</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;sa&#x1e43;j&#x00f1;&#x0101; </dt>
+           <dd><em>&#x25cb;sa&#x1e43;j&#x00f1;&#x0101;</em> f. Ch&#x0101;y&#x0101; as Sa&#x1e43;j&#x00f1;&#x0101; <a href="worksAuthorsAbbrs.html#VP">VP.</a> iii, 2, 5</dd>
+
+           <dt>&#x22d9; ch&#x0101;y&#x0101;suta </dt>
+           <dd><em>&#x25cb;suta</em> m. = <em>-tanaya</em> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;">VarB&#x1e5b;.</a> ii, 3 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>ch&#x0101;la </dt>
+           <dd><em>ch&#x0101;la</em> m. (g. <em>ardharc&#x00e2;di</em>, not in <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> and Ga&#x1e47;r.) Cyprinus Rohita <a href="worksAuthorsAbbrs.html#Gal">Gal.</a></dd>
+
+           <dt>&#x226b; ch&#x0101;likya </dt>
+           <dd><em>ch&#x0101;likya</em> n. = <em>chalika</em> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a></dd>
+
+           <dt>chi </dt>
+           <dd><em>chi</em> m. abuse <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>chikkana </dt>
+           <dd><em>chikkana</em> n. sneezing <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. 'causing sneezing', Artemisia sternutatoria <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x226b; chikk&#x0101; </dt>
+           <dd><em>chikk&#x0101;</em> f. sneezing <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; See <em>cikk&#x0101;</em></dd>
+
+           <dt>&#x22d9; chikk&#x0101;k&#x0101;raka </dt>
+           <dd><em>&#x25cb;k&#x0101;raka</em> mfn. causing sneezing <a href="worksAuthorsAbbrs.html#Car">Car.</a> i, 4 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; chikkika </dt>
+           <dd><em>chikkika</em> mfn. sneezing <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. = <em>&#x25cb;kkan&#x012b;</em> <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 3, 304</dd>
+
+           <dt>chikkara </dt>
+           <dd><em>chikkara</em> m. a kind of animal <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> lxxxvi, 20 ; 38 and 44</dd>
+
+           <dt>chikk&#x0101;ra </dt>
+           <dd><em>chikk&#x0101;ra</em> m. a kind of antelope <a href="worksAuthorsAbbrs.html#Dhanv">Dhanv.</a> vi, 69</dd>
+
+           <dt>chikkika </dt>
+           <dd><em>chikkika</em> See <em>&#x25cb;kkana</em></dd>
+
+           <dt>chi&#x1e6d;i </dt>
+           <dd><em>chi&#x1e6d;i</em> only ifc. with <em>k&#x0101;&#x00f1;cika-</em>, = <em>k&#x0101;&#x00f1;cika</em> <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> xxxv, 231</dd>
+
+           <dt>chita </dt>
+           <dd><em>chita</em> See &#x221a;<em>cho</em></dd>
+
+           <dt>chitti </dt>
+           <dd><em>chitti</em> <em>&#x25cb;ttvara</em>, See &#x221a;1. <em>chid</em></dd>
+
+           <dt>chid </dt>
+           <dd><em>chid</em> cl. 7. <em>chin&#x00e1;tti</em>, <em>chintte</em> (Impv. <em>&#x25cb;n&#x00e1;ttu</em> </dd>
+           <dd>&#x2022; 2. sg. <em>&#x25cb;ndh&#x00ed;</em> [<a href="worksAuthorsAbbrs.html#cf">cf.</a> P&#x0101;&#x1e47;. 6-4, 101] </dd>
+           <dd>&#x2022; 2. du. <em>&#x25cb;nt&#x00e1;m</em> </dd>
+           <dd>&#x2022; Subj. 1. sg. <em>&#x25cb;n&#x00e1;dai</em> </dd>
+           <dd>&#x2022; Pot. <em>&#x25cb;ndet</em> <a href="worksAuthorsAbbrs.html#KshurUp">KshurUp.</a> </dd>
+           <dd>&#x2022; cl. 9. 1. sg. <em>chinn&#x0101;mi</em> <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> xxvii </dd>
+           <dd>&#x2022; impf. 2. sg. <em>achinad</em>, or <em>&#x25cb;nas</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 8-2, 75 </dd>
+           <dd>&#x2022; pf. <em>ciccheda</em>, <em>&#x25cb;cchide</em> </dd>
+           <dd>&#x2022; p. <em>&#x25cb;cchidvas</em>, vii, 67 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> </dd>
+           <dd>&#x2022; aor. <em>acchidat</em> or <em>acchaits&#x012b;t</em> [Subj. <em>ch&#x25cb;</em> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> &amp;c.] <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 3-1, 57 </dd>
+           <dd>&#x2022; 2. sg. <em>chitsi</em> <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> i, 5, 9 </dd>
+           <dd>&#x2022; 1. pl. <em>chedma</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 109, 3 </dd>
+           <dd>&#x2022; &#x0100;. <em>acchitta</em> and 2. sg. <em>&#x25cb;tth&#x0101;s</em> [Subj. <em>ch&#x25cb;</em> <a href="worksAuthorsAbbrs.html#AV">AV.</a> viii, 1, 4], K&#x0101;&#x015b;' on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 3-1, 57 and viii, 2, 26 </dd>
+           <dd>&#x2022; fut. <em>chetsyati</em>, vii, 2, 10 <a href="worksAuthorsAbbrs.html#K&#x0101;r">K&#x0101;r.</a> </dd>
+           <dd>&#x2022; ind. p. <em>chittv&#x0101;</em> inf. <em>chettum</em> </dd>
+           <dd>&#x2022; Pass. <em>chidyate</em> </dd>
+           <dd>&#x2022; p. See <em>&#x00e1;-cchidyam&#x0101;na</em> </dd>
+           <dd>&#x2022; aor. <em>&#x00e1;cchedi</em> and <em>chedi</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a>) to cut off, amputate, cut through, hew, chop, split, pierce <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> &amp;c </dd>
+           <dd>&#x2022; to divide, separate from (abl </dd>
+           <dd>&#x2022; exceptionally instr. <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xiv, 9, 4, 23) <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a>xiv <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a> </dd>
+           <dd>&#x2022; to destroy, annihilate, efface, blot out <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> x, 5, 2, 5 <a href="worksAuthorsAbbrs.html#Mu&#x1e47;&#x1e0d;Up">Mu&#x1e47;&#x1e0d;Up.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c </dd>
+           <dd>&#x2022; (in math.) to divide <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> iv, 26 : Pass. to be split or cut, break <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;khG&#x1e5b;">&#x015a;&#x0101;&#x1e45;khG&#x1e5b;.</a> i, 15 : Caus. <em>chedayati</em> (aor. <em>acicchidat</em>) to cut off. &#x015a;&#x1e45;kh&#x015a;r. xvii <a href="worksAuthorsAbbrs.html#Gobh">Gobh.</a> iv, 2, 9 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> vii, 5954 <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; to cause to cut off or through <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> viii, 277 ; 282 f. and 292 <a href="worksAuthorsAbbrs.html#C&#x0101;&#x1e47;">C&#x0101;&#x1e47;.</a>: Desid', See <em>cicchitsu</em>: Intens. <em>cecchid&#x012b;ti</em> (cf. P&#x0101;&#x1e47;. 7-4, 65 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a>), <em>&#x25cb;dyate</em> (83 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 2 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a>) </dd>
+           <dd>&#x2022; fut. Ist <em>&#x25cb;dit&#x0101;</em>, 2, 10 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 2 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+           <dd>&#x2022; [cf. ?, ? &amp;c. ; Lat. <em>scindo</em> ; Goth. <em>skeida</em>.]</dd>
+
+           <dt>&#x226b; chitti </dt>
+           <dd><em>chitti</em> f. division <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; Pongamia glabra <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chittvara </dt>
+           <dd><em>chittvara</em> mfn. (cf. U&#x1e47;. iii, 1) fit for cutting off. <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; hostile <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>chatt&#x25cb;</em>) roguish <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chid 2</dt>
+           <dd><em>chid</em> mfn. ifc. (cf. P&#x0101;&#x1e47;. 3-2, 61) cutting, cutting off. cutting through, splitting, piercing <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> vii, 46 56 (cf. <em>ukha-cch&#x00ed;d</em>, <em>ke&#x015b;a-</em>, <em>pak&#x1e63;a-</em>, <em>marma-</em>, <em>vana-</em>, <em>h&#x1e5b;daya-</em>) </dd>
+           <dd>&#x2022; destroying, annihilating, removing <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> v, 1809 <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a>4774 <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> (cf. <em>darpa-</em>, <em>du&#x1e25;kha-</em>, <em>pa&#x1e45;ka-</em>, <em>bhava-</em>) </dd>
+           <dd>&#x2022; m. the divisor, denominator </dd>
+           <dd>&#x2022; f. the cutting off (with gen.) <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a>viii, 75 </dd>
+           <dd>&#x2022; 'annihilation of (in comp.)', See <em>bhava-</em></dd>
+
+           <dt>&#x226b; chida </dt>
+           <dd><em>chida</em> mfn. ifc. 'cutting off', See <em>m&#x0101;t&#x1e5b;ka-</em> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. (g. <em>bhid&#x00e2;di</em>) the cutting off (ifc.) <a href="worksAuthorsAbbrs.html#HYog">HYog.</a> ii, 96</dd>
+
+           <dt>&#x226b; chidaka </dt>
+           <dd><em>chidaka</em> m. 'thunderbolt' or 'diamond' (cf. <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> iv, 51) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chidi </dt>
+           <dd><em>chidi</em> an axe <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iv, 120</dd>
+
+           <dt>&#x22d9; chidira </dt>
+           <dd><em>chidira</em> m. id., i, 52 </dd>
+           <dd>&#x2022; a sword <a href="worksAuthorsAbbrs.html#ib">ib.</a> </dd>
+           <dd>&#x2022; fire <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a rope, cord <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chidura </dt>
+           <dd><em>chidura</em> mf(<em>&#x0101;</em>) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 3-2, 162) n. cutting, dividing <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; easily breaking <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a>xvi, 62 <a href="worksAuthorsAbbrs.html#Hcar">Hcar.</a>vi </dd>
+           <dd>&#x2022; extinguishing <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a> vi, 8 </dd>
+           <dd>&#x2022; decreasing <a href="worksAuthorsAbbrs.html#V&#x0101;m">V&#x0101;m.</a> v, 2, 40 </dd>
+           <dd>&#x2022; annihilating (ifc.) <a href="worksAuthorsAbbrs.html#ib">ib.</a> <font color="#FF0000" font size=-2><a name="p406-3"></a>[Page 406, Column 3]</font> </dd>
+           <dd>&#x2022; hostile <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; roguish <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chiduretara </dt>
+           <dd><em>chidur&#x00ea;tara</em> mfn. not breaking, strong <a href="worksAuthorsAbbrs.html#Naish">Naish.</a> vii, 64</dd>
+
+           <dt>&#x226b; chidra </dt>
+           <dd><em>chidr&#x00e1;</em> mf(<em>&#x0101;</em>)n. torn asunder <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 162, 20 </dd>
+           <dd>&#x2022; containing holes, pierced <a href="worksAuthorsAbbrs.html#K&#x0101;tySr">K&#x0101;tySr.</a> xv ff. <a href="worksAuthorsAbbrs.html#R">R.</a> i, 73, 20 <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> v, 1, 43 </dd>
+           <dd>&#x2022; leaky <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> v, 1307 ; 1047 (= xii, 8782) </dd>
+           <dd>&#x2022; n. a hole, slit, cleft, opening <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> i, vi <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c. (<em>daiva-k&#x1e5b;ta</em>, 'opening or hole made by nature', the cartilage of the ear, pupil of the eye <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; <em>&#x25cb;dra&#x1e43;</em> &#x221a;<em>d&#x0101;</em>, to yield an opening or free access' <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> v, 6, 4) </dd>
+           <dd>&#x2022; defect, fault, blemish, imperfection, infirmity, weak point, foible <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c </dd>
+           <dd>&#x2022; (in astrol.) the 8th lunar mansion <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;">VarB&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#Laghuj">Laghuj.</a> i, 17 </dd>
+           <dd>&#x2022; the number 'nine' (there being 9 openings in the body) <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> ii, 18 </dd>
+           <dd>&#x2022; the lower regions <a href="worksAuthorsAbbrs.html#Gal">Gal.</a> (cf. <em>&#x00e1;-</em>, <em>kar&#x1e47;a-</em>, <em>k&#x1e5b;ta-</em>, <em>g&#x1e5b;ha-</em>, <em>ni&#x015b;-</em>, <em>mah&#x0101;-</em>)</dd>
+
+           <dt>&#x22d9; chidrakar&#x1e47;a </dt>
+           <dd><em>&#x25cb;kar&#x1e47;a</em> mfn. having the ears bored <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-3, 115</dd>
+
+           <dt>&#x22d9; chidrat&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> f. perforatedness', the (air's, <em>&#x0101;k&#x0101;&#x015b;asya</em>) being pervaded by everything <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 9137</dd>
+
+           <dt>&#x22d9; chidradar&#x015b;ana </dt>
+           <dd><em>&#x25cb;dar&#x015b;ana</em> mfn. 'exhibiting deficiencies', only <em>a-cch&#x25cb;</em>, faultless <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> vi, 384 and 402 </dd>
+           <dd>&#x2022; m. '= <em>&#x25cb;r&#x015b;in</em>', N. f. a (Br&#x0101;hman changed into a) Cakra-v&#x0101;ka, Hariv' 1216 </dd>
+           <dd>&#x2022; (<em>&#x25cb;r&#x015b;in</em>, 1255)</dd>
+
+           <dt>&#x22d9; chidradar&#x015b;in </dt>
+           <dd><em>&#x25cb;dar&#x015b;in</em> mfn. observing deficiencies, 1265 </dd>
+           <dd>&#x2022; m. = <em>&#x25cb;r&#x015b;ana</em>, (q.v. at end)</dd>
+
+           <dt>&#x22d9; chidrad&#x0101;t&#x1e5b;tva </dt>
+           <dd><em>&#x25cb;d&#x0101;t&#x1e5b;-tva</em> n. the (air's, <em>&#x0101;k&#x0101;&#x015b;asya</em>) yielding openings or access to everything <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> iii, 26, 34</dd>
+
+           <dt>&#x22d9; chidrapippal&#x012b; </dt>
+           <dd><em>&#x25cb;pippal&#x012b;</em> f. Scindapsus officinalis <a href="worksAuthorsAbbrs.html#Gal">Gal.</a></dd>
+
+           <dt>&#x22d9; chidravaideh&#x012b; </dt>
+           <dd><em>&#x25cb;vaideh&#x012b;</em> f. id <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chidr&#x0101;&#x1e43;&#x015b;a </dt>
+           <dd><em>chidr&#x00e2;&#x1e43;&#x015b;a</em> m. having perforated parts', reed <a href="worksAuthorsAbbrs.html#Gal">Gal.</a></dd>
+
+           <dt>&#x22d9; chidr&#x0101;tman </dt>
+           <dd><em>chidr&#x00e2;tman</em> mfn. one who exposes his weak points, M Bh. xii, 11345</dd>
+
+           <dt>&#x22d9; chidr&#x0101;nusa&#x1e43;dh&#x0101;nin </dt>
+           <dd><em>chidr&#x00e2;nusa&#x1e43;dh&#x0101;nin</em> mfn. looking out for faults or flaws <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chidr&#x0101;nus&#x0101;rin </dt>
+           <dd><em>chidr&#x00e2;nus&#x0101;rin</em> mfn. id. <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chidr&#x0101;ntar </dt>
+           <dd><em>chidr&#x00e2;ntar</em> m. 'internally hollow', reed <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chidr&#x0101;nvita </dt>
+           <dd><em>chidr&#x00e2;nvita</em> mfn. having weak points <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> iii, 37</dd>
+
+           <dt>&#x22d9; chidr&#x0101;nve&#x1e63;a&#x1e47;a </dt>
+           <dd><em>chidr&#x00e2;nve&#x1e63;a&#x1e47;a</em> n. searching for faults <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chidr&#x0101;nve&#x1e63;in </dt>
+           <dd><em>chidr&#x00e2;nve&#x1e63;in</em> m. = <em>&#x25cb;nusa&#x1e43;dh&#x0101;nin</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chidr&#x0101;phala </dt>
+           <dd><em>chidr&#x0101;-phala</em> n. a thorn-apple <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chdirodara </dt>
+           <dd><em>chdir&#x00f4;dara</em> n. N. of a disease of the abdomen <a href="worksAuthorsAbbrs.html#Car">Car.</a> vi, 18,</dd>
+
+           <dt>&#x22d9; chidrodarin </dt>
+           <dd><em>chidr&#x00f4;darin</em> mfn. affected with <em>&#x25cb;ra</em> <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x226b; chidraya </dt>
+           <dd><em>chidraya</em> Nom. <em>&#x25cb;yati</em>, to perforate <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a>vi, 550</dd>
+
+           <dt>&#x226b; chidr&#x0101;paya </dt>
+           <dd><em>chidr&#x0101;paya</em> Nom. <em>&#x25cb;yati</em> id. <a href="worksAuthorsAbbrs.html#Vop">Vop.</a></dd>
+
+           <dt>&#x226b; chidrita </dt>
+           <dd><em>chidrita</em> mfn. perforated <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> v, 1071 <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> v, 30 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; chidrin </dt>
+           <dd><em>chidrin</em> mfn. having holes (a tooth) <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> ii, 16, 27</dd>
+
+           <dt>&#x22d9; chidvara </dt>
+           <dd><em>chidvara</em> mfn. = <em>chittv&#x25cb;</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; chindaka </dt>
+           <dd><em>chindaka</em> m. N. of a race, Ratnak</dd>
+
+           <dt>&#x226b; chindatpr&#x0101;&#x1e47;i </dt>
+           <dd><em>chindat-pr&#x00e2;&#x1e47;i</em> n. an animal cutting (i.e. living on) grass <a href="worksAuthorsAbbrs.html#&#x0100;p&#x015a;r">&#x0100;p&#x015a;r.</a> ix, 13, 1 and 16, 8</dd>
+
+           <dt>&#x226b; chinna </dt>
+           <dd><em>chinn&#x00e1;</em> mfn. cut off, cut, divided, torn, cut through, perforated <a href="worksAuthorsAbbrs.html#AV">AV.</a> &amp;c </dd>
+           <dd>&#x2022; opened (a wound) <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; interrupted, not contiguous <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a> vi, 36 <a href="worksAuthorsAbbrs.html#R">R.</a> iii, 50, 12 <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; disturbed (<em>ki&#x1e43; na&#x015b; chinnam</em>, what is there in this to disturb us?' there is nothing to care about <a href="worksAuthorsAbbrs.html#Amar">Amar.</a>) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 16258 <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> </dd>
+           <dd>&#x2022; ? (said of the belly of a leach) <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; limited by (in comp.) <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> iii, 20 </dd>
+           <dd>&#x2022; taken away or out of. <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 56, 23 <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> xii, 80 </dd>
+           <dd>&#x2022; disappeared <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxi, 47 </dd>
+           <dd>&#x2022; ifc. decaying or exhausted by <a href="worksAuthorsAbbrs.html#Buddh">Buddh.</a> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a harlot <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>&#x25cb;nn&#x00f4;dbhav&#x0101;</em> <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 3, 6 (cf. <em>&#x00e1;-</em>, <em>re&#x1e63;m&#x00e1;-</em>)</dd>
+
+           <dt>&#x22d9; chinnakar&#x1e47;a </dt>
+           <dd><em>&#x25cb;kar&#x1e47;a</em> mfn. having the ears shortened (as animals) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-1, 115</dd>
+
+           <dt>&#x22d9; chinnake&#x015b;a </dt>
+           <dd><em>&#x25cb;ke&#x015b;a</em> mfn. having the hair cut <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chinnagranthinik&#x0101; </dt>
+           <dd><em>&#x25cb;granthinik&#x0101;</em> f. a kind of bulbous plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chinnataraka </dt>
+           <dd><em>&#x25cb;taraka</em> mfn. (compar.) = <em>chinnaka-tara</em>, v, 4, 4 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 1 and 2 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a></dd>
+
+           <dt>&#x22d9; chinnadruma </dt>
+           <dd><em>&#x25cb;druma</em> m. a riven tree <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chinnadhanvan </dt>
+           <dd><em>&#x25cb;dhanvan</em> mfn. (a warrior) whose bow has been broken by his enemy's arrow <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chinnan&#x0101;sa </dt>
+           <dd><em>&#x25cb;n&#x0101;sa</em> m. 'cut-nose', N. of a man <a href="worksAuthorsAbbrs.html#Virac">Virac.</a> xxi</dd>
+
+           <dt>&#x22d9; chinnan&#x0101;sya </dt>
+           <dd><em>&#x25cb;n&#x0101;sya</em> mfn. having the noserein broken <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> viii, 291</dd>
+
+           <dt>&#x22d9; chinnapak&#x1e63;a </dt>
+           <dd><em>&#x25cb;pak&#x1e63;a</em> (<em>&#x25cb;nn&#x00e1;</em>.), mfn. having the wings torn off. <a href="worksAuthorsAbbrs.html#AV">AV.</a> xx, 135, 12</dd>
+
+           <dt>&#x22d9; chinnapattr&#x012b; </dt>
+           <dd><em>&#x25cb;pattr&#x012b;</em> f. 'having divided leaves', Hibiscus cannabinus <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chinnabandhana </dt>
+           <dd><em>&#x25cb;bandhana</em> mfn. having the bands broken, liberated <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chinnabhakta </dt>
+           <dd><em>&#x25cb;bhakta</em> mfn. 'having one's meals interrupted', starving <a href="worksAuthorsAbbrs.html#Divy&#x0101;v">Divy&#x0101;v.</a> xxxi</dd>
+
+           <dt>&#x22d9; chinnabhinna </dt>
+           <dd><em>&#x25cb;bhinna</em> mfn. pierced through and through, cut up, destroyed <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chinnabh&#x016b;yi&#x1e63;&#x1e6d;hadh&#x016b;ma </dt>
+           <dd><em>&#x25cb;bh&#x016b;yi&#x1e63;&#x1e6d;ha-dh&#x016b;ma</em> mfn. bursting through the thick smoke <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chinnamastak&#x0101; </dt>
+           <dd><em>&#x25cb;mastak&#x0101;</em> f. 'decapitated', a headless form of Durg&#x0101; <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; <em>&#x25cb;k&#x012b;-&#x221a;k&#x1e5b;</em>, to decapitate <a href="worksAuthorsAbbrs.html#Naish">Naish.</a> iv, 68 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; chinnamast&#x0101; </dt>
+           <dd><em>&#x25cb;mast&#x0101;</em> f. = <em>&#x25cb;staka</em> <a href="worksAuthorsAbbrs.html#Tantras">Tantras.</a> iv <a href="worksAuthorsAbbrs.html#Mantram">Mantram.</a> vi</dd>
+
+           <dt>&#x22d9; chinnam&#x016b;la </dt>
+           <dd><em>&#x25cb;m&#x016b;la</em> mfn. cut up by the &#x221a;cf. W</dd>
+
+           <dt>&#x22d9; chinnaruha </dt>
+           <dd><em>&#x25cb;ruha</em> m. Clerodendrum phlomoides <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. = <em>&#x25cb;nn&#x00f4;dbhav&#x0101;</em> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i, iv <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 3, 6 </dd>
+           <dd>&#x2022; Boswellia thurifera <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Pandanus odoratissimus <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chinnavat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. (pf. p. P.) having cut or cut off. <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chinnave&#x1e63;ik&#x0101; </dt>
+           <dd><em>&#x25cb;ve&#x1e63;ik&#x0101;</em> f. Clypea hernandifolia <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chinna&#x015b;&#x0101;sa </dt>
+           <dd><em>&#x25cb;&#x015b;&#x0101;sa</em> mfn. breathing at irregular intervals <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i </dd>
+           <dd>&#x2022; m. interrupted or irregular breathing, vi</dd>
+
+           <dt>&#x22d9; chinnasa&#x1e43;&#x015b;aya </dt>
+           <dd><em>&#x25cb;sa&#x1e43;&#x015b;aya</em> mfn. one whose doubts are dispelled, confident <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chinnahasta </dt>
+           <dd><em>&#x25cb;hasta</em> mfn. 'cut-hand', N. of a man, <a href="worksAuthorsAbbrs.html#V&#x012b;rac">V&#x012b;rac.</a> xvi, xxi</dd>
+
+           <dt>&#x22d9; chinn&#x0101;ntra </dt>
+           <dd><em>chinn&#x00e2;ntra</em> mfn. affected with a <em>ko&#x1e63;&#x1e6d;ha-bheda</em> disease <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;r&#x1e45;gS">&#x015a;&#x0101;r&#x1e45;gS.</a> vii, 76</dd>
+
+           <dt>&#x22d9; chinnodbhav&#x0101; </dt>
+           <dd><em>chinn&#x00f4;dbhav&#x0101;</em> f. Cocculus cordifolius <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 3, 6. <font color="#FF0000" font size=-2><a name="p407-1"></a>[Page 407, Column 1]</font>
+</dd>
+
+           <dt>&#x226b; chinnaka </dt>
+           <dd><em>chinnaka</em> mfn. 'having a little cut off.'</dd>
+
+           <dt>&#x22d9; chinnakatara </dt>
+           <dd><em>&#x25cb;tara</em> mfn. (compar.) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-3, 72 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 5</dd>
+
+           <dt>&#x226b; chettavya </dt>
+           <dd><em>chettavya</em> mfn. to be cut off <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> viii, 279 <a href="worksAuthorsAbbrs.html#R">R.</a> vi, 92, 4 </dd>
+           <dd>&#x2022; to be cut <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a> ix, 3, 13 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; chett&#x1e5b; </dt>
+           <dd><em>chett&#x1e5b;</em> mfn. one who cuts off, cutter, woodcutter <a href="worksAuthorsAbbrs.html#Mn">Mn.</a>iv, 71 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> (ifc.) <a href="worksAuthorsAbbrs.html#Hit">Hit.</a> i, 4, 3 </dd>
+           <dd>&#x2022; a remover (of doubts, <em>sa&#x1e43;&#x015b;ay&#x0101;n&#x0101;m</em>, 2, 21) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a></dd>
+
+           <dt>&#x226b; cheda </dt>
+           <dd><em>cheda</em> mfn. ifc. 'cutting off', See <em>sth&#x0101;&#x1e47;u-</em> </dd>
+           <dd>&#x2022; m. divisor, denominator <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;">VarB&#x1e5b;.</a> viii, 4 <a href="worksAuthorsAbbrs.html#Laghuj">Laghuj.</a> vii, 6 </dd>
+           <dd>&#x2022; a cut, section, piece, portion <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 61, 14 <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> &amp;c </dd>
+           <dd>&#x2022; an incision, cleft, slit, liii, 122 </dd>
+           <dd>&#x2022; lxxi, 4 f </dd>
+           <dd>&#x2022; cutting off, tearing off dividing (often ifc.) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> viii <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> &amp;c </dd>
+           <dd>&#x2022; separation (of syllables or words) <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a> v, 109 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 101, 5 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; dissipating (doubt, &amp;c.) <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; interruption, vanishing, cessation, deprivation, want, xiii, 1637 <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> <a href="worksAuthorsAbbrs.html#Vikr">Vikr.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> &amp;c </dd>
+           <dd>&#x2022; limit of (in comp.) <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> i, 319 </dd>
+           <dd>&#x2022; smoothing (a conflict, by an ordeal, <em>divya-</em>) <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lx, 222 (<em>i-</em>), f. g. <em>gaur&#x00e2;di</em> (not in <a href="worksAuthorsAbbrs.html#Ga&#x1e47;ar">Ga&#x1e47;ar.</a>) </dd>
+           <dd>&#x2022; cf. <em>&#x1e5b;&#x1e47;a</em></dd>
+
+           <dt>&#x22d9; chedakara </dt>
+           <dd><em>&#x25cb;kara</em> mfn. making incisions <a href="worksAuthorsAbbrs.html#Jain">Jain.</a> </dd>
+           <dd>&#x2022; m. a wood-cutter <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chedagama </dt>
+           <dd><em>&#x25cb;gama</em> m. disappearance of the denominator</dd>
+
+           <dt>&#x22d9; ched&#x0101;di </dt>
+           <dd><em>ched&#x00e2;di</em> a Ga&#x1e47;a of <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-1, 64 <a href="worksAuthorsAbbrs.html#Ga&#x1e47;ar">Ga&#x1e47;ar.</a> 370)</dd>
+
+           <dt>&#x22d9; chedopasth&#x0101;pan&#x012b;ya </dt>
+           <dd><em>ched&#x00f4;pasth&#x0101;pan&#x012b;ya</em> n. taking the (Jain) vows after having broken with doctrines or practices adhered to formerly <a href="worksAuthorsAbbrs.html#Jain">Jain.</a></dd>
+
+           <dt>&#x226b; chedaka </dt>
+           <dd><em>chedaka</em> mfn. ifc. cutting off <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxi, 31 </dd>
+           <dd>&#x2022; m. the denominator of a fraction </dd>
+           <dd>&#x2022; cf. <em>granthi-</em></dd>
+
+           <dt>&#x226b; chedana </dt>
+           <dd><em>chedana</em> mfn. cutting asunder, splitting <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 1498 ; ii, 1953 </dd>
+           <dd>&#x2022; destroying, removing (ifc.), xiv, 423 </dd>
+           <dd>&#x2022; n. an instrument for cutting <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> i, 9, 204 </dd>
+           <dd>&#x2022; section, part <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (chiefly ifc.) cutting, removal (of doubts, <em>sa&#x1e43;&#x015b;aya-</em>) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, xv <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 913 </dd>
+           <dd>&#x2022; a medicine for removing the humors of the body <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x226b; chedan&#x012b;ya </dt>
+           <dd><em>chedan&#x012b;ya</em> mfn. to be cut up or divided <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a> i, 4, 56 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; m. Strychnos potatorum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chedi </dt>
+           <dd><em>chedi</em> mfn. one who cuts or breaks <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iv, 118 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; m. a carpenter <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; chedita </dt>
+           <dd><em>chedita</em> mfn. cut, divided <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; cheditavya </dt>
+           <dd><em>cheditavya</em> mfn. to be cut, divisable <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; chedin </dt>
+           <dd><em>chedin</em> mfn. ifc. cutting off, tearing asunder <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> iv, 71 <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> </dd>
+           <dd>&#x2022; removing <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 15880 <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a></dd>
+
+           <dt>&#x226b; chedya </dt>
+           <dd><em>chedya</em> mfn. to be cut or divided or split or cut off or mutilated <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> ii, 215 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 93 ; xii, &amp;c </dd>
+           <dd>&#x2022; ri. cutting off, cutting, tearing (with teeth or nails), v, 5733 (C) <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> i, 5, 1 </dd>
+           <dd>&#x2022; vi <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> vi, 17 </dd>
+           <dd>&#x2022; cf. <em>ku&#x1e0d;ya-</em>, <em>du&#x1e25;kka-</em>, <em>pattra-</em>, <em>laghu-</em>, <em>sa&#x1e43;&#x015b;aya-</em></dd>
+
+           <dt>&#x226b; chedyaka </dt>
+           <dd><em>chedyaka</em> n. drawing, projection <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> vi, 1 and 12</dd>
+
+           <dt>&#x22d9; chedyak&#x0101;dhy&#x0101;ya </dt>
+           <dd><em>chedyak&#x00e2;dhy&#x0101;ya</em> m. N. of <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> vi</dd>
+
+           <dt>chinnama </dt>
+           <dd><em>chinnama</em> m. N. of a poet <a href="worksAuthorsAbbrs.html#Sarasv">Sarasv.</a> <a href="worksAuthorsAbbrs.html#Ga&#x1e47;ar">Ga&#x1e47;ar.</a> 46 and 98 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> (vv. ll. <em>&#x25cb;nnmpa</em>, <em>chittapa</em>) <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;r&#x1e45;gP">&#x015a;&#x0101;r&#x1e45;gP.</a> iv, 12 (<em>chitrama</em> ed.)</dd>
+
+           <dt>chippik&#x0101; </dt>
+           <dd><em>chippik&#x0101;</em> f. a kind of bird <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> lxxxviii, 2 and 35 </dd>
+           <dd>&#x2022; cf. <em>cipya</em></dd>
+
+           <dt>chilihi&#x1e47;&#x1e0d;a </dt>
+           <dd><em>chilihi&#x1e47;&#x1e0d;a</em> m. N. of a creeper <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 3, 260 f</dd>
+
+           <dt>chismaka </dt>
+           <dd><em>chismaka</em> m. N. of a prince, Brahm&#x00e2;&#x1e47;daP. (v. l. for <em>&#x015b;i&#x015b;uka</em>)</dd>
+
+           <dt>chucchu </dt>
+           <dd><em>chucchu</em> m. a kind of animal <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> lxxxvi, 37</dd>
+
+           <dt>&#x22d9; chucchukabha&#x1e6d;&#x1e6d;a </dt>
+           <dd><em>chucchuka-bha&#x1e6d;&#x1e6d;a</em> m. N. of the author of a <em>laghu-v&#x1e5b;tti</em> on <a href="worksAuthorsAbbrs.html#K&#x0101;t">K&#x0101;t.</a></dd>
+
+           <dt>&#x226b; chucchundara </dt>
+           <dd><em>chucchundara</em> m. the musk-rat <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> v, 6, 3 (&#x25cb;cchUnd&#x25cb;) and 14 <a href="worksAuthorsAbbrs.html#Ash&#x1e6d;&#x00e2;&#x1e45;g">Ash&#x1e6d;&#x00e2;&#x1e45;g.</a> vi, 38, 2 </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. id. <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> lxxxviii, 5 and 47</dd>
+
+           <dt>&#x22d9; chucchundari </dt>
+           <dd><em>chucchundari</em> m. id. <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> xii, 65 <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> iii, 213 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii, &amp;c</dd>
+
+           <dt>chu&#x1e6d; </dt>
+           <dd><em>chu&#x1e6d;</em> cl. 6. <em>&#x25cb;&#x1e6d;ati</em>, to bind <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a>: cl. 10 <em>cho&#x1e6d;ayati</em>, to cut, split <a href="worksAuthorsAbbrs.html#ib">ib.</a> (v. l. for &#x221a;<em>cu&#x1e6d;</em>)</dd>
+
+           <dt>&#x226b; cho&#x1e6d;ana </dt>
+           <dd><em>cho&#x1e6d;ana</em> n. cutting off <a href="worksAuthorsAbbrs.html#Uttamac">Uttamac.</a> 206</dd>
+
+           <dt>&#x226b; cho&#x1e6d;i </dt>
+           <dd><em>cho&#x1e6d;i</em> v. l. for <em>&#x25cb;&#x1e6d;in</em>, 1 <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; cho&#x1e6d;ik&#x0101; </dt>
+           <dd><em>cho&#x1e6d;ik&#x0101;</em> f. snapping the thumb and forefinger, Ratn^&#x0101;v, iii, 9/10 <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxv, 211 <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 28, 111 <a href="worksAuthorsAbbrs.html#Tantras">Tantras.</a></dd>
+
+           <dt>&#x226b; cho&#x1e6d;ita </dt>
+           <dd><em>cho&#x1e6d;ita</em> mfn. cut off <a href="worksAuthorsAbbrs.html#Uttamac">Uttamac.</a> 217 </dd>
+           <dd>&#x2022; cf. <em>&#x0101;-cch&#x25cb;</em></dd>
+
+           <dt>&#x226b; cho&#x1e6d;in </dt>
+           <dd><em>cho&#x1e6d;in</em> m. a fisherman <a href="worksAuthorsAbbrs.html#L">L.</a> (v. l. <em>&#x25cb;&#x1e6d;i</em>)</dd>
+
+           <dt>chu&#x1e0d; </dt>
+           <dd><em>chu&#x1e0d;</em> cl. 6, v&#x1e37;. for &#x221a;<em>thu&#x1e0d;</em> </dd>
+           <dd>&#x2022; cf. <em>pra-</em></dd>
+
+           <dt>chu&#x1e0d;&#x1e0d;a </dt>
+           <dd><em>chu&#x1e0d;&#x1e0d;a</em> m. N. of several men <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> viii </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. N. of a woman, 461 ; 1124 ; 1132</dd>
+
+           <dt>chudra </dt>
+           <dd><em>chudra</em> n. retaliation <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a ray <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>chup </dt>
+           <dd><em>chup</em> cl. 6. <em>&#x25cb;pati</em> (cf. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-2, 10 <a href="worksAuthorsAbbrs.html#K&#x0101;r">K&#x0101;r.</a> to touch <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a>xxviii, 125: Intens. <em>cocchupyate</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-4, 83 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 2 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+           <dd>&#x2022; cf. <em>a-cchupt&#x0101;</em></dd>
+
+           <dt>&#x226b; chupa </dt>
+           <dd><em>chupa</em> m. touch <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a shrub, bush <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; air, wind <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; combat <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>chubuka </dt>
+           <dd><em>ch&#x00fa;buka</em> n. = <em>aub&#x25cb;</em>, the chin <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 163, 1 <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> x, 6, 1, 11 <a href="worksAuthorsAbbrs.html#P&#x0101;rG&#x1e5b;">P&#x0101;rG&#x1e5b;.</a> iii, 6, 2</dd>
+
+           <dt>chur </dt>
+           <dd><em>chur</em> cl. 6. <em>&#x25cb;rati</em> (cf. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 8-2, 79) to cut off, cut, incise, etch <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxviii, 79: Caus. <em>churayati</em> <font color="#FF0000" font size=-2><a name="p407-2"></a>[Page 407, Column 2]</font> </dd>
+           <dd>&#x2022; to strew or sprinkle with (instr.) <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> v, 221 <a href="worksAuthorsAbbrs.html#M&#x0101;lat&#x012b;m">M&#x0101;lat&#x012b;m.</a> ix, 30 <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> xxiv, 1 : Caus. <em>chor&#x25cb;</em>, to abandon, throw away <a href="worksAuthorsAbbrs.html#Lalit">Lalit.</a> xv, 447 <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;ra&#x1e47;&#x1e0d;">K&#x0101;ra&#x1e47;&#x1e0d;.</a> xi, 100</dd>
+
+           <dt>&#x226b; chura&#x1e47;a </dt>
+           <dd><em>chura&#x1e47;a</em> n. ifc. strewing with <a href="worksAuthorsAbbrs.html#Viddh">Viddh.</a> i, 29 <a href="worksAuthorsAbbrs.html#Kuval">Kuval.</a> 129</dd>
+
+           <dt>&#x22d9; chur&#x0101; </dt>
+           <dd><em>chur&#x0101;</em> f. lime <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; churita </dt>
+           <dd><em>churita</em> mfn. strewed, set, inlaid with (instr. or in comp.), blended <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 5487 <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> <a href="worksAuthorsAbbrs.html#Da&#x015b;">Da&#x015b;.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> &amp;c </dd>
+           <dd>&#x2022; n. flashing (of lightning) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 695</dd>
+
+           <dt>&#x226b; chora&#x1e47;a </dt>
+           <dd><em>chora&#x1e47;a</em> n. abandoning <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chorita </dt>
+           <dd><em>chorita</em> mfn. abandoned, thrown away <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> i, 94 </dd>
+           <dd>&#x2022; vii </dd>
+           <dd>&#x2022; drawn (a sigh) <a href="worksAuthorsAbbrs.html#K&#x0101;ra&#x1e47;&#x1e0d;">K&#x0101;ra&#x1e47;&#x1e0d;.</a> xvii, 110</dd>
+
+           <dt>churik&#x0101; </dt>
+           <dd><em>churik&#x0101;</em> f. (fr. <em>k&#x1e63;ur&#x25cb;</em>) a knife <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> xii, xxv <a href="worksAuthorsAbbrs.html#Vet">Vet.</a> Introd. 30/31 iv, 26/27 f </dd>
+           <dd>&#x2022; Beta bengalensis <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 9, 16</dd>
+
+           <dt>&#x22d9; churik&#x0101;phala </dt>
+           <dd><em>&#x25cb;phala</em> n. = <em>k&#x1e63;ur&#x25cb;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chur&#x012b; </dt>
+           <dd><em>chur&#x012b;</em> f. = <em>k&#x1e63;ur&#x012b;</em>, a knife, dagger <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ch&#x016b;rik&#x0101; </dt>
+           <dd><em>ch&#x016b;rik&#x0101;</em> f. a knife <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> i, 9, 97 </dd>
+           <dd>&#x2022; a cow's nostril <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> viii, 325</dd>
+
+           <dt>&#x22d9; ch&#x016b;rik&#x0101;pattr&#x012b; </dt>
+           <dd><em>&#x25cb;pattr&#x012b;</em> f. 'knife-leaved', Andropogon aciculatus <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ch&#x016b;r&#x012b; </dt>
+           <dd><em>ch&#x016b;r&#x012b;</em> f. <em>-chur&#x012b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; <a href="worksAuthorsAbbrs.html#cf">cf.</a> BhP. v, 3, 3</dd>
+
+           <dt>ch&#x1e5b;d </dt>
+           <dd><em>ch&#x1e5b;d</em> cl. 7. (Impv. <em>ch&#x1e5b;&#x1e47;attu</em>, 2. sg. <em>ch&#x1e5b;ndhi</em> </dd>
+           <dd>&#x2022; fut, <em>chardi&#x1e63;yati</em> and <em>chartsy&#x25cb;</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> vii, 2, 57 </dd>
+           <dd>&#x2022; pf. <em>caccharda</em>, 3. pl. <em>&#x25cb;cch&#x1e5b;dur</em>, 4, 83 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 3 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a>) to vomit <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> x, 11, 49 </dd>
+           <dd>&#x2022; to utter, leave <a href="worksAuthorsAbbrs.html#T&#x0100;r">T&#x0100;r.</a> iv, 3, 3 </dd>
+           <dd>&#x2022; P. &#x0100;. (<em>ch&#x1e5b;ntte</em>) to shine <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxix, 8 </dd>
+           <dd>&#x2022; to play <a href="worksAuthorsAbbrs.html#ib">ib.</a>: cl. 1. <em>chardati</em> (v. l. <em>&#x25cb;rpati</em>) to kindle, xxxiv, 14: Caus. <em>chardayati</em> id. <a href="worksAuthorsAbbrs.html#ib">ib.</a> (v. l. &#x25cb;rpay&#x25cb;) </dd>
+           <dd>&#x2022; to cause to flow over <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xii, 4, 2, 9 </dd>
+           <dd>&#x2022; to vomit, eject (with or without acc.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> v, 3493 ; vi, 93 <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; to cause to spit or vomit <a href="worksAuthorsAbbrs.html#Car">Car.</a> i, 13, 88 <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; &#x0100;. to vomit <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xxv <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a>: Desid. <em>cicchardi&#x1e63;ati</em> and <em>&#x25cb;cch&#x1e5b;tsati</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-2, 57: Caus. Desid. <em>cicchardayi&#x1e63;ati</em>, 4, 83 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 2 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+           <dd>&#x2022; <em>&#x0101;</em>. <em>pra-</em></dd>
+
+           <dt>&#x226b; charda </dt>
+           <dd><em>charda</em> v. l. for <em>&#x25cb;di</em>, vomiting <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chardana </dt>
+           <dd><em>chardana</em> mfn. causing vomition <a href="worksAuthorsAbbrs.html#Car">Car.</a> vi, 32 </dd>
+           <dd>&#x2022; m. Vangueria spinosa <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 1, 161 </dd>
+           <dd>&#x2022; = <em>&#x25cb;di-ghna</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>alambu&#x1e63;&#x0101;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. vomition <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> <a href="worksAuthorsAbbrs.html#Gaut">Gaut.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; retching <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; chardan&#x012b;ya </dt>
+           <dd><em>chardan&#x012b;ya</em> mfn. to be caused to vomit <a href="worksAuthorsAbbrs.html#Car">Car.</a> vi, 32</dd>
+
+           <dt>&#x22d9; chardayitavya </dt>
+           <dd><em>chardayitavya</em> mfn. id. <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x226b; chard&#x0101;pan&#x012b;k&#x0101; </dt>
+           <dd><em>chard&#x0101;pan&#x012b;k&#x0101;</em> f. (fr. Pr&#x0101;k&#x1e5b;it Caus. &#x221a;<em>ch&#x1e5b;d</em>) 'emetic', a kind of cucumber <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chardi </dt>
+           <dd><em>chardi</em> f. vomiting, sickness <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xxv, 11 <a href="worksAuthorsAbbrs.html#Gaut">Gaut.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> xxxii, 18 </dd>
+           <dd>&#x2022; expulsion (of the breath) <a href="worksAuthorsAbbrs.html#KapS">KapS.</a> iii, 33</dd>
+
+           <dt>&#x22d9; chardighna </dt>
+           <dd><em>&#x25cb;ghna</em> m. 'anti-emetic', Azadirachta indica <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chardik&#x0101; </dt>
+           <dd><em>chardik&#x0101;</em> f. vomition <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; Clitoria ternatea <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; chardik&#x0101;ripu </dt>
+           <dd><em>&#x25cb;ripu</em> m. 'anti-emetic', cardamoms <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chardita </dt>
+           <dd><em>chardita</em> mfn. got rid of (demerit) <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> xix</dd>
+
+           <dt>&#x226b; chardis 2</dt>
+           <dd><em>chardis</em> n. (f. <a href="worksAuthorsAbbrs.html#L">L.</a>) vomition <a href="worksAuthorsAbbrs.html#Car">Car.</a> i, vi, viii</dd>
+
+           <dt>&#x22d9; chardy&#x0101;yanik&#x0101; </dt>
+           <dd><em>chardy&#x0101;yanik&#x0101;</em></dd>
+
+           <dt>&#x22d9; chardy&#x0101;yan&#x012b; </dt>
+           <dd><em>chardy&#x0101;yan&#x012b;</em> f. = <em>&#x25cb;d&#x0101;pan&#x25cb;</em> <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>ch&#x1e5b;p </dt>
+           <dd><em>ch&#x1e5b;p</em> cl. 1. 10, v. l. for &#x221a;<em>ch&#x1e5b;d</em>, q.v</dd>
+
+           <dt>cheka </dt>
+           <dd><em>cheka</em> mf(<em>&#x0101;</em>)n. clever, shrewd <a href="worksAuthorsAbbrs.html#Jain">Jain.</a> (cf. HPari&#x015b;. ii, 447) </dd>
+           <dd>&#x2022; domesticated <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; m. a bee <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>&#x25cb;k&#x00e2;nupr&#x00e2;sa</em> <a href="worksAuthorsAbbrs.html#Kpr">Kpr.</a> ix, 2 <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> x, 3</dd>
+
+           <dt>&#x22d9; chek&#x0101;nupr&#x0101;sa </dt>
+           <dd><em>chek&#x00e2;nupr&#x00e2;sa</em> m. a kind of alliteration (with single repetitions of several consonants as in <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> vii, 22 </dd>
+           <dd>&#x2022; opposed to <em>l&#x0101;&#x1e6d;&#x00e2;n&#x25cb;</em>), Prat&#x0101;par. <a href="worksAuthorsAbbrs.html#Ala&#x1e43;k&#x0101;ra&#x015b;">Ala&#x1e43;k&#x0101;ra&#x015b;.</a> x, 5/6</dd>
+
+           <dt>&#x22d9; chektokti </dt>
+           <dd><em>chekt&#x00f4;kti</em> f. indirect speech, hint, double entendre <a href="worksAuthorsAbbrs.html#Viddh">Viddh.</a> ii, 5 <a href="worksAuthorsAbbrs.html#Si&#x1e43;h&#x00e2;s">Si&#x1e43;h&#x00e2;s.</a> Introd. 54/55 vi, 1/2 <a href="worksAuthorsAbbrs.html#Kuval">Kuval.</a></dd>
+
+           <dt>&#x226b; chekala </dt>
+           <dd><em>chekala</em> [<a href="worksAuthorsAbbrs.html#Gal">Gal.</a>],</dd>
+
+           <dt>&#x22d9; chek&#x0101;la </dt>
+           <dd><em>che&#x1e0d;k&#x0101;la</em> [<a href="worksAuthorsAbbrs.html#L">L.</a>], mfn. clever</dd>
+
+           <dt>&#x226b; chekila </dt>
+           <dd><em>chekila</em> mfn. id. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>chettavya </dt>
+           <dd><em>chettavya</em> <em>&#x25cb;tt&#x1e5b;</em>, &amp;c. See &#x221a;1. <em>chid</em></dd>
+
+           <dt>cheppa </dt>
+           <dd><em>cheppa</em> (fr. <em>s&#x00e9;pa</em>) tail <a href="worksAuthorsAbbrs.html#H&#x0101;l">H&#x0101;l.</a> 62 ; 240</dd>
+
+           <dt>chema&#x1e47;&#x1e0d;a </dt>
+           <dd><em>chema&#x1e47;&#x1e0d;a</em> m. = <em>cham&#x25cb;</em>, an orphan <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> k</dd>
+
+           <dt>&#x22d9; chemu&#x1e47;&#x0101; </dt>
+           <dd><em>chemu&#x1e47;&#x0101;</em> f. id. <a href="worksAuthorsAbbrs.html#Gal">Gal.</a> </dd>
+           <dd>&#x2022; cf. <em>ch&#x0101;</em></dd>
+
+           <dt>chelaka </dt>
+           <dd><em>chelaka</em> m. (fr. <em>chagal&#x25cb;</em>) a he-goat <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 10, 75 </dd>
+           <dd>&#x2022; (<em>ik&#x0101;</em>), f. a she-goat, 76</dd>
+
+           <dt>chelu </dt>
+           <dd><em>chelu</em> Vernonia anthelminthica <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>chaidika </dt>
+           <dd><em>chaidika</em> mfn. deserving mutilation (<em>cheda</em>) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-1, 64 </dd>
+           <dd>&#x2022; = <em>chidr&#x00e2;&#x1e43;&#x015b;a</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>cho </dt>
+           <dd><em>cho</em> cl. 4. <em>chyati</em> (vii, 3, 71 </dd>
+           <dd>&#x2022; perf. 3. pl. <em>cacchur</em>, <a href="worksAuthorsAbbrs.html#4,">4,.</a> 83 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 2 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+           <dd>&#x2022; aor. <em>acch&#x0101;t</em> and <em>acch&#x0101;s&#x012b;t</em>, ii, 4, 78) to cut off, cut <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a> xiv f.: Caus. <em>ch&#x0101;yayati</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-3, 37 </dd>
+           <dd>&#x2022; cf. <em>anu-</em>, <em>ava-</em>, <em>&#x0101;-</em></dd>
+
+           <dt>&#x226b; ch&#x0101;ta </dt>
+           <dd><em>ch&#x0101;ta</em> mfn. = <em>chita</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; emaciated <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; chita </dt>
+           <dd><em>chita</em> mfn. cut off cut, divided <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>choja </dt>
+           <dd><em>choja</em> N. of a man <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> V, 422</dd>
+
+           <dt>cho&#x1e6d;ana </dt>
+           <dd><em>cho&#x1e6d;ana</em> <em>&#x25cb;&#x1e6d;i</em>, &amp;c. See &#x221a;<em>chu&#x1e6d;</em></dd>
+
+           <dt>chorana </dt>
+           <dd><em>chorana</em> <em>&#x25cb;rita</em>. See &#x221a;<em>chur</em>. <font color="#FF0000" font size=-2><a name="p407-3"></a>[Page 407, Column 3]</font>
+</dd>
+
+           <dt>chola&#x1e45;ga </dt>
+           <dd><em>chola&#x1e45;ga</em> m. the citron tree <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a citron <a href="worksAuthorsAbbrs.html#Ala&#x1e43;k&#x0101;ra&#x015b;">Ala&#x1e43;k&#x0101;ra&#x015b;.</a> xiv, 2 ; 35 ; 47</dd>
+
+           <dt>chautu </dt>
+           <dd><em>chautu</em> m. N. of a man <a href="worksAuthorsAbbrs.html#Nid">Nid.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>chyu </dt>
+           <dd><em>chyu</em> cl. i. &#x0100;. to go <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xxii, 6o</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

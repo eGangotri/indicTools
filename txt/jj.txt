@@ -1,0 +1,18 @@
+    <dl>
+           <dt>&#x00f1;a 1</dt>
+           <dd><em>&#x00f1;a</em> the palatal nasal (found before palatal consonants)</dd>
+
+           <dt>&#x22d9; &#x00f1;ak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter <em>&#x00f1;</em></dd>
+
+           <dt>&#x00f1;a 2</dt>
+           <dd><em>&#x00f1;a</em> m. a singer <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a jingling sound <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a heretic <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; an ox <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the planet &#x015a;ukra <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

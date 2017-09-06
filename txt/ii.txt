@@ -1,0 +1,779 @@
+    <dl>
+           <dt>&#x012b; 1</dt>
+           <dd><em>&#x012b;</em> the fourth letter of the alphabet, corresponding to <em>i</em> long, and having the sound of <em>ee</em> in <em>feel</em></dd>
+
+           <dt>&#x22d9; &#x012b;k&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>&#x012b;</em></dd>
+
+           <dt>&#x012b; 2</dt>
+           <dd><em>&#x012b;</em> <em>&#x012b;s</em> m. N. of Kandarpa, the god of love <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em> or <em>&#x012b;s</em>), f. N. of Lakshm&#x012b; <a href="worksAuthorsAbbrs.html#L">L.</a> [also in <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii, 1220 according to <a href="worksAuthorsAbbrs.html#N&#x012b;lak">N&#x012b;lak.</a> (who reads <em>pu&#x1e47;yaca&#x00f1;cur &#x012b;</em>)]</dd>
+
+           <dt>&#x012b; 3</dt>
+           <dd><em>&#x012b;</em> ind. an interjection of pain or anger </dd>
+           <dd>&#x2022; a particle implying consciousness or perception, consideration, compassion</dd>
+
+           <dt>&#x012b; 4</dt>
+           <dd><em>&#x012b;</em> for &#x221a;<em>i</em>. 5. <em>i</em></dd>
+
+   <dt>&#x012b;k&#x1e63; </dt>
+   <dd><em>&#x012b;k&#x1e63;</em> cl. 1. &#x0100;. <em>&#x012b;&#x0341;k&#x1e63;ate</em>, <em>&#x012b;k&#x1e63;&#x0101;&#x1e43;-cakre</em> (<a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 1-3, 63), <em>&#x012b;k&#x1e63;i&#x1e63;yate</em>, <em>aik&#x1e63;i&#x1e63;&#x1e6d;a</em>, <em>&#x012b;k&#x1e63;itum</em>, to see, look, view, behold, look at, gaze at </dd>
+   <dd>&#x2022; to watch over (with acc. or rarely loc.) <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> &amp;c </dd>
+   <dd>&#x2022; to see in one's mind, think, have a thought <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a> &amp;c </dd>
+   <dd>&#x2022; to regard, consider <a href="worksAuthorsAbbrs.html#Kum">Kum.</a> </dd>
+   <dd>&#x2022; to observe (the stars &amp;c.) <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+   <dd>&#x2022; to foretell for (dat </dd>
+   <dd>&#x2022; lit. to observe the stars for any one) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 1-4, 39: Caus. <em>&#x012b;k&#x1e63;ayati</em>, to make one look at (with acc.) <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;vG&#x1e5b;">&#x0100;&#x015b;vG&#x1e5b;.</a> (This &#x221a;is perhaps connected with <em>ak&#x1e63;i</em>, q.v.)</dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;a </dt>
+           <dd><em>&#x012b;&#x0341;k&#x1e63;a</em> mf(<em>&#x012b;</em>)n. ifc. seeing, looking, visiting ( <em>tiryag-&#x012b;k&#x1e63;a</em>, <em>vadhv-&#x012b;k&#x1e63;a</em>) </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. sight, viewing </dd>
+           <dd>&#x2022; considering <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Ny&#x0101;yad">Ny&#x0101;yad.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. anything seen <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> vii, 1, 2, 23 (merely for the etym. of <em>antarik&#x1e63;a</em>)</dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;aka </dt>
+           <dd><em>&#x012b;&#x0341;k&#x1e63;aka</em> m. a spectator, beholder <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;vG&#x1e5b;">&#x0100;&#x015b;vG&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#Gobh">Gobh.</a></dd>
+
+   <dt>&#x226b; &#x012b;k&#x1e63;a&#x1e47;a </dt>
+   <dd><em>&#x012b;k&#x1e63;a&#x1e47;a</em> n. a look, view, aspect sight <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#Ratn&#x0101;v">Ratn&#x0101;v.</a> &amp;c </dd>
+   <dd>&#x2022; regarding, looking after, caring for <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> </dd>
+   <dd>&#x2022; eye <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> &amp;c</dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;a&#x1e47;ika </dt>
+           <dd><em>&#x012b;k&#x1e63;a&#x1e47;ika</em> <em>as</em>, <em>&#x0101;</em> mf. and m. a looker into the future, a fortune-teller <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a></dd>
+
+           <dt>&#x22d9; &#x012b;k&#x1e63;a&#x1e47;&#x012b;ka </dt>
+           <dd><em>&#x012b;k&#x1e63;a&#x1e47;&#x012b;ka</em> m. a looker into the future, a fortune-teller <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a></dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;a&#x1e47;&#x012b;ya </dt>
+           <dd><em>&#x012b;k&#x1e63;a&#x1e47;&#x012b;ya</em> mfn. to be seen or perceived</dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;am&#x0101;&#x1e47;a </dt>
+           <dd><em>&#x012b;k&#x1e63;am&#x0101;&#x1e47;a</em> mfn. looking at, surveying <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;ita </dt>
+           <dd><em>&#x012b;k&#x1e63;ita</em> mfn. seen, beheld, regarded </dd>
+           <dd>&#x2022; (<em>am</em>), n. a look <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> 45 a <a href="worksAuthorsAbbrs.html#Prab">Prab.</a></dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;it&#x1e5b; </dt>
+           <dd><em>&#x012b;k&#x1e63;it&#x1e5b;</em> mfn. seeing, beholding, a beholder <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> &amp;c</dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;e&#x1e47;ya </dt>
+           <dd><em>&#x012b;k&#x1e63;&#x00e9;&#x1e47;ya</em> mfn. deserving to be seen, curious <a href="worksAuthorsAbbrs.html#RV">RV.</a> ix, 77, 3</dd>
+
+           <dt>&#x226b; &#x012b;k&#x1e63;yam&#x0101;&#x1e47;a </dt>
+           <dd><em>&#x012b;k&#x1e63;yam&#x0101;&#x1e47;a</em> mfn. being beheld, being viewed</dd>
+
+   <dt>&#x012b;kh </dt>
+   <dd><em>&#x012b;kh</em> or <em>ikh</em>, cl. 1. P. <em>ekhati</em>, <em>iyekha</em>, or <em>&#x012b;khati</em>, <em>&#x012b;kh&#x0101;&#x1e43;-cak&#x0101;ra</em>, <em>ekhitum</em> or <em>&#x012b;khitum</em>, to go, move <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> v, 28</dd>
+
+  <dt>&#x012b;&#x1e45;kh </dt>
+  <dd><em>&#x012b;&#x1e45;kh</em> or <em>i&#x1e45;kh</em>, cl. 1. P. (<em>i&#x1e45;khati</em>, <em>i&#x1e45;kh&#x0101;&#x1e43;-cak&#x0101;ra</em>, or <em>&#x012b;&#x1e45;khati</em>, <em>&#x012b;&#x1e45;kh&#x0101;&#x1e43;-cak&#x0101;ra</em>, <em>i&#x1e45;khitum</em> or <em>&#x012b;&#x1e45;khitum</em>) to go, move <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> v, 28: Caus. <em>&#x012b;&#x1e45;kh&#x00e1;yati</em>, to move backwards and forwards, move up and down, swing <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e45;khana </dt>
+           <dd><em>&#x012b;&#x1e45;khana</em> n. swinging <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e45;khaya </dt>
+           <dd><em>&#x012b;&#x1e45;khaya</em> mfn. moving, causing to flow or go. <font color="#FF0000" font size=-2><a name="p170-2"></a>[Page 170, Column 2]</font>
+</dd>
+
+           <dt>&#x012b;j </dt>
+           <dd><em>&#x012b;j</em> or <em>&#x012b;&#x00f1;j</em>, cl. 1. P. <em>&#x012b;jati</em>, <em>&#x012b;j&#x0101;&#x1e43;-cak&#x0101;ra</em>, <em>&#x012b;jitum</em> or <em>&#x012b;&#x00f1;jati</em>, &amp;c., to go </dd>
+           <dd>&#x2022; to blame or censure <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> vi, 24 (cf. <em>ap&#x00ea;j</em> and <em>sam-&#x012b;j</em>.)</dd>
+
+           <dt>&#x012b;j&#x0101;na </dt>
+           <dd><em>&#x012b;j&#x0101;n&#x00e1;</em> mfn. (pf. p. of &#x221a;<em>yaj</em>, q.v.) one who has sacrificed <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> &amp;c</dd>
+
+           <dt>&#x226b; &#x012b;jitum </dt>
+           <dd><em>&#x012b;jitum</em> (irr. inf. of &#x221a;<em>yaj</em>, q.v.) = <em>ya&#x1e63;&#x1e6d;um</em></dd>
+
+           <dt>&#x012b;jika </dt>
+           <dd><em>&#x012b;jika</em> m. pl., N. of a people <a href="worksAuthorsAbbrs.html#VP">VP.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+   <dt>&#x012b;&#x1e0d; 1</dt>
+   <dd><em>&#x012b;&#x1e0d;</em> cl. 2. &#x0100;. <em>&#x012b;&#x0341;&#x1e6d;&#x1e6d;e</em> (2. sg. pres. <em>&#x012b;&#x1e0d;i&#x1e63;e</em>, Ved. <em>&#x012b;&#x1e3b;i&#x1e63;e</em>, pf. <em>&#x012b;&#x1e0d;&#x00e9;</em> fut. <em>&#x012b;&#x1e0d;i&#x1e63;yate</em> aor. <em>ai&#x1e0d;i&#x1e63;&#x1e6d;a</em>. inf. <em>&#x012b;&#x1e0d;itum</em>, Ved. <em>&#x012b;&#x1e3b;e</em>, &amp;c.) to implore, request, ask for (with two acc.) </dd>
+   <dd>&#x2022; to praise <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> &amp;c.: Caus. P. <em>&#x012b;&#x1e0d;ayati</em>, to ask </dd>
+   <dd>&#x2022; to praise <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e0d; 2</dt>
+           <dd><em>&#x012b;&#x1e0d;</em> <em>&#x1e6d;</em> f. praise, extolling <a href="worksAuthorsAbbrs.html#RV">RV.</a> viii, 39, 1</dd>
+
+           <dt>&#x226b; &#x012b;&#x1e0d;ana </dt>
+           <dd><em>&#x012b;&#x1e0d;ana</em> n. the act of praising <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e0d;&#x0101; </dt>
+           <dd><em>&#x012b;&#x1e0d;&#x0101;</em> f. praise, commendation <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e0d;ita </dt>
+           <dd><em>&#x012b;&#x1e0d;ita</em> or mfn. implored, requested <a href="worksAuthorsAbbrs.html#RV">RV.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e3b;ita </dt>
+           <dd><em>&#x012b;&#x1e3b;it&#x00e1;</em> mfn. implored, requested <a href="worksAuthorsAbbrs.html#RV">RV.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e0d;it&#x1e5b; </dt>
+           <dd><em>&#x012b;&#x1e0d;it&#x1e5b;&#x0301;</em> mfn. one who praises <a href="worksAuthorsAbbrs.html#AV">AV.</a> iv, 31, 4</dd>
+
+           <dt>&#x226b; &#x012b;&#x1e0d;enya </dt>
+           <dd><em>&#x012b;&#x1e0d;&#x00e9;nya</em> or mfn. to be invoked or implored</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e3b;enya </dt>
+           <dd><em>&#x012b;&#x1e3b;enya</em> or mfn. to be invoked or implored</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e0d;ya </dt>
+           <dd><em>&#x012b;&#x1e0d;ya</em> mfn. to be invoked or implored </dd>
+           <dd>&#x2022; to be praised or glorified, praiseworthy, laudable <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> &amp;c</dd>
+
+           <dt>&#x226b; &#x012b;&#x1e0d;yam&#x0101;na </dt>
+           <dd><em>&#x012b;&#x1e0d;yam&#x0101;na</em> mfn. being praised</dd>
+
+   <dt>&#x012b;ti 1</dt>
+   <dd><em>&#x012b;ti</em> f. (fr. 4. <em>&#x012b;</em>?), plague, distress, any calamity of the season (as drought, excessive rain, swarm of rats, foreign invasion, &amp;c.) </dd>
+   <dd>&#x2022; infectious disease <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> &amp;c </dd>
+   <dd>&#x2022; an affray <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+   <dd>&#x2022; travelling in foreign countries, sojourning <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x012b;ti 2</dt>
+           <dd><em>&#x012b;ti</em> ind. = <em>iti</em> <a href="worksAuthorsAbbrs.html#R">R.</a> vii, 32, 65</dd>
+
+   <dt>&#x012b;d&#x1e5b;k&#x1e63;a </dt>
+   <dd><em>&#x012b;d&#x1e5b;&#x0301;k&#x1e63;a</em> mf(<em>&#x012b;</em>)n. (fr. <em>id</em>, neut. of pronom. base 3. <em>i</em>, and <em>d&#x1e5b;k&#x1e63;a</em>, &#x221a;<em>d&#x1e5b;&#x015b;</em>, dropping one <em>d</em> and lengthening the preceding <em>i</em> </dd>
+   <dd>&#x2022; cf. <em>tad&#x1e5b;k&#x1e63;a</em> from <em>tad</em>, &amp;c.), of this aspect, of such a kind, endowed with such qualities, such-like <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> &amp;c</dd>
+
+  <dt>&#x226b; &#x012b;d&#x1e5b;&#x015b; </dt>
+  <dd><em>&#x012b;-d&#x1e5b;&#x0301;&#x015b;</em> <em>k</em> (Ved. <em>&#x1e45;</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-1, 83), mfn. endowed with such qualities, such <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> &amp;c </dd>
+  <dd>&#x2022; (<em>k</em>), f. such a condition, such occasion <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a></dd>
+
+           <dt>&#x22d9; &#x012b;d&#x1e5b;&#x015b;&#x012b;d&#x1e5b;kt&#x0101; </dt>
+           <dd><em>&#x25cb;&#x012b;d&#x1e5b;k-t&#x0101;</em> f. quality <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#Da&#x015b;">Da&#x015b;.</a></dd>
+
+   <dt>&#x226b; &#x012b;d&#x1e5b;&#x015b;a </dt>
+   <dd><em>&#x012b;d&#x1e5b;&#x0301;&#x015b;a</em> mf(<em>&#x012b;</em>)n. or endowed with such qualities, such <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a>: <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> &amp;c</dd>
+
+  <dt>&#x22d9; &#x012b;d&#x1e5b;&#x015b;aka </dt>
+  <dd><em>&#x012b;d&#x1e5b;&#x015b;aka</em> mf(<em>ik&#x0101;</em>)n. endowed with such qualities, such <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a>: <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> &amp;c </dd>
+  <dd>&#x2022; [with the final syllables <em>d&#x1e5b;&#x015b;</em> and <em>d&#x1e5b;&#x015b;a</em> of these words <a href="worksAuthorsAbbrs.html#the">the.</a> Gk. ? in [170, 2] ?, ? in ? &amp;c. ; Goth. <em>leika</em> in <em>hv&#x00ea;leiks</em>, 'which one', <em>svaleik-s</em>, 'such' ; Mod. Germ. <em>welcher</em>, <em>solcher</em> ; Slav. <em>liko</em> nom. <em>lik</em> e.g. <em>tolik</em>, 'such' ; Lat. <em>li</em> in <em>t&#x00e2;lis</em>, <em>qu&#x00e2;lis</em>.]</dd>
+
+           <dt>&#x012b;nt </dt>
+           <dd><em>&#x012b;nt</em> cl. 1. P. <em>&#x012b;ntati</em>, <em>&#x012b;ntitum</em>, to bind [cf. <em>ant</em> and <em>and</em>] <a href="worksAuthorsAbbrs.html#Vop">Vop.</a> on <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> iii, 25</dd>
+
+           <dt>&#x012b;ps </dt>
+           <dd><em>&#x012b;ps</em> (Desid. of &#x221a;<em>&#x0101;p</em>, q.v.), to wish to obtain</dd>
+
+           <dt>&#x226b; &#x012b;psana </dt>
+           <dd><em>&#x012b;psana</em> n. desiring or wishing to obtain <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;ps&#x0101; </dt>
+           <dd><em>&#x012b;ps&#x0101;</em> f. asking, desire or wish to obtain <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x226b; &#x012b;psita </dt>
+           <dd><em>&#x012b;psita</em> mfn. wished, desired </dd>
+           <dd>&#x2022; (<em>am</em>), n. desire, wish <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+   <dt>&#x22d9; &#x012b;psitatama </dt>
+   <dd><em>&#x25cb;tama</em> mfn. most desired, immediately aimed at (as the object of an action) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 1-4, 49</dd>
+
+           <dt>&#x226b; &#x012b;psu </dt>
+           <dd><em>&#x012b;psu</em> mfn. striving to obtain </dd>
+           <dd>&#x2022; wishing to get or obtain, desirous of (with acc.) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> &amp;c</dd>
+
+           <dt>&#x22d9; &#x012b;psuyaj&#x00f1;a </dt>
+           <dd><em>&#x25cb;yaj&#x00f1;a</em> m. a particular Soma sacrifice <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+   <dt>&#x012b;m </dt>
+   <dd><em>&#x012b;m</em> ind. (fr. pronominal base 3. <em>i</em>), Ved. a particle of affirmation and restriction (generally after short words at the beginning of a period, or after the relative pronouns, the conjunction <em>yad</em>, prepositions and particles such as <em>&#x0101;t</em>, <em>uta</em>, <em>atha</em>, &amp;c.) <em>&#x012b;m</em> has also the sense 'now' (= <em>id&#x0101;n&#x012b;m</em>), and is by <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a> sometimes considered as an acc. case for <em>enam</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a></dd>
+
+           <dt>&#x012b;yak&#x1e63;am&#x0101;&#x1e47;a </dt>
+           <dd><em>&#x012b;yak&#x1e63;am&#x0101;&#x1e47;a</em> = <em>&#x00ed;yak&#x1e63;am&#x0101;&#x1e47;a</em> (fr. <em>iyak&#x1e63;</em>), q.v. <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> ii, 10, 6</dd>
+
+           <dt>&#x012b;yacak&#x1e63;as </dt>
+           <dd><em>&#x012b;ya-cak&#x1e63;as</em> mfn. (<em>&#x012b;ya</em> fr. &#x221a;<em>i</em>), of pervading or far-reaching sight <a href="worksAuthorsAbbrs.html#RV">RV.</a> v, 66, 6</dd>
+
+           <dt>&#x012b;yivas </dt>
+           <dd><em>&#x012b;yivas</em> (<em>&#x012b;yiv&#x0101;n</em>, <em>&#x012b;yu&#x1e63;&#x012b;</em>, <em>&#x012b;yivat</em>), mfn. (pf. p. of &#x221a;<em>i</em>) one who has gone </dd>
+           <dd>&#x2022; one who has obtained &amp;c</dd>
+
+   <dt>&#x012b;r </dt>
+   <dd><em>&#x012b;r</em> cl. 2. &#x0100;. <em>&#x012b;&#x0341;rte</em> (3. pl. <em>&#x012b;&#x0341;rate</em> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#RV">RV.</a>), <em>ira&#x1e43;-cakre</em>, <em>iri&#x1e63;yati</em>, <em>airi&#x1e63;&#x1e6d;a</em>, <em>&#x012b;ritum</em> </dd>
+   <dd>&#x2022; Ved. inf. <em>ir&#x00e1;dhyai</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 134, 2, to go, move, rise, arise from <a href="worksAuthorsAbbrs.html#RV">RV.</a> </dd>
+   <dd>&#x2022; to go away, retire <a href="worksAuthorsAbbrs.html#AV">AV.</a> xix, 38, 2 </dd>
+   <dd>&#x2022; to agitate, elevate, raise (one's voice) <a href="worksAuthorsAbbrs.html#RV">RV.</a>: Caus. P. <em>&#x012b;r&#x00e1;yati</em> (cf. &#x221a;<em>&#x012b;l</em>), to agitate, throw, cast </dd>
+   <dd>&#x2022; to excite <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> &amp;c </dd>
+   <dd>&#x2022; to cause to rise </dd>
+   <dd>&#x2022; to bring to life </dd>
+   <dd>&#x2022; to raise one's voice, utter, pronounce, proclaim, cite <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> &amp;c. <font color="#FF0000" font size=-2><a name="p170-3"></a>[Page 170, Column 3]</font> </dd>
+   <dd>&#x2022; to elevate <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a>: &#x0100;. to raise one's self <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a></dd>
+
+           <dt>&#x226b; &#x012b;ra </dt>
+           <dd><em>&#x012b;ra</em> m. wind</dd>
+
+           <dt>&#x22d9; &#x012b;raja </dt>
+           <dd><em>&#x25cb;ja</em> m. 'wind-born', N. of Hanumat</dd>
+
+           <dt>&#x22d9; &#x012b;rap&#x0101;da </dt>
+           <dd><em>&#x25cb;p&#x0101;da</em> m. a snake <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a></dd>
+
+           <dt>&#x22d9; &#x012b;raputra </dt>
+           <dd><em>&#x25cb;putra</em> m. 'wind-son', N. of Hanumat</dd>
+
+           <dt>&#x226b; &#x012b;ra&#x1e47;a </dt>
+           <dd><em>&#x012b;ra&#x1e47;a</em> mfn. agitating, driving <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; m. the wind <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. uttering, pronouncing <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; painful and laborious evacuation of the bowels <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x226b; &#x012b;rita </dt>
+           <dd><em>&#x012b;rita</em> mfn. sent, despatched </dd>
+           <dd>&#x2022; said, uttered</dd>
+
+           <dt>&#x22d9; &#x012b;rit&#x0101;k&#x016b;ta </dt>
+           <dd><em>&#x012b;rit&#x00e2;k&#x016b;ta</em> n. declared purpose or intention</dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e47;a </dt>
+           <dd><em>&#x012b;r&#x1e47;a</em> mfn. <em>ud-&#x012b;r&#x1e47;a</em></dd>
+
+           <dt>&#x226b; &#x012b;rya </dt>
+           <dd><em>&#x012b;rya</em> mfn. to be excited</dd>
+
+           <dt>&#x22d9; &#x012b;ryat&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> (<em>&#x012b;ry&#x00e1;&#x25cb;</em>), f. the condition of one who is to be excited <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#Ait&#x0100;r">Ait&#x0100;r.</a></dd>
+
+           <dt>&#x226b; &#x012b;ry&#x0101; </dt>
+           <dd><em>&#x012b;ry&#x0101;</em> f. wandering about as a religious mendicant (i.e. without hurting any creature)</dd>
+
+           <dt>&#x22d9; &#x012b;ry&#x0101;patha </dt>
+           <dd><em>&#x25cb;patha</em> m. the observances of a religious mendicant </dd>
+           <dd>&#x2022; the four positions of the body (viz. going, standing upright.) sitting and lying down) <a href="worksAuthorsAbbrs.html#Buddh">Buddh.</a> and <a href="worksAuthorsAbbrs.html#Jain">Jain.</a> (cf. <em>airy&#x0101;pathik&#x012b;</em>.)</dd>
+
+           <dt>&#x012b;r&#x0101;m&#x0101; </dt>
+           <dd><em>&#x012b;r&#x0101;m&#x0101;</em> f. N. of a river <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x012b;ri&#x1e47;a </dt>
+           <dd><em>&#x012b;ri&#x1e47;a</em> mfn. desert </dd>
+           <dd>&#x2022; (<em>am</em>), n. salt and barren soil ( <em>iri&#x1e47;a</em>) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x012b;rin </dt>
+           <dd><em>&#x012b;rin</em> <em>&#x012b;</em> m. N. of a man </dd>
+           <dd>&#x2022; (<em>i&#x1e47;as</em>), m. pl. the descendants of this man <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x012b;rk&#x1e63;y </dt>
+           <dd><em>&#x012b;rk&#x1e63;y</em> See <em>&#x012b;r&#x1e63;y</em></dd>
+
+           <dt>&#x012b;rts </dt>
+           <dd><em>&#x012b;rts</em> (Desid. of &#x221a;<em>&#x1e5b;dh</em>, q.v.), P. <em>&#x012b;rtsati</em>, to wish to increase <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-4, 55 <a href="worksAuthorsAbbrs.html#Vop">Vop.</a></dd>
+
+           <dt>&#x226b; &#x012b;rts&#x0101; </dt>
+           <dd><em>&#x012b;rts&#x0101;</em> f. the wish to increase anything <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;rtsu </dt>
+           <dd><em>&#x012b;rtsu</em> mfn. wishing to increase anything <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a></dd>
+
+           <dt>&#x012b;rma 1</dt>
+           <dd><em>&#x012b;rm&#x00e1;</em> or <em>&#x012b;rm&#x0101;&#x0341;</em> ind. in this place, here, to this place </dd>
+           <dd>&#x2022; going constantly, or instigating [<a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>] <a href="worksAuthorsAbbrs.html#RV">RV.</a></dd>
+
+           <dt>&#x012b;rma 2</dt>
+           <dd><em>&#x012b;rm&#x00e1;</em> m. the arm, the fore-quarter of an animal <a href="worksAuthorsAbbrs.html#AV">AV.</a> x, 10, 21 <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. a sore or wound <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> iv, 2, 10 [<a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>]</dd>
+
+           <dt>&#x226b; &#x012b;rman </dt>
+           <dd><em>&#x012b;rman</em> m. = 2. <em>&#x012b;rm&#x00e1;</em> above <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a></dd>
+
+           <dt>&#x012b;rm&#x0101;nta </dt>
+           <dd><em>&#x012b;rm&#x00e2;nta</em> mfn. (fr. <em>&#x012b;rma</em> = <em>&#x012b;rita</em> with <em>anta</em> <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>), full-haunched (lit. full-ended) </dd>
+           <dd>&#x2022; thin-haunched </dd>
+           <dd>&#x2022; (perhaps) having the biggest (or quickest?) horses on both sides of the team </dd>
+           <dd>&#x2022; N. of a team of horses or of the horses of the sun's car <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 163, 10</dd>
+
+           <dt>&#x012b;rv&#x0101;ru </dt>
+           <dd><em>&#x012b;rv&#x0101;ru</em> m. a cucumber, Cucumis Utilissimus <a href="worksAuthorsAbbrs.html#L">L.</a> <em>irv&#x0101;ru</em></dd>
+
+   <dt>&#x012b;r&#x1e63;y </dt>
+   <dd><em>&#x012b;r&#x1e63;y</em> or <em>&#x012b;rk&#x1e63;y</em>, cl. 1. P. <em>&#x012b;&#x0341;r&#x1e63;yati</em> (p. <em>&#x012b;&#x0341;r&#x1e63;yat</em> <a href="worksAuthorsAbbrs.html#TS">TS.</a>), <em>&#x012b;r&#x1e63;y&#x0101;&#x1e43;-cak&#x0101;ra</em>, <em>&#x012b;&#x1e63;yitum</em> or <em>&#x012b;rk&#x1e63;yati</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> <a href="worksAuthorsAbbrs.html#Vop">Vop.</a> <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> </dd>
+   <dd>&#x2022; to envy, feel impatient at another's prosperity (with dat.): Desid. <em>&#x012b;r&#x1e63;yi&#x1e63;i&#x1e63;ati</em> or <em>&#x012b;r&#x1e63;yiyi&#x1e63;ati</em> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a></dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;&#x0101; </dt>
+           <dd><em>&#x012b;r&#x1e63;&#x0101;</em> f. impatience, envy of another's success (more properly read <em>&#x012b;r&#x1e63;y&#x0101;</em>) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> &amp;c</dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;&#x0101;lu </dt>
+           <dd><em>&#x012b;r&#x1e63;&#x0101;lu</em> mfn. = <em>&#x012b;r&#x1e63;y&#x0101;lu</em>, q.v. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;ita </dt>
+           <dd><em>&#x012b;r&#x1e63;ita</em> mfn. envied </dd>
+           <dd>&#x2022; (<em>am</em>), n. envy (v. l. for <em>&#x012b;r&#x1e63;yita</em>, q.v.) <a href="worksAuthorsAbbrs.html#Hit">Hit.</a></dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;itavya </dt>
+           <dd><em>&#x012b;r&#x1e63;itavya</em> mfn. to be envied (v. l. for <em>&#x012b;r&#x1e63;yitavya</em>, q.v.) <a href="worksAuthorsAbbrs.html#Prab">Prab.</a></dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;u </dt>
+           <dd><em>&#x012b;r&#x1e63;u</em> mfn. envious, jealous (v. l. for <em>&#x012b;r&#x1e63;yu</em>, q.v.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hit">Hit.</a></dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;ya </dt>
+           <dd><em>&#x012b;r&#x1e63;ya</em> mfn. envious, envying <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;&#x0341;</em>), f. envy or impatience of another's success </dd>
+           <dd>&#x2022; spite, malice </dd>
+           <dd>&#x2022; jealousy <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> &amp;c</dd>
+
+           <dt>&#x22d9; &#x012b;r&#x1e63;y&#x0101;bhirati </dt>
+           <dd><em>&#x012b;r&#x1e63;y&#x00e2;bhirati</em></dd>
+
+           <dt>&#x22d9; &#x012b;r&#x1e63;y&#x0101;rati </dt>
+           <dd><em>&#x012b;r&#x1e63;y&#x0101;-rati</em> and m. a kind of semi-impotent man, = <em>&#x012b;r&#x1e63;yaka</em>, q.v. <a href="worksAuthorsAbbrs.html#Car">Car.</a> <a href="worksAuthorsAbbrs.html#N&#x0101;r">N&#x0101;r.</a></dd>
+
+           <dt>&#x22d9; &#x012b;r&#x1e63;y&#x0101;&#x1e63;a&#x1e47;&#x1e0d;ha </dt>
+           <dd><em>&#x012b;r&#x1e63;y&#x0101;-&#x1e63;a&#x1e47;&#x1e0d;ha</em> m. a kind of semi-impotent man, = <em>&#x012b;r&#x1e63;yaka</em>, q.v. <a href="worksAuthorsAbbrs.html#Car">Car.</a> <a href="worksAuthorsAbbrs.html#N&#x0101;r">N&#x0101;r.</a></dd>
+
+           <dt>&#x22d9; &#x012b;r&#x1e63;y&#x0101;vat </dt>
+           <dd><em>&#x012b;r&#x1e63;y&#x0101;-vat</em> mfn. envious, spiteful</dd>
+
+           <dt>&#x22d9; &#x012b;r&#x1e63;y&#x0101;va&#x015b;a </dt>
+           <dd><em>&#x012b;r&#x1e63;y&#x0101;-va&#x015b;a</em> mfn. overcome with envy</dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;yaka </dt>
+           <dd><em>&#x012b;r&#x1e63;yaka</em> mfn. envious, envying </dd>
+           <dd>&#x2022; m. a particular kind of semi-impotent man whose power is stimulated through jealous feelings caused by seeing others in the act of sexual union <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;yam&#x0101;&#x1e47;a </dt>
+           <dd><em>&#x012b;r&#x1e63;yam&#x0101;&#x1e47;a</em> mfn. envying, envious</dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;y&#x0101;lu </dt>
+           <dd><em>&#x012b;r&#x1e63;y&#x0101;lu</em> mfn. envious, jealous</dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;yita </dt>
+           <dd><em>&#x012b;r&#x1e63;yita</em> n. envy, jealousy</dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;yin </dt>
+           <dd><em>&#x012b;r&#x1e63;yin</em> mfn. envious, spiteful</dd>
+
+           <dt>&#x226b; &#x012b;r&#x1e63;yu </dt>
+           <dd><em>&#x012b;r&#x1e63;y&#x00fa;</em> mfn. jealous <a href="worksAuthorsAbbrs.html#AV">AV.</a> vi, 18, 2 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hit">Hit.</a></dd>
+
+           <dt>&#x012b;l </dt>
+           <dd><em>&#x012b;l</em> Caus. P. <em>&#x012b;l&#x00e1;yati</em>, to move <a href="worksAuthorsAbbrs.html#TS">TS.</a> vi, 4, 2, 6 (cf. <em>&#x012b;r</em>, Caus.)</dd>
+
+           <dt>&#x012b;lina </dt>
+           <dd><em>&#x012b;lina</em> m. N. of a son of Ta&#x1e43;su and father of Dushyanta <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. N. of a daughter of Medh&#x0101;tithi <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a></dd>
+
+   <dt>&#x012b;l&#x012b; </dt>
+   <dd><em>&#x012b;l&#x012b;</em> or <em>&#x012b;li</em> f. a kind of weapon (sometimes considered as a cudgel and sometimes as a short sword or stick shaped like a sword) <a href="worksAuthorsAbbrs.html#L">L.</a> <font color="#FF0000" font size=-2><a name="p171-1"></a>[Page 171, Column 1]</font>
+</dd>
+
+           <dt>&#x012b;&#x1e3b; </dt>
+           <dd><em>&#x012b;&#x1e3b;</em> <em>&#x012b;&#x1e3b;&#x0101;</em>, &amp;c. under &#x221a;<em>&#x012b;&#x1e0d;</em></dd>
+
+           <dt>&#x012b;vat </dt>
+           <dd><em>&#x012b;&#x0341;-vat</em> mfn. (fr. pronominal base 3. <em>i</em>), so large, so stately, so magnificent, so much <a href="worksAuthorsAbbrs.html#RV">RV.</a> </dd>
+           <dd>&#x2022; going, moving [<a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>]</dd>
+
+           <dt>&#x012b;&#x015b; 1</dt>
+           <dd><em>&#x012b;&#x015b;</em> cl. 2. &#x0100;. <em>&#x012b;&#x0341;&#x1e63;&#x1e6d;e</em>, or Ved. <em>&#x012b;&#x0341;&#x015b;e</em> (2. sg. <em>&#x012b;&#x0341;&#x015b;i&#x1e63;e</em> and <em>&#x012b;&#x0341;k&#x1e63;e</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> iv, 20, 8 ; vi, 19, 10 </dd>
+           <dd>&#x2022; Pot. 1. sg. <em>&#x012b;&#x0341;&#x015b;&#x012b;ya</em> pf. 3. pl. <em>&#x012b;&#x015b;ire</em>, <em>&#x012b;&#x015b;i&#x1e63;yati</em>, <em>&#x012b;&#x015b;itum</em>) to own, possess <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a> </dd>
+           <dd>&#x2022; to belong to <a href="worksAuthorsAbbrs.html#RV">RV.</a> </dd>
+           <dd>&#x2022; to dispose of, be valid or powerful </dd>
+           <dd>&#x2022; to be master of (with gen., or Ved. with gen. of an inf., or with a common inf., or the loc. of an abstract noun) <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> &amp;c </dd>
+           <dd>&#x2022; to command </dd>
+           <dd>&#x2022; to rule, reign <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> &amp;c </dd>
+           <dd>&#x2022; to behave like a master, allow <a href="worksAuthorsAbbrs.html#Ka&#x1e6d;hUp">Ka&#x1e6d;hUp.</a> ; [<a href="worksAuthorsAbbrs.html#Goth">Goth.</a> <em>aigan</em>, 'to have' ; Old Germ. <em>eigan</em>, 'own' ; Mod. Germ. <em>eigen</em>.]</dd>
+
+           <dt>&#x226b; &#x012b;&#x015b; 2</dt>
+           <dd><em>&#x012b;&#x015b;</em> <em>&#x1e6d;</em> m. master, lord, the supreme spirit <a href="worksAuthorsAbbrs.html#VS">VS.</a> &amp;c </dd>
+           <dd>&#x2022; N. of &#x015a;iva</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;dhy&#x0101;ya </dt>
+           <dd><em>&#x012b;&#x015b;&#x00e2;dhy&#x0101;ya</em> m. N. of the &#x012a;&#x015b;&#x0101;-upanishad</dd>
+
+   <dt>&#x22d9; &#x012b;&#x015b;&#x0101;v&#x0101;sya </dt>
+   <dd><em>&#x012b;&#x015b;&#x0101;-v&#x0101;sya</em> or n. 'to be clothed or pervaded by the Supreme', N. of the &#x012a;&#x015b;opanishad (q.v.) which commences with that expression</dd>
+
+  <dt>&#x22d9; &#x012b;&#x015b;&#x0101;v&#x0101;sya </dt>
+  <dd><em>&#x012b;&#x015b;&#x00e2;v&#x0101;sya</em> n. 'to be clothed or pervaded by the Supreme', N. of the &#x012a;&#x015b;opanishad (q.v.) which commences with that expression</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;opani&#x1e63;ad </dt>
+           <dd><em>&#x012b;&#x015b;&#x00f4;pani&#x1e63;ad</em> f. N. of an Upanishad (so called from its beginning <em>&#x012b;&#x015b;&#x0101;</em> [<a href="worksAuthorsAbbrs.html#VS">VS.</a> xl, 1] </dd>
+           <dd>&#x2022; the only instance of an Upanishad included in a Sa&#x1e43;hit&#x0101;)</dd>
+
+           <dt>&#x226b; &#x012b;&#x015b;a </dt>
+           <dd><em>&#x012b;&#x015b;&#x00e1;</em> mfn. owning, possessing, sharing </dd>
+           <dd>&#x2022; one who is completely master of anything </dd>
+           <dd>&#x2022; capable of (with gen.) </dd>
+           <dd>&#x2022; powerful, supreme </dd>
+           <dd>&#x2022; a ruler, master, lord <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Kum">Kum.</a> &amp;c </dd>
+           <dd>&#x2022; m. a husband <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a Rudra </dd>
+           <dd>&#x2022; the number 'eleven' (as there are eleven Rudras) </dd>
+           <dd>&#x2022; N. of &#x015a;iva as regent of the north-east quarter <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> &amp;c </dd>
+           <dd>&#x2022; N. of &#x015a;iva </dd>
+           <dd>&#x2022; of Kuvera </dd>
+           <dd>&#x2022; (<em>&#x0101;&#x0341;</em>), f. faculty, power, dominion <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;ag&#x012b;t&#x0101; </dt>
+           <dd><em>&#x25cb;g&#x012b;t&#x0101;</em> f. pl., N. of a section of the K&#x016b;rma-pur&#x0101;&#x1e47;a</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;atva </dt>
+           <dd><em>&#x25cb;tva</em> n. supremacy, superiority</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;asa&#x1e43;stha </dt>
+           <dd><em>&#x25cb;sa&#x1e43;stha</em> mfn. appearing as lord <a href="worksAuthorsAbbrs.html#&#x015a;vetUp">&#x015a;vetUp.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;asakhi </dt>
+           <dd><em>&#x25cb;sakhi</em> m. &#x015a;iva's friend, N. of Kuvera</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;asaras </dt>
+           <dd><em>&#x25cb;saras</em> n. N. of a lake</dd>
+
+           <dt>&#x226b; &#x012b;&#x015b;ana </dt>
+           <dd><em>&#x012b;&#x015b;ana</em> n. commanding, reigning <a href="worksAuthorsAbbrs.html#&#x015a;vetUp">&#x015a;vetUp.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x015b;&#x0101;na </dt>
+           <dd><em>&#x012b;&#x015b;&#x0101;na</em> (and</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;na </dt>
+           <dd><em>&#x012b;&#x015b;&#x0101;n&#x00e1;</em>) mfn. owning, possessing, wealthy </dd>
+           <dd>&#x2022; reigning <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> &amp;c </dd>
+           <dd>&#x2022; m. a ruler, master, one of the older names of &#x015a;iva-Rudra <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Kum">Kum.</a> &amp;c </dd>
+           <dd>&#x2022; one of the Rudras </dd>
+           <dd>&#x2022; the sun as a form of &#x015a;iva </dd>
+           <dd>&#x2022; a S&#x0101;dhya </dd>
+           <dd>&#x2022; N. of Vish&#x1e47;u </dd>
+           <dd>&#x2022; N. of a man </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. N. of Durg&#x0101; </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. the silk-cotton tree, Bombax Heptaphyllum <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. light, splendour <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;nakalpa </dt>
+           <dd><em>&#x25cb;kalpa</em> m. N. of a Kalpa</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;nak&#x1e5b;t </dt>
+           <dd><em>&#x25cb;k&#x1e5b;&#x0301;t</em> mfn. acting like a competent person, making use of one's possessions or faculties </dd>
+           <dd>&#x2022; rendering one a master or able [<a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>] <a href="worksAuthorsAbbrs.html#RV">RV.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;nacandra </dt>
+           <dd><em>&#x25cb;candra</em> m. N. of a physician <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;naja </dt>
+           <dd><em>&#x25cb;ja</em> <em>&#x0101;s</em> m. pl. a class of deities forming a section of the Kalpabhavas <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;nadev&#x012b; </dt>
+           <dd><em>&#x25cb;dev&#x012b;</em> f. N. of a woman <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;nabali </dt>
+           <dd><em>&#x25cb;bali</em> m. a particular sacrifice <a href="worksAuthorsAbbrs.html#VS">VS.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;&#x0101;n&#x0101;dhipa </dt>
+           <dd><em>&#x012b;&#x015b;&#x0101;n&#x00e2;dhipa</em> mfn. one whose lord is &#x015a;iva </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. (scil. <em>di&#x015b;</em>) the north-east</dd>
+
+           <dt>&#x226b; &#x012b;&#x015b;&#x0101;nya </dt>
+           <dd><em>&#x012b;&#x015b;&#x0101;nya</em> n. N. of a Li&#x1e45;ga</dd>
+
+           <dt>&#x226b; &#x012b;&#x015b;itavya </dt>
+           <dd><em>&#x012b;&#x015b;itavya</em> mfn. to be reigned or ruled over <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x015b;it&#x1e5b; </dt>
+           <dd><em>&#x012b;&#x015b;it&#x1e5b;</em> <em>t&#x0101;</em> m. a master, owner, proprietor </dd>
+           <dd>&#x2022; a king <a href="worksAuthorsAbbrs.html#&#x015a;vetUp">&#x015a;vetUp.</a> <a href="worksAuthorsAbbrs.html#Prab">Prab.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x015b;in </dt>
+           <dd><em>&#x012b;&#x015b;in</em> mfn. commanding, reigning </dd>
+           <dd>&#x2022; (<em>in&#x012b;</em>), f. supremacy <a href="worksAuthorsAbbrs.html#Mn">Mn.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;it&#x0101; </dt>
+           <dd><em>&#x012b;&#x015b;i-t&#x0101;</em> f. or superiority, supremacy, one of the eight attributes of &#x015a;iva <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;itva </dt>
+           <dd><em>&#x012b;&#x015b;i-tva</em> n. superiority, supremacy, one of the eight attributes of &#x015a;iva <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+   <dt>&#x226b; &#x012b;&#x015b;vara </dt>
+   <dd><em>&#x012b;&#x015b;var&#x00e1;</em> mfn. able to do, capable of (with gen. of Vedic inf., or with common inf.), liable, exposed to <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> <a href="worksAuthorsAbbrs.html#Kum">Kum.</a> <a href="worksAuthorsAbbrs.html#Hit">Hit.</a> &amp;c </dd>
+   <dd>&#x2022; (<em>as</em>, <em>&#x012b;</em>), mf. master, lord, prince, king, mistress, queen <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c </dd>
+   <dd>&#x2022; m. a husband <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+   <dd>&#x2022; God </dd>
+   <dd>&#x2022; the Supreme Being <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> &amp;c </dd>
+   <dd>&#x2022; the supreme soul (<em>&#x0101;tman</em>) </dd>
+   <dd>&#x2022; &#x015a;iva </dd>
+   <dd>&#x2022; one of the Rudras </dd>
+   <dd>&#x2022; the god of love </dd>
+   <dd>&#x2022; N. of a prince </dd>
+   <dd>&#x2022; the number 'eleven' </dd>
+   <dd>&#x2022; (<em>&#x0101;</em> or <em>&#x012b;</em>), f. N. of Durg&#x0101; </dd>
+   <dd>&#x2022; of Lakshm&#x012b; </dd>
+   <dd>&#x2022; of any other of the &#x015a;aktis or female energies of the deities </dd>
+   <dd>&#x2022; N. of several plants <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varak&#x1e5b;&#x1e63;&#x1e47;a </dt>
+           <dd><em>&#x25cb;k&#x1e5b;&#x1e63;&#x1e47;a</em> m. N. of the author of the S&#x0101;&#x1e43;khya-k&#x0101;rik&#x0101;</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varag&#x012b;t&#x0101; </dt>
+           <dd><em>&#x25cb;g&#x012b;t&#x0101;</em> f. pl. a section of the K&#x016b;rma-pur&#x0101;&#x1e47;a</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varat&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> f. or superiority, supremacy <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varatva </dt>
+           <dd><em>&#x25cb;tva</em> n. superiority, supremacy <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varat&#x012b;rth&#x0101;c&#x0101;rya </dt>
+           <dd><em>&#x25cb;t&#x012b;rth&#x00e2;c&#x0101;rya</em> m. N. of a teacher</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varadatta </dt>
+           <dd><em>&#x25cb;datta</em> m. N. of a prince</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varani&#x1e63;edha </dt>
+           <dd><em>&#x25cb;ni&#x1e63;edha</em> m. denial of God, atheism</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varani&#x1e63;&#x1e6d;ha </dt>
+           <dd><em>&#x25cb;ni&#x1e63;&#x1e6d;ha</em> mfn. trusting in God</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varap&#x016b;jaka </dt>
+           <dd><em>&#x25cb;p&#x016b;jaka</em> mfn. pious</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varap&#x016b;j&#x0101; </dt>
+           <dd><em>&#x25cb;p&#x016b;j&#x0101;</em> f. worship of God</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varapra&#x1e47;idh&#x0101;na </dt>
+           <dd><em>&#x25cb;pra&#x1e47;idh&#x0101;na</em> n. devotion to God, <a href="worksAuthorsAbbrs.html#Ved&#x0101;ntas">Ved&#x0101;ntas.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varapras&#x0101;da </dt>
+           <dd><em>&#x25cb;pras&#x0101;da</em> m. divine grace</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varabh&#x0101;va </dt>
+           <dd><em>&#x25cb;bh&#x0101;va</em> m. royal or imperial state</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varavarman </dt>
+           <dd><em>&#x25cb;varman</em> m. N. of a man <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varav&#x0101;da </dt>
+           <dd><em>&#x25cb;v&#x0101;da</em> m. N. of wk</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varasadman </dt>
+           <dd><em>&#x25cb;sadman</em> n. a temple</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varasabha </dt>
+           <dd><em>&#x25cb;sabha</em> n. a royal court or assembly</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varas&#x016b;ri </dt>
+           <dd><em>&#x25cb;s&#x016b;ri</em> m. N. of a teacher</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varasena </dt>
+           <dd><em>&#x25cb;sena</em> m. N. of a king <a href="worksAuthorsAbbrs.html#VP">VP.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;varasev&#x0101; </dt>
+           <dd><em>&#x25cb;sev&#x0101;</em> f. the worship of God</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;var&#x0101;dh&#x012b;na </dt>
+           <dd><em>&#x012b;&#x015b;var&#x00e2;dh&#x012b;na</em> mfn. subject to a king, dependant on a master or on God <font color="#FF0000" font size=-2><a name="p171-2"></a>[Page 171, Column 2]</font> </dd>
+           <dd>&#x2022; <em>-t&#x0101;</em> f. or <em>-tva</em> n. dependance upon God, subjection to a ruler</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;var&#x0101;nanda </dt>
+           <dd><em>&#x012b;&#x015b;var&#x00e2;nanda</em> m. N. of a scholiast</dd>
+
+           <dt>&#x226b; &#x012b;&#x015b;var&#x012b;k&#x1e5b; </dt>
+           <dd><em>&#x012b;&#x015b;var&#x012b;-&#x221a;k&#x1e5b;</em> to make any one a lord or master</dd>
+
+           <dt>&#x22d9; &#x012b;&#x015b;var&#x012b;tantra </dt>
+           <dd><em>&#x012b;&#x015b;var&#x012b;-tantra</em> n. N. of wk</dd>
+
+           <dt>&#x012b;&#x1e63; 1</dt>
+           <dd><em>&#x012b;&#x1e63;</em> cl. 1. &#x0100;. (with prep. also P.) <em>&#x012b;&#x0341;&#x1e63;ate</em>, <em>-ti</em> (p. <em>&#x012b;&#x0341;&#x1e63;am&#x0101;&#x1e47;a</em> <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> </dd>
+           <dd>&#x2022; <em>&#x012b;&#x1e63;&#x00e9;</em>, <em>&#x012b;&#x1e63;itum</em>) to go </dd>
+           <dd>&#x2022; to fly away, escape <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> </dd>
+           <dd>&#x2022; to attack, hurt <a href="worksAuthorsAbbrs.html#TS">TS.</a> </dd>
+           <dd>&#x2022; to glean, collect a few grains </dd>
+           <dd>&#x2022; to look <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e63;a&#x1e47;a </dt>
+           <dd><em>&#x012b;&#x1e63;a&#x1e47;a</em> mfn. hastening </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. haste <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e63;a&#x1e47;in </dt>
+           <dd><em>&#x012b;&#x1e63;a&#x1e47;in</em> mfn. hastening <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e63;at 1</dt>
+           <dd><em>&#x012b;&#x1e63;at</em> mfn. (pres. p.) attacking, hurting</dd>
+
+           <dt>&#x012b;&#x1e63; 2</dt>
+           <dd><em>&#x012b;&#x1e63;</em> ind. a Nidhana or concluding chorus at the end of a S&#x0101;man <a href="worksAuthorsAbbrs.html#&#x0100;rshBr">&#x0100;rshBr.</a></dd>
+
+           <dt>&#x012b;&#x1e63;a </dt>
+           <dd><em>&#x012b;&#x1e63;a</em> m. the month &#x0100;&#x015b;vina, <em>i&#x1e63;a</em> </dd>
+           <dd>&#x2022; a son of the third Manu </dd>
+           <dd>&#x2022; a servant of &#x015a;iva</dd>
+
+           <dt>&#x012b;&#x1e63;at 2</dt>
+           <dd><em>&#x012b;&#x1e63;&#x00e1;t</em> ind. (gana <em>svar-&#x0101;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 1-1, 37 	for the use of <em>&#x012b;&#x1e63;at</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 3-3, 126, &amp;c.) </dd>
+           <dd>&#x2022; little, a little, slightly <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> &amp;c</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;atcchv&#x0101;sa </dt>
+           <dd><em>&#x25cb;"&#x1e63;c-chv&#x0101;sa</em> (<em>&#x012b;&#x1e63;ac-chv&#x0101;sa</em>), mfn. slightly resounding</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;ajjala </dt>
+           <dd><em>&#x012b;&#x1e63;&#x00e1;j-jala</em> (<em>&#x012b;&#x1e63;aj-jala</em>), n. shallow water, a little water</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;atkara </dt>
+           <dd><em>&#x25cb;kara</em> (<em>&#x012b;&#x1e63;at</em>), mf(<em>&#x012b;</em>)n. doing little </dd>
+           <dd>&#x2022; easy to be accomplished <a href="worksAuthorsAbbrs.html#Prab">Prab.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;atk&#x0101;rya </dt>
+           <dd><em>&#x25cb;k&#x0101;rya</em> mfn. connected with slight effort</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;atp&#x0101;&#x1e47;&#x1e0d;u </dt>
+           <dd><em>&#x25cb;p&#x0101;&#x1e47;&#x1e0d;u</em> m. a pale or light brown colour</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;atp&#x0101;na </dt>
+           <dd><em>&#x25cb;p&#x0101;na</em> mfn. that of which a little is drunk </dd>
+           <dd>&#x2022; easy to be drunk </dd>
+           <dd>&#x2022; (<em>am</em>), n. a little draught</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;atpuru&#x1e63;a </dt>
+           <dd><em>&#x25cb;puru&#x1e63;a</em> m. a mean man,</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;atpralambha </dt>
+           <dd><em>&#x25cb;pralambha</em> mfn. to be deceived easily</dd>
+
+   <dt>&#x22d9; &#x012b;&#x1e63;atsp&#x1e5b;&#x1e63;&#x1e6d;a </dt>
+   <dd><em>&#x25cb;sp&#x1e5b;&#x1e63;&#x1e6d;a</em> mfn. uttered with slight contact of the organs of speech (said of the semi-vowels), Acf. Pr&#x0101;t. <a href="worksAuthorsAbbrs.html#Siddh">Siddh.</a> &amp;c</dd>
+
+           <dt>&#x226b; &#x012b;&#x1e63;ad </dt>
+           <dd><em>&#x012b;&#x1e63;ad</em> (in comp. for <em>&#x012b;&#x1e63;at</em>)</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;adasam&#x0101;pta </dt>
+           <dd><em>&#x25cb;asam&#x0101;pta</em> mfn. a little incomplete, not quite complete, almost complete,</dd>
+
+   <dt>&#x22d9; &#x012b;&#x1e63;adasam&#x0101;pti </dt>
+   <dd><em>&#x25cb;asam&#x0101;pti</em> f. almost completeness or perfection, little defectiveness or imperfection <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-3, 67</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;ad&#x0101;&#x1e0d;hya&#x1e43;kara </dt>
+           <dd><em>&#x25cb;&#x0101;&#x1e0d;hya&#x1e43;-kara</em> mfn. easy to be enriched <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;ad&#x0101;&#x1e0d;hya&#x1e43;bhava </dt>
+           <dd><em>&#x25cb;&#x0101;&#x1e0d;hya&#x1e43;-bhava</em> mfn. easy to become rich <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;adupad&#x0101;na </dt>
+           <dd><em>&#x25cb;upad&#x0101;na</em> mfn. easy to be ruined <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-1, 50</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;adu&#x1e63;&#x1e47;a </dt>
+           <dd><em>&#x25cb;u&#x1e63;&#x1e47;a</em> mfn. slightly warm, tepid</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;ad&#x016b;na </dt>
+           <dd><em>&#x25cb;&#x016b;na</em> mfn. slightly defective</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;adgu&#x1e47;a </dt>
+           <dd><em>&#x25cb;gu&#x1e47;a</em> mfn. of little merit</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;addar&#x015b;ana </dt>
+           <dd><em>&#x25cb;dar&#x015b;ana</em> n. a glance, a slight inspection</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;addh&#x0101;sa </dt>
+           <dd><em>&#x25cb;dh&#x0101;sa</em> (<em>&#x012b;&#x1e63;at-h&#x0101;sa</em>), mfn. slightly laughing, smiling</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;addh&#x0101;sya </dt>
+           <dd><em>&#x25cb;dh&#x0101;sya</em> (<em>&#x25cb;t-h&#x0101;&#x25cb;</em>), mfn. id </dd>
+           <dd>&#x2022; (<em>am</em>), n. slight laughter, a smile</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;adb&#x012b;j&#x0101; </dt>
+           <dd><em>&#x25cb;b&#x012b;j&#x0101;</em> f. a species of grape (having no kernel) <a href="worksAuthorsAbbrs.html#Nir">Nir.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;adrakta </dt>
+           <dd><em>&#x25cb;rakta</em> mfn. pale red</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;adviv&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;viv&#x1e5b;ta</em> mfn. uttered with slight opening of the organs of speech</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;adv&#x012b;rya </dt>
+           <dd><em>&#x25cb;v&#x012b;rya</em> m. almond tree <a href="worksAuthorsAbbrs.html#Nir">Nir.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e63;an </dt>
+           <dd><em>&#x012b;&#x1e63;an</em> (in comp. for <em>&#x012b;&#x1e63;at</em>)</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;ann&#x0101;da </dt>
+           <dd><em>&#x25cb;n&#x0101;da</em> mfn. slightly sounding (applied to unaspirated soft consonants)</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;annimaya </dt>
+           <dd><em>&#x25cb;nimaya</em> mfn. exchanged for a little <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;anmar&#x1e63;a </dt>
+           <dd><em>&#x25cb;mar&#x1e63;a</em> or mfn. easy to be endured, tolerable <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;anmar&#x1e63;a&#x1e47;a </dt>
+           <dd><em>&#x25cb;mar&#x1e63;a&#x1e47;a</em> mfn. easy to be endured, tolerable <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;&#x1e63;allabha </dt>
+           <dd><em>&#x012b;&#x1e63;al-labha</em> (<em>&#x012b;&#x1e63;at-labha</em>), mfn. to be obtained for a little <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x012b;&#x1e63;&#x0101; </dt>
+           <dd><em>&#x012b;&#x1e63;&#x0101;&#x0341;</em> f. (said to be fr. 1. <em>&#x012b;&#x1e63;</em>), the pole or shafts of a carriage or plough </dd>
+           <dd>&#x2022; (<em>e</em>), f. du. the double or fork-shaped pole <a href="worksAuthorsAbbrs.html#RV">RV.</a> iii, 53, 17 ; viii, 5, 29 <a href="worksAuthorsAbbrs.html#AV">AV.</a> viii, 8, 23 </dd>
+           <dd>&#x2022; xi, 3, 9 <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c </dd>
+           <dd>&#x2022; a plank, board <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; a particular measure, &#x015a;ulb</dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;&#x0101;da&#x1e47;&#x1e0d;a </dt>
+           <dd><em>&#x25cb;da&#x1e47;&#x1e0d;a</em> m. the handle of a plough <a href="worksAuthorsAbbrs.html#VP">VP.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;&#x0101;danta </dt>
+           <dd><em>&#x25cb;danta</em> mfn. having tusks as long as a pole </dd>
+           <dd>&#x2022; m. an elephant with a large tusk <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; &#x012b;&#x1e63;&#x0101;dh&#x0101;ra </dt>
+           <dd><em>&#x012b;&#x1e63;&#x00e2;dh&#x0101;ra</em> m. N. of a N&#x0101;ga</dd>
+
+           <dt>&#x012b;&#x1e63;ik&#x0101; </dt>
+           <dd><em>&#x012b;&#x1e63;ik&#x0101;</em> f. an elephant's eyeball </dd>
+           <dd>&#x2022; a painter's brush, &amp;c </dd>
+           <dd>&#x2022; a weapon, a dart or arrow <a href="worksAuthorsAbbrs.html#L">L.</a> Cf. <em>i&#x1e63;&#x012b;k&#x0101;</em> and <em>&#x012b;&#x1e63;&#x012b;k&#x0101;</em></dd>
+
+           <dt>&#x012b;&#x1e63;ira </dt>
+           <dd><em>&#x012b;&#x1e63;ira</em> m. fire <a href="worksAuthorsAbbrs.html#L">L.</a> <em>i&#x1e63;ira</em></dd>
+
+           <dt>&#x012b;&#x1e63;&#x012b;k&#x0101; </dt>
+           <dd><em>&#x012b;&#x1e63;&#x012b;&#x0341;k&#x0101;</em> f. a reed, cane <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> </dd>
+           <dd>&#x2022; an arrow <a href="worksAuthorsAbbrs.html#R">R.</a> </dd>
+           <dd>&#x2022; a painter's brush or a fibrous stick used as one </dd>
+           <dd>&#x2022; an ingot-mould </dd>
+           <dd>&#x2022; a dipping rod or something cast into a crucible to examine if the metal it contains is in fusion <a href="worksAuthorsAbbrs.html#L">L.</a> <em>&#x012b;k&#x1e63;ik&#x0101;</em></dd>
+
+           <dt>&#x012b;&#x1e63;ma </dt>
+           <dd><em>&#x012b;&#x1e63;ma</em> and 1. <em>&#x012b;&#x1e63;va</em> m. N. of K&#x0101;madeva </dd>
+           <dd>&#x2022; spring <a href="worksAuthorsAbbrs.html#L">L.</a> <em>i&#x1e63;ma</em> and <em>i&#x1e63;va</em></dd>
+
+           <dt>&#x012b;&#x1e63;va 2</dt>
+           <dd><em>&#x012b;&#x1e63;va</em> m. a spiritual teacher <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x012b;sar&#x0101;pha </dt>
+           <dd><em>&#x012b;sar&#x0101;pha</em> m. (fr. the Arab.), N. of the fourth Yoga (in astrol.)</dd>
+
+   <dt>&#x012b;h </dt>
+   <dd><em>&#x012b;h</em> cl. 1. &#x0100;. <em>&#x012b;hate</em>, <em>&#x012b;h&#x0101;&#x1e43;-cakre</em>, <em>&#x012b;hi&#x1e63;yate</em>, <em>&#x012b;hitum</em>, rarely P. <em>&#x012b;hati</em>, &amp;c., to endeavour to obtain </dd>
+   <dd>&#x2022; to aim at, attempt </dd>
+   <dd>&#x2022; to long for, desire </dd>
+   <dd>&#x2022; to take care of </dd>
+   <dd>&#x2022; to have in mind, think of (with acc.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> &amp;c.: Caus. <em>&#x012b;hayati</em>, to impel. <font color="#FF0000" font size=-2><a name="p171-3"></a>[Page 171, Column 3]</font>
+</dd>
+
+           <dt>&#x226b; &#x012b;ha </dt>
+           <dd><em>&#x012b;ha</em> m. attempt ( <em>&#x016b;rdhv&#x00ea;ha</em>) </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. effort, exertion, activity <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> &amp;c </dd>
+           <dd>&#x2022; request, desire, wish <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> &amp;c</dd>
+
+           <dt>&#x22d9; &#x012b;hatas </dt>
+           <dd><em>&#x25cb;tas</em> ind. diligently, energetically, by or with labour or exertion</dd>
+
+           <dt>&#x22d9; &#x012b;h&#x0101;m&#x1e5b;ga </dt>
+           <dd><em>&#x012b;h&#x0101;m&#x1e5b;ga</em> m. a wolf <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> </dd>
+           <dd>&#x2022; a kind of drama <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a></dd>
+
+           <dt>&#x22d9; &#x012b;h&#x0101;rthin </dt>
+           <dd><em>&#x012b;h&#x00e2;rthin</em> mfn. aiming at any object, seeking wealth</dd>
+
+           <dt>&#x22d9; &#x012b;h&#x0101;v&#x1e5b;ka </dt>
+           <dd><em>&#x012b;h&#x0101;v&#x1e5b;ka</em> m. a wolf <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; &#x012b;hita </dt>
+           <dd><em>&#x012b;hita</em> mfn. sought, attempted, striven for </dd>
+           <dd>&#x2022; wished, desired </dd>
+           <dd>&#x2022; (<em>am</em>), n. desire, request, wish, effort <a href="worksAuthorsAbbrs.html#Hit">Hit.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> &amp;c</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

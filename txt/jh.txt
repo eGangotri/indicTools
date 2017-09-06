@@ -1,0 +1,480 @@
+    <dl>
+           <dt>jha 1</dt>
+           <dd><em>jha</em> the 9th consonant (aspirate of the preceding). =</dd>
+
+           <dt>&#x22d9; jhak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the sound <em>jha</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>jha 2</dt>
+           <dd><em>jha</em> mfn. asleep <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; m. playing a tune, beating time <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a sound like the splashing of water or clashing of symbols, jingling, clanking <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; wind accompanied by rain <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; anything lost or mislaid <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; B&#x1e5b;ihaspati <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of a chief of the Daityas <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>jha&#x1e47;&#x1e6d;&#x012b;7&#x015b;a</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a water-fall <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhagajhag&#x0101;ya </dt>
+           <dd><em>jhagajhag&#x0101;ya</em> Nom. &#x0100;. (p. <em>&#x25cb;yam&#x0101;na</em>) to sparkle, flash, <a href="worksAuthorsAbbrs.html#DeviiP">DeviiP.</a> <font color="#FF0000" font size=-2><a name="p428-3"></a>[Page 428, Column 3]</font>
+</dd>
+
+           <dt>jhagiti </dt>
+           <dd><em>jhag-iti</em> = <em>jha&#x1e6d;-</em> <a href="worksAuthorsAbbrs.html#Prasannar">Prasannar.</a></dd>
+
+           <dt>jha&#x1e45; </dt>
+           <dd><em>jha&#x1e45;</em> ind. (onomat.) in comp. (cf. 2. <em>jha</em>)</dd>
+
+           <dt>&#x22d9; jha&#x1e45;k&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. a low murmuring (buzzing of bees &amp;c.), jingling, clanking         <br>          <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#Vikr">Vikr.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> &amp;c</dd>
+
+           <dt>&#x22d9; jha&#x1e45;k&#x0101;rita </dt>
+           <dd><em>&#x25cb;k&#x0101;rita</em> n. id. i, 97 (v&#x1e37;. <em>&#x1e6d;a&#x1e43;-k&#x25cb;</em>)</dd>
+
+           <dt>&#x22d9; jha&#x1e45;k&#x0101;rin </dt>
+           <dd><em>&#x25cb;k&#x0101;rin</em> mfn. murmuring, humming, &amp;c. <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> i, 251 <a href="worksAuthorsAbbrs.html#M&#x0101;lat&#x012b;m">M&#x0101;lat&#x012b;m.</a></dd>
+
+           <dt>&#x22d9; jha&#x1e45;k&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ta</em> n. pl. = <em>-k&#x0101;ra</em>, Caitany</dd>
+
+           <dt>&#x226b; jha&#x00f1;jhana </dt>
+           <dd><em>jha&#x00f1;jhana</em> n. jingling, clanking <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; jha&#x00f1;jh&#x0101; </dt>
+           <dd><em>jha&#x00f1;jh&#x0101;</em> f. the noise of the wind or of falling rain <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; wind and rain, hurricane <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; raining in large drops <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; a stray <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; jha&#x00f1;jh&#x0101;nila </dt>
+           <dd><em>&#x25cb;"&#x1e63;nila</em> (<em>&#x25cb;jh&#x00e2;n&#x25cb;</em>), m. wind with rain, high wind in the rainy season <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;&#x012b;Kh">K&#x0101;&#x015b;&#x012b;Kh.</a> lxxxviii, 98</dd>
+
+           <dt>&#x22d9; jha&#x00f1;jh&#x0101;marut </dt>
+           <dd><em>&#x25cb;marut</em> m. id. <a href="worksAuthorsAbbrs.html#Amar">Amar.</a></dd>
+
+           <dt>&#x22d9; jha&#x00f1;jh&#x0101;m&#x0101;ruta </dt>
+           <dd><em>&#x25cb;m&#x0101;ruta</em> m. id. <a href="worksAuthorsAbbrs.html#P&#x0101;r&#x015b;van">P&#x0101;r&#x015b;van.</a>vi, 52</dd>
+
+           <dt>&#x22d9; jha&#x00f1;jh&#x0101;v&#x0101;ta </dt>
+           <dd><em>&#x25cb;v&#x0101;ta</em> m. id. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jha&#x1e6d; </dt>
+           <dd><em>jha&#x1e6d;</em> cl. 1. <em>&#x25cb;&#x1e6d;ati</em>, to become entangled or intermixed <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> ix, 19 </dd>
+           <dd>&#x2022; cf. <em>uj-jha&#x1e6d;ita</em></dd>
+
+           <dt>jha&#x1e6d;i </dt>
+           <dd><em>jha&#x1e6d;i</em> m. a shrub <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iv, 117 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>jha&#x1e6d;iti </dt>
+           <dd><em>jha&#x1e6d;-iti</em> ind. onomat. (g. <em>svar-&#x0101;di</em>, not in <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>) instantly, at once <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> i, 69 and 95 <a href="worksAuthorsAbbrs.html#Ratn&#x00e2;v">Ratn&#x00e2;v.</a> i, 6 <a href="worksAuthorsAbbrs.html#S&#x1e5b;i&#x1e45;g&#x0101;r">S&#x1e5b;i&#x1e45;g&#x0101;r.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> vi, 118 </dd>
+           <dd>&#x2022; ix <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> &amp;c</dd>
+
+           <dt>jha&#x1e47; </dt>
+           <dd><em>jha&#x1e47;</em> cl, 1, <em>&#x25cb;&#x1e47;ati</em>, to sound <a href="worksAuthorsAbbrs.html#Hcar">Hcar.</a> iv</dd>
+
+           <dt>&#x226b; jha&#x1e47;ajjha&#x1e47;ita </dt>
+           <dd><em>jha&#x1e47;aj-jha&#x1e47;ita</em> mfn. tinkling <a href="worksAuthorsAbbrs.html#Viddh">Viddh.</a> <a href="worksAuthorsAbbrs.html#HPari&#x015b;">HPari&#x015b;.</a></dd>
+
+           <dt>&#x226b; jha&#x1e47;ajha&#x1e47;&#x0101;ya </dt>
+           <dd><em>jha&#x1e47;ajha&#x1e47;&#x0101;ya</em> Nom. &#x0100;. (p. <em>&#x25cb;yam&#x0101;na</em>) to tinkle, jingle, rattle <a href="worksAuthorsAbbrs.html#M&#x0101;lat&#x012b;m">M&#x0101;lat&#x012b;m.</a> i, 25/26 <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> <a href="worksAuthorsAbbrs.html#Hcar">Hcar.</a></dd>
+
+           <dt>&#x226b; jha&#x1e47;ajha&#x1e47;&#x0101;yita </dt>
+           <dd><em>jha&#x1e47;ajha&#x1e47;&#x0101;yita</em> mfn. tinkling <a href="worksAuthorsAbbrs.html#Uttarar">Uttarar.</a> v, 5</dd>
+
+           <dt>&#x226b; jha&#x1e47;ajha&#x1e47;&#x0101;rava </dt>
+           <dd><em>jha&#x1e47;ajha&#x1e47;&#x0101;-rava</em> m. pl. tinkling <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> xxv</dd>
+
+           <dt>&#x226b; jha&#x1e47;ajha&#x1e47;&#x012b;bh&#x016b;ta </dt>
+           <dd><em>jha&#x1e47;ajha&#x1e47;&#x012b;-bh&#x016b;ta</em> mfn. rattling <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> vi</dd>
+
+           <dt>&#x226b; jha&#x1e47;atk&#x0101;ra </dt>
+           <dd><em>jha&#x1e47;at-k&#x0101;ra</em> m. jingling <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> ii, 34</dd>
+
+           <dt>&#x226b; jha&#x1e47;iti </dt>
+           <dd><em>jha&#x1e47;-iti</em> v&#x1e37;. <em>jha&#x1e6d;-</em> <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> viii, 15</dd>
+
+           <dt>jha&#x1e47;&#x1e6d;i </dt>
+           <dd><em>jha&#x1e47;&#x1e6d;i</em> See <em>hima-</em></dd>
+
+           <dt>&#x22d9; jha&#x1e47;&#x1e6d;&#x012b;&#x015b;a </dt>
+           <dd><em>jha&#x1e47;&#x1e6d;&#x012b;7&#x015b;a</em> m.= 2. <em>jha</em>, q.v. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jha&#x1e47;&#x1e6d;&#x012b; </dt>
+           <dd><em>jha&#x1e47;&#x1e6d;&#x012b;</em></dd>
+
+           <dt>&#x22d9; jha&#x1e47;&#x1e0d;&#x012b; </dt>
+           <dd><em>jha&#x1e0d;&#x1e47;&#x1e0d;&#x012b;</em> f. a kind of grass <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jha&#x1e47;&#x1e0d;uka </dt>
+           <dd><em>jha&#x1e47;&#x1e0d;uka</em> m.= <em>&#x25cb;d&#x016b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jha&#x1e47;&#x1e0d;&#x016b; </dt>
+           <dd><em>jha&#x1e47;&#x1e0d;&#x016b;</em> f</dd>
+
+           <dt>&#x22d9; jha&#x1e47;&#x1e0d;&#x016b;ka </dt>
+           <dd><em>jha&#x1e47;&#x1e0d;&#x1e0d;&#x016b;ka</em> m. Gomphrena globosa <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhanatk&#x0101;ra </dt>
+           <dd><em>jhanat-k&#x0101;ra</em> = <em>jha&#x1e47;at-</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>jham </dt>
+           <dd><em>jham</em> cl. 1. P.= &#x221a;<em>cham</em>, <em>jam</em> <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a></dd>
+
+           <dt>jhampa </dt>
+           <dd><em>jhampa</em> m. <em>&#x25cb;p&#x0101;</em> f. a jump (<em>&#x25cb;pam</em>, [<a href="worksAuthorsAbbrs.html#Hit">Hit.</a> or <em>&#x25cb;p&#x0101;&#x1e43;</em> [<a href="worksAuthorsAbbrs.html#HPari&#x015b;">HPari&#x015b;.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a>vii <a href="worksAuthorsAbbrs.html#Si&#x1e43;h&#x00e2;s">Si&#x1e43;h&#x00e2;s.</a> xv, 4/5 xxi, 1/2] &#x221a;<em>d&#x0101;</em>, to make a jump, ifc. <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> lxi, 91 ) <a href="worksAuthorsAbbrs.html#Vcar">Vcar.</a> xvi</dd>
+
+           <dt>&#x226b; jhampa&#x1e0d;a </dt>
+           <dd><em>jhampa&#x1e0d;a</em> n. (in music) a kind of measure</dd>
+
+           <dt>&#x226b; jhamp&#x0101; </dt>
+           <dd><em>jhamp&#x0101;</em> f. of <em>&#x25cb;pa</em>, q.v</dd>
+
+           <dt>&#x22d9; jhamp&#x0101;t&#x0101;la </dt>
+           <dd><em>&#x25cb;t&#x0101;la</em> m. (in music) a kind of measure </dd>
+           <dd>&#x2022; a kind of cymbal</dd>
+
+           <dt>&#x22d9; jhamp&#x0101;nritya </dt>
+           <dd><em>&#x25cb;nritya</em> n. a kind of dance</dd>
+
+           <dt>&#x22d9; jhamp&#x0101;&#x015b;in </dt>
+           <dd><em>jhamp&#x00e2;&#x015b;in</em> m. a kingfisher <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jhamp&#x0101;ka </dt>
+           <dd><em>jhamp&#x0101;ka</em></dd>
+
+           <dt>&#x22d9; jhamp&#x0101;ru </dt>
+           <dd><em>jham&#x1e0d;p&#x0101;ru</em> m. 'leaper', an ape <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jhampin </dt>
+           <dd><em>jhampin</em> m. id. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhara </dt>
+           <dd><em>jhara</em> m. a water-fall <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>, <em>&#x012b;</em>), f. id. <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> iv, 12 </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. a river <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; cf. <em>mir-</em></dd>
+
+           <dt>&#x22d9; jharav&#x0101;hal&#x0101; </dt>
+           <dd><em>&#x25cb;v&#x0101;hal&#x0101;</em> f. N. of a river</dd>
+
+           <dt>&#x226b; jhara&#x1e47;odaka </dt>
+           <dd><em>jhara&#x1e47;&#x00f4;daka</em> n. water from a cascade <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>&#x226b; jharat </dt>
+           <dd><em>jharat</em> mfn. flowing or falling down (cf. &#x221a;<em>k&#x1e63;ar</em>) <a href="worksAuthorsAbbrs.html#&#x015a;atr">&#x015a;atr.</a> i, 41 and (?) 44</dd>
+
+           <dt>jharas&#x012b; </dt>
+           <dd><em>jharas&#x012b;</em> f. N. of a pot-herb <a href="worksAuthorsAbbrs.html#Npr">Npr.</a></dd>
+
+           <dt>jharc </dt>
+           <dd><em>jharc</em> <em>jharch</em>, <em>jharjh</em>, cl. 1. <em>&#x25cb;cati</em>, <em>&#x25cb;chati</em>, <em>&#x25cb;jhati</em>, to blame (fr. &#x221a;<em>bharts</em>?) <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xvii, 66 and xxviii, 17 (v&#x1e37;.) </dd>
+           <dd>&#x2022; to injure <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>jharjhara </dt>
+           <dd><em>jharjhara</em> m. a kind of drum <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> viff. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 56 <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> vi, 99, 23 </dd>
+           <dd>&#x2022; a strainer <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 11, 125 </dd>
+           <dd>&#x2022; = <em>&#x25cb;raka</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of a Daitya (son of Hira&#x1e47;y&#x00e2;ksha) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 194 </dd>
+           <dd>&#x2022; of a river <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a sound as of splashing or dropping <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a harlot (cf. <em>&#x1e5b;cchar&#x0101;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. a kind of drum <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 13212 and 15885 </dd>
+           <dd>&#x2022; = <em>&#x25cb;rik&#x0101;</em> <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 11, 37</dd>
+
+           <dt>&#x226b; jharjharaka </dt>
+           <dd><em>jharjharaka</em> m. the Kali-yuga <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>ik&#x0101;</em>), f. bean-cake <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 11, 36. Jharjharin, mfn. furnished with a drum (&#x015a;iva) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 10406</dd>
+
+           <dt>jharjharita </dt>
+           <dd><em>jharjharita</em> mfn. (&#x221a;<em>jh&#x1e5d;</em>) worn, wasted, withered <a href="worksAuthorsAbbrs.html#R">R.</a> iii, 16, 26 <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a> <a href="worksAuthorsAbbrs.html#Priy">Priy.</a> i, 10</dd>
+
+           <dt>jharjhar&#x012b;ka </dt>
+           <dd><em>jharjhar&#x012b;ka</em> m. n. the body <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iv, 20 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; m. a region <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> v&#x1e5b; </dd>
+           <dd>&#x2022; a picture <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>jhalakk&#x0101; </dt>
+           <dd><em>jhalakk&#x0101;</em> See <em>jvalak&#x0101;</em></dd>
+
+           <dt>jhalajjhal&#x0101; </dt>
+           <dd><em>jhalajjhal&#x0101;</em> f. (onomat.) the sound of falling drops <a href="worksAuthorsAbbrs.html#Amar">Amar.</a> (v. l.) </dd>
+           <dd>&#x2022; the flapping of an elephant's ears (or of flaccid breasts &amp;c.) <a href="worksAuthorsAbbrs.html#K&#x0101;m">K&#x0101;m.</a></dd>
+
+           <dt>jhalar&#x012b; </dt>
+           <dd><em>jhalar&#x012b;</em> f. <em>-"&#x1e63;llak&#x012b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> . a curl <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhal&#x0101; </dt>
+           <dd><em>jhal&#x0101;</em> f. a girl <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; sun-heat <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (= <em>jhill&#x012b;</em>) a cricket (also <em>jh&#x0101;l&#x0101;</em> <a href="worksAuthorsAbbrs.html#W">W.</a>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhali </dt>
+           <dd><em>jhali</em> f. the areca-nut <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>jhalla </dt>
+           <dd><em>jhalla</em> m. a prize-fighter, cudgelplayer (offspring of an outcast Kshatriya) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a>x, 22 ; xii, 45 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> ii, 102 <font color="#FF0000" font size=-2><a name="p429-1"></a>[Page 429, Column 1]</font> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. = <em>&#x25cb;llak&#x012b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jhallaka&#x1e47;&#x1e6d;ha </dt>
+           <dd><em>&#x25cb;ka&#x1e47;&#x1e6d;ha</em> m. = <em>jhill&#x012b;-k&#x25cb;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jhallaka </dt>
+           <dd><em>jhallaka</em> n. cymbals <a href="worksAuthorsAbbrs.html#Tithy&#x0101;d">Tithy&#x0101;d.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. a kind of drum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhallan&#x0101; </dt>
+           <dd><em>jhallan&#x0101;</em> f. N. of a Pr&#x0101;k&#x1e5b;it metre</dd>
+
+           <dt>jhallar&#x012b; </dt>
+           <dd><em>jhallar&#x012b;</em> f. a kind of musical instrument, sort of drum or cymbal (cf. <em>jhalar&#x012b;</em>, <em>jharjhar&#x012b;</em>) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a>iii, 52, 2 <a href="worksAuthorsAbbrs.html#Jain">Jain.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> </dd>
+           <dd>&#x2022; (ifc. <em>&#x25cb;r&#x012b;ka</em>) <a href="worksAuthorsAbbrs.html#Hcar">Hcar.</a> </dd>
+           <dd>&#x2022; acurl <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; moisture <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a ball &amp;c. of perfumed substances used for cleaning the hair <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; = <em>&#x015b;uddha</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhallik&#x0101; </dt>
+           <dd><em>jhallik&#x0101;</em> f. a cloth used for applying colour or perfumes <a href="worksAuthorsAbbrs.html#L">L.</a> (also <em>jhill&#x25cb;</em> <a href="worksAuthorsAbbrs.html#W">W.</a> ; <em>jhill&#x012b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a>) </dd>
+           <dd>&#x2022; dirt rubbed off the body by the application of perfumes (also <em>jhill&#x1e6d;jhill&#x012b;</em> and <em>jhill&#x012b;k&#x0101;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; light, sunshine (also <em>jhill&#x25cb;</em>, <em>jhill&#x012b; and jhill&#x012b;k&#x0101;</em> </dd>
+           <dd>&#x2022; cf. <em>jhal&#x0101;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhall&#x012b;k&#x0101; </dt>
+           <dd><em>jhall&#x012b;k&#x0101;</em> f. = <em>jhill&#x012b;ka</em> <a href="worksAuthorsAbbrs.html#Svapnac">Svapnac.</a></dd>
+
+           <dt>jhall&#x012b;&#x1e63;aka </dt>
+           <dd><em>jhall&#x012b;&#x1e63;aka</em> a kind of musical instrument <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 8450</dd>
+
+           <dt>jhallola </dt>
+           <dd><em>jhallola</em> m. a ball at the lower end of a spindle <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jha&#x1e63; </dt>
+           <dd><em>jha&#x1e63;</em> cl. 1. <em>&#x25cb;&#x1e63;ati</em>, to hurt <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xvii, 38 </dd>
+           <dd>&#x2022; (also &#x0100;.) to take, xxi, 26 </dd>
+           <dd>&#x2022; to cover <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>jha&#x1e63;a </dt>
+           <dd><em>jha&#x1e63;&#x00e1;</em> m. a large fish <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> i, 8, 14 </dd>
+           <dd>&#x2022; a fish <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; the sign Pisces <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;">VarB&#x1e5b;.</a> </dd>
+           <dd>&#x2022; a forest, forest overgrown with grass <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; sun-heat <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a desert <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. Uraria lagopodioides <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jha&#x1e63;aketana </dt>
+           <dd><em>&#x25cb;ketana</em> m. = <em>-dhvaja</em> <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#Ratn&#x00e2;v,">Ratn&#x00e2;v,.</a> </dd>
+           <dd>&#x2022; 'the god of love' and 'the sea' <a href="worksAuthorsAbbrs.html#Kuval">Kuval.</a> 33</dd>
+
+           <dt>&#x22d9; jha&#x1e63;adhvaja </dt>
+           <dd><em>&#x25cb;dhvaja</em> m. 'fish-symboled', the god of love, love, Bha&#x1e6d;t. viii, 48</dd>
+
+           <dt>&#x22d9; jha&#x1e63;apitta </dt>
+           <dd><em>&#x25cb;pitta</em> n. fish-bile <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> l, 24</dd>
+
+           <dt>&#x22d9; jha&#x1e63;ar&#x0101;ja </dt>
+           <dd><em>&#x25cb;r&#x0101;ja</em> m. a large fish <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> viii, 18, 2</dd>
+
+           <dt>&#x22d9; jha&#x1e63;a&#x015b;re&#x1e63;&#x1e6d;ha </dt>
+           <dd><em>&#x25cb;&#x015b;re&#x1e63;&#x1e6d;ha</em> m. 'most excellent fish', the fish Rohita <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x22d9; jha&#x1e63;&#x0101;&#x015b;ana </dt>
+           <dd><em>jha&#x1e63;&#x00e2;&#x015b;ana</em> m. 'fish-eater', the Gangetic porpoise <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jha&#x1e63;odar&#x012b; </dt>
+           <dd><em>jha&#x1e63;&#x00f4;dar&#x012b;</em> f. N. of Vy&#x0101;sa's mother Satyavat&#x012b; <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jh&#x0101;&#x1e43; </dt>
+           <dd><em>jh&#x0101;&#x1e43;</em> ind. (onomat.) in comp</dd>
+
+           <dt>&#x22d9; jh&#x0101;&#x1e43;k&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. a low murmuring (of kettle-drums), Alam, k&#x0101;rat,</dd>
+
+           <dt>&#x22d9; jh&#x0101;&#x1e43;k&#x0101;rin </dt>
+           <dd><em>&#x25cb;k&#x0101;rin</em> mfn. = <em>jha&#x1e43;-k&#x25cb;</em> <a href="worksAuthorsAbbrs.html#Mcar">Mcar.</a> iii, 48</dd>
+
+           <dt>&#x22d9; jh&#x0101;&#x1e43;k&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ta</em> n. (cf. <em>jha&#x1e43;.k&#x25cb;</em>) a tinkling ornament worn round the toes or feet <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jh&#x0101;&#x1e6d;a </dt>
+           <dd><em>jh&#x0101;&#x1e6d;a</em> m. an arbour <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a forest (also n. <a href="worksAuthorsAbbrs.html#W">W.</a>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; cleaning sores <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. = <em>&#x25cb;&#x1e6d;ik&#x0101;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a kind of jasmine <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jh&#x0101;&#x1e6d;&#x0101;mal&#x0101; </dt>
+           <dd><em>jh&#x0101;&#x1e6d;&#x00e2;mal&#x0101;</em> f. = <em>&#x25cb;&#x1e6d;ik&#x0101;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jh&#x0101;&#x1e6d;&#x0101;straka </dt>
+           <dd><em>jh&#x0101;&#x1e6d;&#x00e2;straka</em> m. the water-melon <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; jh&#x0101;&#x1e6d;ala </dt>
+           <dd><em>jh&#x0101;&#x1e6d;ala</em> <em>&#x25cb;li</em> m. Bignonia suaveolens <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jh&#x0101;&#x1e6d;ik&#x0101; </dt>
+           <dd><em>jh&#x0101;&#x1e6d;ik&#x0101;</em> <em>&#x25cb;&#x1e6d;&#x012b;k&#x0101;</em> f. Flacourtia cataphracta <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jh&#x0101;&#x1e6d;k&#x0101;rin </dt>
+           <dd><em>jh&#x0101;&#x1e6d;-k&#x0101;rin</em> mfn. whistling (the wind), Ve&#x1e47;is. ii, 18 </dd>
+           <dd>&#x2022; cf. <em>jha&#x1e45;-k&#x1e6d;k&#x0101;rin</em> and <em>jha&#x1e43;-k&#x25cb;</em></dd>
+
+           <dt>jh&#x0101;buka </dt>
+           <dd><em>jh&#x0101;buka</em> m.= <em>jh&#x0101;vuka</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jh&#x0101;maka </dt>
+           <dd><em>jh&#x0101;maka</em> n. (fr. <em>k&#x1e63;&#x0101;m&#x00e1;</em>) a burnt or vitrified brick <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jh&#x0101;mara </dt>
+           <dd><em>jh&#x0101;mara</em> m. a small whetstone (used for sharpening spindles, needles, &amp;c.) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jh&#x0101;rjhara </dt>
+           <dd><em>jh&#x0101;rjhara</em> and <em>&#x25cb;rika</em> m. (fr. <em>jharjhara</em>) a drummer, tabor-player <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 56</dd>
+
+           <dt>jh&#x0101;lar&#x012b; </dt>
+           <dd><em>jh&#x0101;lar&#x012b;</em> for <em>jh&#x0101;l</em>, a kind of drum <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>jh&#x0101;l&#x0101; </dt>
+           <dd><em>jh&#x0101;l&#x0101;</em> f. = <em>jhal&#x0101;</em>, a cricket <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>jh&#x0101;li </dt>
+           <dd><em>jh&#x0101;li</em> f. sour or unripe mango fried with salt, mustard, and Asa foetida <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 11, 155</dd>
+
+           <dt>jh&#x0101;vu </dt>
+           <dd><em>jh&#x0101;vu</em> m. Tamarix indica <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jh&#x0101;vuka </dt>
+           <dd><em>jh&#x0101;vuka</em> m</dd>
+
+           <dt>&#x22d9; jh&#x0101;v&#x016b; </dt>
+           <dd><em>jh&#x0101;&#x1e0d;v&#x016b;</em> f. id. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhi&#x1e45;g&#x0101;ka </dt>
+           <dd><em>jhi&#x1e45;g&#x0101;ka</em> m. Luffa acutang. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhi&#x1e45;gin&#x012b; </dt>
+           <dd><em>jhi&#x1e45;gin&#x012b;</em> = <em>&#x25cb;g&#x012b;</em> <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> </dd>
+           <dd>&#x2022; a torch <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jhi&#x1e45;g&#x012b; </dt>
+           <dd><em>jhi&#x1e45;g&#x012b;</em> f. = <em>ji&#x1e45;gin&#x012b;</em> <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> v, 5, 42</dd>
+
+           <dt>jhijj&#x012b; </dt>
+           <dd><em>jhijj&#x012b;</em> f. = <em>ji&#x00f1;ih&#x012b;</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>jhi&#x00f1;jhima </dt>
+           <dd><em>jhi&#x00f1;jhima</em> m. a forest on fire <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhi&#x00f1;jhir&#x0101; </dt>
+           <dd><em>jhi&#x00f1;jhir&#x0101;</em> f. N. of a shrub <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jhi&#x00f1;jhiri&#x1e6d;&#x0101; </dt>
+           <dd><em>jhi&#x00f1;jhiri&#x1e6d;&#x0101;</em></dd>
+
+           <dt>&#x22d9; jhi&#x00f1;jhiri&#x1e63;&#x1e6d;&#x0101; </dt>
+           <dd><em>jhi&#x00f1;jhi&#x1e0d;ri&#x1e63;&#x1e6d;&#x0101;</em></dd>
+
+           <dt>&#x22d9; jhi&#x00f1;jhiril&#x1e6d;&#x0101; </dt>
+           <dd><em>jhi&#x00f1;jhi&#x1e0d;ril&#x1e6d;&#x0101;</em> f. id. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhi&#x00f1;jh&#x012b; </dt>
+           <dd><em>jhi&#x00f1;jh&#x012b;</em> f. = <em>jhill&#x012b;</em>, a cricket <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>jhi&#x1e47;&#x1e6d;i </dt>
+           <dd><em>jhi&#x1e47;&#x1e6d;i</em> f. = <em>&#x25cb;&#x1e6d;&#x012b;</em> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;car">Pa&#x00f1;car.</a> i, 7, 19</dd>
+
+           <dt>&#x226b; jhi&#x1e47;&#x1e6d;ik&#x0101; </dt>
+           <dd><em>jhi&#x1e47;&#x1e6d;ik&#x0101;</em></dd>
+
+           <dt>&#x22d9; jhi&#x1e47;&#x1e6d;&#x012b; </dt>
+           <dd><em>jhi&#x1e47;&#x1e0d;&#x1e6d;&#x012b;</em> f. Barleria cristata <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhirik&#x0101; </dt>
+           <dd><em>jhirik&#x0101;</em> <em>&#x25cb;ri</em> f. a cricket <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; jhir&#x012b;k&#x0101; </dt>
+           <dd><em>jhir&#x012b;k&#x0101;</em></dd>
+
+           <dt>&#x22d9; jhiruk&#x0101; </dt>
+           <dd><em>jhi&#x1e0d;ruk&#x0101;</em> f. id. <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; jhillar&#x012b; </dt>
+           <dd><em>jhillar&#x012b;</em> f. id. (?, or = <em>jhall&#x25cb;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jhilli </dt>
+           <dd><em>jhilli</em> f. id. <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> 3497 </dd>
+           <dd>&#x2022; a kind of musical instrument <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; parchment <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; jhillika </dt>
+           <dd><em>jhillika</em> m. pl. v&#x1e37;. for <em>jill&#x25cb;</em>, q.v </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a cricket <a href="worksAuthorsAbbrs.html#Nal">Nal.</a> xii, 1 <a href="worksAuthorsAbbrs.html#R">R.</a> <font color="#FF0000" font size=-2><a name="p429-2"></a>[Page 429, Column 2]</font> </dd>
+           <dd>&#x2022; a cricket's chirp <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a kind of vehicle <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> ii, 88, 63 </dd>
+           <dd>&#x2022; = <em>jhall&#x25cb;</em>, q.v. <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>jhi&#x1e47;&#x1e6d;ik&#x0101;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; membrane, parchment <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; jhill&#x012b; </dt>
+           <dd><em>jhill&#x012b;</em> f. a cricket <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> v </dd>
+           <dd>&#x2022; the wick of a lamp <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>jhallik&#x0101;</em>, q.v. <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; rice burnt by cooking in a saucepan <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; cymbals <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; parchment <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; jhill&#x012b;ka&#x1e47;&#x1e6d;ha </dt>
+           <dd><em>&#x25cb;ka&#x1e47;&#x1e6d;ha</em> m. a domestic pigeon <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; jhill&#x012b;ka </dt>
+           <dd><em>jhill&#x012b;ka</em> m. a cricket <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, 2849 </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. id. <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>jhall&#x012b;k&#x0101;</em>, q.v. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhillin </dt>
+           <dd><em>jhillin</em> N. of a V&#x1e5b;ish&#x1e47;i <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i, vii</dd>
+
+           <dt>jh&#x012b;rik&#x0101; </dt>
+           <dd><em>jh&#x012b;rik&#x0101;</em> <em>&#x25cb;ruk&#x0101;</em> f. = <em>jhir&#x25cb;</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhu </dt>
+           <dd><em>jhu</em> cl. 1. &#x0100;., v&#x1e37;. for &#x221a;<em>jyu</em></dd>
+
+           <dt>jhu&#x1e47;&#x1e6d;a </dt>
+           <dd><em>jhu&#x1e47;&#x1e6d;a</em> m. a shrub <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhumari </dt>
+           <dd><em>jhumari</em> f. N. of a R&#x0101;gi&#x1e47;&#x012b;</dd>
+
+           <dt>jhumbari </dt>
+           <dd><em>jhumbar&#x00ed;</em> f. a kind of lute <a href="worksAuthorsAbbrs.html#HPari&#x015b;">HPari&#x015b;.</a> viii, 359ff</dd>
+
+           <dt>jh&#x016b;&#x1e47;i </dt>
+           <dd><em>jh&#x016b;&#x1e47;i</em> f. a kind of betel-nut <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a voice boding ill-luck, evil omen <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>ka&#x1e6d;hina</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jh&#x016b;&#x1e63; </dt>
+           <dd><em>jh&#x016b;&#x1e63;</em> cl. 1. P., V&#x1e37;. for &#x221a;<em>y&#x016b;&#x1e63;</em></dd>
+
+           <dt>jh&#x1e5d; </dt>
+           <dd><em>jh&#x1e5d;</em> (= &#x221a;<em>j&#x1e5d;</em>), cl. 4. 9. <em>jhiryati</em>, <em>jhri&#x1e47;&#x0101;ti</em>, to become old <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a>xxvi, xxxi </dd>
+           <dd>&#x2022; cf. <em>jharjharita</em></dd>
+
+           <dt>jho&#x1e0d;a </dt>
+           <dd><em>jho&#x1e0d;a</em> m. the betel-nut tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>jhombaka </dt>
+           <dd><em>jhombaka</em> mfn. making grimaces when singing</dd>
+
+           <dt>jhaulika </dt>
+           <dd><em>jhaulika</em> a small bag <a href="worksAuthorsAbbrs.html#Dh&#x016b;rtas">Dh&#x016b;rtas.</a> ii</dd>
+
+           <dt>jhyu </dt>
+           <dd><em>jhyu</em> cl. 1. &#x0100;., v&#x1e37;. for &#x221a;<em>jyu</em></dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

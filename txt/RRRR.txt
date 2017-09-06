@@ -1,0 +1,30 @@
+    <dl>
+   <dt>&#x1e5d; 1</dt>
+   <dd><em>&#x1e5d;</em> the eighth vowel of the alphabet (the corresponding long vowel to <em>&#x1e5b;</em> and resembling the sound of <em>ri</em> in <em>marine</em>, but after labials more like <em>ru</em> </dd>
+   <dd>&#x2022; it generally only appears in some forms of nouns in <em>&#x1e5b;</em>, viz. in the gen. pl. of all genders, in the acc. pl. m. and f. and in nom. acc. and voc. pl. n.)</dd>
+
+           <dt>&#x22d9; &#x1e5d;k&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>&#x1e5d;</em> <a href="worksAuthorsAbbrs.html#TPr&#x0101;t">TPr&#x0101;t.</a></dd>
+
+           <dt>&#x1e5d; 2</dt>
+           <dd><em>&#x1e5d;</em> ind. an interjection of terror <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a particle implying reproach </dd>
+           <dd>&#x2022; warding off <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a particle used at the beginning of a sentence <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x1e5d; 3</dt>
+           <dd><em>&#x1e5d;</em> <em>&#x1e5d;s</em> m. a Bhairava <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a D&#x0101;nava <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; f. the mother of the gods </dd>
+           <dd>&#x2022; of the demons <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; recollection </dd>
+           <dd>&#x2022; going, motion <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a breast <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x1e5d; 4</dt>
+           <dd><em>&#x1e5d;</em> for 4. <em>&#x1e5b;</em> q.v</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

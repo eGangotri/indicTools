@@ -1,0 +1,1748 @@
+    <dl>
+           <dt>pha 1</dt>
+           <dd><em>pha</em> aspirate of <em>pa</em></dd>
+
+           <dt>&#x22d9; phak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>pha</em></dd>
+
+           <dt>pha 2</dt>
+           <dd><em>pha</em> (only <a href="worksAuthorsAbbrs.html#L">L.</a>), mfn. manifest </dd>
+           <dd>&#x2022; m. a gale </dd>
+           <dd>&#x2022; swelling </dd>
+           <dd>&#x2022; gaping </dd>
+           <dd>&#x2022; gain </dd>
+           <dd>&#x2022; = <em>vardhaka</em> </dd>
+           <dd>&#x2022; = <em>yak&#x1e63;a-s&#x0101;dhana</em> </dd>
+           <dd>&#x2022; n. flowing </dd>
+           <dd>&#x2022; bursting with a popping noise </dd>
+           <dd>&#x2022; bubbling, boiling </dd>
+           <dd>&#x2022; angry or idle speech</dd>
+
+           <dt>phak&#x012b;racandra </dt>
+           <dd><em>phak&#x012b;ra-candra</em> m. N. of an author <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>phakk </dt>
+           <dd><em>phakk</em> cl. 1. P. (cf. Dh&#x0101;tup. v, 1) to swell (?) <a href="worksAuthorsAbbrs.html#Prat&#x0101;p">Prat&#x0101;p.</a> </dd>
+           <dd>&#x2022; to creep, steal along <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; to have a preconceived opinion (cf. <em>phakkik&#x0101;</em>) <font color="#FF0000" font size=-2><a name="p716-1"></a>[Page 716, Column 1]</font> </dd>
+           <dd>&#x2022; to act wrongly, behave ill <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phakka </dt>
+           <dd><em>phakka</em> m. a cripple <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phakkik&#x0101; </dt>
+           <dd><em>phakkik&#x0101;</em> f. a previous statement or thesis to be maintained (= <em>purva-pak&#x1e63;a</em>, <em>codya</em>, <em>de&#x015b;ya</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; logical exposition <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; a sophism, trick, fraud <a href="worksAuthorsAbbrs.html#ib">ib.</a> </dd>
+           <dd>&#x2022; a collection of 32 letters, a Grantha <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phakkik&#x0101;prak&#x0101;&#x015b;a </dt>
+           <dd><em>&#x25cb;prak&#x0101;&#x015b;a</em> m</dd>
+
+           <dt>&#x22d9; phakkik&#x0101;vy&#x0101;khy&#x0101;na </dt>
+           <dd><em>&#x25cb;vy&#x0101;khy&#x0101;na</em> n. N. of wks</dd>
+
+           <dt>phagula </dt>
+           <dd><em>phagula</em> (?), m. N. of a man <a href="worksAuthorsAbbrs.html#Pravar">Pravar.</a></dd>
+
+           <dt>pha&#x00f1;j&#x012b; </dt>
+           <dd><em>pha&#x00f1;j&#x012b;</em> f. Clerodendrum Siphonantus <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; pha&#x00f1;jik&#x0101; </dt>
+           <dd><em>pha&#x00f1;jik&#x0101;</em> f. id. <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Lipeocercis Serrata <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Alhagi Maurorum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x00f1;jipattrik&#x0101; </dt>
+           <dd><em>pha&#x00f1;ji-pattrik&#x0101;</em> or f. Salvinia Cucullata <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x00f1;jiputtrik&#x0101; </dt>
+           <dd><em>pha&#x00f1;ji-puttrik&#x0101;</em> f. Salvinia Cucullata <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>pha&#x1e6d; </dt>
+           <dd><em>ph&#x00e1;&#x1e6d;</em> ind. (onom.) crack! <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#T&#x0100;r">T&#x0100;r.</a> (also a mystical syllable used in incantation)</dd>
+
+           <dt>pha&#x1e6d;a </dt>
+           <dd><em>pha&#x1e6d;a</em> m. the expanded hood or neck of a serpent <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. id. <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; a tooth <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a cheat (!) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e6d;&#x0101;&#x1e6d;opa </dt>
+           <dd><em>pha&#x1e6d;&#x00e2;&#x1e6d;opa</em> m. the expanding of a serpent's hood <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e6d;&#x0101;&#x1e6d;opin </dt>
+           <dd><em>pha&#x1e6d;&#x00e2;&#x1e6d;opin</em> m. a serpent <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;r&#x1e45;gP">&#x015a;&#x0101;r&#x1e45;gP.</a></dd>
+
+           <dt>pha&#x1e0d;i&#x1e45;g&#x0101; </dt>
+           <dd><em>pha&#x1e0d;i&#x1e45;g&#x0101;</em> f. a grasshopper <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>pha&#x1e47; </dt>
+           <dd><em>pha&#x1e47;</em> cl. 1. P. (cf. Dh&#x0101;tup. xix, 73) <em>ph&#x00e1;&#x1e47;ati</em> (cf. Naigh. ii, 14 </dd>
+           <dd>&#x2022; pf. <em>paph&#x0101;&#x1e47;a</em>, 2. sg. <em>papha&#x1e47;itha</em>, or <em>phe&#x1e47;itha</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-4, 125 </dd>
+           <dd>&#x2022; aor. [aph˘ANIt], vii, 2, 27 </dd>
+           <dd>&#x2022; fut. <em>pha&#x1e47;i&#x1e63;yati</em>, <em>&#x25cb;&#x1e47;it&#x0101;</em> Gr.), to go, move <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a> (with <em>sam&#x0101;ptim</em>, 'to be accomplished' <a href="worksAuthorsAbbrs.html#Bhojapr">Bhojapr.</a>): Caus. <em>ph&#x0101;&#x1e47;&#x00e1;yati</em> (or <em>pha&#x1e47;&#x25cb;</em> <a href="worksAuthorsAbbrs.html#Vop">Vop.</a>), to cause to bound <a href="worksAuthorsAbbrs.html#RV">RV.</a> viii, 58, 13 </dd>
+           <dd>&#x2022; to draw off (the surface of a fluid), skim <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a>: Desid. <em>pipha&#x1e47;i&#x1e63;ati</em> Gr. : Intens. pr.p. <em>-pa&#x1e47;ipha&#x1e47;at</em> (cf. RV.), <em>pampha&#x1e47;at</em> (cf. &#x015a;&#x0101;&#x1e45;kh&#x015a;r.), bounding, leaping</dd>
+
+           <dt>&#x226b; pha&#x1e47;a </dt>
+           <dd><em>pha&#x1e47;&#x00e1;</em> m. scum, froth <a href="worksAuthorsAbbrs.html#TBr">TBr.</a> (cf. <em>phena</em>) </dd>
+           <dd>&#x2022; (also <em>&#x0101;</em> f.) the expanded side of the nose, a nostril <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; (also <em>&#x0101;</em> f.) the expanded hood or neck of a serpent (esp. of the Coluber N&#x0101;ga) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> &amp;c </dd>
+           <dd>&#x2022; a stick shaped like a serpent's hood <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;khG&#x1e5b;">&#x015a;&#x0101;&#x1e45;khG&#x1e5b;.</a> </dd>
+           <dd>&#x2022; mfn. having the fingers shaped like a serpent's hood <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;akara </dt>
+           <dd><em>&#x25cb;kara</em> m. a serpent, snake (esp. the Coluber N&#x0101;ga) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;adhara </dt>
+           <dd><em>&#x25cb;dhara</em> m. id. <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of &#x015a;iva <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;abh&#x1e5b;t </dt>
+           <dd><em>&#x25cb;bh&#x1e5b;t</em> m. = <em>-kara</em> <a href="worksAuthorsAbbrs.html#Kir">Kir.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> </dd>
+           <dd>&#x2022; N. of the number 9 (or 8) <a href="worksAuthorsAbbrs.html#&#x015a;rutab">&#x015a;rutab.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ama&#x1e47;i </dt>
+           <dd><em>&#x25cb;ma&#x1e47;i</em> m. 'hood-gem', a jewel in the hood of a snake <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ama&#x1e47;&#x1e0d;ala </dt>
+           <dd><em>&#x25cb;ma&#x1e47;&#x1e0d;ala</em> n. 'hood-orb', the rounded hood of a snake <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;avat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. having a hood, hooded (as a snake) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> </dd>
+           <dd>&#x2022; m. = <em>-kara</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;a&#x015b;re&#x1e47;&#x012b; </dt>
+           <dd><em>&#x25cb;&#x015b;re&#x1e47;&#x012b;</em> f. a line or row of serpents' hoods <a href="worksAuthorsAbbrs.html#G&#x012b;t">G&#x012b;t.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;astha </dt>
+           <dd><em>&#x25cb;stha</em> mfn. being in a snake's h&#x1e6d;hood (as a gem) <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;tapa </dt>
+           <dd><em>pha&#x1e47;&#x00e2;tapa</em></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;tapin </dt>
+           <dd><em>pha&#x1e47;&#x00e2;ta&#x1e0d;pin</em> v&#x1e37;. for <em>pha&#x1e6d;&#x00e2;&#x1e6d;&#x25cb;</em> (q.v.) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;tapatra </dt>
+           <dd><em>pha&#x1e47;&#x00e2;tapatra</em> mfn. having a hood for a parasol (said of a snake) <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x226b; pha&#x1e47;&#x0101; </dt>
+           <dd><em>pha&#x1e47;&#x0101;</em> f. of <em>pha&#x1e47;a</em>, in comp</dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;kara </dt>
+           <dd><em>&#x25cb;kara</em> m. = <em>&#x25cb;&#x1e47;a-kara</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;pha&#x1e47;&#x0101;dhara </dt>
+           <dd><em>&#x25cb;pha&#x1e47;&#x0101;-dhara</em> m. = <em>&#x25cb;&#x1e47;a-dhara</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;phalaka </dt>
+           <dd><em>&#x25cb;phalaka</em> n. the flat surface of a surface's hood <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;bhara </dt>
+           <dd><em>&#x25cb;bhara</em> m. = <em>-dhara</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;bh&#x1e5b;t </dt>
+           <dd><em>&#x25cb;bh&#x1e5b;t</em> mfn. having a hood (as a serpent)</dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;ma&#x1e47;isahasraruc </dt>
+           <dd><em>&#x25cb;ma&#x1e47;i-sahasraruc</em> f. the splendour of the thousand jewels on the hood (of the s&#x1e6d;surface-king) <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x0101;vat </dt>
+           <dd><em>&#x25cb;vat</em> m. 'possessing a hood', Coluber N&#x0101;ga <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a> </dd>
+           <dd>&#x2022; a kind of supernatural being <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a></dd>
+
+           <dt>&#x226b; pha&#x1e47;i 1</dt>
+           <dd><em>pha&#x1e47;&#x00ed;</em> m. a serpent (only gen. pl. <em>pha&#x1e47;&#x012b;&#x0341;n&#x0101;m</em>) <a href="worksAuthorsAbbrs.html#Supar&#x1e47;">Supar&#x1e47;.</a></dd>
+
+           <dt>&#x226b; pha&#x1e47;i 2</dt>
+           <dd><em>pha&#x1e47;i</em> in comp. for <em>pha&#x1e47;in</em></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ikany&#x0101; </dt>
+           <dd><em>&#x25cb;kany&#x0101;</em> f. the daughter of a serpent-demon <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ikesara </dt>
+           <dd><em>&#x25cb;kesara</em> m. Mesua Roxburgh&#x012b; <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ikhela </dt>
+           <dd><em>&#x25cb;khela</em> m. a quail <a href="worksAuthorsAbbrs.html#L">L.</a> (prob. w&#x1e5b;. for <em>ph&#x0101;la-kh&#x25cb;</em>)</dd>
+
+           <dt>&#x22d9; pha&#x1e47;ij&#x0101; </dt>
+           <dd><em>&#x25cb;j&#x0101;</em> f. a species of plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ijihv&#x0101; </dt>
+           <dd><em>&#x25cb;jihv&#x0101;</em> f. 'species's tongue', N. of 2 plants (<em>mah&#x0101;-&#x015b;at&#x0101;var&#x012b;</em> and <em>mah&#x0101;-sama&#x1e45;ga</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ijihvik&#x0101; </dt>
+           <dd><em>&#x25cb;jihvik&#x0101;</em> f. id. and Emblica Officinalis <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;italpaga </dt>
+           <dd><em>&#x25cb;talpa-ga</em> m. 'resorting to a serpent as a couch', N. of Vish&#x1e47;u <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;in&#x0101;yaka </dt>
+           <dd><em>&#x25cb;n&#x0101;yaka</em> m. 'species-chief', N. of V&#x0101;suki <a href="worksAuthorsAbbrs.html#Si&#x1e43;h&#x00e2;s">Si&#x1e43;h&#x00e2;s.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ipati </dt>
+           <dd><em>&#x25cb;pati</em> m. a huge species <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> </dd>
+           <dd>&#x2022; N. of &#x015a;esha <a href="worksAuthorsAbbrs.html#ib">ib.</a> <a href="worksAuthorsAbbrs.html#Prasannar">Prasannar.</a> </dd>
+           <dd>&#x2022; of Pata&#x00f1;jali <a href="worksAuthorsAbbrs.html#Vcar">Vcar.</a> <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ipriya </dt>
+           <dd><em>&#x25cb;priya</em> m. 'species's friend', the wind <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;iphe&#x1e47;a </dt>
+           <dd><em>&#x25cb;phe&#x1e47;a</em> m. 'species's saliva', opium <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ibh&#x0101;rik&#x0101; </dt>
+           <dd><em>&#x25cb;bh&#x0101;rik&#x0101;</em> f. Ficus Oppositifolia <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ibh&#x0101;&#x1e63;itabh&#x0101;&#x1e63;y&#x0101;bdhi </dt>
+           <dd><em>&#x25cb;bh&#x0101;&#x1e63;ita-bh&#x0101;&#x1e63;y&#x00e2;bdhi</em> m</dd>
+
+           <dt>&#x22d9; pha&#x1e47;ibh&#x0101;&#x1e63;ya </dt>
+           <dd><em>&#x25cb;bh&#x0101;&#x1e63;ya</em> n</dd>
+
+           <dt>&#x22d9; pha&#x1e47;ibh&#x0101;&#x1e63;y&#x0101;bdhi </dt>
+           <dd><em>&#x25cb;bh&#x0101;&#x1e63;y&#x00e2;bdhi</em> m. N. of Pata&#x00f1;jali's Mah&#x0101;-bh&#x0101;shya <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ibhuj </dt>
+           <dd><em>&#x25cb;bhuj</em> m. 'serpent-eater', a peacock <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;imukha </dt>
+           <dd><em>&#x25cb;mukha</em> n. 'species's mouth', a kind of spade used by housebreakers <a href="worksAuthorsAbbrs.html#Da&#x015b;">Da&#x015b;.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ilat&#x0101; </dt>
+           <dd><em>&#x25cb;lat&#x0101;</em> (cf. B&#x0101;lar.)</dd>
+
+           <dt>&#x22d9; pha&#x1e47;ivall&#x012b; </dt>
+           <dd><em>&#x25cb;vall&#x012b;</em> (cf. L </dd>
+           <dd>&#x2022; ifc. <em>&#x25cb;l&#x012b;ka</em>),</dd>
+
+           <dt>&#x22d9; pha&#x1e47;iv&#x012b;rudh </dt>
+           <dd><em>&#x25cb;v&#x012b;rudh</em> (cf. B&#x0101;lar.), f. betelpepper</dd>
+
+           <dt>&#x22d9; pha&#x1e47;ihantr&#x012b; </dt>
+           <dd><em>&#x25cb;hantr&#x012b;</em> f. Piper Chaba(?) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ih&#x1e5b;t </dt>
+           <dd><em>&#x25cb;h&#x1e5b;t</em> f. a species of Alhagi <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x012b;ndra </dt>
+           <dd><em>pha&#x1e47;&#x012b;7ndra</em> m. 'serpentking', N. of &#x015a;esha <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; of Pata&#x00f1;jali <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> </dd>
+           <dd>&#x2022; <em>&#x25cb;dr&#x00ea;&#x015b;vara</em> m. N. of one of the 8 V&#x012b;ta-r&#x0101;gas of the Buddhists <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x012b;&#x015b;a </dt>
+           <dd><em>pha&#x1e47;&#x012b;7&#x015b;a</em> m. N. of Pata&#x00f1;jali <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> (cf. <em>&#x25cb;n&#x012b;7ndra</em>)</dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x012b;&#x015b;vara </dt>
+           <dd><em>pha&#x1e47;&#x012b;7&#x015b;vara</em> m. = <em>&#x25cb;&#x1e47;&#x012b;7ndra</em> <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> <font color="#FF0000" font size=-2><a name="p716-2"></a>[Page 716, Column 2]</font>
+</dd>
+
+           <dt>&#x22d9; pha&#x1e47;ik&#x0101; </dt>
+           <dd><em>pha&#x1e47;ik&#x0101;</em> f. Ficus Oppositifolia <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;ike&#x015b;vara </dt>
+           <dd><em>pha&#x1e47;ik&#x00ea;&#x015b;vara</em> m. = <em>pha&#x1e47;&#x012b;7ndr&#x00ea;&#x015b;vara</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; pha&#x1e47;ita </dt>
+           <dd><em>pha&#x1e47;ita</em> mfn. gone or diluted (?) <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; n. and <em>&#x25cb;ti</em> f. w&#x1e5b;. for <em>bha&#x1e47;ita</em>, <em>&#x25cb;ti</em> <a href="worksAuthorsAbbrs.html#Bhojapr">Bhojapr.</a></dd>
+
+           <dt>&#x226b; pha&#x1e47;in </dt>
+           <dd><em>pha&#x1e47;in</em> m. 'hooded', a serpent (esp. Coluber N&#x0101;ga) <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#Pur">Pur.</a> </dd>
+           <dd>&#x2022; N. of R&#x0101;hu and Pata&#x00f1;jali <a href="worksAuthorsAbbrs.html#L">L.</a> <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> </dd>
+           <dd>&#x2022; a species of shrub <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (prob.) n. tin or lead <a href="worksAuthorsAbbrs.html#K&#x0101;lac">K&#x0101;lac.</a></dd>
+
+           <dt>&#x226b; pha&#x1e47;&#x012b;ya </dt>
+           <dd><em>pha&#x1e47;&#x012b;ya</em> n. the wood of Cerasus Puddum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>pha&#x1e47;ik&#x0101;ra </dt>
+           <dd><em>pha&#x1e47;ik&#x0101;ra</em> m. pl. N. of a people <a href="worksAuthorsAbbrs.html#Var">Var.</a> (v&#x1e37;. <em>kar&#x1e47;ik&#x0101;ra</em>)</dd>
+
+           <dt>pha&#x1e47;ijjha </dt>
+           <dd><em>pha&#x1e47;ijjha</em> and <em>&#x25cb;aka</em> m. marjoram and another similar plant <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> </dd>
+           <dd>&#x2022; (<em>ak&#x0101;</em>), f. a species of basil with small leaves (commonly called <em>r&#x0101;ma-d&#x016b;ti</em>) <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>pha&#x1e47;&#x012b; </dt>
+           <dd><em>pha&#x1e47;&#x012b;</em> f. N. of a river <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>&#x22d9; pha&#x1e47;&#x012b;cakra </dt>
+           <dd><em>&#x25cb;cakra</em> n. N. of wk</dd>
+
+           <dt>pha&#x1e47;&#x1e0d;a </dt>
+           <dd><em>pha&#x1e47;&#x1e0d;a</em> m. the belly (&#x221a;<em>ph&#x0101;&#x1e47;&#x1e0d;a</em>) <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> 113 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>phat </dt>
+           <dd><em>phat</em> ind., an interjection (in <em>phat-&#x221a;k&#x1e5b;</em>, prob. w&#x1e5b;. for <em>phu&#x1e6d;-&#x221a;k&#x1e5b;</em>)</dd>
+
+           <dt>&#x22d9; phatk&#x0101;rin </dt>
+           <dd><em>&#x25cb;k&#x0101;rin</em> m. a bird <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phatihabh&#x016b;pati </dt>
+           <dd><em>phatiha-bh&#x016b;pati</em> and <em>phatiha&#x015b;&#x0101;ha</em> m. N. of a king of Ka&#x015b;m&#x012b;ra <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> (= ?)</dd>
+
+           <dt>phatepura </dt>
+           <dd><em>phate-pura</em> n. N. of a city <a href="worksAuthorsAbbrs.html#Kshit&#x00ee;&#x015b;">Kshit&#x00ee;&#x015b;.</a></dd>
+
+           <dt>phattes&#x0101;haprak&#x0101;&#x015b;a </dt>
+           <dd><em>phattes&#x0101;ha-prak&#x0101;&#x015b;a</em> m. N. of wk</dd>
+
+           <dt>phar </dt>
+           <dd><em>phar</em> (= <em>sphar</em>), only Intens. Subj. <em>pharpharat</em>, to scatter <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 106, 7 (cf. S&#x0101;y. 'to fill')</dd>
+
+           <dt>&#x226b; pharvara </dt>
+           <dd><em>ph&#x00e1;rvara</em> m. (prob.) a scatterer, sower <a href="worksAuthorsAbbrs.html#ib">ib.</a> x, 106, 2 (cf. S&#x0101;y. 'filling')</dd>
+
+           <dt>&#x226b; ph&#x0101;riva </dt>
+           <dd><em>ph˘&#x0101;riva</em> mfn. (prob.) scattering, distributing, liberal <a href="worksAuthorsAbbrs.html#ib">ib.</a> 8</dd>
+
+           <dt>phara </dt>
+           <dd><em>phara</em> n. a shield (= <em>phalaka</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phara&#x00f1;ja </dt>
+           <dd><em>phara&#x00f1;ja</em> N. of a place <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>pharu&#x1e47;&#x1e0d;a </dt>
+           <dd><em>pharu&#x1e47;&#x1e0d;a</em> m. green onion <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>pharuvaka </dt>
+           <dd><em>pharuvaka</em> n. a betel-box or a spittoon <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>pharendra </dt>
+           <dd><em>pharendra</em> m. Pandanus Odoratissimus <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>pharphar&#x0101;ya </dt>
+           <dd><em>pharphar&#x0101;ya</em> Nom. &#x0100;. <em>&#x25cb;yate</em>, to dart to and fro <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a></dd>
+
+           <dt>pharphar&#x012b;ka </dt>
+           <dd><em>pharphar&#x012b;ka</em> m. (&#x221a;<em>sphar</em>, <em>sphur</em>) the palm of the hand with the fingers extended <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iv, 20 </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a shoe <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>madana</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. softness <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a young shoot or branch <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>parphar&#x012b;ka</em>)</dd>
+
+           <dt>pharv </dt>
+           <dd><em>pharv</em> cl. 1.P. <em>pharvati</em>, to go <a href="worksAuthorsAbbrs.html#Mah&#x012b;dh">Mah&#x012b;dh.</a> on <a href="worksAuthorsAbbrs.html#VS">VS.</a> xii, 71</dd>
+
+           <dt>pharvara </dt>
+           <dd><em>pharvara</em> See &#x221a;<em>phar</em></dd>
+
+           <dt>pharv&#x012b; </dt>
+           <dd><em>pharv&#x012b;</em> See <em>prapharvii&#x0341;</em></dd>
+
+           <dt>phal </dt>
+           <dd><em>phal</em> cl. 1. P. (cf. Dh&#x0101;tup. xv, 9) <em>phalati</em> (ep. also &#x0100;. <em>&#x25cb;te</em> </dd>
+           <dd>&#x2022; pf. <em>paph&#x0101;la</em> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a>, 3. pl. <em>phelu&#x1e25;</em> <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a> </dd>
+           <dd>&#x2022; <a href="worksAuthorsAbbrs.html#cf">cf.</a> P&#x0101;&#x1e47;. 6-4, 122 </dd>
+           <dd>&#x2022; aor. <em>aph&#x0101;l&#x012b;t</em> Gr </dd>
+           <dd>&#x2022; fut. <em>phali&#x1e63;yati</em> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; <em>phalit&#x0101;</em> Gr.), to burst, cleave open or asunder, split (intrans.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> &amp;c </dd>
+           <dd>&#x2022; to rebound, be reflected <a href="worksAuthorsAbbrs.html#Kir">Kir.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; (cf. Dh&#x0101;tup. xv, 23 </dd>
+           <dd>&#x2022; but rather Nom. fr. <em>phala</em> below) to bear or produce fruit, ripen (lit. and fig.), be fruitful, have results or consequences, be fulfilled, result, succeed <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> &amp;c </dd>
+           <dd>&#x2022; to fall to the share of (loc.) <a href="worksAuthorsAbbrs.html#Hit">Hit.</a> </dd>
+           <dd>&#x2022; to obtain (fruit or reward) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; to bring to maturity, fulfil, yield, grant, bestow (with acc., rarely instr.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> &amp;c </dd>
+           <dd>&#x2022; to give out, emit (heat) <a href="worksAuthorsAbbrs.html#Kir">Kir.</a> </dd>
+           <dd>&#x2022; (cf. Dh&#x0101;tup. xx, 9) to go (cf. &#x221a;<em>pal</em>): Caus. <em>ph&#x0101;layati</em> aor. <em>ap&#x012b;phalat</em> Gr. (cf. <em>ph&#x0101;lita</em>): Desid. <em>piphali&#x1e63;ati</em> Gr.: Intens. <em>pamphulyate</em>, <em>pamphul&#x012b;ti</em>, <em>pamphulti</em> <a href="worksAuthorsAbbrs.html#ib">ib.</a> [Cf. &#x221a;<em>spha&#x1e6d;</em>, <em>sphu&#x1e6d;</em> ; Germ. <em>spalten</em> ; Eng. <em>split</em>.]</dd>
+
+           <dt>&#x226b; phala </dt>
+           <dd><em>ph&#x00e1;la</em> n. (ifc. f. <em>&#x0101;</em> or <em>&#x012b;</em>) fruit (esp. of trees) <a href="worksAuthorsAbbrs.html#RV">RV.</a> &amp;c. &amp;c </dd>
+           <dd>&#x2022; the kernel or seed of a fruit, &#x0100;mar </dd>
+           <dd>&#x2022; a nutmeg <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; the 3 myrobalans (= <em>tri-phal&#x0101;</em>, q.v.) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the menstrual discharge <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>pu&#x1e63;pa</em>) </dd>
+           <dd>&#x2022; fruit (met.), consequence, effect, result, retribution (good or bad), gain or loss, reward or punishment, advantage or disadvantage <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> &amp;c </dd>
+           <dd>&#x2022; benefit, enjoyment <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> ii, 70 </dd>
+           <dd>&#x2022; compensation <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> ii, 161 <font color="#FF0000" font size=-2><a name="p716-3"></a>[Page 716, Column 3]</font> </dd>
+           <dd>&#x2022; (in rhet.) the issue or end of an action <a href="worksAuthorsAbbrs.html#Da&#x015b;">Da&#x015b;.</a> <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> </dd>
+           <dd>&#x2022; (in math.) the result of a calculation, product or quotient &amp;c. <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> </dd>
+           <dd>&#x2022; corrective equation <a href="worksAuthorsAbbrs.html#ib">ib.</a> <a href="worksAuthorsAbbrs.html#Gol">Gol.</a> </dd>
+           <dd>&#x2022; area or superficial contents of a figure <a href="worksAuthorsAbbrs.html#&#x0100;ryabh">&#x0100;ryabh.</a> </dd>
+           <dd>&#x2022; interest on capital <a href="worksAuthorsAbbrs.html#ib">ib.</a> </dd>
+           <dd>&#x2022; the third term in a rule of three sum <a href="worksAuthorsAbbrs.html#ib">ib.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; a gift, donation <a href="worksAuthorsAbbrs.html#L">L.</a> ; a gaming board <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> [<a href="worksAuthorsAbbrs.html#Goth">Goth.</a> <em>spilda</em> ; Icel. <em>spjald</em>] </dd>
+           <dd>&#x2022; a blade (of a sword or knife) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Kum">Kum.</a> </dd>
+           <dd>&#x2022; the point of an arrow <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> </dd>
+           <dd>&#x2022; a shield <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a ploughshare (= <em>ph&#x0101;la</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a point or spot on a die <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iv, 24 </dd>
+           <dd>&#x2022; m. Wrightia Antidysenterica <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a species of plant <a href="worksAuthorsAbbrs.html#Car">Car.</a> </dd>
+           <dd>&#x2022; w&#x1e5b;. for <em>tula</em> <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. Aglaia Odorata <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a kind of fish (= <em>phali</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalakak&#x1e63;a </dt>
+           <dd><em>&#x25cb;kak&#x1e63;a</em> m. N. of a Yaksha <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x22d9; phalaka&#x1e47;&#x1e6d;ak&#x0101; </dt>
+           <dd><em>&#x25cb;ka&#x1e47;&#x1e6d;ak&#x0101;</em> f. Asclepias Echinata <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalakalpalat&#x0101; </dt>
+           <dd><em>&#x25cb;kalpalat&#x0101;</em> f. N. of wk</dd>
+
+           <dt>&#x22d9; phalak&#x0101;&#x1e45;k&#x1e63;in </dt>
+           <dd><em>&#x25cb;k&#x0101;&#x1e45;k&#x1e63;in</em> mfn. desirous of reward <a href="worksAuthorsAbbrs.html#Kum">Kum.</a></dd>
+
+           <dt>&#x22d9; phalak&#x0101;ma </dt>
+           <dd><em>&#x25cb;k&#x0101;ma</em> m. desire of reward <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a></dd>
+
+           <dt>&#x22d9; phalak&#x0101;man&#x0101; </dt>
+           <dd><em>&#x25cb;k&#x0101;man&#x0101;</em> f. desire of a result or consequence <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalak&#x0101;la </dt>
+           <dd><em>&#x25cb;k&#x0101;la</em> m. the time of fruits <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phalak&#x1e5b;&#x1e63;&#x1e47;a </dt>
+           <dd><em>&#x25cb;k&#x1e5b;&#x1e63;&#x1e47;a</em> m. Carissa Carandas <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; <em>-p&#x0101;ka</em> m. id. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalakesara </dt>
+           <dd><em>&#x25cb;kesara</em> m. 'having hairy fruit', the cocoa-nut tree (the fruit of which is covered with a fibrous coat resembling hair) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalako&#x015b;a </dt>
+           <dd><em>&#x25cb;ko&#x015b;a</em> (cf. Su&#x015b;r.) or (L.), m. sg. and du. 'seed receptacle', the scrotum</dd>
+
+           <dt>&#x22d9; phalako&#x015b;aka </dt>
+           <dd><em>&#x25cb;ko&#x1e0d;&#x015b;aka</em> (L.), m. sg. and du. 'seed receptacle', the scrotum</dd>
+
+           <dt>&#x22d9; phalakha&#x1e47;&#x1e0d;ana </dt>
+           <dd><em>&#x25cb;kha&#x1e47;&#x1e0d;ana</em> n. fruit destruction, frustration of results <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phalakha&#x1e47;&#x1e0d;ava </dt>
+           <dd><em>&#x25cb;kha&#x1e47;&#x1e0d;ava</em> m. the pomegranate tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalakhel&#x0101; </dt>
+           <dd><em>&#x25cb;khel&#x0101;</em> f. a quail (= <em>ph&#x0101;la-kh&#x25cb;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalagrantha </dt>
+           <dd><em>&#x25cb;grantha</em> m. a work describing the effects (of celestial phenomena on the destiny of men) <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; N. of wks</dd>
+
+           <dt>&#x22d9; phalagraha </dt>
+           <dd><em>&#x25cb;graha</em> mfn. 'receiving fruits', deriving profit or advantage <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; m. the act of doing so <a href="worksAuthorsAbbrs.html#&#x015a;atr">&#x015a;atr.</a></dd>
+
+           <dt>&#x22d9; phalagrahi </dt>
+           <dd><em>&#x25cb;gr&#x00e1;hi</em> (cf. TS. <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;&#x1e6d;h">K&#x0101;&#x1e6d;h.</a>) or (&#x015a;&#x0101;&#x1e45;kh&#x015a;&#x1e5b;.), mfn. fruit-bearing, fruitful</dd>
+
+           <dt>&#x22d9; phalagrahi&#x1e63;&#x1e47;u </dt>
+           <dd><em>&#x25cb;grahi&#x1e63;&#x1e47;u</em> (&#x015a;&#x0101;&#x1e45;kh&#x015a;&#x1e5b;.), mfn. fruit-bearing, fruitful</dd>
+
+           <dt>&#x22d9; phalagr&#x0101;hin </dt>
+           <dd><em>&#x25cb;gr&#x0101;hin</em> m. a fruit tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalagh&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;gh&#x1e5b;ta</em> n. 'fruit-ghee', a partic. aphrodisiac <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;r&#x1e45;gS">&#x015a;&#x0101;r&#x1e45;gS.</a> </dd>
+           <dd>&#x2022; a medicament used in diseases of the uterus <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phalacandrik&#x0101; </dt>
+           <dd><em>&#x25cb;candrik&#x0101;</em> f. N. of sev. wks</dd>
+
+           <dt>&#x22d9; phalacamasa </dt>
+           <dd><em>&#x25cb;camasa</em> m. a cup containing pounded figs (with young leaves and sour milk instead of Soma) <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a> </dd>
+           <dd>&#x2022; (others 'ground bark of the Indian fig-tree with sour milk')</dd>
+
+           <dt>&#x22d9; phalac&#x0101;raka </dt>
+           <dd><em>&#x25cb;c&#x0101;raka</em> m. 'fruit-distribution', a partic. official in Buddhist monasteries <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalacoraka </dt>
+           <dd><em>&#x25cb;coraka</em> m. a kind of perfume <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalacchadana </dt>
+           <dd><em>&#x25cb;cchadana</em> n. a house built of wooden boards <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalatantra </dt>
+           <dd><em>&#x25cb;tantra</em> mfn. aiming only at one's own advantage <a href="worksAuthorsAbbrs.html#Kum">Kum.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a></dd>
+
+           <dt>&#x22d9; phalatas </dt>
+           <dd><em>&#x25cb;tas</em> ind. in relation to the reward or result <a href="worksAuthorsAbbrs.html#&#x0100;past">&#x0100;past.</a> </dd>
+           <dd>&#x2022; consequently, accordingly, virtually <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phalat&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> f. the being fruit, the state of fruit <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+           <dt>&#x22d9; phalatraya </dt>
+           <dd><em>&#x25cb;traya</em> n. 'fruit-triad', the 3 myrobalans <a href="worksAuthorsAbbrs.html#L">L.</a> ; 3 sorts of fruit collectively (the f&#x1e6d;fruit of the vine, of Grewia Asiatica or Xylacarpus Granatum and Gmelina Arborea) <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phalatrika </dt>
+           <dd><em>&#x25cb;trika</em> n. 'fruit-triad', the 3 myrobalans <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phalatva </dt>
+           <dd><em>&#x25cb;tva</em> n. = <em>-t&#x0101;</em> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+           <dt>&#x22d9; phalada </dt>
+           <dd><em>&#x25cb;da</em> mf(<em>&#x0101;</em>)n. 'fruit-giving', yielding or bearing fruit <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> </dd>
+           <dd>&#x2022; bringing profit or gain, giving a reward, rewarding, giving anything (gen. or comp.) as a reward         <br>          <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> &amp;c </dd>
+           <dd>&#x2022; a fruit tree, tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phaladantavat </dt>
+           <dd><em>&#x25cb;danta-vat</em> mfn. having fruitteeth or fruit for teeth <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a></dd>
+
+           <dt>&#x22d9; phalad&#x0101;t&#x1e5b; </dt>
+           <dd><em>&#x25cb;d&#x0101;t&#x1e5b;</em> or mfn. 'fruit-giving', yielding fruit, giving a result <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phalad&#x0101;yin </dt>
+           <dd><em>&#x25cb;d&#x0101;yin</em> mfn. 'fruit-giving', yielding fruit, giving a result <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phalad&#x012b;pik&#x0101; </dt>
+           <dd><em>&#x25cb;d&#x012b;pik&#x0101;</em> f. N. of wk</dd>
+
+           <dt>&#x22d9; phaladharman </dt>
+           <dd><em>&#x25cb;dharman</em> mfn. 'having the nature of fruit', ripening soon and then falling to the ground or perishing <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x22d9; phalanirv&#x1e5b;tti </dt>
+           <dd><em>&#x25cb;nirv&#x1e5b;tti</em> f. = <em>-ni&#x1e63;patti</em> <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a> </dd>
+           <dd>&#x2022; final consequence or result <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalaniv&#x1e5b;tti </dt>
+           <dd><em>&#x25cb;niv&#x1e5b;tti</em> f. cessation of consequences <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalani&#x1e63;patti </dt>
+           <dd><em>&#x25cb;ni&#x1e63;patti</em> f. production of fruit, fulfilment of consequences, attainment of reward <a href="worksAuthorsAbbrs.html#Kap">Kap.</a></dd>
+
+           <dt>&#x22d9; phala&#x1e43;dad&#x0101; </dt>
+           <dd><em>&#x25cb;&#x1e43;-dad&#x0101;</em> f. N. of a female Gandharava <a href="worksAuthorsAbbrs.html#K&#x0101;ra&#x1e47;&#x1e0d;">K&#x0101;ra&#x1e47;&#x1e0d;.</a></dd>
+
+           <dt>&#x22d9; phalapa&#x00f1;c&#x0101;mla </dt>
+           <dd><em>&#x25cb;pa&#x00f1;c&#x00e2;mla</em> n. a collection of 5 kinds of acid vegetables and fruits <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phal&#x00e2;mla-pa&#x00f1;caka</em>)</dd>
+
+           <dt>&#x22d9; phalapari&#x1e47;ati </dt>
+           <dd><em>&#x25cb;pari&#x1e47;ati</em> f. the ripeness of fruit <a href="worksAuthorsAbbrs.html#Megh">Megh.</a></dd>
+
+           <dt>&#x22d9; phalapari&#x1e47;&#x0101;ma </dt>
+           <dd><em>&#x25cb;pari&#x1e47;&#x0101;ma</em> m. id. <a href="worksAuthorsAbbrs.html#A">A.</a></dd>
+
+           <dt>&#x22d9; phalapariv&#x1e5b;tti </dt>
+           <dd><em>&#x25cb;pariv&#x1e5b;tti</em> f. a fruitful harvest <a href="worksAuthorsAbbrs.html#&#x0100;p">&#x0100;p.</a></dd>
+
+           <dt>&#x22d9; phalap&#x0101;ka </dt>
+           <dd><em>&#x25cb;p&#x0101;ka</em> m. the ripening of fruit ( See below) </dd>
+           <dd>&#x2022; the fulfilment of consequences <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; Carissa Carandas <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>p&#x0101;ka-phala</em> and <em>k&#x1e5b;&#x1e63;&#x1e47;a-p"&#x1e63;-ph&#x25cb;</em>) </dd>
+           <dd>&#x2022; <em>-ni&#x1e63;&#x1e6d;h&#x0101;</em> (cf. Su&#x015b;r.), <em>&#x25cb;k&#x00e2;nt&#x0101;</em> (cf. Mn.), <em>&#x25cb;k&#x00e2;vas&#x0101;n&#x0101;</em> (cf. L.), <em>&#x25cb;k&#x00e2;vas&#x0101;nik&#x0101;</em> (cf. L.), f. a plant ending or perishing with the ripening of fruit, an annual plant</dd>
+
+           <dt>&#x22d9; phalap&#x0101;kin </dt>
+           <dd><em>&#x25cb;p&#x0101;kin</em> m. Thespesia Populneoides <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalap&#x0101;tana </dt>
+           <dd><em>&#x25cb;p&#x0101;tana</em> n. knocking down or gathering fruit <a href="worksAuthorsAbbrs.html#Mn">Mn.</a></dd>
+
+           <dt>&#x22d9; phalap&#x0101;dapa </dt>
+           <dd><em>&#x25cb;p&#x0101;dapa</em> m. a fruit tree <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; phalapuccha </dt>
+           <dd><em>&#x25cb;puccha</em> m. a partic. species of esculent &#x221a;or bulb <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalapura </dt>
+           <dd><em>&#x25cb;pura</em> n. N. of a city (= <em>phalaka-p&#x25cb;</em>) <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x22d9; phalapu&#x1e63;pa </dt>
+           <dd><em>&#x25cb;pu&#x1e63;pa</em> (ibc.) fruits and flowers </dd>
+           <dd>&#x2022; <em>-vat</em> mfn. adorned with fruits and flowers <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> </dd>
+           <dd>&#x2022; <em>-v&#x1e5b;ddhi</em> f. increase or growth of fruits and flowers <a href="worksAuthorsAbbrs.html#MW">MW.</a> </dd>
+           <dd>&#x2022; <em>&#x25cb;p&#x00f4;pa&#x015b;obhita</em> mfn. adorned with fruits and flowers <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phalapu&#x1e63;p&#x0101; </dt>
+           <dd><em>&#x25cb;pu&#x1e63;p&#x0101;</em> f. a species of date tree <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; Ipomoea Turpethum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalapu&#x1e63;pita </dt>
+           <dd><em>&#x25cb;pu&#x1e63;pita</em> mfn. covered with fruits and flowers <a href="worksAuthorsAbbrs.html#BrahmaP">BrahmaP.</a></dd>
+
+           <dt>&#x22d9; phalapu&#x1e63;p&#x012b; </dt>
+           <dd><em>&#x25cb;pu&#x1e63;p&#x012b;</em> f. Ipomoea Turpethum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalap&#x016b;ra </dt>
+           <dd><em>&#x25cb;p&#x016b;ra</em> m. 'full of kernels', the citron tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalap&#x016b;raka </dt>
+           <dd><em>&#x25cb;p&#x016b;raka</em> m. id. <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> </dd>
+           <dd>&#x2022; (prob.) n. the citron <a href="worksAuthorsAbbrs.html#Car">Car.</a></dd>
+
+           <dt>&#x22d9; phalapracayana </dt>
+           <dd><em>&#x25cb;pracayana</em> n. gathering fruits <a href="worksAuthorsAbbrs.html#P&#x0101;rG&#x1e5b;">P&#x0101;rG&#x1e5b;.</a> <font color="#FF0000" font size=-2><a name="p717-1"></a>[Page 717, Column 1]</font>
+</dd>
+
+           <dt>&#x22d9; phalaprajanana </dt>
+           <dd><em>&#x25cb;prajanana</em> n. the production of fruit <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x22d9; phalaprada </dt>
+           <dd><em>&#x25cb;prada</em> mfn. bringing profit or a reward <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x22d9; phalaprad&#x0101;na </dt>
+           <dd><em>&#x25cb;prad&#x0101;na</em> n. the giving of f&#x1e6d;fruit (a marriage-ceremony) <a href="worksAuthorsAbbrs.html#B&#x1e5b;&#x0100;rUp">B&#x1e5b;&#x0100;rUp.</a> <a href="worksAuthorsAbbrs.html#&#x015a;a&#x1e43;k">&#x015a;a&#x1e43;k.</a></dd>
+
+           <dt>&#x22d9; phalaprad&#x012b;pa </dt>
+           <dd><em>&#x25cb;prad&#x012b;pa</em> m. N. of wk</dd>
+
+           <dt>&#x22d9; phalaprayukta </dt>
+           <dd><em>&#x25cb;prayukta</em> mfn. connected with or producing consequences, yielding fruit <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalapras&#x016b;ti </dt>
+           <dd><em>&#x25cb;pras&#x016b;ti</em> f. a growth of f&#x1e6d;fruit, crop of <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a></dd>
+
+           <dt>&#x22d9; phalapr&#x0101;pti </dt>
+           <dd><em>&#x25cb;pr&#x00e2;pti</em> f. obtaining (the desired) fruit or result, success <a href="worksAuthorsAbbrs.html#Ratn&#x00e2;v">Ratn&#x00e2;v.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a></dd>
+
+           <dt>&#x22d9; phalapriy&#x0101; </dt>
+           <dd><em>&#x25cb;priy&#x0101;</em> f. Aglaia Odorata <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a species of crow <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalaprepsu </dt>
+           <dd><em>&#x25cb;pr&#x00ea;psu</em> mfn. wishing to obtain f&#x1e6d;fruit, desirous of attaining results <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; phalabandhin </dt>
+           <dd><em>&#x25cb;bandhin</em> mfn. forming or developing fruit <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a></dd>
+
+           <dt>&#x22d9; phalabhak&#x1e63;a </dt>
+           <dd><em>&#x25cb;bhak&#x1e63;a</em> mfn. feeding on f&#x1e6d;fruit </dd>
+           <dd>&#x2022; <em>-t&#x0101;</em> f. <a href="worksAuthorsAbbrs.html#Gaut">Gaut.</a></dd>
+
+           <dt>&#x22d9; phalabh&#x0101;ga </dt>
+           <dd><em>&#x25cb;bh&#x0101;ga</em> m. a share in any product, share of advantage or profit <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; N. of wk</dd>
+
+           <dt>&#x22d9; phalabh&#x0101;gin </dt>
+           <dd><em>&#x25cb;bh&#x0101;gin</em> mfn. sharing in profit or advantage, partaking of a reward <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> iii, 143</dd>
+
+           <dt>&#x22d9; phalabh&#x0101;j </dt>
+           <dd><em>&#x25cb;bh&#x0101;j</em> mfn. receiving fruit, sharing in a rew&#x1e6d;reward <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x22d9; phalabhuj </dt>
+           <dd><em>&#x25cb;bhuj</em> mfn. enjoying fruit <a href="worksAuthorsAbbrs.html#MW">MW.</a> </dd>
+           <dd>&#x2022; m. a monkey <a href="worksAuthorsAbbrs.html#Prasannar">Prasannar.</a></dd>
+
+           <dt>&#x22d9; phalabh&#x016b;ti </dt>
+           <dd><em>&#x25cb;bh&#x016b;ti</em> m. N. of a Br&#x0101;hman <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+           <dt>&#x22d9; phalabh&#x016b;mi </dt>
+           <dd><em>&#x25cb;bh&#x016b;mi</em> f. 'retribution-land', place of reward or punishment (i.e. heaven or hell) <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+           <dt>&#x22d9; phalabh&#x016b;yastva </dt>
+           <dd><em>&#x25cb;bh&#x016b;yas-tva</em> n. a greater reward <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;vG&#x1e5b;">&#x0100;&#x015b;vG&#x1e5b;.</a></dd>
+
+           <dt>&#x22d9; phalabh&#x1e5b;t </dt>
+           <dd><em>&#x25cb;bh&#x1e5b;t</em> mfn. fruit-bearing, fruitful <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a></dd>
+
+           <dt>&#x22d9; phalabhoga </dt>
+           <dd><em>&#x25cb;bhoga</em> m. enjoyment of consequences </dd>
+           <dd>&#x2022; possession of rent or profit, usufruct <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalabhogin </dt>
+           <dd><em>&#x25cb;bhogin</em> mfn. enjoying fruits or cons&#x1e6d;consequences, receiving profits <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phalabhogya </dt>
+           <dd><em>&#x25cb;bhogya</em> mfn. that of which one has the usufruct (a pledge) <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a></dd>
+
+           <dt>&#x22d9; phalamatsy&#x0101; </dt>
+           <dd><em>&#x25cb;matsy&#x0101;</em> f. the aloe plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalamaya </dt>
+           <dd><em>&#x25cb;maya</em> mf(<em>&#x012b;</em>)n. consisting of fruits <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a></dd>
+
+           <dt>&#x22d9; phalamukhy&#x0101; </dt>
+           <dd><em>&#x25cb;mukhy&#x0101;</em> f. a species of plant (= <em>aja-mod&#x0101;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalamudgarik&#x0101; </dt>
+           <dd><em>&#x25cb;mudgarik&#x0101;</em> f. a kind of date tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalam&#x016b;la </dt>
+           <dd><em>&#x25cb;m&#x016b;la</em> n. sg. or du. or pl. fruits and roots <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> </dd>
+           <dd>&#x2022; <em>-maya</em> mf(<em>&#x012b;</em>)n. formed of fruit and roots <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> </dd>
+           <dd>&#x2022; <em>-vat</em> mfn. supplied with fruit and roots <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; phalam&#x016b;lin </dt>
+           <dd><em>&#x25cb;m&#x016b;lin</em> mfn. having (edible) f&#x1e6d;fruit and roots <a href="worksAuthorsAbbrs.html#M&#x0101;rkP">M&#x0101;rkP.</a></dd>
+
+           <dt>&#x22d9; phalayukta </dt>
+           <dd><em>&#x25cb;yukta</em> mfn. connected with a reward <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x22d9; phalayoga </dt>
+           <dd><em>&#x25cb;yoga</em> m. the attainment of an object <a href="worksAuthorsAbbrs.html#Mudr">Mudr.</a> <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> </dd>
+           <dd>&#x2022; remuneration, reward <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;t</em>), ind. because the reward falls to (his) share <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x22d9; phalar&#x0101;jan </dt>
+           <dd><em>&#x25cb;r&#x0101;jan</em> m. 'king of fruits', a water-melon <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalar&#x0101;&#x015b;i </dt>
+           <dd><em>&#x25cb;r&#x0101;&#x015b;i</em> m. the 3rd term in rule of three <a href="worksAuthorsAbbrs.html#&#x0100;ryabh">&#x0100;ryabh.</a></dd>
+
+           <dt>&#x22d9; phalavat </dt>
+           <dd><em>&#x25cb;vat</em> (<em>ph&#x00e1;la-</em>), mfn. fruit-bearing, fructiferous, covered or laden with fruits <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#G&#x1e5b;S">G&#x1e5b;S.</a> &amp;c </dd>
+           <dd>&#x2022; yielding results, successful, profitable, advantageous <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#&#x0100;past">&#x0100;past.</a> <a href="worksAuthorsAbbrs.html#Hit">Hit.</a> (<em>-t&#x0101;</em> f. <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a> <a href="worksAuthorsAbbrs.html#Mcar">Mcar.</a> </dd>
+           <dd>&#x2022; <em>-tva</em> n. <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a>, &#x015a;a&#x1e43;h. <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a>) </dd>
+           <dd>&#x2022; having profit or advantage <a href="worksAuthorsAbbrs.html#Vop">Vop.</a> </dd>
+           <dd>&#x2022; (in dram.) containing the result or end of a plot <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> </dd>
+           <dd>&#x2022; (<em>at&#x012b;</em>), f. a twig of a partic. thorn tree </dd>
+           <dd>&#x2022; (others 'the plant <em>priya&#x1e45;gu</em>' </dd>
+           <dd>&#x2022; cf. <em>phalin&#x012b;</em>) <a href="worksAuthorsAbbrs.html#&#x1e62;a&#x1e0d;vBr">&#x1e62;a&#x1e0d;vBr.</a> <a href="worksAuthorsAbbrs.html#Gobh">Gobh.</a> </dd>
+           <dd>&#x2022; N. of wk</dd>
+
+           <dt>&#x22d9; phalavandhya </dt>
+           <dd><em>&#x25cb;vandhya</em> mfn. barren or destitute of fruits, not bearing fruit <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phal&#x00e2;v&#x25cb;</em>)</dd>
+
+           <dt>&#x22d9; phalavarti </dt>
+           <dd><em>&#x25cb;varti</em> f. (in med.) a suppository <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;r&#x1e45;gS">&#x015a;&#x0101;r&#x1e45;gS.</a></dd>
+
+           <dt>&#x22d9; phalavartula </dt>
+           <dd><em>&#x25cb;vartula</em> m. Gardenia Latifolia <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a water-melon <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phalavall&#x012b; </dt>
+           <dd><em>&#x25cb;vall&#x012b;</em> f. a series of quotients <a href="worksAuthorsAbbrs.html#&#x0100;ryabh">&#x0100;ryabh.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> <a href="worksAuthorsAbbrs.html#Col">Col.</a></dd>
+
+           <dt>&#x22d9; phalav&#x0101;kya </dt>
+           <dd><em>&#x25cb;v&#x0101;kya</em> n. promise of reward <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a></dd>
+
+           <dt>&#x22d9; phalavikrayi&#x1e47;&#x012b; </dt>
+           <dd><em>&#x25cb;vikrayi&#x1e47;&#x012b;</em> f. a female fruit-seller <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x22d9; phalav&#x1e5b;k&#x1e63;a </dt>
+           <dd><em>&#x25cb;v&#x1e5b;k&#x1e63;a</em> m. a fruit tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalav&#x1e5b;k&#x1e63;aka </dt>
+           <dd><em>&#x25cb;v&#x1e5b;k&#x1e63;aka</em> m. the bread-fruit tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phala&#x015b;&#x0101;&#x1e0d;ava </dt>
+           <dd><em>&#x25cb;&#x015b;&#x0101;&#x1e0d;ava</em> See <em>-&#x1e63;&#x0101;&#x1e0d;ava</em></dd>
+
+           <dt>&#x22d9; phala&#x015b;&#x0101;lin </dt>
+           <dd><em>&#x25cb;&#x015b;&#x0101;lin</em> mfn. yielding wages <a href="worksAuthorsAbbrs.html#Kir">Kir.</a> </dd>
+           <dd>&#x2022; experiencing consequences, sharing in results (<em>&#x25cb;li-tva</em> n.) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phala&#x015b;ai&#x015b;ira </dt>
+           <dd><em>&#x25cb;&#x015b;ai&#x015b;ira</em> m. Zizyphus Jujuba <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phala&#x015b;re&#x1e63;&#x1e6d;ha </dt>
+           <dd><em>&#x25cb;&#x015b;re&#x1e63;&#x1e6d;ha</em> m. 'best of fruits', the mango tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phala&#x1e63;&#x0101;&#x1e0d;ava </dt>
+           <dd><em>&#x25cb;&#x1e63;&#x0101;&#x1e0d;ava</em> m. the pomegranate tree <a href="worksAuthorsAbbrs.html#L">L.</a> (written <em>&#x015b;&#x0101;&#x1e0d;&#x25cb;</em>)</dd>
+
+           <dt>&#x22d9; phalasa&#x1e43;yukta </dt>
+           <dd><em>&#x25cb;sa&#x1e43;yukta</em> mfn. connected with a reward <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x22d9; phalasa&#x1e43;yoga </dt>
+           <dd><em>&#x25cb;sa&#x1e43;yoga</em> m. the being conn&#x1e6d;connected with a reward <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a></dd>
+
+           <dt>&#x22d9; phalasa&#x1e43;stha </dt>
+           <dd><em>&#x25cb;sa&#x1e43;stha</em> mfn. bearing fruit <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phalasampad </dt>
+           <dd><em>&#x25cb;sampad</em> f. abundance of fruit, good result, success, prosperity <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalasambaddha </dt>
+           <dd><em>&#x25cb;sambaddha</em> m. 'f&#x1e6d;fruit-endowed', the tree Ficus Glomerata <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalasambhava </dt>
+           <dd><em>&#x25cb;sambhava</em> or mfn. produced in or by fruit <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalasambh&#x016b; </dt>
+           <dd><em>&#x25cb;sambh&#x016b;</em> mfn. produced in or by f&#x1e6d;fruit <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalasambh&#x0101;r&#x0101; </dt>
+           <dd><em>&#x25cb;sambh&#x0101;r&#x0101;</em> f. 'having abundance of fruit', the tree Ficus Oppositifolia <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalasahasra </dt>
+           <dd><em>&#x25cb;sahasra</em> n. a thousand fruits </dd>
+           <dd>&#x2022; du. two thousand fruit <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phalas&#x0101;&#x1e43;karyakha&#x1e47;&#x1e0d;ana </dt>
+           <dd><em>&#x25cb;s&#x0101;&#x1e43;karya-kha&#x1e47;&#x1e0d;ana</em> n. N. of wk</dd>
+
+           <dt>&#x22d9; phalas&#x0101;dhana </dt>
+           <dd><em>&#x25cb;s&#x0101;dhana</em> n. effecting any result <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> </dd>
+           <dd>&#x2022; a means of effecting any result <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalasiddhi </dt>
+           <dd><em>&#x25cb;siddhi</em> f. realising an object, success, a prosperous issue <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a></dd>
+
+           <dt>&#x22d9; phalastanavat&#x012b; </dt>
+           <dd><em>&#x25cb;stana-vat&#x012b;</em> f. (a female) having fruits for breasts <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a></dd>
+
+           <dt>&#x22d9; phalasth&#x0101;na </dt>
+           <dd><em>&#x25cb;sth&#x0101;na</em> n. the stage in which fruits or results are enjoyed <a href="worksAuthorsAbbrs.html#Buddh">Buddh.</a></dd>
+
+           <dt>&#x22d9; phalasneha </dt>
+           <dd><em>&#x25cb;sneha</em> m. 'having oil in its f&#x1e6d;fruit', a walnut tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalah&#x0101;ni </dt>
+           <dd><em>&#x25cb;h&#x0101;ni</em> f. loss of fruit or profit <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalah&#x0101;rin </dt>
+           <dd><em>&#x25cb;h&#x0101;rin</em> mfn. fruit-seizing, stealing fruit <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-2, 79 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; phalah&#x0101;r&#x012b; </dt>
+           <dd><em>&#x25cb;h&#x0101;r&#x012b;</em> f. N. of K&#x0101;l&#x012b; (a form of Durg&#x0101;) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalah&#x012b;na </dt>
+           <dd><em>&#x25cb;h&#x012b;na</em> mfn. 'yielding no fruits' and 'giving no wages' <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a></dd>
+
+           <dt>&#x22d9; phalahetu </dt>
+           <dd><em>&#x25cb;hetu</em> mfn. one who has results for a motive, acting with a view to roots <a href="worksAuthorsAbbrs.html#Bhag">Bhag.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;k&#x0101;&#x1e45;k&#x1e63;&#x0101; </dt>
+           <dd><em>phal&#x00e2;k&#x0101;&#x1e45;k&#x1e63;&#x0101;</em> f. hope or expectation of favourable consequences <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;k&#x0101;&#x1e45;k&#x1e63;in </dt>
+           <dd><em>phal&#x00e2;k&#x0101;&#x1e45;k&#x1e63;in</em> mfn. desirous of results, wishing for fav&#x1e6d;favourable cons&#x1e6d;consequences <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;gama </dt>
+           <dd><em>phal&#x00e2;gama</em> m. 'access of fruits', production of fruit, load of fruit <a href="worksAuthorsAbbrs.html#&#x015a;ak">&#x015a;ak.</a> </dd>
+           <dd>&#x2022; the fruit season, autumn <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;gra </dt>
+           <dd><em>phal&#x00e2;gra</em> n. 'fruit-beginning', f&#x1e6d;fruit-time, <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <font color="#FF0000" font size=-2><a name="p717-2"></a>[Page 717, Column 2]</font> </dd>
+           <dd>&#x2022; <em>-&#x015b;&#x0101;khin</em> mfn. having fruits at the ends of its branches <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;&#x1e0d;hya </dt>
+           <dd><em>phal&#x00e2;&#x1e0d;hya</em> mf(<em>&#x0101;</em>)n. 'rich in fruit', covered with fruit <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. the wild plantain <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;dana </dt>
+           <dd><em>phal&#x00e2;dana</em> m. 'fruit-eater', a parrot <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phal&#x00e2;&#x015b;ana</em>)</dd>
+
+           <dt>&#x22d9; phal&#x0101;dhik&#x0101;ra </dt>
+           <dd><em>phal&#x00e2;dhik&#x0101;ra</em> m. a claim for wages <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;dhyak&#x1e63;a </dt>
+           <dd><em>phal&#x00e2;dhyak&#x1e63;a</em> m. 'superintendent of f&#x1e6d;fruit', Mimusops Kauki <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;nubandha </dt>
+           <dd><em>phal&#x00e2;nubandha</em> m. sequence of results, the consequences or results of (comp.), &#x015a;&#x0101;nti&#x015b;</dd>
+
+           <dt>&#x22d9; phal&#x0101;numeya </dt>
+           <dd><em>phal&#x00e2;numeya</em> mfn. inferable from c&#x1e6d;consequences or roots <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;nusara&#x1e47;a </dt>
+           <dd><em>phal&#x00e2;nusara&#x1e47;a</em> n. rate or aggregate of profits <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;nta </dt>
+           <dd><em>phal&#x00e2;nta</em> m. 'ending with fruit', a bamboo <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;nve&#x1e63;in </dt>
+           <dd><em>phal&#x00e2;nve&#x1e63;in</em> mfn. seeking fruit or results, looking for a reward <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;p&#x016b;rva </dt>
+           <dd><em>phal&#x00e2;p&#x016b;rva</em> n. the mystic power which produces the consequences of a sacrificial act <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;pek&#x1e63;&#x0101; </dt>
+           <dd><em>phal&#x00e2;p&#x00ea;k&#x1e63;&#x0101;</em> f. regard to results, expectation of cons&#x1e6d;consequences <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;peta </dt>
+           <dd><em>phal&#x00e2;p&#x00ea;ta</em> mfn. deprived of fruit, unproductive, unfertile <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;phalik&#x0101; </dt>
+           <dd><em>phal&#x00e2;phalik&#x0101;</em> f. g. <em>&#x015b;&#x0101;ka-p&#x0101;rthiv&#x00e2;di</em></dd>
+
+           <dt>&#x22d9; phal&#x0101;bdhi </dt>
+           <dd><em>phal&#x00e2;bdhi</em> m. N. of wk</dd>
+
+           <dt>&#x22d9; phal&#x0101;bhi&#x1e63;eka </dt>
+           <dd><em>phal&#x00e2;bhi&#x1e63;eka</em> m. N. of wk</dd>
+
+           <dt>&#x22d9; phal&#x0101;bhoga </dt>
+           <dd><em>phal&#x00e2;bhoga</em> m. non-enjoyment of profits &amp;c. <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;mla </dt>
+           <dd><em>phal&#x00e2;mla</em> m. Rumex Vericarius <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a tamarind <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; <em>-pa&#x00f1;caka</em> n. the 5 acid or sour fruits, viz. bergamot, orange, sorrel, tamarind and citron <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>amla-pa&#x00f1;ca</em> and <em>phala-pa&#x00f1;c&#x00e2;mla</em>)</dd>
+
+           <dt>&#x22d9; phal&#x0101;mlika </dt>
+           <dd><em>phal&#x00e2;mlika</em> mfn. having anything made with sour fruit <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;r&#x0101;ma </dt>
+           <dd><em>phal&#x00e2;r&#x0101;ma</em> m. a fruit-garden, orchard <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;rthin </dt>
+           <dd><em>phal&#x00e2;rthin</em> mfn. one who aims at fruits or reward <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> </dd>
+           <dd>&#x2022; <em>&#x25cb;thi-tva</em> n. <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;vandhya </dt>
+           <dd><em>phal&#x00e2;vandhya</em> mfn. not barren of f&#x1e6d;fruit, bearing fruit <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phala&#x015b;ana </dt>
+           <dd><em>phal&#x00e1;&#x015b;ana</em> m. 'fruit-eater', a parrot <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phal&#x00e2;dana</em>)</dd>
+
+           <dt>&#x22d9; phal&#x0101;&#x015b;in </dt>
+           <dd><em>phal&#x00e2;&#x015b;in</em> mfn. feeding or living on f&#x1e6d;fruit <a href="worksAuthorsAbbrs.html#Vish&#x1e47;">Vish&#x1e47;.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;sakta </dt>
+           <dd><em>phal&#x00e2;sakta</em> mfn. attached to fruit or results, acting for the sake of reward </dd>
+           <dd>&#x2022; fond of fruit, seeking to pluck fruit <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;sava </dt>
+           <dd><em>phal&#x00e2;sava</em> m. a decoction of fruit <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;sthi </dt>
+           <dd><em>phal&#x00e2;sthi</em> n. 'having fruit with a hard rind', a cocoa-nut <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phal&#x0101;h&#x0101;ra </dt>
+           <dd><em>phal&#x00e2;h&#x0101;ra</em> m. feeding or living on f&#x1e6d;fruit <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x22d9; phalegrahi </dt>
+           <dd><em>phale-grahi</em> mfn. bearing fruit, fruitful, successful (= <em>phala-g&#x25cb;</em>)         <br>          <a href="worksAuthorsAbbrs.html#M&#x0101;lat&#x012b;m">M&#x0101;lat&#x012b;m.</a> <a href="worksAuthorsAbbrs.html#Naish">Naish.</a> (cf. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 3-2, 26)</dd>
+
+           <dt>&#x22d9; phalegr&#x0101;hi </dt>
+           <dd><em>phale-gr&#x0101;hi</em> or mfn. bearing fruit <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalegr&#x0101;hin </dt>
+           <dd><em>phale-gr&#x0101;&#x1e0d;hin</em> mfn. bearing fruit <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phaletarat&#x0101; </dt>
+           <dd><em>phal&#x00ea;tara-t&#x0101;</em> f. the being other than f&#x1e6d;fruit <a href="worksAuthorsAbbrs.html#Da&#x015b;">Da&#x015b;.</a></dd>
+
+           <dt>&#x22d9; phalendr&#x0101; </dt>
+           <dd><em>phal&#x00ea;ndr&#x0101;</em> f. a species of Jamb&#x016b; <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x22d9; phalep&#x0101;ka </dt>
+           <dd><em>phale-p&#x0101;ka</em></dd>
+
+           <dt>&#x22d9; phalep&#x0101;k&#x0101; </dt>
+           <dd><em>phale-p&#x0101;k&#x0101;</em></dd>
+
+           <dt>&#x22d9; phalep&#x0101;ku </dt>
+           <dd><em>phale-p&#x0101;ku</em> g. <em>nya&#x1e45;kv-&#x0101;di</em></dd>
+
+           <dt>&#x22d9; phalep&#x0101;kin </dt>
+           <dd><em>phale-p&#x0101;kin</em> m. Hibiscus Populneoides <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalepu&#x1e63;p&#x0101; </dt>
+           <dd><em>phalepu&#x1e63;p&#x0101;</em> f. Phlomis Zeylanica <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x22d9; phaleruh&#x0101; </dt>
+           <dd><em>phale-ruh&#x0101;</em> f. Bignonia Suaveolens <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; phaloccaya </dt>
+           <dd><em>phal&#x00f4;ccaya</em> m. collecting or a collection of fruits <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalottam&#x0101; </dt>
+           <dd><em>phal&#x00f4;ttam&#x0101;</em> f. 'best of fruit', a kind of grape without stones <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the 3 myrobalans <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the benefit arising from sacred study (?) <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; a small sort of rope(?) <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalotpati </dt>
+           <dd><em>phal&#x00f4;tpati</em> (!), m. the mango tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalotpatti </dt>
+           <dd><em>phal&#x00f4;tpatti</em> f. production of fruit, profit, gain, advantage <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; phalotprek&#x1e63;&#x0101; </dt>
+           <dd><em>phal&#x00f4;tpr&#x00ea;k&#x1e63;&#x0101;</em> f. a kind of comparison <a href="worksAuthorsAbbrs.html#Kuval">Kuval.</a></dd>
+
+           <dt>&#x22d9; phalodaka </dt>
+           <dd><em>phal&#x00f4;daka</em> m. N. of a Yaksha <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x22d9; phalodaya </dt>
+           <dd><em>phal&#x00f4;daya</em> m. arising or appearance of consequences or results, recompense, reward, punishment (with gen. or loc. or comp.) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> &amp;c </dd>
+           <dd>&#x2022; joy <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; heaven <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalodgama </dt>
+           <dd><em>phal&#x00f4;dgama</em> m. pl. development of fruits <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a></dd>
+
+           <dt>&#x22d9; phalodde&#x015b;a </dt>
+           <dd><em>phal&#x00f4;dde&#x015b;a</em> m. regard to results <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phalodbhava </dt>
+           <dd><em>phal&#x00f4;dbhava</em> mfn. obtained or derived from fruit <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x22d9; phalonmukha </dt>
+           <dd><em>phal&#x00f4;nmukha</em> mfn. being about to give f&#x1e6d;fruit <a href="worksAuthorsAbbrs.html#Mcar">Mcar.</a></dd>
+
+           <dt>&#x22d9; phalopagama </dt>
+           <dd><em>phal&#x00f4;pagama</em> mfn. bearing fruit <a href="worksAuthorsAbbrs.html#Vish&#x1e47;">Vish&#x1e47;.</a></dd>
+
+           <dt>&#x22d9; phalopaj&#x012b;vin </dt>
+           <dd><em>phal&#x00f4;paj&#x012b;vin</em> mfn. living by the cultivation or sale of fruit <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; phalopabhoga </dt>
+           <dd><em>phal&#x00f4;pabhoga</em> m. enjoyment of fruit, partaking of reward or of the consequences of anything <a href="worksAuthorsAbbrs.html#Kap">Kap.</a></dd>
+
+           <dt>&#x22d9; phalopeta </dt>
+           <dd><em>phal&#x00f4;p&#x00ea;ta</em> mfn. possessing fruit, yielding fruit <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x226b; phalaka </dt>
+           <dd><em>phalaka</em> (ifc., f. <em>ik&#x0101;</em>) = <em>phala</em>, fruit, result, gain (<em>-tva</em> n.) <a href="worksAuthorsAbbrs.html#Kull">Kull.</a> on <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> ii, 146 </dd>
+           <dd>&#x2022; menstruation (cf. <em>nava-phalik&#x0101;</em>) </dd>
+           <dd>&#x2022; (<em>ph&#x00e1;laka</em>), n. (m., g. <em>ardharc&#x00e2;di</em> </dd>
+           <dd>&#x2022; ifc. f. <em>&#x0101;</em>) a board, lath, plank, leaf. bench <a href="worksAuthorsAbbrs.html#Br">Br.</a> <a href="worksAuthorsAbbrs.html#G&#x1e5b;&#x015a;rS">G&#x1e5b;&#x015a;rS.</a>, &amp;c </dd>
+           <dd>&#x2022; a slab or tablet (for writing or painting on </dd>
+           <dd>&#x2022; also = page, leaf) <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> <a href="worksAuthorsAbbrs.html#Lalit">Lalit.</a> </dd>
+           <dd>&#x2022; a picture (= <em>citra-ph&#x25cb;</em>). <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> iv, 3/4 </dd>
+           <dd>&#x2022; a gamingboard (cf. <em>&#x015b;&#x0101;ri-ph&#x25cb;</em>) </dd>
+           <dd>&#x2022; a wooden bench <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; a slab at the base (of a pedestal </dd>
+           <dd>&#x2022; cf. <em>spha&#x1e6d;ika-ph&#x25cb;</em>) </dd>
+           <dd>&#x2022; any flat surface (often in comp. with parts of the body, applied to broad flat bones, cf. <em>a&#x1e43;sa-</em>, <em>pha&#x1e47;&#x0101;-</em>, <em>lal&#x0101;&#x1e6d;a-ph&#x25cb;</em> &amp;c.) </dd>
+           <dd>&#x2022; the palm of the hand <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> </dd>
+           <dd>&#x2022; the buttocks <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the top or head of an arrow <a href="worksAuthorsAbbrs.html#Kull">Kull.</a> on <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> vii, 90 </dd>
+           <dd>&#x2022; a shield <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; bark (as a material for clothes) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> </dd>
+           <dd>&#x2022; the pericarp of a lotus <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a> </dd>
+           <dd>&#x2022; = <em>-yantra</em> <a href="worksAuthorsAbbrs.html#Gol">Gol.</a> </dd>
+           <dd>&#x2022; a layer <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; the stand on which a monk keeps his turban <a href="worksAuthorsAbbrs.html#Buddh">Buddh.</a> </dd>
+           <dd>&#x2022; m. Mesua Roxburgh&#x012b; <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em> or <em>ik&#x0101;</em>), f. See below</dd>
+
+           <dt>&#x22d9; phalakaparidh&#x0101;na </dt>
+           <dd><em>&#x25cb;paridh&#x0101;na</em> n. putting on a bark garment <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x22d9; phalakap&#x0101;&#x1e47;i </dt>
+           <dd><em>&#x25cb;p&#x0101;&#x1e47;i</em> m. a soldier armed with a shield <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalakapura </dt>
+           <dd><em>&#x25cb;pura</em> n. N. of a town in the east of India <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-2, 101 (cf. <em>phala-pura</em>)</dd>
+
+           <dt>&#x22d9; phalakayantra </dt>
+           <dd><em>&#x25cb;yantra</em> n. an astronomical instrument invented by Bh&#x0101;s-kara <a href="worksAuthorsAbbrs.html#Gol">Gol.</a></dd>
+
+           <dt>&#x22d9; phalakasaktha </dt>
+           <dd><em>&#x25cb;saktha</em> n. a thigh like a board <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-4, 98 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> <font color="#FF0000" font size=-2><a name="p717-3"></a>[Page 717, Column 3]</font>
+</dd>
+
+           <dt>&#x22d9; phalak&#x0101;khyayantra </dt>
+           <dd><em>phalak&#x00e2;khya-yantra</em> n. = <em>&#x25cb;ka-yantra</em> <a href="worksAuthorsAbbrs.html#Gol">Gol.</a></dd>
+
+           <dt>&#x22d9; phalak&#x0101;vana </dt>
+           <dd><em>phalak&#x0101;vana</em> n. N. of a forest sacred to Sarasvat&#x012b; <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> (<em>&#x25cb;k&#x012b;-vana</em> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a>)</dd>
+
+           <dt>&#x22d9; phalak&#x0101;s&#x0101;dana </dt>
+           <dd><em>phalak&#x00e2;s&#x0101;dana</em> n. the obtaining or reaching a plank (said of a drowning person) <a href="worksAuthorsAbbrs.html#Ratn&#x00e2;v">Ratn&#x00e2;v.</a></dd>
+
+           <dt>&#x226b; phalak&#x0101; </dt>
+           <dd><em>phalak&#x0101;</em> f. v&#x1e37;. for <em>halak&#x0101;</em> g. <em>pr&#x00ea;k&#x1e63;&#x00e2;di</em></dd>
+
+           <dt>&#x226b; phalakin </dt>
+           <dd><em>phalakin</em> mfn. having a board or a shield <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; v&#x1e37;. for <em>halakin</em> g. <em>pr&#x00ea;k&#x1e63;&#x00e2;di</em> </dd>
+           <dd>&#x2022; m. a wooden bench (v&#x1e37;. <em>phalaka</em>) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; a kind of fish <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (prob. n.) sandal-wood <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>in&#x012b;</em>), f. a plank <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a></dd>
+
+           <dt>&#x226b; phalana </dt>
+           <dd><em>phalana</em> n. bearing fruit or producing consequences <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; phalasa </dt>
+           <dd><em>phalasa</em> mfn. (fr. <em>phala</em>), g. <em>t&#x1e5b;&#x1e47;&#x00e2;di</em> </dd>
+           <dd>&#x2022; m. the bread-fruit or Jaka tree (= <em>panasa</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phalahaka </dt>
+           <dd><em>phalahaka</em> m. a plank, board (= <em>phalaka</em>) <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> (others 'N. of a place')</dd>
+
+           <dt>&#x226b; phalah&#x012b; </dt>
+           <dd><em>phalah&#x012b;</em> f. the cotton tree, cotton plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phal&#x0101;ya </dt>
+           <dd><em>phal&#x0101;ya</em> Nom. &#x0100;. <em>&#x25cb;yate</em>, to be the fruit or result of <a href="worksAuthorsAbbrs.html#Da&#x015b;">Da&#x015b;.</a> (<em>ph&#x00e1;l&#x0101;yet&#x0101;m</em> w&#x1e5b;. for <em>p&#x00e1;l&#x25cb;</em> <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a>)</dd>
+
+           <dt>&#x226b; phali </dt>
+           <dd><em>phali</em> m. a kind of fish (= <em>phalakin</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a bowl or cup, &#x015a;&#x012b;l</dd>
+
+           <dt>&#x226b; phalika </dt>
+           <dd><em>phalika</em> mfn. (ifc.) enjoying the reward for <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; m. a mountain <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phalik&#x0101; </dt>
+           <dd><em>phalik&#x0101;</em> f. Dolichos Lablab or Thespesia Populneoides <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phalita </dt>
+           <dd><em>phalita</em> mfn. bearing or yielding fruit, producing consequences, fruitful, successful, fulfilled, developed, accomplished <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> &amp;c. (n. impers. with instr. 'fruit was borne by' <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> <a href="worksAuthorsAbbrs.html#Hit">Hit.</a>) </dd>
+           <dd>&#x2022; resulting as a consequence <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+           <dd>&#x2022; m. a tree (esp. a fruit tree) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a menstruous woman <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a fragrant resin (= <em>&#x015b;aileya</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> (prob. w&#x1e5b;. for <em>palita</em>)</dd>
+
+           <dt>&#x226b; phalitavya </dt>
+           <dd><em>phalitavya</em> n. (impers.) fruit should be borne by (instr.) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x226b; phalin </dt>
+           <dd><em>phal&#x00ed;n</em> mfn. bearing or yielding fruit, fruitful (met. = productive of results or consequences) <a href="worksAuthorsAbbrs.html#RV">RV.</a> &amp;c. &amp;c </dd>
+           <dd>&#x2022; reaping advantage, successful <a href="worksAuthorsAbbrs.html#AV">AV.</a> </dd>
+           <dd>&#x2022; having an iron point (as an arrow) <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> </dd>
+           <dd>&#x2022; m. a fruit tree <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; (<em>in&#x012b;</em>), f. a species of plant (= <em>agni-&#x015b;ikh&#x0101;</em> or <em>priya&#x1e45;gu</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (with <em>yoni</em>) the vagina injured by too violent sexual intercourse <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x22d9; phal&#x012b;&#x015b;a </dt>
+           <dd><em>phal&#x012b;7&#x015b;a</em> m. Thespesia Populneoides <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phalina </dt>
+           <dd><em>phalina</em> mfn. bearing fruit <a href="worksAuthorsAbbrs.html#M&#x0101;lat&#x012b;m">M&#x0101;lat&#x012b;m.</a> (cf. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-2, 122 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 4 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a>) </dd>
+           <dd>&#x2022; m. the bread-fruit tree <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phal&#x012b; </dt>
+           <dd><em>phal&#x012b;</em> in comp. for <em>phala</em></dd>
+
+           <dt>&#x22d9; phal&#x012b;kara&#x1e47;a </dt>
+           <dd><em>&#x25cb;k&#x00e1;ra&#x1e47;a</em> n. separating the grain from the husks, cleansing of grain <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; m. pl. chaff (of rice) or smallest grains <a href="worksAuthorsAbbrs.html#Br">Br.</a> <a href="worksAuthorsAbbrs.html#G&#x1e5b;&#x015a;rS">G&#x1e5b;&#x015a;rS.</a> </dd>
+           <dd>&#x2022; (sg.) <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; <em>-hom&#x00e1;</em> m. an oblation of chaff or smallest grains <a href="worksAuthorsAbbrs.html#TBr">TBr.</a> <a href="worksAuthorsAbbrs.html#&#x0100;p&#x015a;r">&#x0100;p&#x015a;r.</a></dd>
+
+           <dt>&#x22d9; phal&#x012b;k&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. pl. = prec. m. pl. <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x22d9; phal&#x012b;k&#x1e5b; </dt>
+           <dd><em>&#x25cb;&#x221a;k&#x1e5b;</em> P. <em>-karoti</em> (Ved. inf. <em>phal&#x012b;&#x0341;-kartava&#x00ed;</em>), to separate the fruit or grain from the husks, thresh, winnow <a href="worksAuthorsAbbrs.html#Br">Br.</a> <a href="worksAuthorsAbbrs.html#G&#x1e5b;&#x015a;rS">G&#x1e5b;&#x015a;rS.</a></dd>
+
+           <dt>&#x22d9; phal&#x012b;k&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ta</em> mfn. threshed, winnowed <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a></dd>
+
+           <dt>&#x22d9; phal&#x012b;bh&#x016b; </dt>
+           <dd><em>&#x25cb;&#x221a;bh&#x016b;</em> P. <em>-bhavati</em>, to obtain fruit or reward <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; phal&#x012b;ya </dt>
+           <dd><em>phal&#x012b;ya</em> mfn. (fr. <em>phala</em>), g. <em>utkar&#x00e2;di</em></dd>
+
+           <dt>&#x226b; phalya </dt>
+           <dd><em>phalya</em> n. a flower, bud <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;la </dt>
+           <dd><em>ph&#x0101;&#x0341;la</em> m. (or n. <a href="worksAuthorsAbbrs.html#L">L.</a>) a ploughshare <a href="worksAuthorsAbbrs.html#RV">RV.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;&#x1e6d;h">K&#x0101;&#x1e6d;h.</a> <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> </dd>
+           <dd>&#x2022; a kind of hoe or shovel <a href="worksAuthorsAbbrs.html#R">R.</a> </dd>
+           <dd>&#x2022; a bunch or bundle <a href="worksAuthorsAbbrs.html#Naish">Naish.</a> </dd>
+           <dd>&#x2022; a nosegay <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a> </dd>
+           <dd>&#x2022; a jump <a href="worksAuthorsAbbrs.html#Vcar">Vcar.</a> <a href="worksAuthorsAbbrs.html#HPari&#x015b;">HPari&#x015b;.</a> </dd>
+           <dd>&#x2022; the core of a citron <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of &#x015a;iva <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; of Bala-r&#x0101;ma <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a garment of cotton <a href="worksAuthorsAbbrs.html#A">A.</a> </dd>
+           <dd>&#x2022; a ploughed field <a href="worksAuthorsAbbrs.html#ib">ib.</a> </dd>
+           <dd>&#x2022; = (or w&#x1e5b;. for) <em>bh&#x0101;la</em>, the forehead <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> </dd>
+           <dd>&#x2022; mf(<em>&#x012b;</em>)n. made of cotton <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;lakudd&#x0101;lal&#x0101;&#x1e45;galin </dt>
+           <dd><em>&#x25cb;kudd&#x0101;lal&#x0101;&#x1e45;galin</em> mfn. furnished with a hoe and a spade and a plough <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;lak&#x1e5b;&#x1e63;&#x1e6d;a </dt>
+           <dd><em>&#x25cb;k&#x1e5b;&#x1e63;&#x1e6d;a</em> mfn. tilled with the plough <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; growing on arable land, produced by cultivation (opp. to <em>&#x0101;ra&#x1e47;ya</em>) <a href="worksAuthorsAbbrs.html#K&#x0101;&#x1e6d;h">K&#x0101;&#x1e6d;h.</a> </dd>
+           <dd>&#x2022; m. or n. a ploughed or cultivated soil <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#Gaut">Gaut.</a> </dd>
+           <dd>&#x2022; m. fruit grown on a cotton soil <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;khBr">&#x015a;&#x0101;&#x1e45;khBr.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;lakhel&#x0101; </dt>
+           <dd><em>&#x25cb;khel&#x0101;</em> f. a quail <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>pha&#x1e47;i-</em> and <em>phala-khela</em>)</dd>
+
+           <dt>&#x22d9; ph&#x0101;lagupta </dt>
+           <dd><em>&#x25cb;gupta</em> m. 'ploughshare-defended', N. of Bala-r&#x0101;ma <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>hal&#x00e2;yudha</em>)</dd>
+
+           <dt>&#x22d9; ph&#x0101;lacamasa </dt>
+           <dd><em>&#x25cb;camasa</em> n. (?) a partic. part of the ploughshare <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;ladat&#x012b; </dt>
+           <dd><em>&#x25cb;dat&#x012b;</em> f. 'ploughshare-toothed', N. of a female demon <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-4, 143 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;l&#x0101;hata </dt>
+           <dd><em>ph&#x0101;l&#x00e2;hata</em> mfn. 'ploughshare-struck', ploughed <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> ii, 158</dd>
+
+           <dt>&#x226b; ph&#x0101;lita </dt>
+           <dd><em>ph&#x0101;lita</em> mfn. expanded, blown <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> (cf. N&#x012b;lak.)</dd>
+
+           <dt>&#x226b; ph&#x0101;l&#x012b;kara&#x1e47;a </dt>
+           <dd><em>ph&#x0101;l&#x012b;kara&#x1e47;a</em> mfn. (fr. <em>phal&#x012b;-k&#x25cb;</em>) made of husks or the smallest grains <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;khBr">&#x015a;&#x0101;&#x1e45;khBr.</a></dd>
+
+           <dt>&#x226b; phulti </dt>
+           <dd><em>phulti</em> f. full expansion or perfection (?) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-4, 89 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; phulla </dt>
+           <dd><em>phulla</em> mf(<em>&#x0101;</em>)n. (cf. P&#x0101;&#x1e47;. 7-4, 89 ; viii, 2, 55) split or cleft open, expanded, blown (as a flower) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> &amp;c </dd>
+           <dd>&#x2022; abounding in flowers, flowery <a href="worksAuthorsAbbrs.html#ib">ib.</a> </dd>
+           <dd>&#x2022; opened wide, dilated (as eyes) <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> </dd>
+           <dd>&#x2022; puffed inflated (as cheeks) <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a> </dd>
+           <dd>&#x2022; loose (as a garment) <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> </dd>
+           <dd>&#x2022; beaming, smiling (as a face) <a href="worksAuthorsAbbrs.html#K&#x0101;vy&#x00e2;d">K&#x0101;vy&#x00e2;d.</a> </dd>
+           <dd>&#x2022; m. N. of a saint <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> </dd>
+           <dd>&#x2022; (prob.) n. a full-blown flower <a href="worksAuthorsAbbrs.html#K&#x0101;lP">K&#x0101;lP.</a> </dd>
+           <dd>&#x2022; Nom. P. <em>phullati</em> (cf. <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xv, 24) to open, expand, blow (as a flower) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <font color="#FF0000" font size=-2><a name="p718-1"></a>[Page 718, Column 1]</font>
+</dd>
+
+           <dt>&#x22d9; phullatubar&#x012b; </dt>
+           <dd><em>&#x25cb;tubar&#x012b;</em> f. alum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phullad&#x0101;man </dt>
+           <dd><em>&#x25cb;d&#x0101;man</em> n. a kind of metre <a href="worksAuthorsAbbrs.html#Chandom">Chandom.</a></dd>
+
+           <dt>&#x22d9; phullad&#x1e5b;&#x1e63;&#x1e6d;i </dt>
+           <dd><em>&#x25cb;d&#x1e5b;&#x1e63;&#x1e6d;i</em></dd>
+
+           <dt>&#x22d9; phullanayana </dt>
+           <dd><em>&#x25cb;nayana</em> and mfn. having eyes dilated (with joy), smiling, happy <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phullanetra </dt>
+           <dd><em>&#x25cb;netra</em> mfn. having eyes dilated (with joy), smiling, happy <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phullanalin&#x012b; </dt>
+           <dd><em>&#x25cb;nalin&#x012b;</em> f. a lotus plant in full bloom <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a></dd>
+
+           <dt>&#x22d9; phullapadmotpalavat </dt>
+           <dd><em>&#x25cb;padm&#x00f4;tpala-vat</em> mfn. abounding in full-blown lotus flowers of various kinds <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>&#x22d9; phullapura </dt>
+           <dd><em>&#x25cb;pura</em> n. N. of a town <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x22d9; phullaph&#x0101;la </dt>
+           <dd><em>&#x25cb;ph&#x0101;la</em> m. the wind raised in winnowing corn <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phalla</em>, <em>phala</em>)</dd>
+
+           <dt>&#x22d9; phullalocana </dt>
+           <dd><em>&#x25cb;locana</em> mfn. = <em>-d&#x1e5b;&#x1e63;&#x1e6d;i</em> </dd>
+           <dd>&#x2022; m. 'full-eyed', a kind of antelope <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. a large full eye <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phullavat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. expanded, blossoming blowing <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 8-2, 35 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; phullavadana </dt>
+           <dd><em>&#x25cb;vadana</em> mfn. 'smiling-faced', looking pleased or happy <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phullas&#x016b;tra </dt>
+           <dd><em>&#x25cb;s&#x016b;tra</em> n. N. of wk</dd>
+
+           <dt>&#x22d9; phull&#x0101;mbik&#x0101; </dt>
+           <dd><em>phull&#x00e2;mbik&#x0101;</em> f. N. of a woman <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>&#x22d9; phull&#x0101;ra&#x1e47;yam&#x0101;h&#x0101;tmya </dt>
+           <dd><em>phull&#x00e2;ra&#x1e47;ya-m&#x0101;h&#x0101;tmya</em> n. N. of ch. of <a href="worksAuthorsAbbrs.html#AgP">AgP.</a></dd>
+
+           <dt>&#x22d9; phullotpala </dt>
+           <dd><em>phull&#x00f4;tpala</em> n. 'having blooming lotus flowers', N. of a lake <a href="worksAuthorsAbbrs.html#Hit">Hit.</a></dd>
+
+           <dt>&#x226b; phullaka </dt>
+           <dd><em>phullaka</em> m. a worm or a snake <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phullana </dt>
+           <dd><em>phullana</em> mfn. (ifc.) puffing up, inflating <a href="worksAuthorsAbbrs.html#Vcar">Vcar.</a></dd>
+
+           <dt>&#x226b; phulli </dt>
+           <dd><em>phulli</em> f. expanding, blossoming <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; phullita </dt>
+           <dd><em>phullita</em> mfn. expanded, blown <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phalaya </dt>
+           <dd><em>phalaya</em> m. N. of a mountain <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>phalasat&#x012b;&#x1e47;a </dt>
+           <dd><em>phalasat&#x012b;&#x1e47;a</em> m. or n. (?) N. of country (Palestine?) <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>phal&#x0101;yo&#x1e63;it </dt>
+           <dd><em>phal&#x0101;yo&#x1e63;it</em> f. a cricket <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>pha&#x1e0d;i&#x1e45;g&#x0101;</em>)</dd>
+
+           <dt>phaliga </dt>
+           <dd><em>phalig&#x00e1;</em> (cf. Padap. <em>&#x25cb;li-g&#x00e1;</em>), m. (prob.) a cask or leather-bag or anything to hold fluids (applied to clouds or water-receptacles in mountains) <a href="worksAuthorsAbbrs.html#RV">RV.</a></dd>
+
+           <dt>phal&#x016b;&#x1e63;a </dt>
+           <dd><em>phal&#x016b;&#x1e63;a</em> m. a species of creeper <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phalel&#x0101;&#x1e45;ku </dt>
+           <dd><em>phalel&#x0101;&#x1e45;ku</em> n. = <em>pu&#x00f1;j&#x0101;tuka</em> (?) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phaloni </dt>
+           <dd><em>phaloni</em> (!), f. pudenda muliebria <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phalka </dt>
+           <dd><em>phalka</em> mfn. one who has an expanded or extended body (= <em>vis&#x0101;rit&#x00e2;&#x1e45;ga</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>vi&#x015b;odhit&#x00e2;&#x1e45;ka</em> (?) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phalgu </dt>
+           <dd><em>phalg&#x00fa;</em> mf([˘'U], or <em>vii</em>)n. reddish, red <a href="worksAuthorsAbbrs.html#TS">TS.</a> </dd>
+           <dd>&#x2022; small, minute, feeble, weak, pithless, unsubstantial, insignificant, worthless, unprofitable, useless <a href="worksAuthorsAbbrs.html#VS">VS.</a> &amp;c. &amp;c </dd>
+           <dd>&#x2022; f. Ficus Oppositifolia <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a red powder usually of the &#x221a;of wild ginger (coloured with sappan wood and thrown over one another by the Hind&#x016b;s at the Hol&#x012b; festival </dd>
+           <dd>&#x2022; cf. <em>phalg&#x016b;7tsava</em>) <a href="worksAuthorsAbbrs.html#W">W.</a> </dd>
+           <dd>&#x2022; the spring season <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (scil. <em>v&#x0101;c</em>) a falsehood lie <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of a river flowing Past Gay&#x0101; <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> </dd>
+           <dd>&#x2022; du. (in astrol.) N. of a Nakshatra</dd>
+
+           <dt>&#x22d9; phalgut&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> f. (cf. MBh.),</dd>
+
+           <dt>&#x22d9; phalgutva </dt>
+           <dd><em>&#x25cb;tva</em> n. (cf. Mn.) worthlessness, vanity, insignificance</dd>
+
+           <dt>&#x22d9; phalgut&#x012b;rtha </dt>
+           <dd><em>&#x25cb;t&#x012b;rtha</em> n. N. of a sacred bathingplace near Gay&#x0101; <a href="worksAuthorsAbbrs.html#Vish&#x1e47;">Vish&#x1e47;.</a></dd>
+
+           <dt>&#x22d9; phalguda </dt>
+           <dd><em>&#x25cb;da</em> mfn. 'giving little avaricious <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. N. of a river (= <em>phalgu</em>) <a href="worksAuthorsAbbrs.html#Pur">Pur.</a></dd>
+
+           <dt>&#x22d9; phalgupr&#x0101;saha </dt>
+           <dd><em>&#x25cb;pr&#x0101;saha</em> (<em>&#x25cb;g&#x00fa;-</em>), m. of little strength <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a></dd>
+
+           <dt>&#x22d9; phalgurak&#x1e63;ita </dt>
+           <dd><em>&#x25cb;rak&#x1e63;ita</em> m. N. of a man <a href="worksAuthorsAbbrs.html#HPari&#x015b;">HPari&#x015b;.</a></dd>
+
+           <dt>&#x22d9; phalguv&#x0101;&#x1e6d;ik&#x0101; </dt>
+           <dd><em>&#x25cb;v&#x0101;&#x1e6d;ik&#x0101;</em> f. Ficus Oppositifolia <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalguv&#x1e5b;nta </dt>
+           <dd><em>&#x25cb;v&#x1e5b;nta</em> m. a species of Symplocos <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalguv&#x1e5b;nt&#x0101;ka </dt>
+           <dd><em>&#x25cb;v&#x1e5b;nt&#x0101;ka</em> m. a species of Calosanthes <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phalgu&#x015b;r&#x0101;ddha </dt>
+           <dd><em>&#x25cb;&#x015b;r&#x0101;ddha</em> n. a kind of &#x015a;r&#x0101;ddha <a href="worksAuthorsAbbrs.html#RTL">RTL.</a> 312</dd>
+
+           <dt>&#x22d9; phalguhastin&#x012b; </dt>
+           <dd><em>&#x25cb;hastin&#x012b;</em> f. N. of a poetess <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>&#x22d9; phalg&#x016b;tsava </dt>
+           <dd><em>phalg&#x016b;7tsava</em> m. the vernal festival commonly called Hol&#x012b; (cf. <a href="worksAuthorsAbbrs.html#RTL">RTL.</a> 430) <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; phalgu&#x1e47;a </dt>
+           <dd><em>phalgu&#x1e47;a</em></dd>
+
+           <dt>&#x22d9; phalgu&#x1e47;aka </dt>
+           <dd><em>phalgu&#x1e0d;&#x1e47;aka</em></dd>
+
+           <dt>&#x22d9; phalgu&#x1e47;&#x012b; </dt>
+           <dd><em>phalgu&#x1e0d;&#x1e47;&#x012b;</em> w&#x1e5b;. for <em>phalguna</em>, <em>&#x25cb;naka</em>, <em>&#x25cb;n&#x012b;</em></dd>
+
+           <dt>&#x226b; phalguna </dt>
+           <dd><em>ph&#x00e1;lguna</em> mf(<em>&#x012b;</em>)n. reddish, red <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> </dd>
+           <dd>&#x2022; born under the Nakshatra Phalgun&#x012b; <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 34 </dd>
+           <dd>&#x2022; m. N. of a man (<em>-sv&#x0101;min</em> m. a temple built by Ph&#x1e6d;Phalgun&#x012b;) <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> </dd>
+           <dd>&#x2022; the month Ph&#x0101;lguna <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of Arjuna <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. See below</dd>
+
+           <dt>&#x22d9; phalgunaka </dt>
+           <dd><em>ph&#x00e1;lgu&#x1e0d;naka</em> m. N. of a man <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> </dd>
+           <dd>&#x2022; pl. N. of a people <a href="worksAuthorsAbbrs.html#M&#x0101;rkP">M&#x0101;rkP.</a></dd>
+
+           <dt>&#x22d9; phalgun&#x0101;la </dt>
+           <dd><em>ph&#x00e1;lgu&#x1e0d;n&#x0101;la</em> m. the month Ph&#x0101;lguna (= <em>ph&#x0101;lgun&#x0101;la</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phalgun&#x012b; </dt>
+           <dd><em>ph&#x00e1;lgun&#x012b;</em> f. (sg. du. and pl.) N. of a double lunar mansion (<em>p&#x016b;rv&#x0101;</em> and <em>uttar&#x0101;</em>) <a href="worksAuthorsAbbrs.html#AV">AV.</a> &amp;c. &amp;c </dd>
+           <dd>&#x2022; Ficus Oppositifolia <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of a woman <a href="worksAuthorsAbbrs.html#Pravar">Pravar.</a></dd>
+
+           <dt>&#x22d9; phalgun&#x012b;p&#x016b;r&#x1e47;am&#x0101;sa </dt>
+           <dd><em>&#x25cb;p&#x016b;r&#x1e47;a-m&#x0101;s&#x00e1;</em> m. the full moon in the Nakshatra Uttara-Phalgun&#x012b; <a href="worksAuthorsAbbrs.html#TS">TS.</a></dd>
+
+           <dt>&#x22d9; phalgun&#x012b;p&#x016b;rvasamaya </dt>
+           <dd><em>&#x25cb;p&#x016b;rva-samaya</em> m. the time when the moon is in the Nakshatra P&#x016b;rva-Ph&#x1e6d;Ph&#x0101;gun&#x012b; <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x22d9; phalgun&#x012b;bhava </dt>
+           <dd><em>&#x25cb;bhava</em> m. N. of the planet Jupiter <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phalguluka </dt>
+           <dd><em>phalguluka</em> m. pl. N. of a people <a href="worksAuthorsAbbrs.html#Var">Var.</a> <a href="worksAuthorsAbbrs.html#M&#x0101;rkP">M&#x0101;rkP.</a></dd>
+
+           <dt>&#x226b; phalgva </dt>
+           <dd><em>phalgv&#x00e1;</em> mfn. weak, feeble <a href="worksAuthorsAbbrs.html#RV">RV.</a> iv, 5, 14</dd>
+
+           <dt>&#x226b; ph&#x0101;lgu&#x1e47;a </dt>
+           <dd><em>ph&#x0101;lgu&#x1e47;a</em></dd>
+
+           <dt>&#x22d9; ph&#x0101;lgu&#x1e47;&#x012b; </dt>
+           <dd><em>ph&#x0101;lgu&#x1e0d;&#x1e47;&#x012b;</em> w&#x1e5b;. for <em>ph&#x0101;lguna</em>, <em>&#x25cb;n&#x012b;</em></dd>
+
+           <dt>&#x226b; ph&#x0101;lguna </dt>
+           <dd><em>ph&#x0101;lgun&#x00e1;</em> mf(<em>&#x012b;&#x0341;</em>)n. relating to the Nakshatra Phalgun&#x012b; <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#&#x015a;rS">&#x015a;rS.</a> </dd>
+           <dd>&#x2022; born under the Nakshatra Phalgun&#x012b; <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 34 (v&#x1e37;.) </dd>
+           <dd>&#x2022; m. (with or scil. <em>m&#x0101;sa</em>) the month during which the full moon stands in the Nakshatra Phalgun&#x012b; (February-March) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; N. of Arjuna (= <em>phalguna</em>) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> </dd>
+           <dd>&#x2022; Terminalia Arjuna (= <em>nad&#x012b;-ja</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. See below </dd>
+           <dd>&#x2022; n. a species of grass used as a substitute for the Soma plant (and also called <em>arjun&#x0101;n&#x012b;</em>)         <br>          <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#TBr">TBr.</a> <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;v&#x015a;r">&#x0100;&#x015b;v&#x015a;r.</a> <font color="#FF0000" font size=-2><a name="p718-2"></a>[Page 718, Column 2]</font> </dd>
+           <dd>&#x2022; N. of a place of pilgrimage <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;lgunam&#x0101;h&#x0101;tmya </dt>
+           <dd><em>&#x25cb;m&#x0101;h&#x0101;tmya</em> n. N. of wk</dd>
+
+           <dt>&#x22d9; ph&#x0101;lgun&#x0101;nuja </dt>
+           <dd><em>ph&#x0101;lgun&#x00e2;nuja</em> m. 'younger brother of the month Ph&#x0101;lguna', the vernal month Caitra <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;lgun&#x0101;la </dt>
+           <dd><em>ph&#x0101;lgun&#x0101;la</em> m. the month Ph&#x0101;lguna (= <em>phalgun&#x0101;la</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;lguni </dt>
+           <dd><em>ph&#x0101;lguni</em> m. patr. fr. <em>ph&#x0101;lguna</em> (= <em>arjuna</em>) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;lgunika </dt>
+           <dd><em>ph&#x0101;lgunika</em> mfn. relating to the Nakshatra Phalguni or to the day of full moon in the month Ph&#x0101;lguna <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 23 </dd>
+           <dd>&#x2022; m. (scil. <em>m&#x0101;sa</em>) the month Ph&#x0101;lguna <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;lgun&#x012b; </dt>
+           <dd><em>ph&#x0101;lgun&#x012b;</em> f. the lunar mansion Phalgun&#x012b; (q.v.) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#M&#x0101;rkP">M&#x0101;rkP.</a> </dd>
+           <dd>&#x2022; = <em>-paur&#x1e47;am&#x0101;s&#x012b;</em> <a href="worksAuthorsAbbrs.html#G&#x1e5b;&#x015a;rS">G&#x1e5b;&#x015a;rS.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;lgun&#x012b;pak&#x1e63;a </dt>
+           <dd><em>&#x25cb;pak&#x1e63;a</em> m. the dark half in the month Ph&#x0101;lguna <a href="worksAuthorsAbbrs.html#L&#x0101;&#x1e6d;y">L&#x0101;&#x1e6d;y.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;lgun&#x012b;paur&#x1e47;am&#x0101;s&#x012b; </dt>
+           <dd><em>&#x25cb;paur&#x1e47;am&#x0101;s&#x012b;</em> f. the day of full moon in the month Ph&#x0101;lguna (on which the Hol&#x012b; or great vernal festival is celebrated) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-3, 63 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;lgun&#x012b;bhava </dt>
+           <dd><em>&#x25cb;bhava</em> m. N. of the planet Jupiter <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phalgun&#x012b;-bh&#x25cb;</em>)</dd>
+
+           <dt>&#x226b; ph&#x0101;lgunya </dt>
+           <dd><em>ph&#x0101;lgunya</em> m. N. of the planet Jupiter <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phalph </dt>
+           <dd><em>phalph</em> to grow, increase (<em>v&#x1e5b;ddhau</em>) <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; phalpha </dt>
+           <dd><em>phalpha</em> See <em>vi-phalpha</em></dd>
+
+           <dt>phallakin </dt>
+           <dd><em>phallakin</em> m. a kind of fish (= <em>phalakin</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phallaphala </dt>
+           <dd><em>phalla-phala</em> m. the wind raised in winnowing grain (= <em>phulla-ph&#x0101;la</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>pha&#x1e63;&#x0101;jiga </dt>
+           <dd><em>pha&#x1e63;&#x0101;jiga</em> and <em>pha&#x1e63;&#x0101;jima</em> m. or n. (?) N. of two places <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>ph&#x0101; </dt>
+           <dd><em>ph&#x0101;</em> m. (nom. <em>ph&#x0101;s</em>) heat <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; idle talk <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; increase or increaser <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ph&#x0101;&#x1e6d; </dt>
+           <dd><em>ph&#x0101;&#x1e6d;</em> ind. an interjection of calling <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>ph&#x0101;&#x1e6d;ak&#x012b; </dt>
+           <dd><em>ph&#x0101;&#x1e6d;ak&#x012b;</em> f. alum (= <em>sph&#x0101;&#x1e6d;&#x012b;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ph&#x0101;&#x1e47;i </dt>
+           <dd><em>ph&#x0101;&#x1e47;i</em> f. (&#x221a;<em>pha&#x1e47;</em>?) unrefined sugar, molasses <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; flour or meal mixed with curds (= <em>karambha</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;&#x1e47;ita </dt>
+           <dd><em>ph&#x0101;&#x1e47;ita</em> m. (cf. N&#x012b;lak.) n. (fr. Caus. of &#x221a;<em>pha&#x1e47;</em> </dd>
+           <dd>&#x2022; <a href="worksAuthorsAbbrs.html#cf">cf.</a> P&#x0101;&#x1e47;. 7-2, 18 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a>) the inspissated juice of the sugar cane and other plants         <br>          <a href="worksAuthorsAbbrs.html#&#x0100;past">&#x0100;past.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> [Cf. Arab. ? </dd>
+           <dd>&#x2022; Pers. ? ; medieval Lat. <em>penidium</em>.]</dd>
+
+           <dt>&#x22d9; ph&#x0101;&#x1e47;it&#x012b;bh&#x016b;ta </dt>
+           <dd><em>ph&#x0101;&#x1e47;it&#x012b;-bh&#x016b;ta</em> mfn. inspissated <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;&#x1e47;&#x1e6d;a </dt>
+           <dd><em>ph&#x0101;&#x1e47;&#x1e6d;a</em> mf(<em>&#x0101;</em>)n. (contracted from <em>ph&#x0101;&#x1e47;ita</em> </dd>
+           <dd>&#x2022; <a href="worksAuthorsAbbrs.html#cf">cf.</a> P&#x0101;&#x1e47;. 7-2, 18) obtained by straining or filtering, &#x1e5a;igvidh </dd>
+           <dd>&#x2022; made or won by an easy process, readily or easily prepared <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; one who does not exert himself or takes things easy <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; m. an infusion, decoction, pounded medicinal substances mixed with four parts of hot water and then filtered <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;r&#x1e45;gS">&#x015a;&#x0101;r&#x1e45;gS.</a> (also <em>&#x25cb;&#x1e6d;aka</em>, m.) <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a> </dd>
+           <dd>&#x2022; n. the first particles of butter that are produced by churning <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;&#x1e47;&#x1e6d;&#x0101;h&#x1e5b;ta </dt>
+           <dd><em>ph&#x0101;&#x1e47;&#x1e6d;&#x0101;h&#x1e5b;ta</em> m. N. of a man <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 90 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; patr. fr. <em>ph&#x0101;&#x1e47;&#x1e6d;&#x00e2;h&#x1e5b;ti</em> </dd>
+           <dd>&#x2022; pl. the disciples of Ph&#x0101;&#x1e47;&#x1e6d;&#x0101;h&#x1e5b;iti, iv, 1, 150 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; ph&#x0101;&#x1e47;&#x1e6d;&#x0101;h&#x1e5b;t&#x0101;yani </dt>
+           <dd><em>ph&#x0101;&#x1e47;&#x1e6d;&#x0101;h&#x1e5b;t&#x0101;yani</em> m. patr. fr. <em>ph&#x0101;&#x1e47;&#x1e6d;&#x00e2;h&#x1e5b;ti</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 150</dd>
+
+           <dt>&#x22d9; ph&#x0101;&#x1e47;&#x1e6d;&#x0101;h&#x1e5b;ti </dt>
+           <dd><em>ph&#x0101;&#x1e47;&#x1e6d;&#x0101;h&#x1e5b;ti</em> m. N. of a man (a Sauviira) <a href="worksAuthorsAbbrs.html#ib">ib.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; patr. fr. <em>&#x25cb;h&#x1e5b;ta</em>, 90 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;&#x1e47;&#x1e6d;aya </dt>
+           <dd><em>ph&#x0101;&#x1e47;&#x1e6d;aya</em> Nom. fr. <em>ph&#x0101;&#x1e47;&#x1e6d;a</em> (ind. p. <em>&#x25cb;yitv&#x0101;</em>) <a href="worksAuthorsAbbrs.html#Kau&#x015b;">Kau&#x015b;.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;&#x1e47;&#x1e0d;a </dt>
+           <dd><em>ph&#x0101;&#x1e47;&#x1e0d;a</em> n. the belly (= <em>pha&#x1e47;&#x1e0d;a</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ph&#x0101;&#x1e47;&#x1e0d;in </dt>
+           <dd><em>ph&#x0101;&#x1e47;&#x1e0d;in</em> m. N. of a serpent-demon <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ph&#x0101;riva </dt>
+           <dd><em>ph&#x0101;riva</em> See under &#x221a;<em>phar</em></dd>
+
+           <dt>ph&#x0101;r&#x012b; </dt>
+           <dd><em>ph&#x0101;r&#x012b;</em> f. black cumin <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ph&#x0101;la </dt>
+           <dd><em>ph&#x0101;la</em> &amp;c. See p. 717, col. 3</dd>
+
+           <dt>ph&#x0101;lguna </dt>
+           <dd><em>ph&#x0101;lguna</em> &amp;c. See col. 1</dd>
+
+           <dt>phi </dt>
+           <dd><em>phi</em> m. a wicked man <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; idle talk <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; anger <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phi&#x1e45;gaka </dt>
+           <dd><em>phi&#x1e45;gaka</em> m. the fork-tailed shrike (= <em>kali&#x1e45;ga</em>, <em>kuli&#x1e45;ga</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phi&#x1e6d;s&#x016b;tra </dt>
+           <dd><em>phi&#x1e6d;-s&#x016b;tra</em> n. N. of a grammat. wk. by &#x015a;&#x0101;&#x1e43;tanav&#x00e2;c&#x0101;rya</dd>
+
+           <dt>&#x22d9; phi&#x1e6d;s&#x016b;trav&#x1e5b;tti </dt>
+           <dd><em>&#x25cb;v&#x1e5b;tti</em> f. the same with comm</dd>
+
+           <dt>phira&#x1e45;ga </dt>
+           <dd><em>phira&#x1e45;ga</em> mfn. Frankish, European (with <em>vy&#x0101;dhi</em> m. = <em>&#x25cb;g&#x00e2;maya</em>) <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> </dd>
+           <dd>&#x2022; m. the country of the Franks i.e. Europe, or = <em>&#x25cb;g&#x00e2;maya</em> <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phira&#x1e45;garo&#x1e6d;&#x012b; </dt>
+           <dd><em>&#x25cb;ro&#x1e6d;&#x012b;</em> f. European bread <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phira&#x1e45;g&#x0101;maya </dt>
+           <dd><em>phira&#x1e45;g&#x00e2;maya</em> m. the disease of the Franks i.e. syphilis <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a></dd>
+
+           <dt>&#x226b; phira&#x1e45;gin </dt>
+           <dd><em>phira&#x1e45;gin</em> m. a Frank, a European (f. <em>i&#x1e47;&#x012b;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phir&#x0101;la </dt>
+           <dd><em>phir&#x0101;la</em> m. or n. (?) N. of a place <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>phiri&#x1e47;&#x1e0d;a </dt>
+           <dd><em>phiri&#x1e47;&#x1e0d;a</em> m. N. of a prince <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> <font color="#FF0000" font size=-2><a name="p718-3"></a>[Page 718, Column 3]</font>
+</dd>
+
+           <dt>phu </dt>
+           <dd><em>phu</em> m. a magical formula <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; useless or idle talk <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phuka </dt>
+           <dd><em>phuka</em> m. a bird <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phu&#x1e6d;a </dt>
+           <dd><em>phu&#x1e6d;a</em> m. n. (or <em>&#x25cb;&#x1e6d;&#x0101;</em> f.) the hood or expanded neck of a snake (= <em>pha&#x1e6d;a</em>, <em>pha&#x1e47;a</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phu&#x1e6d;&#x0101;&#x1e6d;opa </dt>
+           <dd><em>phu&#x1e6d;&#x00e2;&#x1e6d;opa</em> m. the swelling of a serpent's hood <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a></dd>
+
+           <dt>phu&#x1e6d;&#x1e6d;aka </dt>
+           <dd><em>phu&#x1e6d;&#x1e6d;aka</em> n. a kind of cloth (also <em>&#x25cb;ka-vastra</em> n.) <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a> </dd>
+           <dd>&#x2022; (<em>ik&#x0101;</em>), f. a sort of woven texture <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+           <dt>phu&#x1e0d;ut </dt>
+           <dd><em>phu&#x1e0d;ut</em> ind. an interjection <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;&#x012b;Kh">K&#x0101;&#x015b;&#x012b;Kh.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>phut </dt>
+           <dd><em>phut</em> or <em>ph&#x016b;t</em> ind. an onomat. word (used only with &#x221a;<em>&#x25cb;k&#x1e5b;</em>, and its derivatives </dd>
+           <dd>&#x2022; sometimes expressive of contempt)</dd>
+
+           <dt>&#x22d9; phutkara </dt>
+           <dd><em>&#x25cb;kara</em> m. 'making a crackling noise', fire <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phutkartumanas </dt>
+           <dd><em>&#x25cb;kartu-manas</em> mfn. wishing to make a derisory noise, intending to cry aloud <a href="worksAuthorsAbbrs.html#MW">MW.</a></dd>
+
+           <dt>&#x22d9; phutk&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. puffing, blowing, hissing, the hiss of a serpent (also <em>ph&#x016b;t-k&#x25cb;</em>) <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#Kuval">Kuval.</a> </dd>
+           <dd>&#x2022; shrieking, screaming <a href="worksAuthorsAbbrs.html#Bhart&#x1e5b;">Bhart&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> </dd>
+           <dd>&#x2022; <em>-randhra</em> n. the hole to which the mouth is applied in playing a flute <a href="worksAuthorsAbbrs.html#Sa&#x1e43;g&#x012b;t">Sa&#x1e43;g&#x012b;t.</a> </dd>
+           <dd>&#x2022; <em>-vat</em> mfn. hissing, shrieking <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phutk&#x0101;rya </dt>
+           <dd><em>&#x25cb;k&#x0101;rya</em> mfn. in <em>a-ph&#x016b;t-k&#x25cb;</em>, requiring no blowing <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a></dd>
+
+           <dt>&#x22d9; phutk&#x1e5b; </dt>
+           <dd><em>&#x25cb;&#x221a;k&#x1e5b;</em> P. &#x0100;. <em>-karoti</em>, <em>-kurute</em>, to puff, blow, make a bubbling noise, blow into <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> <a href="worksAuthorsAbbrs.html#Hit">Hit.</a> </dd>
+           <dd>&#x2022; to shriek, yell <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#Pa&#x00f1;cat">Pa&#x00f1;cat.</a> </dd>
+           <dd>&#x2022; to be insolent or defiant <a href="worksAuthorsAbbrs.html#Ratn&#x00e2;v">Ratn&#x00e2;v.</a> iv, 12</dd>
+
+           <dt>&#x22d9; phutk&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ta</em> mfn. puffed, blown &amp;c </dd>
+           <dd>&#x2022; n. the sound of a wind instrument <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a loud scream, shriek <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x22d9; phutk&#x1e5b;ti </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ti</em> f. the blowing of a wind instrument <a href="worksAuthorsAbbrs.html#Sa&#x1e43;g&#x012b;t">Sa&#x1e43;g&#x012b;t.</a> </dd>
+           <dd>&#x2022; blowing, hissing <a href="worksAuthorsAbbrs.html#Naish">Naish.</a> </dd>
+           <dd>&#x2022; crying aloud <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>phupphu </dt>
+           <dd><em>phupphu</em> ind. an onomat. word</dd>
+
+           <dt>&#x22d9; k&#x0101;raka </dt>
+           <dd><em>k&#x0101;raka</em> mf(<em>ik&#x0101;</em>)n. panting, gasping <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phupphusa </dt>
+           <dd><em>phupphusa</em> m. (cf. Su&#x015b;r.) and n. (cf. &#x015a;&#x0101;r&#x1e45;gS.) the lungs</dd>
+
+           <dt>&#x22d9; phuphusa </dt>
+           <dd><em>phuphusa</em> n. (cf. &#x015a;&#x0101;r&#x1e45;gS.) the lungs</dd>
+
+           <dt>phumphu&#x0101; </dt>
+           <dd><em>phumphu&#x0101;</em> ind. imitation of the sound made by the crackling of a fire <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phur&#x0101;phur&#x0101;ya </dt>
+           <dd><em>phur&#x0101;phur&#x0101;ya</em> Nom. &#x0100;. <em>&#x25cb;yate</em>, to tremble, flicker <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a></dd>
+
+           <dt>phuli&#x1e45;ga </dt>
+           <dd><em>phuli&#x1e45;ga</em> m. syphilis <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> (cf. <em>phira&#x1e45;ga</em>)</dd>
+
+           <dt>phull </dt>
+           <dd><em>phull</em> cl. 1. P. <em>phullati</em> (cf. Dh&#x0101;tup. xv, 24), under <em>phulla</em>, p. 717, col. 3</dd>
+
+           <dt>phullar&#x012b;ka </dt>
+           <dd><em>phullar&#x012b;ka</em> m. a district, place <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a serpent <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phullaka</em>, col. 1)</dd>
+
+           <dt>ph&#x016b;t </dt>
+           <dd><em>ph&#x016b;t</em> <em>ph&#x016b;t-k&#x0101;ra</em> &amp;c. See <em>phut</em> above</dd>
+
+           <dt>phe&#x00f1;caka </dt>
+           <dd><em>phe&#x00f1;caka</em> m. a kind of bird <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>phe&#x1e6d; </dt>
+           <dd><em>phe&#x1e6d;</em> ind. an onomat. word</dd>
+
+           <dt>&#x22d9; phe&#x1e6d;k&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. howling, a howl <a href="worksAuthorsAbbrs.html#&#x015a;atr">&#x015a;atr.</a> (cf. <em>phet</em> &amp;c.)</dd>
+
+           <dt>phe&#x1e47;a </dt>
+           <dd><em>phe&#x1e47;a</em> &amp;c. See <em>phena</em></dd>
+
+           <dt>phe&#x1e47;&#x1e6d;a </dt>
+           <dd><em>phe&#x1e47;&#x1e6d;a</em> m. a kind of bird <a href="worksAuthorsAbbrs.html#Cat">Cat.</a></dd>
+
+           <dt>phet </dt>
+           <dd><em>phet</em> ind. an onomat. word</dd>
+
+           <dt>&#x22d9; phetk&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. howling (of the wind or of animals) <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; prab. <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x22d9; phetk&#x0101;rin </dt>
+           <dd><em>&#x25cb;k&#x0101;rin</em> mfn. howling, yelling (as a jackal) <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> </dd>
+           <dd>&#x2022; <em>&#x25cb;ri&#x1e47;&#x012b;-tantra</em>, or <em>&#x25cb;r&#x012b;ya-tantra</em> n. N. of wk</dd>
+
+           <dt>&#x22d9; phetk&#x1e5b;ta </dt>
+           <dd><em>&#x25cb;k&#x1e5b;ta</em> n. howling, a howl <a href="worksAuthorsAbbrs.html#&#x015a;atr">&#x015a;atr.</a></dd>
+
+           <dt>phena </dt>
+           <dd><em>ph&#x00e9;na</em> m. once n. (often written <em>phe&#x1e47;a</em> and prob. connected with &#x221a;<em>pha&#x1e47;</em> </dd>
+           <dd>&#x2022; but See <a href="worksAuthorsAbbrs.html#U&#x1e47;">U&#x1e47;.</a> iii, 3) foam, froth, scum <a href="worksAuthorsAbbrs.html#RV">RV.</a> &amp;c. &amp;c </dd>
+           <dd>&#x2022; moisture of the lips, saliva <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> iii, 19 </dd>
+           <dd>&#x2022; n. (m. <a href="worksAuthorsAbbrs.html#L">L.</a>) Os Sepiae (white cuttle-fish bone, supposed to be indurated foam of the sea) <a href="worksAuthorsAbbrs.html#Car">Car.</a> </dd>
+           <dd>&#x2022; m. N. of a man (son of Ushad-ratha and father of Su-tapas) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a kind of shrub (= <em>s&#x0101;tal&#x0101;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. a kind of food <a href="worksAuthorsAbbrs.html#L">L.</a> [Cf. Slav. ? ; Angl&#x1e62;ax. <em>fam</em> ; Eng. <em>foam</em> ; Germ. <em>Feim</em>.]</dd>
+
+           <dt>&#x22d9; phenagiri </dt>
+           <dd><em>&#x25cb;giri</em> m. N. of a mountain near the mouth of the Indus <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Var">Var.</a> (v&#x1e37;. <em>phe&#x1e47;a-g&#x25cb;</em>)</dd>
+
+           <dt>&#x22d9; phenat&#x0101; </dt>
+           <dd><em>&#x25cb;t&#x0101;</em> f. frothiness, vapour <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x22d9; phenadugdh&#x0101; </dt>
+           <dd><em>&#x25cb;dugdh&#x0101;</em> f. a kind of small shrub (= <em>dugdha-phen&#x012b;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phenadharman </dt>
+           <dd><em>&#x25cb;dharman</em> mfn. 'having the nature of foam', transient <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x22d9; phenapa </dt>
+           <dd><em>&#x25cb;pa</em> mfn. 'foam-drinking', feeding on foam <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; (feeding on fruits fallen from the trees <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a>)</dd>
+
+           <dt>&#x22d9; phenapi&#x1e47;&#x1e0d;a </dt>
+           <dd><em>&#x25cb;pi&#x1e47;&#x1e0d;a</em> m. 'mass of foam', a mere bubble, nonsense <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phenaprakhya </dt>
+           <dd><em>&#x25cb;prakhya</em> mfn. foam-like, resembling foam <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a></dd>
+
+           <dt>&#x22d9; phenamehin </dt>
+           <dd><em>&#x25cb;mehin</em> mfn. discharging frothy urine <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> -1</dd>
+
+           <dt>&#x22d9; phenavat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. frothy, foaming <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> -2</dd>
+
+           <dt>&#x22d9; phenavat </dt>
+           <dd><em>&#x25cb;vat</em> ind. like foam, &#x015a;&#x0101;nti&#x015b;</dd>
+
+           <dt>&#x22d9; phenav&#x0101;hin </dt>
+           <dd><em>&#x25cb;v&#x0101;hin</em> mfn. 'carrying of the scum' </dd>
+           <dd>&#x2022; (with <em>vastra</em>), n. a filtering cloth <a href="worksAuthorsAbbrs.html#L">L.</a> <font color="#FF0000" font size=-2><a name="p719-1"></a>[Page 719, Column 1]</font> </dd>
+           <dd>&#x2022; m. Indra's thunderbolt <a href="worksAuthorsAbbrs.html#L">L.</a> (rather 'N. of Indra' </dd>
+           <dd>&#x2022; cf. <em>phen&#x00e2;&#x015b;ani</em>)</dd>
+
+           <dt>&#x22d9; phen&#x0101;gra </dt>
+           <dd><em>phen&#x00e2;gra</em> n. 'point of foam', a bubble on the water <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; phen&#x0101;&#x015b;ani </dt>
+           <dd><em>phen&#x00e2;&#x015b;ani</em> m. 'having foam for a thunderbolt', N. of Indra <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phenav&#x0101;hin</em>)</dd>
+
+           <dt>&#x22d9; phen&#x0101;h&#x0101;ra </dt>
+           <dd><em>phen&#x00e2;h&#x0101;ra</em> mfn. feeding on foam <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> (cf. <em>phena-pa</em>)</dd>
+
+           <dt>&#x22d9; phenopama </dt>
+           <dd><em>phen&#x00f4;pama</em> mfn. resembling foam (said of life) <a href="worksAuthorsAbbrs.html#Hit">Hit.</a></dd>
+
+           <dt>&#x226b; phenaka </dt>
+           <dd><em>phenaka</em> m. Os Sepiae <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; ground rice boiled in water (also <em>&#x0101;</em> f.) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a kind of pastry <a href="worksAuthorsAbbrs.html#L">L.</a> (also <em>ik&#x0101;</em> f. <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a>)</dd>
+
+           <dt>&#x22d9; phenala </dt>
+           <dd><em>phe&#x1e0d;nala</em> mfn. frothy, foamy <a href="worksAuthorsAbbrs.html#L">L.</a> (cf. <em>phenila</em>)</dd>
+
+           <dt>&#x22d9; phen&#x0101;ya </dt>
+           <dd><em>phe&#x1e0d;n&#x0101;ya</em> Nom. &#x0100;. <em>&#x25cb;yate</em> (also P. <em>&#x25cb;yati</em> g. <em>lohit&#x00e2;di</em>), to foam, froth <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hcar">Hcar.</a></dd>
+
+           <dt>&#x226b; phenila </dt>
+           <dd><em>phenila</em> mf(<em>&#x0101;</em>)n. foamy, frothy, spumous <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;v">K&#x0101;v.</a> &amp;c </dd>
+           <dd>&#x2022; m. a kind of tree, V&#x0101;sav </dd>
+           <dd>&#x2022; Zizyphus Jujuba <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> </dd>
+           <dd>&#x2022; Sapindus Detergens <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. Sap&#x1e6d;Sepindus Detergens <a href="worksAuthorsAbbrs.html#Car">Car.</a> </dd>
+           <dd>&#x2022; Hingcha Repens <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>sarp&#x00e2;k&#x1e63;&#x012b;</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; n. the fruit of Sap&#x1e6d;Sepindus Detergens or of Ziz&#x1e6d;Zizyphus Jujuba or of Madana <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phenya </dt>
+           <dd><em>ph&#x00e9;nya</em> mfn. existing in foam <a href="worksAuthorsAbbrs.html#VS">VS.</a></dd>
+
+           <dt>phera </dt>
+           <dd><em>phera</em> m. (onomat.) a jackal <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; phera&#x1e47;&#x1e0d;a </dt>
+           <dd><em>phera&#x1e47;&#x1e0d;a</em> m. a jackal <a href="worksAuthorsAbbrs.html#L">L.</a> (also <em>&#x25cb;ru&#x1e47;&#x1e0d;a</em> <a href="worksAuthorsAbbrs.html#L">L.</a>)</dd>
+
+           <dt>pherala </dt>
+           <dd><em>pherala</em> m. or n. N. of a place <a href="worksAuthorsAbbrs.html#Cat">Cat.</a> (perhaps w&#x1e5b;. for <em>kerala</em>)</dd>
+
+           <dt>pherava </dt>
+           <dd><em>phe-rava</em> m. (from onomat. <em>phe</em> + <em>rava</em>) a jackal <a href="worksAuthorsAbbrs.html#M&#x0101;lat&#x012b;m">M&#x0101;lat&#x012b;m.</a> </dd>
+           <dd>&#x2022; prab. <a href="worksAuthorsAbbrs.html#Praca&#x1e47;&#x1e0d;">Praca&#x1e47;&#x1e0d;.</a> </dd>
+           <dd>&#x2022; a R&#x0101;kshasa <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> </dd>
+           <dd>&#x2022; mfn. fraudulent, malicious, injurious <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; pherav&#x012b;tantra </dt>
+           <dd><em>pherav&#x012b;-tantra</em> n. N. of wk</dd>
+
+           <dt>&#x226b; pheru </dt>
+           <dd><em>pheru</em> m. a jackal <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x22d9; pheruvinn&#x0101; </dt>
+           <dd><em>&#x25cb;vinn&#x0101;</em> f. a species cf plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phel </dt>
+           <dd><em>phel</em> cl. 1. P. <em>phelati</em>, to go, move <a href="worksAuthorsAbbrs.html#Dh&#x0101;tup">Dh&#x0101;tup.</a> xv, 35</dd>
+
+           <dt>phela </dt>
+           <dd><em>phela</em> n. remnants of food, refuse, orts (also <em>&#x25cb;l&#x0101;</em>, <em>&#x25cb;li</em>, <em>&#x25cb;lik&#x0101;</em>, <em>&#x25cb;l&#x012b;</em>) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a partic. high number <a href="worksAuthorsAbbrs.html#Buddh">Buddh.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. (prob.) w&#x1e5b;. for <em>pel&#x0101;</em> = <em>pe&#x1e6d;&#x0101;</em>, a small box <a href="worksAuthorsAbbrs.html#Divy&#x00e2;v">Divy&#x00e2;v.</a></dd>
+
+           <dt>pheluka </dt>
+           <dd><em>pheluka</em> m. the scrotum <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>phaulli </dt>
+           <dd><em>phaulli</em> f. (fr. <em>phulla</em>) <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-1, 2, 42 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 4 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a></dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

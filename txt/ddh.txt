@@ -1,0 +1,121 @@
+    <dl>
+           <dt>&#x1e0d;ha 1</dt>
+           <dd><em>&#x1e0d;ha</em> the aspirate of the preceding letter,</dd>
+
+           <dt>&#x22d9; &#x1e0d;hak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m- the letter <em>&#x1e0d;h</em></dd>
+
+           <dt>&#x1e0d;ha 2</dt>
+           <dd><em>&#x1e0d;ha</em> mfn. = <em>nir-gu&#x1e47;a</em> <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; m. an imitative sound <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a large drum <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a dog <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a dog's tail <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a serpent <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x1e0d;hakka </dt>
+           <dd><em>&#x1e0d;hakka</em> m. a large sacred building <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> iii, v </dd>
+           <dd>&#x2022; N. of a locality (cf. <em>&#x1e6d;akka</em>) <a href="worksAuthorsAbbrs.html#Mricch">Mricch.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> Introd </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. a large drum (cf. <em>gaja-</em>, <em>jaya-</em>) <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> vi, 133 </dd>
+           <dd>&#x2022; covering, disappearance, W:</dd>
+
+           <dt>&#x22d9; &#x1e0d;hakkades&#x012b;ya </dt>
+           <dd><em>&#x25cb;"&#x1e63;des&#x012b;ya</em> mfn. spoken in the district of &#x1e0c;hakkia <a href="worksAuthorsAbbrs.html#M&#x1e5b;icch">M&#x1e5b;icch.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> Introd</dd>
+
+           <dt>&#x1e0d;hakkana </dt>
+           <dd><em>&#x1e0d;hakkana</em> n. shutting (of a door) <a href="worksAuthorsAbbrs.html#&#x015a;&#x012b;l">&#x015a;&#x012b;l.</a> </dd>
+           <dd>&#x2022; m. N. of a man <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> vi, 230f. (v. l. <em>&#x25cb;kkama</em>)</dd>
+
+           <dt>&#x1e0d;hakk&#x0101;r&#x012b; </dt>
+           <dd><em>&#x1e0d;hakk&#x0101;r&#x012b;</em> f. N. of the goddess T&#x0101;r&#x0101; or Tari&#x1e47;I, Kulasadbh</dd>
+
+           <dt>&#x1e0d;ha&#x1e45;ka </dt>
+           <dd><em>&#x1e0d;ha&#x1e45;ka</em> m. N. of a mountain <a href="worksAuthorsAbbrs.html#&#x015a;atr">&#x015a;atr.</a> i</dd>
+
+           <dt>&#x1e0d;ha&#x1e0d;&#x1e0d;hara </dt>
+           <dd><em>&#x1e0d;ha&#x1e0d;&#x1e0d;hara</em> N. of a man <a href="worksAuthorsAbbrs.html#HPari&#x015b;">HPari&#x015b;.</a> . xiii</dd>
+
+           <dt>&#x1e0d;ha&#x1e47;&#x1e6d;&#x012b; </dt>
+           <dd><em>&#x1e0d;ha&#x1e47;&#x1e6d;&#x012b;</em> f. = <em>v&#x0101;kya-vi&#x015b;e&#x1e63;a</em> <a href="worksAuthorsAbbrs.html#Rudray">Rudray.</a></dd>
+
+           <dt>&#x1e0d;h&#x0101;mar&#x0101; </dt>
+           <dd><em>&#x1e0d;h&#x0101;mar&#x0101;</em> f. a goose <a href="worksAuthorsAbbrs.html#Dhana&#x1e43;j">Dhana&#x1e43;j.</a></dd>
+
+           <dt>&#x1e0d;h&#x0101;rik&#x0101; </dt>
+           <dd><em>&#x1e0d;h&#x0101;rik&#x0101;</em> f. the julus <a href="worksAuthorsAbbrs.html#&#x0100;pG&#x1e5b;">&#x0100;pG&#x1e5b;.</a>,</dd>
+
+           <dt>&#x1e0d;h&#x0101;la </dt>
+           <dd><em>&#x1e0d;h&#x0101;la</em> n. 'a shield', See <em>&#x25cb;lin</em></dd>
+
+           <dt>&#x226b; &#x1e0d;h&#x0101;lin </dt>
+           <dd><em>&#x1e0d;h&#x0101;lin</em> mfn. armed with a shield, Rudraj</dd>
+
+           <dt>&#x1e0d;hi&#x1e47;&#x1e0d;hi&#x1e47;ik&#x0101; </dt>
+           <dd><em>&#x1e0d;hi&#x1e47;&#x1e0d;hi&#x1e47;ik&#x0101;</em> See <em>&#x1e6d;i&#x1e47;&#x1e6d;i&#x1e47;&#x25cb;</em></dd>
+
+           <dt>&#x1e0d;hu&#x1e0d;hi </dt>
+           <dd><em>&#x1e0d;hu&#x1e0d;hi</em> v&#x1e37;. for <em>&#x1e0d;hu&#x1e47;&#x1e0d;hi</em></dd>
+
+           <dt>&#x1e0d;hu&#x1e47;&#x1e0d;h </dt>
+           <dd><em>&#x1e0d;hu&#x1e47;&#x1e0d;h</em> (a Sautra root), to search</dd>
+
+           <dt>&#x226b; &#x1e0d;hu&#x1e47;&#x1e0d;hana </dt>
+           <dd><em>&#x1e0d;hu&#x1e47;&#x1e0d;hana</em> n. searching, investigating <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; &#x1e0d;hu&#x1e47;&#x1e0d;hi </dt>
+           <dd><em>&#x1e0d;hu&#x1e47;&#x1e0d;hi</em> m. N. of Ga&#x1e47;&#x00ea;sa <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;&#x012b;Kh">K&#x0101;&#x015b;&#x012b;Kh.</a></dd>
+
+           <dt>&#x22d9; &#x1e0d;hu&#x1e47;&#x1e0d;hir&#x0101;ja </dt>
+           <dd><em>&#x25cb;r&#x0101;ja</em> m. N. of the author of a work on nativities </dd>
+           <dd>&#x2022; of B&#x0101;lak&#x1e5b;ishna's father </dd>
+           <dd>&#x2022; of Vin&#x0101;yaka-bha&#x1e6d;&#x1e6d;a's father (about 1800 A&#x1e0c;.) </dd>
+           <dd>&#x2022; <em>&#x25cb;j&#x00e2;khy&#x0101;na</em> n. N. of <a href="worksAuthorsAbbrs.html#Ga&#x1e47;P">Ga&#x1e47;P.</a> ii, 43</dd>
+
+           <dt>&#x226b; &#x1e0d;hu&#x1e47;&#x1e0d;hik&#x0101; </dt>
+           <dd><em>&#x1e0d;hu&#x1e47;&#x1e0d;hik&#x0101;</em> f. a gloss (?)</dd>
+
+           <dt>&#x226b; &#x1e0d;hu&#x1e47;&#x1e0d;hita </dt>
+           <dd><em>&#x1e0d;hu&#x1e47;&#x1e0d;hita</em> mfn. sought, inquired <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x1e0d;he&#x1e45;ka </dt>
+           <dd><em>&#x1e0d;he&#x1e45;ka</em> m. N. of a bird <a href="worksAuthorsAbbrs.html#Vasantar">Vasantar.</a>viii, 12 </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. a kind of dance</dd>
+
+           <dt>&#x22d9; &#x1e0d;he&#x1e45;kik&#x0101; </dt>
+           <dd><em>&#x1e0d;he&#x1e45;kik&#x0101;</em> f. (in music) a kind of measure </dd>
+           <dd>&#x2022; <em>t&#x0101;la</em> m. id. <font color="#FF0000" font size=-2><a name="p431-2"></a>[Page 431, Column 2]</font>
+</dd>
+
+           <dt>&#x1e0d;hevvuk&#x0101; </dt>
+           <dd><em>&#x1e0d;hevvuk&#x0101;</em> f. a coin, Kath&#x00e2;rn</dd>
+
+           <dt>&#x1e0d;horasamudra </dt>
+           <dd><em>&#x1e0d;hora-samudra</em> N. of a locality <a href="worksAuthorsAbbrs.html#Romakas">Romakas.</a></dd>
+
+           <dt>&#x22d9; &#x1e0d;hol&#x0101;samudra </dt>
+           <dd><em>&#x1e0d;hol&#x0101;-samudra</em> = <em>&#x1e0d;hora-s&#x25cb;</em> <a href="worksAuthorsAbbrs.html#W">W.</a></dd>
+
+           <dt>&#x226b; &#x1e0d;hola </dt>
+           <dd><em>&#x1e0d;hola</em> m. a large drum, Rudraj</dd>
+
+   <dt>&#x22d9; &#x1e0d;holasamudrik&#x0101; </dt>
+   <dd><em>&#x25cb;"&#x1e63;samudrik&#x0101;</em> f. 'coming from or growing in &#x1e0c;hola-samudra (- <em>&#x1e0d;hora-s&#x25cb;</em>), Leea macrophylla <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x1e0d;hollar&#x012b; </dt>
+           <dd><em>&#x1e0d;hollar&#x012b;</em> f. a kind of composition</dd>
+
+   <dt>&#x1e0d;hauk </dt>
+   <dd><em>&#x1e0d;hauk</em> cl. 1. &#x0100;. <em>&#x25cb;kate</em> (pf. <em>&#x1e0d;u&#x1e0d;hauke</em> [<a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-4, 59 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>] <a href="worksAuthorsAbbrs.html#Hcar">Hcar.</a> <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a>), to approach (with acc.) <a href="worksAuthorsAbbrs.html#K&#x0101;d">K&#x0101;d.</a> <a href="worksAuthorsAbbrs.html#Hcar">Hcar.</a> <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a>: Caus. <em>&#x1e0d;haukayati</em> (aor. <em>a&#x1e0d;u&#x1e0d;haukat</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-4, 2 and 59 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>), to bring near (to, gen.), cause to come near, offer, to any one (dat.) <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> <a href="worksAuthorsAbbrs.html#Bha&#x1e6d;&#x1e6d;">Bha&#x1e6d;&#x1e6d;.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a>: Desid. <em>&#x1e0d;u&#x1e0d;kauki&#x1e63;ate</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-4, 59 and viii, 4, 54 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>: Intens. <em>&#x1e0d;o&#x1e0d;haukyate</em>, vii, 4, 82 <a href="worksAuthorsAbbrs.html#V&#x0101;rtt">V&#x0101;rtt.</a> 1 <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+   <dd>&#x2022; cf. <em>upa</em>.,</dd>
+
+           <dt>&#x22d9; &#x1e0d;haukana </dt>
+           <dd><em>&#x1e0d;haukana</em> n. offering, present <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> vi, 166 <a href="worksAuthorsAbbrs.html#&#x015a;atr">&#x015a;atr.</a> xiv <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; cf. <em>upa-</em></dd>
+
+           <dt>&#x226b; &#x1e0d;haukita </dt>
+           <dd><em>&#x1e0d;haukita</em> mfn. brought near <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xii, 4138.</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

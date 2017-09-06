@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT a (#PCDATA)>
+<!ATTLIST a href CDATA #REQUIRED>
+<!ELEMENT em (#PCDATA)>
+<!ELEMENT entry (word,meaning+)>
+<!ELEMENT li (em)>
+<!ELEMENT meaning (#PCDATA|a|em|ol|strong)*>
+<!ELEMENT ol (li)>
+<!ELEMENT root (entry+)>
+<!ELEMENT strong (#PCDATA)>
+<!ELEMENT word (#PCDATA)>

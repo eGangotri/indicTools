@@ -75,7 +75,16 @@ task fatJarSandhi(type:Jar) {
     }
 }
 
-task fatJar(dependsOn:[fatJarTrans, fatJarSandhi]){
+task fatJarDictionary(type:Jar) {
+    baseName = project.name + '-dictionary'
+    from { (configurations.compile + configurations.runtime).collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+    manifest {
+        attributes 'Implementation-Title': 'eGangotri Programming Tools', 'Implementation-Version': "", 'Main-Class': 'com.egangotri.monierWilliams.dict.MWSktEngDictionary'
+    }
+}
+
+task fatJar(dependsOn:[fatJarTrans, fatJarSandhi,fatJarDictionary]){
     doLast {
         println 'jarring'
         copy {
@@ -97,6 +106,23 @@ dependencies {
     compile 'org.apache.commons:commons-lang3:3.4'
     compile 'commons-logging:commons-logging:1.2'
     compile 'log4j:log4j:1.2.11'
+
+    compile 'javax.mail:mail:1.4'
+    compile 'cglib:cglib-nodep:2.1_3'
+    compile 'commons-collections:commons-collections:3.1'
+    compile 'commons-dbcp:commons-dbcp:1.4'
+    compile 'commons-pool:commons-pool:1.6'
+
+    compile 'org.apache.derby:derby:10.12.1.1'
+    compile 'dom4j:dom4j:1.6.1'
+    compile 'org.springframework:spring-hibernate3:2.0.8'
+    compile 'jdom:jdom:1.1'
+    compile 'javax.transaction:jta:1.1'
+    compile 'junit:junit:4.12'
+    compile 'log4j:log4j:1.2.11'
+    compile 'mysql:mysql-connector-java:5.1.39'
+    compile 'org.springframework:spring-context:2.0'
+
     testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
     testCompile 'junit:junit:4.12'
 

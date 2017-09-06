@@ -1,0 +1,25 @@
+    <dl>
+           <dt>&#x1e47;a 1</dt>
+           <dd><em>&#x1e47;a</em> the cerebral nasal <a href="worksAuthorsAbbrs.html#TPr&#x0101;t">TPr&#x0101;t.</a> xxi, 14</dd>
+
+           <dt>&#x22d9; &#x1e47;ak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>&#x1e47;</em>, vii, 1 ; xiii, 6</dd>
+
+           <dt>&#x1e47;a 2</dt>
+           <dd><em>&#x1e47;a</em> m. knowledge <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; certainty, ascertainment <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; ornament <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a water-house <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; = <em>nirv&#x1e5b;ti</em> (invented for the etymology of <em>kri&#x1e63;&#x1e47;a</em>,) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> v, 70, 5 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a> </dd>
+           <dd>&#x2022; a bad man <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of &#x015a;iva or of a <a href="worksAuthorsAbbrs.html#Buddh">Buddh.</a> deity <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the sound of negation <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; gift <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x1e47;ya </dt>
+           <dd><em>&#x1e47;ya</em> m. (etymological) N. of an ocean in the Brahma-loka <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> viii, 5, 3</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

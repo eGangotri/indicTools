@@ -1,0 +1,717 @@
+    <dl>
+           <dt>ai 1</dt>
+           <dd><em>ai</em> the twelfth vowel of the alphabet and having the sound of <em>ei</em> in <em>height</em></dd>
+
+           <dt>&#x22d9; aik&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter or sound <em>ai</em></dd>
+
+           <dt>ai 2</dt>
+           <dd><em>ai</em> ind. an interjection <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> </dd>
+           <dd>&#x2022; a particle of addressing </dd>
+           <dd>&#x2022; summoning </dd>
+           <dd>&#x2022; remembering <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ai 3</dt>
+           <dd><em>ai</em> <em>ais</em> m. N. of &#x015a;iva <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>aika </dt>
+           <dd><em>aika</em> mfn. (fr. <em>eka</em>), belonging or relating to one (?), g. <em>gah&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 138 (not in <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>)</dd>
+
+           <dt>&#x226b; aikakarmya </dt>
+           <dd><em>aikakarmya</em> n. (fr. <em>eka-karman</em>), unity of action <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a></dd>
+
+           <dt>&#x226b; aikak&#x0101;lya </dt>
+           <dd><em>aikak&#x0101;lya</em> n. (fr. <em>eka-k&#x0101;la</em>), unity of time <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a></dd>
+
+           <dt>&#x226b; aikagavika </dt>
+           <dd><em>aikagavika</em> mfn. (fr. <em>eka-gava</em>), possessing but one cow <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-2, 118</dd>
+
+           <dt>&#x226b; aikagu&#x1e47;ya </dt>
+           <dd><em>aikagu&#x1e47;ya</em> n. (fr. <em>eka-gu&#x1e47;a</em>), the value of a single unit, simple unity <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x226b; aikadhya </dt>
+           <dd><em>aikadhya</em> n. (fr. <em>ekadh&#x0101;</em>), singleness of time or occurrence </dd>
+           <dd>&#x2022; (<em>am</em>), ind. at once, together <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-3, 44 <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x22d9; aikadhyatas </dt>
+           <dd><em>&#x25cb;tas</em> ind. id. <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x226b; aikapatya </dt>
+           <dd><em>aikapatya</em> n. (fr. <em>eka-pati</em>), sovereignty of one, absolute monarchy <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x226b; aikapadika </dt>
+           <dd><em>aikapadika</em> mfn. (fr. <em>eka-pada</em>), belonging to a simple word <a href="worksAuthorsAbbrs.html#Nir">Nir.</a> </dd>
+           <dd>&#x2022; consisting of single words <a href="worksAuthorsAbbrs.html#Nir">Nir.</a> iv, 1. <font color="#FF0000" font size=-2><a name="p233-2"></a>[Page 233, Column 2]</font>
+</dd>
+
+           <dt>&#x226b; aikapadya </dt>
+           <dd><em>aikapadya</em> n. ( the last) unity of words, the state of being one word <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 2-1, 25</dd>
+
+           <dt>&#x226b; aikabh&#x0101;vya </dt>
+           <dd><em>aikabh&#x0101;vya</em> n. (fr. <em>eka-bh&#x0101;va</em> g. <em>br&#x0101;hma&#x1e47;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-1, 124), the state of being one, singleness</dd>
+
+           <dt>&#x226b; aikabhautika </dt>
+           <dd><em>aikabhautika</em> mfn. (fr. <em>eka-bh&#x016b;ta</em>), consisting of one element <a href="worksAuthorsAbbrs.html#Kap">Kap.</a></dd>
+
+           <dt>&#x226b; aikamatya </dt>
+           <dd><em>aikamatya</em> n. (fr. <em>eka-mata</em>), unanimity, conformity or sameness of opinions <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> &amp;c </dd>
+           <dd>&#x2022; (mfn.) having conformity of opinions, conforming, agreeing <a href="worksAuthorsAbbrs.html#R">R.</a> v</dd>
+
+           <dt>&#x226b; aikar&#x0101;jya </dt>
+           <dd><em>aikar&#x0101;jya</em> <em>am</em>, (fr. <em>eka-r&#x0101;j</em>), sole monarchy <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;v&#x015a;r">&#x0100;&#x015b;v&#x015a;r.</a> v</dd>
+
+           <dt>&#x226b; aikar&#x0101;trika </dt>
+           <dd><em>aikar&#x0101;trika</em> mfn. (fr. <em>eka-r&#x0101;tra</em>), staying one night <a href="worksAuthorsAbbrs.html#Gaut">Gaut.</a></dd>
+
+           <dt>&#x226b; aikar&#x016b;pya </dt>
+           <dd><em>aikar&#x016b;pya</em> n. (fr. <em>eka-r&#x016b;pa</em>), the being of one sort, identity <a href="worksAuthorsAbbrs.html#S&#x0101;h">S&#x0101;h.</a></dd>
+
+           <dt>&#x226b; aikalava </dt>
+           <dd><em>aikalava</em> mf(<em>&#x012b;</em>)n. (fr. <em>aikalavya</em>. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 111) belonging to a descendant of Eka-l&#x016b;</dd>
+
+           <dt>&#x226b; aikalavya </dt>
+           <dd><em>aikalavya</em> <em>as</em>, <em>vii</em> mf. a descendant of Eka-l&#x016b;, g. <em>garg&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 105</dd>
+
+           <dt>&#x226b; aikavar&#x1e47;ika </dt>
+           <dd><em>aikavar&#x1e47;ika</em> mfn. (fr. <em>eka-var&#x1e47;a</em>), relating to one caste <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x226b; aika&#x015b;atika </dt>
+           <dd><em>aika&#x015b;atika</em> mfn. (fr. <em>eka-&#x015b;ata</em>), possessing 101 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-2, 118</dd>
+
+           <dt>&#x226b; aika&#x015b;apha </dt>
+           <dd><em>aika&#x015b;apha</em> mfn. (fr. <em>eka-&#x015b;apha</em>), coming from or relating to an animal with uncloven hoofs <a href="worksAuthorsAbbrs.html#Gaut">Gaut.</a> xvii, 24 <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> v, 8 <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a></dd>
+
+           <dt>&#x226b; aika&#x015b;abdya </dt>
+           <dd><em>aika&#x015b;abdya</em> n. (fr. <em>eka-&#x015b;abda</em>), sameness or identity of words <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a></dd>
+
+           <dt>&#x226b; aika&#x015b;&#x0101;lika </dt>
+           <dd><em>aika&#x015b;&#x0101;lika</em> mfn. = <em>eka-&#x015b;&#x0101;lika</em>, q.v. <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-3, 110</dd>
+
+           <dt>&#x226b; aika&#x015b;rutya </dt>
+           <dd><em>aika&#x015b;rutya</em> n. (fr. <em>eka-&#x015b;ruti</em> q.v.), sameness of tone or accent, monotony <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;v&#x015a;r">&#x0100;&#x015b;v&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a></dd>
+
+           <dt>&#x226b; aikasahasrika </dt>
+           <dd><em>aikasahasrika</em> mfn. (fr. <em>eka-sahasra</em>), possessing 1001</dd>
+
+           <dt>&#x226b; aikasvarya </dt>
+           <dd><em>aikasvarya</em> n. (fr. <em>eka-svara</em>), the state of having but one accent (as of a compound) <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 2-1, 25 </dd>
+           <dd>&#x2022; sameness of tone, monotony <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;g&#x0101;rika </dt>
+           <dd><em>aik&#x0101;g&#x0101;rika</em> <em>as</em>, <em>&#x012b;</em> mf. (fr. <em>ek&#x00e2;g&#x0101;ra</em> </dd>
+           <dd>&#x2022; <em>ekam asah&#x0101;yam &#x0101;g&#x0101;ram prayojanam asya</em>, whose object is a solitary house), a thief <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-1, 113 <a href="worksAuthorsAbbrs.html#Da&#x015b;">Da&#x015b;.</a> <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;gnika </dt>
+           <dd><em>aik&#x0101;gnika</em> mfn. (fr. <em>ek&#x00e2;gn&#x012b;</em>), relating to or performed with a single fire</dd>
+
+           <dt>&#x226b; aik&#x0101;grya </dt>
+           <dd><em>aik&#x0101;grya</em> n. (fr. <em>ek&#x00e2;gra</em>), intentness or concentration on one object <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Ved&#x0101;ntas">Ved&#x0101;ntas.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;&#x1e45;k&#x0101;yana </dt>
+           <dd><em>aik&#x0101;&#x1e45;k&#x0101;yana</em> m. a descendant of Ek&#x00e2;&#x1e45;ka</dd>
+
+           <dt>&#x226b; aik&#x0101;&#x1e45;ga </dt>
+           <dd><em>aik&#x0101;&#x1e45;ga</em> m. (fr. <em>ek&#x00e2;&#x1e45;ga</em>), a soldier who acts as body-guard <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;tmya </dt>
+           <dd><em>aik&#x0101;tmya</em> n. (fr. <em>ek&#x00e2;tman</em>), unity of the soul, unity of being, oneness, identity <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> </dd>
+           <dd>&#x2022; oneness with the Supreme Spirit <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;da&#x015b;&#x0101;k&#x1e63;a </dt>
+           <dd><em>aik&#x0101;da&#x015b;&#x0101;k&#x1e63;a</em> m. a descendant of Ek&#x0101;da&#x015b;&#x00e2;ksha</dd>
+
+           <dt>&#x226b; aik&#x0101;da&#x015b;ina </dt>
+           <dd><em>aik&#x0101;da&#x015b;in&#x00e1;</em> mf(<em>&#x012b;</em>)n. (fr. <em>ek&#x0101;da&#x015b;a</em>), belonging to a collection of eleven (e.g. animals) <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;dhikara&#x1e47;ya </dt>
+           <dd><em>aik&#x0101;dhikara&#x1e47;ya</em> n. (fr. <em>ek&#x00e2;dhikara&#x1e47;a</em>), the state of having but one object of relation <a href="worksAuthorsAbbrs.html#Bh&#x0101;sh&#x0101;p">Bh&#x0101;sh&#x0101;p.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;ntika </dt>
+           <dd><em>aik&#x0101;ntika</em> mf(<em>&#x012b;</em>)n. (fr. <em>ek&#x00e2;nta</em>), absolute, necessary, complete, exclusive         <br>          <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#S&#x0101;&#x1e43;khyak">S&#x0101;&#x1e43;khyak.</a> &amp;c</dd>
+
+           <dt>&#x226b; aik&#x0101;ntya </dt>
+           <dd><em>aik&#x0101;ntya</em> n. (fr. id.), exclusiveness, absoluteness <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;nyika </dt>
+           <dd><em>aik&#x0101;nyika</em> mfn. (<em>ekam anyad vipar&#x012b;7ta&#x1e43; v&#x1e5b;ttam adhyayane'sya</em>) one who commits a single error in reciting <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 63</dd>
+
+           <dt>&#x226b; aik&#x0101;yana </dt>
+           <dd><em>aik&#x0101;yana</em> m. a descendant of Eka, g. <em>na&#x1e0d;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 99</dd>
+
+           <dt>&#x226b; aik&#x0101;rthya </dt>
+           <dd><em>aik&#x0101;rthya</em> n. (fr. <em>ek&#x00e2;rtha</em>), oneness of aim or intention <a href="worksAuthorsAbbrs.html#Da&#x015b;ar">Da&#x015b;ar.</a> </dd>
+           <dd>&#x2022; oneness or unity of an idea <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> </dd>
+           <dd>&#x2022; sameness of meaning <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;&#x015b;ramya </dt>
+           <dd><em>aik&#x0101;&#x015b;ramya</em> n. the existence of one order only <a href="worksAuthorsAbbrs.html#Gaut">Gaut.</a> iii, 36 <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#Ny&#x0101;yam">Ny&#x0101;yam.</a></dd>
+
+           <dt>&#x226b; aik&#x0101;hika </dt>
+           <dd><em>a&#x00ed;k&#x0101;hika</em> mf(<em>&#x012b;</em>)n. (fr. <em>ek&#x00e2;ha</em>), lasting one day, ephemeral, quotidian (as fever) <a href="worksAuthorsAbbrs.html#AgP">AgP.</a> </dd>
+           <dd>&#x2022; belonging to an Ek&#x0101;ha (q.v.) sacrifice <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;v&#x015a;r">&#x0100;&#x015b;v&#x015a;r.</a> &amp;c</dd>
+
+           <dt>&#x226b; aik&#x0101;hya </dt>
+           <dd><em>aik&#x0101;hya</em> n. (fr. id.), the state of an Ek&#x0101;ha (q.v.) sacrifice <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a></dd>
+
+           <dt>&#x226b; aikya </dt>
+           <dd><em>aikya</em> n. (fr. <em>eka</em>), oneness, unity, harmony, sameness, identity <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a> &amp;c </dd>
+           <dd>&#x2022; identity of the human soul or of the universe with the Deity <a href="worksAuthorsAbbrs.html#MW">MW.</a> </dd>
+           <dd>&#x2022; an aggregate, sum <a href="worksAuthorsAbbrs.html#S&#x016b;ryas">S&#x016b;ryas.</a> </dd>
+           <dd>&#x2022; (in math.) the product of the length and depth of excavations differing in depth</dd>
+
+           <dt>&#x22d9; aiky&#x0101;ropa </dt>
+           <dd><em>aiky&#x00e2;ropa</em> m. equalization <a href="worksAuthorsAbbrs.html#Kuv">Kuv.</a></dd>
+
+           <dt>aik&#x1e63;ava </dt>
+           <dd><em>aik&#x1e63;av&#x00e1;</em> and <em>aik&#x1e63;avy&#x00e1;</em> mf(<em>&#x012b;</em>)n. (fr. <em>ik&#x1e63;u</em>), made of or produced from the sugar-cane <a href="worksAuthorsAbbrs.html#TS">TS.</a> vi <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. sugar <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <font color="#FF0000" font size=-2><a name="p233-3"></a>[Page 233, Column 3]</font>
+</dd>
+
+           <dt>&#x22d9; aik&#x1e63;uka </dt>
+           <dd><em>aik&#x1e63;uka</em> mfn. suitable for sugar-cane, g. <em>gu&#x1e0d;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 103 </dd>
+           <dd>&#x2022; bearing sugar-cane, g. <em>va&#x1e43;&#x015b;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-1, 50 </dd>
+           <dd>&#x2022; (fr. <em>ik&#x1e63;uk&#x012b;y&#x0101;</em>), being in a country which abounds in sugar-cane, g. <em>bilvak&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 6-4, 153</dd>
+
+           <dt>&#x226b; aik&#x1e63;ubh&#x0101;rika </dt>
+           <dd><em>aik&#x1e63;ubh&#x0101;rika</em> mfn. (fr. <em>ik&#x1e63;u-bh&#x0101;ra</em>), carrying a load of sugar-canes</dd>
+
+           <dt>aik&#x1e63;v&#x0101;ka </dt>
+           <dd><em>aik&#x1e63;v&#x0101;k&#x00e1;</em> <em>as</em>, <em>&#x012b;</em> mf. a son or descendant of Ikshv&#x0101;ku <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xiii <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> &amp;c</dd>
+
+           <dt>&#x226b; aik&#x1e63;v&#x0101;ku </dt>
+           <dd><em>aik&#x1e63;v&#x0101;ku</em> ep. for <em>aik&#x1e63;v&#x0101;k&#x00e1;</em> above</dd>
+
+           <dt>ai&#x1e45;guda </dt>
+           <dd><em>ai&#x1e45;guda</em> mf(<em>&#x012b;</em>)n. coming from the plant I&#x1e45;guda <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. the fruit of that plant <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>aicchika </dt>
+           <dd><em>aicchika</em> mfn. (fr. <em>icch&#x0101;</em>), optional, arbitrary, at will <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> <a href="worksAuthorsAbbrs.html#Kuv">Kuv.</a> &amp;c</dd>
+
+           <dt>ai&#x1e6d;ata </dt>
+           <dd><em>ai&#x1e6d;ata</em> <em>am</em>. n. (fr. <em>i&#x1e6d;ata</em>), N. of several S&#x0101;mans <a href="worksAuthorsAbbrs.html#&#x0100;rshBr">&#x0100;rshBr.</a> <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a></dd>
+
+           <dt>ai&#x1e0d;a </dt>
+           <dd><em>ai&#x1e0d;&#x00e1;</em> mf(<em>&#x012b;</em>)n. (fr. <em>i&#x1e0d;&#x0101;</em>), containing anything that refreshes or strengthens <a href="worksAuthorsAbbrs.html#VS">VS.</a> xv, 7 </dd>
+           <dd>&#x2022; ending in or containing the word <em>i&#x1e0d;&#x0101;</em> (as a S&#x0101;man) <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;&#x1e6d;h">K&#x0101;&#x1e6d;h.</a> &amp;c </dd>
+           <dd>&#x2022; descended from I&#x1e0d;&#x0101; <a href="worksAuthorsAbbrs.html#VP">VP.</a> </dd>
+           <dd>&#x2022; m. N. of Pur&#x016b;ravas <a href="worksAuthorsAbbrs.html#RV">RV.</a> x, 95, 18 (<em>ai&#x1e3b;&#x00e1;</em>) <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> &amp;c </dd>
+           <dd>&#x2022; (<em>&#x0101;s</em>), m. pl. the descendants or family of Pur&#x016b;ravas <a href="worksAuthorsAbbrs.html#VP">VP.</a> (cf. <em>aila</em>.)</dd>
+
+           <dt>&#x22d9; ai&#x1e0d;ak&#x0101;va </dt>
+           <dd><em>&#x25cb;k&#x0101;va</em></dd>
+
+           <dt>&#x22d9; ai&#x1e0d;akautsa </dt>
+           <dd><em>&#x25cb;kautsa</em></dd>
+
+           <dt>&#x22d9; ai&#x1e0d;akrau&#x00f1;ca </dt>
+           <dd><em>&#x25cb;krau&#x00f1;ca</em></dd>
+
+           <dt>&#x22d9; ai&#x1e0d;ay&#x0101;ma </dt>
+           <dd><em>&#x25cb;y&#x0101;ma</em></dd>
+
+           <dt>&#x22d9; ai&#x1e0d;av&#x0101;si&#x1e63;&#x1e6d;ha </dt>
+           <dd><em>&#x25cb;v&#x0101;si&#x1e63;&#x1e6d;ha</em></dd>
+
+           <dt>&#x22d9; ai&#x1e0d;a&#x015b;uddh&#x0101;&#x015b;uddh&#x012b;ya </dt>
+           <dd><em>&#x25cb;&#x015b;uddh&#x0101;&#x015b;uddh&#x012b;ya</em></dd>
+
+           <dt>&#x22d9; ai&#x1e0d;asaindhuk&#x1e63;ita </dt>
+           <dd><em>&#x25cb;saindhuk&#x1e63;ita</em></dd>
+
+           <dt>&#x22d9; ai&#x1e0d;asaupar&#x1e47;a </dt>
+           <dd><em>&#x25cb;saupar&#x1e47;a</em> n. N. of certain S&#x0101;mans</dd>
+
+           <dt>&#x226b; ai&#x1e0d;&#x0101;dadha </dt>
+           <dd><em>ai&#x1e0d;&#x0101;dadha</em> = <em>i&#x1e0d;&#x0101;-dadha</em>, p. 164, col. 3 <a href="worksAuthorsAbbrs.html#&#x0100;p&#x015a;r">&#x0100;p&#x015a;r.</a></dd>
+
+           <dt>ai&#x1e0d;a 2</dt>
+           <dd><em>ai&#x1e0d;a</em> mfn. (fr. <em>e&#x1e0d;a</em>), coming from the sheep E&#x1e0d;a <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> viii</dd>
+
+           <dt>&#x226b; ai&#x1e0d;aka </dt>
+           <dd><em>ai&#x1e0d;ak&#x00e1;</em> mf(<em>&#x012b;</em>)n. id. <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> </dd>
+           <dd>&#x2022; m. a species of sheep <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xii</dd>
+
+           <dt>ai&#x1e0d;avi&#x1e0d;a </dt>
+           <dd><em>ai&#x1e0d;avi&#x1e0d;a</em> m. a descendant of I&#x1e0d;a-vi&#x1e0d;&#x0101;, N. of Kuvera <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> </dd>
+           <dd>&#x2022; of a son of Da&#x015b;aratha <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> ix (cf. <em>ailavila</em>.)</dd>
+
+           <dt>ai&#x1e0d;&#x016b;ka </dt>
+           <dd><em>ai&#x1e0d;&#x016b;ka</em> n. = <em>e&#x1e0d;&#x016b;ka</em>, q.v</dd>
+
+           <dt>ai&#x1e47;a </dt>
+           <dd><em>ai&#x1e47;a</em> mf(<em>&#x012b;</em>)n. (fr. <em>e&#x1e47;a</em>), produced from or belonging to the male black antelope <a href="worksAuthorsAbbrs.html#Y&#x0101;j&#x00f1;">Y&#x0101;j&#x00f1;.</a> i, 258 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 159</dd>
+
+           <dt>&#x226b; ai&#x1e47;ika </dt>
+           <dd><em>ai&#x1e47;ika</em> mfn. hunting black antelopes <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; ai&#x1e47;ik&#x012b;ya </dt>
+           <dd><em>ai&#x1e47;ik&#x012b;ya</em> mfn. = <em>ai&#x1e47;a</em>? <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 141</dd>
+
+           <dt>&#x226b; ai&#x1e47;&#x012b;pacana </dt>
+           <dd><em>ai&#x1e47;&#x012b;pacana</em> mfn. = <em>e&#x1e47;&#x012b;pacan&#x012b;ya</em>, q.v. <a href="worksAuthorsAbbrs.html#Siddh">Siddh.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 1-1, 75</dd>
+
+           <dt>&#x226b; ai&#x1e47;eya </dt>
+           <dd><em>ai&#x1e47;eya</em> mfn. (fr. <em>e&#x1e47;&#x012b;</em>), produced or coming from the female black antelope <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 159 <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;vG&#x1e5b;">&#x0100;&#x015b;vG&#x1e5b;.</a> <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> &amp;c </dd>
+           <dd>&#x2022; (fr. <em>ai&#x1e47;eya</em>) belonging to anything which is produced from the female black antelope <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 155 </dd>
+           <dd>&#x2022; m. the black antelope </dd>
+           <dd>&#x2022; (<em>am</em>), n. a kind of coitus</dd>
+
+           <dt>aitad&#x0101;tmya </dt>
+           <dd><em>aitad&#x0101;tmya</em> n. (fr. <em>etad-&#x0101;tman</em>), the state of having the nature or property of this <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> vi, 8, 7 ; 16, 3 (= <a href="worksAuthorsAbbrs.html#Ved&#x0101;ntas">Ved&#x0101;ntas.</a> 200)</dd>
+
+           <dt>aitara </dt>
+           <dd><em>aitara</em> mfn. (fr. <em>itara</em>), g. <em>sa&#x1e43;kal&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 75</dd>
+
+           <dt>&#x226b; aitareya </dt>
+           <dd><em>aitareya</em> m. a descendant of Itara or Itar&#x0101;, N. of Mahid&#x0101;sa (author of a Brahma&#x1e47;a and &#x0100;ra&#x1e47;yaka called after him) </dd>
+           <dd>&#x2022; (mfn.) composed by Aitareya</dd>
+
+           <dt>&#x22d9; aitareyabr&#x0101;hma&#x1e47;a </dt>
+           <dd><em>&#x25cb;br&#x0101;hma&#x1e47;a</em> n. N. of the Br&#x0101;hma&#x1e47;a composed by Aitareya (attached to the &#x1e5a;ig-veda and prescribing the duties of the Hot&#x1e5b;i priest </dd>
+           <dd>&#x2022; it is divided into forty Adhy&#x0101;yas or eight Pa&#x00f1;cik&#x0101;s)</dd>
+
+           <dt>&#x22d9; aitarey&#x0101;ra&#x1e47;yaka </dt>
+           <dd><em>aitarey&#x00e2;ra&#x1e47;yaka</em> n. N. of the &#x0100;ra&#x1e47;yaka composed by Aitareya (consisting of five books or &#x0100;ra&#x1e47;yakas, the second and third books of which form the Upanishad)</dd>
+
+           <dt>&#x22d9; aitareyopani&#x1e63;ad </dt>
+           <dd><em>aitarey&#x00f4;pani&#x1e63;ad</em> f. N. of either the second and third books of the Aitareya-&#x0101;ra&#x1e47;yaka or of the four last sections of the second book only </dd>
+           <dd>&#x2022; <em>-bh&#x0101;&#x1e63;ya</em> n. N. of a treatise and commentary on the last</dd>
+
+           <dt>&#x226b; aitareyaka </dt>
+           <dd><em>aitareyaka</em> n. the Aitareya-br&#x0101;hma&#x1e47;a</dd>
+
+           <dt>&#x226b; aitareyin </dt>
+           <dd><em>aitareyin</em> <em>i&#x1e47;as</em> m. pl. the school of Aitareya <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;v&#x015a;r">&#x0100;&#x015b;v&#x015a;r.</a></dd>
+
+           <dt>aita&#x015b;a </dt>
+           <dd><em>aita&#x015b;a</em> <em>as</em>, m. N. of a Muni</dd>
+
+           <dt>&#x22d9; aita&#x015b;apral&#x0101;pa </dt>
+           <dd><em>&#x25cb;pral&#x0101;pa</em> m. N. of a section of the Atharva-veda by the above Muni (coming after the Kunt&#x0101;pa hymns <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>) <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> vi, 33, 1 <a href="worksAuthorsAbbrs.html#Vait">Vait.</a></dd>
+
+           <dt>&#x226b; aita&#x015b;&#x0101;yana </dt>
+           <dd><em>aita&#x015b;&#x0101;yana</em> m. a descendant of Aita&#x015b;a <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> vi, 33, 3</dd>
+
+           <dt>aitik&#x0101;yana </dt>
+           <dd><em>aitik&#x0101;yana</em> m. a descendant of Itika, g. <em>na&#x1e0d;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 99</dd>
+
+           <dt>&#x226b; aitik&#x0101;yan&#x012b;ya </dt>
+           <dd><em>aitik&#x0101;yan&#x012b;ya</em> mfn. belonging to the above. <font color="#FF0000" font size=-2><a name="p234-1"></a>[Page 234, Column 1]</font>
+</dd>
+
+           <dt>aiti&#x015b;&#x0101;yana </dt>
+           <dd><em>aiti&#x015b;&#x0101;yana</em> m. a descendant of Iti&#x015b;a, g. <em>na&#x1e0d;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 99 <a href="worksAuthorsAbbrs.html#Jaim">Jaim.</a></dd>
+
+           <dt>aitiha </dt>
+           <dd><em>aitiha</em> n. = the next <a href="worksAuthorsAbbrs.html#&#x015a;&#x0101;&#x1e45;kh&#x015a;r">&#x015a;&#x0101;&#x1e45;kh&#x015a;r.</a></dd>
+
+           <dt>&#x226b; aitihya </dt>
+           <dd><em>aitihy&#x00e1;</em> n. (fr. <em>iti-ha</em>), traditional instruction, tradition <a href="worksAuthorsAbbrs.html#T&#x0100;r">T&#x0100;r.</a> i, 2, 1 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a></dd>
+
+           <dt>aitih&#x0101;sika </dt>
+           <dd><em>aitih&#x0101;sika</em> mf(<em>&#x012b;</em>)n. (fr. <em>iti-h&#x00e2;sa</em>), derived from ancient legends, legendary, historical, traditional <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a> <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> </dd>
+           <dd>&#x2022; m. one who relates or knows ancient legends </dd>
+           <dd>&#x2022; an historian</dd>
+
+           <dt>aida&#x1e43;yug&#x012b;na </dt>
+           <dd><em>aida&#x1e43;yug&#x012b;na</em> mfn. (fr. <em>idam-yuga</em> </dd>
+           <dd>&#x2022; g. <em>pratijan&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-4, 99), suitable for or belonging to this Yuga or age <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> i, 9, 1</dd>
+
+           <dt>aida&#x1e43;parya </dt>
+           <dd><em>aida&#x1e43;parya</em> n. (fr. <em>ida&#x1e43;-para</em>), chief object or aim, chief end <a href="worksAuthorsAbbrs.html#M&#x0101;lat&#x012b;m">M&#x0101;lat&#x012b;m.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#B&#x0101;dar">B&#x0101;dar.</a></dd>
+
+           <dt>aidha </dt>
+           <dd><em>aidh&#x00e1;</em> n. (fr. 2. <em>edhas</em> <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>), flame, splendour </dd>
+           <dd>&#x2022; ardour, power <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 166, 1</dd>
+
+           <dt>aina </dt>
+           <dd><em>aina</em> <em>&#x0101;s</em> m. pl., N. of a people <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> (ed. Calc.) xiii </dd>
+           <dd>&#x2022; (v. l. <em>aila</em>.)</dd>
+
+           <dt>ainasa </dt>
+           <dd><em>ainasa</em> n. (fr. <em>enas</em> g. <em>praj&#x00f1;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-4, 38 <em>not in <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a></em>), = <em>enas</em></dd>
+
+           <dt>aindava </dt>
+           <dd><em>aindava</em> mf(<em>&#x012b;</em>)n. (fr. <em>indu</em>), relating to the moon, like the moon, lunar <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> </dd>
+           <dd>&#x2022; m. the planet Mercury <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. Serratula Anthelminthica <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n: the Nakshatra M&#x1e5b;iga&#x015b;iras <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; (with and without <em>&#x015b;odhana</em>) the observance called C&#x0101;ndr&#x0101;ya&#x1e47;a (q.v.) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> xi, 125 <a href="worksAuthorsAbbrs.html#Par&#x0101;&#x015b;">Par&#x0101;&#x015b;.</a></dd>
+
+           <dt>&#x226b; aindumateya </dt>
+           <dd><em>aindumateya</em> m. a descendant of Indumat&#x012b;, N. of Da&#x015b;aratha <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a></dd>
+
+           <dt>&#x226b; aindu&#x015b;ekhara </dt>
+           <dd><em>aindu&#x015b;ekhara</em> mfn. (fr. <em>indu-&#x015b;ekhara</em>), belonging to or treating of the moon-crested one, i.e. &#x015a;iva <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a></dd>
+
+           <dt>aindra </dt>
+           <dd><em>aindr&#x00e1;</em> mf(<em>&#x012b;</em>)n. (fr. <em>indra</em>), belonging to or sacred to Indra, coming or proceeding from Indra, similar to Indra <a href="worksAuthorsAbbrs.html#AV">AV.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c </dd>
+           <dd>&#x2022; m. (scil. <em>bh&#x0101;ga</em>) that part of a sacrifice which is offered to Indra <a href="worksAuthorsAbbrs.html#R">R.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. (scil. <em>&#x1e5b;c</em>) a verse addressed to Indra <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> iv <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;v&#x015a;r">&#x0100;&#x015b;v&#x015a;r.</a> vi <a href="worksAuthorsAbbrs.html#Nir">Nir.</a> &amp;c </dd>
+           <dd>&#x2022; (scil. <em>di&#x015b;</em>) Indra's quarter, the east <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; (scil. <em>tithi</em>) the eighth day in the second half of the month M&#x0101;rga&#x015b;&#x012b;rsha </dd>
+           <dd>&#x2022; (scil. <em>&#x015b;akti</em>) Indra's energy (personified as his wife and sometimes identified with Durg&#x0101;) <a href="worksAuthorsAbbrs.html#M&#x0101;rkP">M&#x0101;rkP.</a> <a href="worksAuthorsAbbrs.html#DeviibhP">DeviibhP.</a> &amp;c </dd>
+           <dd>&#x2022; N. of the lunar mansion Jyesh&#x1e6d;h&#x0101; <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a species of cucumber <a href="worksAuthorsAbbrs.html#Bhpr">Bhpr.</a> <a href="worksAuthorsAbbrs.html#Car">Car.</a> </dd>
+           <dd>&#x2022; Cardamom <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; misfortune <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. the lunar mansion Jyesh&#x1e6d;h&#x0101; <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; N. of several S&#x0101;mans </dd>
+           <dd>&#x2022; of a country in Bh&#x0101;ratavarsha <a href="worksAuthorsAbbrs.html#VP">VP.</a> </dd>
+           <dd>&#x2022; wild ginger <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x22d9; aindratur&#x012b;ya </dt>
+           <dd><em>&#x25cb;tur&#x012b;y&#x00e1;</em> m. (scil. <em>graha</em>) a libation the fourth part of which belongs to Indra <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> iv, 1, 3, 14</dd>
+
+           <dt>&#x226b; aindraj&#x0101;la </dt>
+           <dd><em>aindraj&#x0101;la</em> n. (fr. <em>indra-j&#x0101;la</em>), magic, sorcery <a href="worksAuthorsAbbrs.html#V&#x0101;tsy&#x0101;y">V&#x0101;tsy&#x0101;y.</a></dd>
+
+           <dt>&#x226b; aindraj&#x0101;lika </dt>
+           <dd><em>aindraj&#x0101;lika</em> mf(<em>&#x012b;</em>)n. familiar with or relating to magic, magical <a href="worksAuthorsAbbrs.html#Prab">Prab.</a> </dd>
+           <dd>&#x2022; m. a juggler, magician <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> <a href="worksAuthorsAbbrs.html#Ratn&#x0101;v">Ratn&#x0101;v.</a></dd>
+
+           <dt>&#x226b; aindradyumna </dt>
+           <dd><em>aindradyumna</em> mfn. relating to or treating of Indradyumna <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> i</dd>
+
+           <dt>&#x226b; aindradyumni </dt>
+           <dd><em>aindradyumni</em> m. a descendant of Indradyumna, N. of Janaka <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii</dd>
+
+           <dt>&#x226b; aindran&#x012b;la </dt>
+           <dd><em>aindran&#x012b;la</em> mf(<em>&#x012b;</em>)n. (fr. <em>indra-n&#x012b;la</em>), made of sapphire, Kuv</dd>
+
+           <dt>&#x226b; aindramahika </dt>
+           <dd><em>aindramahika</em> mfn. serving for an Indra-maha festival <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 5-1, 109</dd>
+
+           <dt>&#x226b; aindram&#x0101;ruta </dt>
+           <dd><em>aindram&#x0101;ruta</em> mfn. relating to Indra and the Maruts <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> xxi, 14, 12</dd>
+
+           <dt>&#x226b; aindral&#x0101;jya </dt>
+           <dd><em>aindral&#x0101;jya</em> mfn. a descendant of Indral&#x0101;j&#x012b;, g. <em>kurv-&#x0101;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 151 (cf. K&#x0101;&#x015b;. reads <em>indraj&#x0101;li</em>)</dd>
+
+           <dt>&#x226b; aindraluptika </dt>
+           <dd><em>aindraluptika</em> mfn. (fr. <em>indra-lupta</em>), afflicted with morbid baldness of the head <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; aindrav&#x0101;yava </dt>
+           <dd><em>aindrav&#x0101;yav&#x00e1;</em> mfn. belonging or relating to Indra and V&#x0101;yu <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a></dd>
+
+           <dt>&#x226b; aindra&#x015b;ira </dt>
+           <dd><em>aindra&#x015b;ira</em> m. (fr. <em>indra-&#x015b;ira</em>, N. of a country <a href="worksAuthorsAbbrs.html#Comm">Comm.</a>), a species of elephant <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 70, 23</dd>
+
+           <dt>&#x226b; aindraseni </dt>
+           <dd><em>aindraseni</em> m. a descendant of Indrasena <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a></dd>
+
+           <dt>&#x226b; aindrahava </dt>
+           <dd><em>aindrahava</em> mfn. belonging to Aindrahavya <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 121</dd>
+
+           <dt>&#x226b; aindrahavya </dt>
+           <dd><em>aindrahavya</em> m. a descendant of Indrah&#x016b;, g. <em>garg&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 105</dd>
+
+           <dt>&#x226b; aindr&#x0101;gna </dt>
+           <dd><em>aindr&#x0101;gn&#x00e1;</em> mf(<em>&#x012b;</em>)n. sacred or belonging to or coming from Indra and Agni <a href="worksAuthorsAbbrs.html#AV">AV.</a> viii, 5, 19 </dd>
+           <dd>&#x2022; xi, 7, 6 <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#TS">TS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. the Nakshatra Vi&#x015b;&#x0101;kh&#x0101; <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> <font color="#FF0000" font size=-2><a name="p234-2"></a>[Page 234, Column 2]</font>
+</dd>
+
+           <dt>&#x22d9; aindr&#x0101;gnakul&#x0101;ya </dt>
+           <dd><em>&#x25cb;kul&#x0101;ya</em> m. a particular Ek&#x0101;ha (q.v.) <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xxii, 11, 13</dd>
+
+           <dt>&#x226b; aindr&#x0101;gnya </dt>
+           <dd><em>aindr&#x0101;gnya</em> mfn. v. l. for <em>aindr&#x0101;gna</em> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> (ed. Calc.) xii, 2307</dd>
+
+           <dt>&#x226b; aindr&#x0101;j&#x0101;gata </dt>
+           <dd><em>aindr&#x0101;j&#x0101;gata</em> mfn. addressed to Indra and composed in the Jagat&#x012b; metre (as a prayer) <a href="worksAuthorsAbbrs.html#Vait">Vait.</a> <a href="worksAuthorsAbbrs.html#GopBr">GopBr.</a> ii, 6, 16</dd>
+
+           <dt>&#x226b; aindr&#x0101;d&#x1e5b;&#x015b;a </dt>
+           <dd><em>aindr&#x0101;d&#x1e5b;&#x015b;a</em> mfn. made of Indr&#x0101;d&#x1e5b;i&#x015b;a or the cochineal insect [<a href="worksAuthorsAbbrs.html#T">T.</a>], g. <em>t&#x0101;l&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 152</dd>
+
+           <dt>&#x226b; aindr&#x0101;nair&#x1e5b;ta </dt>
+           <dd><em>aindr&#x0101;nair&#x1e5b;ta</em> mfn. belonging to Indra and Nir&#x1e5b;iti <a href="worksAuthorsAbbrs.html#K&#x0101;&#x1e6d;h">K&#x0101;&#x1e6d;h.</a></dd>
+
+           <dt>&#x226b; aindr&#x0101;pau&#x1e63;&#x1e47;a </dt>
+           <dd><em>aindr&#x0101;pau&#x1e63;&#x1e47;&#x00e1;</em> mfn. belonging to Indra and P&#x016b;shan <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x226b; aindr&#x0101;b&#x0101;rhaspatya </dt>
+           <dd><em>aindr&#x0101;b&#x0101;rhaspaty&#x00e1;</em> mfn. belonging to Indra and B&#x1e5b;ihaspati <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> &amp;c</dd>
+
+           <dt>&#x226b; aindr&#x0101;m&#x0101;ruta </dt>
+           <dd><em>aindr&#x0101;m&#x0101;ruta</em> mfn. belonging to Indra and the Maruts <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x226b; aindr&#x0101;ya&#x1e47;a </dt>
+           <dd><em>aindr&#x0101;ya&#x1e47;a</em> m. a descendant of Indra </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. N. of a woman</dd>
+
+           <dt>&#x226b; aindr&#x0101;ya&#x1e47;aka </dt>
+           <dd><em>aindr&#x0101;ya&#x1e47;aka</em> mfn. belonging or relating to Aindr&#x0101;yana, g. <em>ar&#x012b;ha&#x1e47;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 80</dd>
+
+           <dt>&#x226b; aindr&#x0101;yudha </dt>
+           <dd><em>aindr&#x0101;yudha</em> mfn. (fr. <em>indr&#x00e2;yudha</em> g. <em>t&#x0101;l&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 152), made of (?) or relating to Indra's rainbow</dd>
+
+           <dt>&#x226b; aindr&#x0101;rbhava </dt>
+           <dd><em>aindr&#x0101;rbhava</em> mfn. relating to Indra and the &#x1e5a;ibhus <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a></dd>
+
+           <dt>&#x226b; aindr&#x0101;li&#x015b;a </dt>
+           <dd><em>aindr&#x0101;li&#x015b;a</em> mfn. made of Indr&#x0101;li&#x015b;a or the cochineal insect [<a href="worksAuthorsAbbrs.html#T">T.</a>], g. <em>t&#x0101;l&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-3, 152</dd>
+
+           <dt>&#x226b; aindr&#x0101;varu&#x1e47;a </dt>
+           <dd><em>aindr&#x0101;varu&#x1e47;a</em> mfn. relating to Indra and Varu&#x1e47;a <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> <a href="worksAuthorsAbbrs.html#Vait">Vait.</a></dd>
+
+           <dt>&#x226b; aindr&#x0101;vas&#x0101;na </dt>
+           <dd><em>aindr&#x0101;vas&#x0101;na</em> mf(<em>&#x012b;</em>)n. (fr. <em>indr&#x00e2;vas&#x0101;na</em> g. <em>uts&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 86), inhabiting a desert [= <em>marubhava</em> <a href="worksAuthorsAbbrs.html#T">T.</a>]</dd>
+
+           <dt>&#x226b; aindr&#x0101;v&#x0101;ru&#x1e47;a </dt>
+           <dd><em>aindr&#x0101;v&#x0101;ru&#x1e47;a</em> mfn. = <em>aindr&#x0101;varu&#x1e47;a</em> above <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a></dd>
+
+           <dt>&#x226b; aindr&#x0101;vai&#x1e63;&#x1e47;ava </dt>
+           <dd><em>aindr&#x0101;vai&#x1e63;&#x1e47;av&#x00e1;</em> mf(<em>&#x012b;</em>)n. relating to Indra and Vish&#x1e47;u <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a></dd>
+
+           <dt>&#x226b; aindr&#x0101;saumya </dt>
+           <dd><em>aindr&#x0101;saumy&#x00e1;</em> mfn. belonging to Indra and Soma <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x226b; aindri </dt>
+           <dd><em>aindri</em> m. a descendant of Indra </dd>
+           <dd>&#x2022; N. of Jayanta <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> </dd>
+           <dd>&#x2022; of Arjuna <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; of the monkey-king V&#x0101;lin <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a crow <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> xii, 22</dd>
+
+           <dt>&#x226b; aindroti </dt>
+           <dd><em>aindroti</em> m. a descendant of Indrota <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> <a href="worksAuthorsAbbrs.html#VBr">VBr.</a></dd>
+
+           <dt>aindriya </dt>
+           <dd><em>aindriya</em> mfn. (fr. <em>indriya</em>), relating to the senses, sensual <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#Ny&#x0101;yad">Ny&#x0101;yad.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. sensual pleasure, world of senses <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>&#x22d9; aindriyedh&#x012b; </dt>
+           <dd><em>aindriye-dh&#x012b;</em> mfn. one whose mind is fixed upon sensual pleasure only <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> v, 18, 22</dd>
+
+           <dt>&#x226b; aindriyaka </dt>
+           <dd><em>aindriyaka</em> mfn. relating to the senses, sensual <a href="worksAuthorsAbbrs.html#Car">Car.</a> <a href="worksAuthorsAbbrs.html#VP">VP.</a></dd>
+
+           <dt>&#x22d9; aindriyakatva </dt>
+           <dd><em>&#x25cb;tva</em> n. the state of relating to senses <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#Ny&#x0101;yad">Ny&#x0101;yad.</a></dd>
+
+           <dt>aindhana </dt>
+           <dd><em>aindhana</em> mfn. (fr. <em>indhana</em>), produced from fuel (as fire) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> iii, 149</dd>
+
+           <dt>aindh&#x0101;yana </dt>
+           <dd><em>aindh&#x0101;yana</em> m. a descendant of Indha, g. 1. <em>ra&#x1e0d;&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 99 (not in <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a>)</dd>
+
+           <dt>ainya </dt>
+           <dd><em>ainya</em> m. (with <em>indrasya</em>), N. of a S&#x0101;man <a href="worksAuthorsAbbrs.html#&#x0100;rshBr">&#x0100;rshBr.</a></dd>
+
+           <dt>ainvaka </dt>
+           <dd><em>ainvaka</em> n. N. of a S&#x0101;man <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>aibha </dt>
+           <dd><em>aibha</em> mf(<em>&#x012b;</em>)n. (fr. <em>ibha</em>), belonging to an elephant, Murd&#x0101;r. <a href="worksAuthorsAbbrs.html#&#x015a;i&#x015b;">&#x015a;i&#x015b;.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. a kind of pumpkin <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x226b; aibh&#x0101;vata </dt>
+           <dd><em>aibh&#x0101;vat&#x00e1;</em> m. a descendant of Ibh&#x0101;vat, N. of Prat&#x012b;dar&#x015b;a <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xii</dd>
+
+           <dt>aiyatya </dt>
+           <dd><em>aiyatya</em> n. (fr. <em>iyat</em>), quantity, number, value</dd>
+
+           <dt>aira </dt>
+           <dd><em>air&#x00e1;</em> mfn. (fr. <em>&#x00ed;r&#x0101;</em>), relating to or consisting of water or refreshment or food <a href="worksAuthorsAbbrs.html#TS">TS.</a> ii <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;&#x1e0d;yaBr">T&#x0101;&#x1e47;&#x1e0d;yaBr.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> viii, 5, 3 </dd>
+           <dd>&#x2022; (<em>am</em>), n. a heap or plenty of food or refreshment </dd>
+           <dd>&#x2022; (with <em>mad&#x012b;ya</em>) N. of a lake in Brahman's world <a href="worksAuthorsAbbrs.html#ChUp">ChUp.</a> viii, 5, 3</dd>
+
+           <dt>&#x226b; aira&#x1e43;mada </dt>
+           <dd><em>aira&#x1e43;mada</em> mfn. (fr. <em>ira&#x1e43;-mada</em>), coming from sheet-lightning <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a> </dd>
+           <dd>&#x2022; a descendant of Agni, N. of Devamuni (author of a Vedic hymn) <a href="worksAuthorsAbbrs.html#RAnukr">RAnukr.</a></dd>
+
+           <dt>&#x226b; air&#x0101;va&#x1e47;a </dt>
+           <dd><em>air&#x0101;va&#x1e47;a</em> m. (fr. <em>ir&#x0101;-van</em>), N. of Indra's elephant <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#Lalit">Lalit.</a> </dd>
+           <dd>&#x2022; N. of a N&#x0101;ga <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> ii (cf. the next.)</dd>
+
+           <dt>&#x226b; air&#x0101;vata </dt>
+           <dd><em>air&#x0101;vat&#x00e1;</em> m. (fr. <em>ir&#x0101;-vat</em>), a descendant of Ir&#x0101;-vat </dd>
+           <dd>&#x2022; N. of a N&#x0101;ga or mythical serpent <a href="worksAuthorsAbbrs.html#AV">AV.</a> viii, 10, 29 <a href="worksAuthorsAbbrs.html#T&#x0101;&#x1e47;dyaBr">T&#x0101;&#x1e47;dyaBr.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> &amp;c </dd>
+           <dd>&#x2022; 'produced from the ocean', N. of Indra's elephant (considered as the prototype of the elephant race and the supporter of the east quarter </dd>
+           <dd>&#x2022; cf. <em>n&#x0101;ga</em>, which means also elephant and serpent) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> <a href="worksAuthorsAbbrs.html#Megh">Megh.</a> &amp;c. <font color="#FF0000" font size=-2><a name="p234-3"></a>[Page 234, Column 3]</font> </dd>
+           <dd>&#x2022; a species of elephant <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 70, 23 </dd>
+           <dd>&#x2022; the tree Artocarpus Lacucha </dd>
+           <dd>&#x2022; the orange tree <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of a particular portion of the moon's path </dd>
+           <dd>&#x2022; of a form of the sun <a href="worksAuthorsAbbrs.html#VP">VP.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; (<em>as</em>, <em>am</em>), m. n. a kind of rainbow <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> &amp;c </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. the female of Indra's elephant </dd>
+           <dd>&#x2022; N. of a river <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; lightning <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; a species of fern <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>, <em>&#x0101;</em>), f. a particular portion of the moon's path (including the lunar mansions Punarvasu, Pushya, and &#x0100;&#x015b;lesha) <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. the fruit of Artocarpus Lacucha <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> </dd>
+           <dd>&#x2022; N. of a Varsha <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+           <dt>&#x226b; air&#x0101;vataka </dt>
+           <dd><em>air&#x0101;vataka</em> m. N. of a mountain </dd>
+           <dd>&#x2022; (<em>am</em>), n. the fruit of Artocarpus Lacucha <a href="worksAuthorsAbbrs.html#Car">Car.</a></dd>
+
+           <dt>&#x226b; aireya </dt>
+           <dd><em>aireya</em> n. (fr. <em>ir&#x0101;</em>), an intoxicating beverage <a href="worksAuthorsAbbrs.html#M&#x0101;nG&#x1e5b;">M&#x0101;nG&#x1e5b;.</a></dd>
+
+           <dt>airi&#x1e47;a </dt>
+           <dd><em>airi&#x1e47;a</em> n. (fr. <em>iri&#x1e47;a</em>), fossil or rock salt <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; N. of a S&#x0101;man</dd>
+
+           <dt>airmya </dt>
+           <dd><em>airmya</em> n. (fr. 2. <em>&#x012b;rma</em>), 'fit for a sore', an ointment, plaster <a href="worksAuthorsAbbrs.html#Su&#x015b;r">Su&#x015b;r.</a> ii, 86, 2</dd>
+
+           <dt>aila </dt>
+           <dd><em>aila</em> m. (fr. <em>il&#x0101;</em> = <em>i&#x1e0d;&#x0101;</em>), a descendant of Il&#x0101;, N. of Pur&#x016b;ravas (cf. 1. <em>ai&#x1e0d;&#x00e1;</em>) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; N. of the planet Mars <a href="worksAuthorsAbbrs.html#T">T.</a> </dd>
+           <dd>&#x2022; (<em>&#x0101;s</em>), m. pl. the descendants or family of Pur&#x016b;ravas <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> xiii </dd>
+           <dd>&#x2022; (<em>&#x0101;</em>), f. N. of a river (v. l. <em>el&#x0101;</em>) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. plenty or abundance of food or refreshment </dd>
+           <dd>&#x2022; a particular number (cf. Buddh.)</dd>
+
+           <dt>&#x22d9; ailadh&#x0101;na </dt>
+           <dd><em>&#x25cb;dh&#x0101;na</em> m. N. of a place <a href="worksAuthorsAbbrs.html#R">R.</a> ii, 71, 3 </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. N. of a river <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#R">R.</a> <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; ailab&#x1e5b;da </dt>
+           <dd><em>&#x25cb;b&#x1e5b;d&#x00e1;</em> mfn. bringing or procuring plenty of food <a href="worksAuthorsAbbrs.html#VS">VS.</a> xvi, 6o <a href="worksAuthorsAbbrs.html#TS">TS.</a> iv</dd>
+
+           <dt>&#x22d9; ailam&#x1e5b;&#x1e0d;a </dt>
+           <dd><em>&#x25cb;m&#x1e5b;&#x1e0d;&#x00e1;</em> mfn. id. (?) <a href="worksAuthorsAbbrs.html#MaitrS">MaitrS.</a> ii, 9, 9</dd>
+
+           <dt>&#x226b; aileya 1</dt>
+           <dd><em>aileya</em> m. N. of the planet Mars <a href="worksAuthorsAbbrs.html#T">T.</a></dd>
+
+           <dt>ailaka </dt>
+           <dd><em>ailaka</em> mfn. coming from the sheep called E&#x1e0d;aka <a href="worksAuthorsAbbrs.html#&#x0100;p">&#x0100;p.</a></dd>
+
+           <dt>ailaba </dt>
+           <dd><em>ailab&#x00e1;</em> m. noise, cry, roaring <a href="worksAuthorsAbbrs.html#AV">AV.</a> vi, 16, 3 ; xii, 5, 47-49</dd>
+
+           <dt>&#x22d9; ailabak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;r&#x00e1;</em> mfn. making a noise, roaring (said of Rudra's dogs) <a href="worksAuthorsAbbrs.html#AV">AV.</a> xi, 2, 30</dd>
+
+           <dt>ailav&#x0101;luka </dt>
+           <dd><em>ailav&#x0101;luka</em> = <em>elav&#x0101;lu</em>, q.v. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ailavila </dt>
+           <dd><em>ailavila</em> or <em>ailavi&#x1e0d;a</em> (cf. <em>ai&#x1e0d;avi&#x1e0d;a</em>), m. a descendant of Ilavila, N. of Dil&#x012b;pa <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> vii, 2263 </dd>
+           <dd>&#x2022; a descendant of Ilavil&#x0101;, N. of Kuvera <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a> <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a></dd>
+
+           <dt>ail&#x0101;ka </dt>
+           <dd><em>ail&#x0101;ka</em> mfn. belonging to Ail&#x0101;kya, g. <em>ka&#x1e47;v&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 111</dd>
+
+           <dt>&#x226b; ail&#x0101;kya </dt>
+           <dd><em>ail&#x0101;kya</em> m. a descendant of El&#x0101;ka, g. <em>garg&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-1, 105</dd>
+
+           <dt>ailika </dt>
+           <dd><em>ailika</em> m. a descendant of Ilin&#x012b;, N. of Ja&#x1e43;su (father of Dushyanta) <a href="worksAuthorsAbbrs.html#Hariv">Hariv.</a></dd>
+
+           <dt>ail&#x016b;&#x1e63;a </dt>
+           <dd><em>ail&#x016b;&#x1e63;a</em> m. a descendant of Il&#x016b;sha, N. of Kavasha (author of a Vedic hymn) <a href="worksAuthorsAbbrs.html#AitBr">AitBr.</a> ii, 19, 1</dd>
+
+           <dt>aileya 2</dt>
+           <dd><em>aileya</em> n. = <em>elav&#x0101;lu</em>, q.v. <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>ai&#x015b;a </dt>
+           <dd><em>ai&#x015b;a</em> mfn. (fr. <em>&#x012b;&#x015b;a</em>), relating to or coming from &#x015a;iva, &#x015a;iva-like <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#AgP">AgP.</a> <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> </dd>
+           <dd>&#x2022; divine, supreme, regal</dd>
+
+           <dt>&#x226b; ai&#x015b;ika </dt>
+           <dd><em>ai&#x015b;ika</em> mfn. relating to &#x015a;iva &amp;c. <a href="worksAuthorsAbbrs.html#R">R.</a> i, 56, 6 (v. l. <em>ai&#x1e63;&#x012b;ka</em>)</dd>
+
+           <dt>&#x226b; ai&#x015b;ya </dt>
+           <dd><em>ai&#x015b;ya</em> n. supremacy, power <a href="worksAuthorsAbbrs.html#BhP">BhP.</a></dd>
+
+           <dt>ai&#x015b;&#x0101;na </dt>
+           <dd><em>ai&#x015b;&#x0101;na</em> mf(<em>&#x012b;</em>)n. (fr. <em>&#x012b;&#x015b;&#x0101;na</em>), relating to or coming from &#x015a;iva <a href="worksAuthorsAbbrs.html#R&#x0101;matUp">R&#x0101;matUp.</a> <a href="worksAuthorsAbbrs.html#Vikr">Vikr.</a> </dd>
+           <dd>&#x2022; belonging to &#x015a;iva's quarter, north-eastern <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a> </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. (scil. <em>di&#x015b;</em>) &#x015a;iva's quarter, north-east <a href="worksAuthorsAbbrs.html#VarB&#x1e5b;S">VarB&#x1e5b;S.</a></dd>
+
+           <dt>&#x22d9; ai&#x015b;&#x0101;naja </dt>
+           <dd><em>&#x25cb;ja</em> <em>&#x0101;s</em> m. pl. = <em>&#x012b;&#x015b;&#x0101;naja</em>, q.v</dd>
+
+           <dt>ai&#x015b;vara </dt>
+           <dd><em>ai&#x015b;vara</em> mf(<em>&#x012b;</em>)n. (fr. <em>&#x012b;&#x015b;vara</em>), relating to or coming from a mighty lord or king, mighty powerful, majestic <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> &amp;c </dd>
+           <dd>&#x2022; belonging to or coming from &#x015a;iva <a href="worksAuthorsAbbrs.html#Ragh">Ragh.</a> xi, 76 <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> cxvi, 10 </dd>
+           <dd>&#x2022; (<em>am</em>), n. supremacy, power, might <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> x </dd>
+           <dd>&#x2022; (<em>&#x012b;</em>), f. N. of Durg&#x0101; <a href="worksAuthorsAbbrs.html#T">T.</a></dd>
+
+           <dt>&#x226b; ai&#x015b;vari </dt>
+           <dd><em>ai&#x015b;vari</em> m. a descendant of &#x012a;&#x015b;vara, N. of a &#x1e5a;ishi</dd>
+
+           <dt>&#x226b; ai&#x015b;varya </dt>
+           <dd><em>a&#x00ed;&#x015b;varya</em> n. the state of being a mighty lord, sovereignty, supremacy, power, sway <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> xiii <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> &amp;c </dd>
+           <dd>&#x2022; dominion <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> </dd>
+           <dd>&#x2022; superhuman power (either perpetual or transient, consisting, according to some, of the following eight: <em>a&#x1e47;iman</em>, <em>laghiman</em>, <em>mahiman</em>, <em>pr&#x0101;pti</em>, <em>pr&#x0101;k&#x0101;mya</em>, <em>va&#x015b;itva</em>, <em>&#x012b;&#x015b;itva</em>, and <em>k&#x0101;m&#x00e2;vas&#x0101;yitva</em>, qq.v </dd>
+           <dd>&#x2022; or, according to others, of such powers as vision, audition, cogitation, discrimination, and omniscience </dd>
+           <dd>&#x2022; and of active powers such as swiftness of thought, power of assuming forms at will, and faculty of expatiation <a href="worksAuthorsAbbrs.html#Sarvad">Sarvad.</a> &amp;c.)</dd>
+
+           <dt>&#x22d9; ai&#x015b;varyavat </dt>
+           <dd><em>&#x25cb;vat</em> mfn. possessing power or supremacy <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> </dd>
+           <dd>&#x2022; possessed of or connected with superhuman powers. <font color="#FF0000" font size=-2><a name="p235-1"></a>[Page 235, Column 1]</font>
+</dd>
+
+           <dt>&#x22d9; ai&#x015b;varyavivara&#x1e47;a </dt>
+           <dd><em>&#x25cb;vivara&#x1e47;a</em> n. N. of wk</dd>
+
+           <dt>ai&#x1e63;a </dt>
+           <dd><em>ai&#x1e63;a</em> n. N. of several S&#x0101;mans</dd>
+
+           <dt>ai&#x1e63;amas </dt>
+           <dd><em>ai&#x1e63;&#x00e1;mas</em> ind. (cf. P&#x0101;&#x1e47;. 5-3, 22) in this year, in the present year <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> iii</dd>
+
+           <dt>&#x22d9; ai&#x1e63;amastana </dt>
+           <dd><em>&#x25cb;"&#x1e63;tana</em></dd>
+
+           <dt>&#x22d9; ai&#x1e63;amastya </dt>
+           <dd><em>&#x25cb;"&#x1e63;tya</em> mfn. occurring in or relating to this year, of this year <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 105</dd>
+
+           <dt>ai&#x1e63;&#x0101;v&#x012b;ra </dt>
+           <dd><em>ai&#x1e63;&#x0101;v&#x012b;r&#x00e1;</em> m. belonging to the despised Br&#x0101;hmanic family called Eshaviira [<a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a>] <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> ix, xi</dd>
+
+           <dt>ai&#x1e63;ira </dt>
+           <dd><em>ai&#x1e63;ira</em> n. N. of several S&#x0101;mans</dd>
+
+           <dt>ai&#x1e63;&#x012b;ka </dt>
+           <dd><em>ai&#x1e63;&#x012b;ka</em> (or <em>ai&#x1e63;ika</em>), mfn. (fr. <em>i&#x1e63;&#x012b;k&#x0101;</em>), consisting of stalks <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> </dd>
+           <dd>&#x2022; made of reeds or cane (as a missile) <a href="worksAuthorsAbbrs.html#MBh">MBh.</a> <a href="worksAuthorsAbbrs.html#R">R.</a> </dd>
+           <dd>&#x2022; treating of missiles made of reeds </dd>
+           <dd>&#x2022; (<em>ai&#x1e63;ikam parva</em>, N. of a section <em>&#x0101;dhy&#x0101;yas 10-18</em> of the tenth book of the Mah&#x0101;bh&#x0101;rata) </dd>
+           <dd>&#x2022; (<em>&#x0101;s</em>), m. pl., N. of a people <a href="worksAuthorsAbbrs.html#VP">VP.</a></dd>
+
+           <dt>ai&#x1e63;&#x012b;rathi </dt>
+           <dd><em>ai&#x1e63;&#x012b;rathi</em> m. N. of Ku&#x015b;ika (author of a Vedic hymn) <a href="worksAuthorsAbbrs.html#S&#x0101;y">S&#x0101;y.</a> on <a href="worksAuthorsAbbrs.html#RV">RV.</a> i, 10, 11</dd>
+
+           <dt>ai&#x1e63;uk&#x0101;ri </dt>
+           <dd><em>ai&#x1e63;uk&#x0101;ri</em> m. a descendant of Ishu-k&#x0101;ra <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 4-2, 54</dd>
+
+           <dt>&#x22d9; ai&#x1e63;uk&#x0101;ribhakta </dt>
+           <dd><em>&#x25cb;bhakta</em> mfn. inhabited by Aishuk&#x0101;ris (as a country) <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x22d9; ai&#x1e63;uk&#x0101;ry&#x0101;di </dt>
+           <dd><em>ai&#x1e63;uk&#x0101;ry-&#x0101;di</em> m. N. of a ga&#x1e47;a <a href="worksAuthorsAbbrs.html#ib">ib.</a></dd>
+
+           <dt>&#x226b; ai&#x1e63;umata </dt>
+           <dd><em>ai&#x1e63;umata</em> m. a descendant of Ishu-mat, N. of Tr&#x0101;ta <a href="worksAuthorsAbbrs.html#VBr">VBr.</a></dd>
+
+           <dt>ai&#x1e63;&#x1e6d;aka </dt>
+           <dd><em>ai&#x1e63;&#x1e6d;ak&#x00e1;</em> mfn. (fr. <em>i&#x1e63;&#x1e6d;ak&#x0101;</em>), made of bricks (as a house) <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> </dd>
+           <dd>&#x2022; (<em>am</em>), n. the sacrificial bricks collectively <a href="worksAuthorsAbbrs.html#&#x015a;Br">&#x015a;Br.</a> </dd>
+           <dd>&#x2022; putting up the bricks, <a href="worksAuthorsAbbrs.html#&#x015a;ulbas">&#x015a;ulbas.</a></dd>
+
+           <dt>ai&#x1e63;&#x1e6d;ika </dt>
+           <dd><em>ai&#x1e63;&#x1e6d;ika</em> mf(<em>&#x012b;</em>)n. (fr. <em>i&#x1e63;&#x1e6d;i</em>), belonging or relating to an Ish&#x1e6d;i sacrifice, relating to sacrifice <a href="worksAuthorsAbbrs.html#&#x0100;&#x015b;v&#x015a;r">&#x0100;&#x015b;v&#x015a;r.</a> <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#VS">VS.</a> <a href="worksAuthorsAbbrs.html#Hcat">Hcat.</a> &amp;c </dd>
+           <dd>&#x2022; to be performed in the manner of an Ish&#x1e6d;i sacrifice <a href="worksAuthorsAbbrs.html#Comm">Comm.</a> on <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a></dd>
+
+           <dt>&#x22d9; ai&#x1e63;&#x1e6d;ikapaurtika </dt>
+           <dd><em>&#x25cb;paurtika</em> mfn. connected with sacrifices and with doing good works (not included under the head of sacrifices) <a href="worksAuthorsAbbrs.html#Mn">Mn.</a> iv, 227, (<em>antarvedika&#x1e43; bahirve&#x1e0d;ika&#x1e43; ca</em> <a href="worksAuthorsAbbrs.html#Kull">Kull.</a>)</dd>
+
+           <dt>aihika </dt>
+           <dd><em>aihika</em> mfn. (fr. <em>iha</em>), of this place, of this world, worldly, local, temporal <a href="worksAuthorsAbbrs.html#BhP">BhP.</a> <a href="worksAuthorsAbbrs.html#Ved&#x0101;ntas">Ved&#x0101;ntas.</a> &amp;c</dd>
+
+           <dt>&#x226b; aihalaukika </dt>
+           <dd><em>aihalaukika</em> mf(<em>&#x012b;</em>)n. (fr. <em>iha-loka</em>), of this world, happening in this world, terrestrial &amp;c., g. <em>anu&#x015b;atik&#x00e2;di</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 7-3, 20 <a href="worksAuthorsAbbrs.html#MBh">MBh.</a></dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

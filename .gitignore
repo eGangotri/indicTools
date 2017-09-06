@@ -6,3 +6,4 @@ all.log
 out/
 src/groovy/com/egangotri/mains/
 /.idea/
+/src/sandhi.log

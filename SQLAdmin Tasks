@@ -1,0 +1,16 @@
+shell> mysql -u root
+mysql> SET PASSWORD FOR 'root'@'localhost' = PASSWORD('newpwd');
+mysql> SET PASSWORD FOR 'root'@'%' = PASSWORD('newpwd');
+
+mysql> SET PASSWORD FOR 'root'@'127.0.0.1' = PASSWORD('newpwd');
+
+
+GRANT ALL PRIVILEGES ON *.* TO 'dbAdmin'@'localhost' IDENTIFIED BY 'newpasswd' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON *.* TO 'dbAdmin'@'%' IDENTIFIED BY 'newpasswd' WITH GRANT OPTION;
+
+
+shell> mysql -u root
+mysql> DELETE FROM mysql.user WHERE User = '';
+mysql> FLUSH PRIVILEGES;
+
+http://dev.mysql.com/doc/refman/5.1/en/default-privileges.html

@@ -1,0 +1,54 @@
+    <dl>
+           <dt>&#x1e6d;ha 1</dt>
+           <dd><em>&#x1e6d;ha</em> the aspirate of the preceding consonant</dd>
+
+           <dt>&#x22d9; &#x1e6d;hak&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em> m. the letter <em>&#x1e6d;h</em> <a href="worksAuthorsAbbrs.html#P&#x0101;&#x1e47;">P&#x0101;&#x1e47;.</a> 8-4, 41 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> </dd>
+           <dd>&#x2022; <em>&#x25cb;raya</em> Nom. (Desid. <em>&#x1e6d;i&#x1e6d;h"&#x1e63; "&#x1e63;yi&#x1e63;at&#x012b;</em>), 54 <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a></dd>
+
+   <dt>&#x1e6d;ha 2</dt>
+   <dd><em>&#x1e6d;ha</em> m. a loud noise (<em>&#x1e6d;ha&#x1e6d;ha&#x1e43; &#x1e6d;ha&#x1e6d;ha&#x1e43; &#x1e6d;ha&#x1e43; &#x1e6d;ha&#x1e6d;ha&#x1e6d;ha&#x1e43; &#x1e6d;ha&#x1e6d;ha&#x1e43; &#x1e6d;ha&#x1e25;</em>, an imitative sound as of a golden pitcher rolling down steps <a href="worksAuthorsAbbrs.html#Mah&#x0101;n">Mah&#x0101;n.</a>2 iii, 5) <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+   <dd>&#x2022; the moon's disk <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+   <dd>&#x2022; a disk <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+   <dd>&#x2022; a cypher <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+   <dd>&#x2022; a place frequented by all <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+   <dd>&#x2022; &#x015a;iva <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x1e6d;ha&#x1e43;sar&#x012b; </dt>
+           <dd><em>&#x1e6d;ha&#x1e43;sar&#x012b;</em> f. N. of a stringed instrument</dd>
+
+           <dt>&#x1e6d;hakka </dt>
+           <dd><em>&#x1e6d;hakka</em> m. a merchant (= <em>&#x1e6d;akka</em>) <a href="worksAuthorsAbbrs.html#Inscr">Inscr.</a> (Ist century A&#x1e0c;.)</dd>
+
+           <dt>&#x1e6d;hakkana </dt>
+           <dd><em>&#x1e6d;hakkana</em> m. N. of a prince <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> vi, 230ff. and 236 (vv.Il. <em>&#x1e0d;kakk&#x25cb;</em>, <em>thakk&#x25cb;</em>)</dd>
+
+   <dt>&#x1e6d;hakkura </dt>
+   <dd><em>&#x1e6d;hakkura</em> m. a deity, object of reverence, man of rank, chief (the modern 'Th&#x0101;k&#x016b;r, Tagore' added to names), vii f. <a href="worksAuthorsAbbrs.html#Dh&#x016b;rtas">Dh&#x016b;rtas.</a> i, . 19/20</dd>
+
+           <dt>&#x1e6d;ha&#x1e6d;ha&#x1e43; </dt>
+           <dd><em>&#x1e6d;ha&#x1e6d;ha&#x1e43;</em> <em>&#x1e6d;ha&#x1e6d;ha&#x1e6d;ha&#x1e43;</em>, See 2. <em>&#x1e6d;ha</em></dd>
+
+           <dt>&#x1e6d;h&#x0101;tk&#x0101;ra </dt>
+           <dd><em>&#x1e6d;h&#x0101;t-k&#x0101;ra</em> m. = <em>&#x1e6d;&#x0101;&#x1e43;-k&#x25cb;</em> <a href="worksAuthorsAbbrs.html#B&#x0101;lar">B&#x0101;lar.</a> iii</dd>
+
+           <dt>&#x1e6d;h&#x0101;ra </dt>
+           <dd><em>&#x1e6d;h&#x0101;ra</em> rime <a href="worksAuthorsAbbrs.html#K&#x0101;ty&#x015a;r">K&#x0101;ty&#x015a;r.</a> xv, 4, 38 <a href="worksAuthorsAbbrs.html#Sch">Sch.</a></dd>
+
+           <dt>&#x1e6d;hi&#x1e47;&#x1e6d;h&#x0101; </dt>
+           <dd><em>&#x1e6d;hi&#x1e47;&#x1e6d;h&#x0101;</em> f. a gaming-house <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> xc&#x012b;, 15 and 21 (<em>&#x1e6d;i&#x1e47;&#x25cb;</em>), cxxiv, 211 </dd>
+           <dd>&#x2022; N. of a woman <a href="worksAuthorsAbbrs.html#R&#x0101;jat">R&#x0101;jat.</a> vii, 103</dd>
+
+           <dt>&#x22d9; &#x1e6d;hi&#x1e47;&#x1e6d;h&#x0101;kar&#x0101;la </dt>
+           <dd><em>&#x25cb;kar&#x0101;la</em> m. N. of a gaming-house keeper <a href="worksAuthorsAbbrs.html#Kath&#x0101;s">Kath&#x0101;s.</a> cxxi, 71f</dd>
+
+           <dt>&#x1e6d;hetk&#x1e5b;ta </dt>
+           <dd><em>&#x1e6d;het-k&#x1e5b;ta</em> n. the roaring (of a bull) <a href="worksAuthorsAbbrs.html#Ala&#x1e43;k&#x0101;rat">Ala&#x1e43;k&#x0101;rat.</a></dd>
+
+           <dt>&#x1e6d;ho&#x1e47;&#x1e6d;hapaddhahati </dt>
+           <dd><em>&#x1e6d;ho&#x1e47;&#x1e6d;ha-paddhahati</em> f. N. of wk., &#x015a;&#x016b;dradh.</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>

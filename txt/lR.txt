@@ -1,0 +1,22 @@
+    <dl>
+           <dt>&#x1e37; 1</dt>
+           <dd><em>&#x1e37;</em> the ninth vowel of the alphabet (resembling the sound <em>lry</em> in <em>revelry</em> </dd>
+           <dd>&#x2022; it only appears in some forms of &#x221a;<em>k&#x1e37;p</em>)</dd>
+
+           <dt>&#x22d9; &#x1e37;k&#x0101;ra </dt>
+           <dd><em>&#x25cb;k&#x0101;ra</em></dd>
+
+           <dt>&#x22d9; &#x1e37;var&#x1e47;a </dt>
+           <dd><em>&#x25cb;var&#x1e47;a</em> m. the sound <em>&#x1e37;</em> <a href="worksAuthorsAbbrs.html#RPr&#x0101;t">RPr&#x0101;t.</a> <a href="worksAuthorsAbbrs.html#APr&#x0101;t">APr&#x0101;t.</a> <a href="worksAuthorsAbbrs.html#TPr&#x0101;t">TPr&#x0101;t.</a></dd>
+
+           <dt>&#x1e37; 2</dt>
+           <dd><em>&#x1e37;</em> <em>&#x1e37;s</em> m. a mountain <a href="worksAuthorsAbbrs.html#L">L.</a> </dd>
+           <dd>&#x2022; the earth, the mother of the gods <a href="worksAuthorsAbbrs.html#L">L.</a></dd>
+
+           <dt>&#x1e37;taka </dt>
+           <dd><em>&#x1e37;taka</em> <em>as</em> m. N. of a man, mispronunciation of &#x1e5a;itaka <a href="worksAuthorsAbbrs.html#Pat">Pat.</a> and <a href="worksAuthorsAbbrs.html#K&#x0101;&#x015b;">K&#x0101;&#x015b;.</a> on &#x015a;ivas&#x016b;tra 2</dd>
+
+  <dt> </dt>
+  <dd><em></em></dd>
+
+</dl>
