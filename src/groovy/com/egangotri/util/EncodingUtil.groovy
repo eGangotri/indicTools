@@ -13,114 +13,148 @@ class EncodingUtil {
     EncodingUtil() {
     }
 
-    static String getRawItransInput(String alter) {
-        return alter
+    static String getRawItransInput(String text) {
+        return text
     }
 
-    static String convertRawItransToUniformItrans(String alter) {
-        return ItransToUniformItrans.transform(alter)
+    static String convertRawItransToUniformItrans(String text) {
+        return ItransToUniformItrans.transform(text)
     }
 
-    static String convertUniformItransToSLP(String alter) {
-        return ItransToSLP.transform(alter)
+    static String convertUniformItransToSLP(String text) {
+        return ItransToSLP.transform(text)
     }
 
-    static String convertRawItransToIAST(String alter) {
-        return convertSLPToIAST(convertRawItransToSLP(alter))
+    static String convertRawItransToIAST(String text) {
+        return convertSLPToIAST(convertRawItransToSLP(text))
     }
 
-    static String convertRawItransToSLP(String alter) {
-        return convertUniformItransToSLP(convertRawItransToUniformItrans(alter))
+    static String convertRawItransToSLP(String text) {
+        return convertUniformItransToSLP(convertRawItransToUniformItrans(text))
     }
 
-    static String convertHLToIAST(String alter) {
-        return convertSLPToIAST(convertHKToSLP(alter))
+    static String convertHLToIAST(String text) {
+        return convertSLPToIAST(convertHKToSLP(text))
     }
 
-    static String convertSLPToDevanagari(String alter) {
-        return (new SLPToDevanagari()).transform(alter)
-        // return (new SLPToBangla()).transform(alter)
+    static String convertSLPToDevanagari(String text) {
+        return SLPToUnicode.transform(text)
     }
 
-    static String convertSLPToIAST(String alter) {
-        return new SLPToIAST().transform(alter)
+    static String convertSLPToBangla(String text) {
+        return SLPToUnicode.transformToBangla(text)
     }
 
-
-    static String convertUniformItransToDevanagari(String alter) {
-        return convertSLPToDevanagari(convertUniformItransToSLP(alter))
+    static String convertSLPToGujarati(String text) {
+        return SLPToUnicode.transformToGujarati(text)
     }
 
-    static String convertRawItransToDevanagari(String alter) {
-        return convertSLPToDevanagari(convertRawItransToSLP(alter))
+    static String convertSLPToGurumukhi(String text) {
+        return SLPToUnicode.transformToGurumukhi(text)
     }
 
-    static String convertSLPToUniformItrans(String alter) {
-        return SLPToItrans.transform(alter)
-    }
-
-    static String convertSLPToHK(String alter) {
-        return SLPToHK.transform(alter)
-    }
-
-    static String convertSLPToVelthuis(String alter) {
-        return SLPToVelthuis.transform(alter)
-    }
-
-    static String convertDevanagariToSLP(String alter) {
-        return new DvnToSLP().transform(alter)
-    }
-
-    static String convertDevanagariToUniformItrans(String alter) {
-        return convertSLPToUniformItrans(convertDevanagariToSLP(alter))
-    }
-
-    static String convertIASTToSLP(String alter) {
-        return IASTToSLP.transform(alter)
-    }
-
-    static String convertVelthuisToSLP(String alter) {
-        return VelthuisToSLP.transform(alter)
-    }
-
-    static String convertIASTToUniformItrans(String alter) {
-        return convertSLPToUniformItrans(convertIASTToSLP(alter))
-    }
-
-    static String convertHKToSLP(String string) {
-        return HKToSLP.transform(string)
+    static String convertSLPToOriya(String text) {
+        return SLPToUnicode.transformToOriya(text)
     }
 
 
-    static String convertHKToIAST(String string) {
-        return convertSLPToIAST(convertHKToSLP(string))
+    static String convertSLPToTamil(String text) {
+        return SLPToUnicode.transformToTamil(text)
     }
 
-    static String convertVelthuisToIAST(String string) {
-        return convertSLPToIAST(convertVelthuisToSLP(string))
+    static String convertSLPToTelugu(String text) {
+        return SLPToUnicode.transformToTelugu(text)
     }
 
-    static String convertHKToDVN(String string) {
-        return convertSLPToDevanagari(convertHKToSLP(string))
+
+    static String convertSLPToMalayalam(String text) {
+        return SLPToUnicode.transformToMalayalam(text)
     }
 
-    static String convertDVNToIAST(String string) {
-        String wordInSLP = convertDevanagariToSLP(string)
+
+    static String convertSLPToKannada(String text) {
+        return SLPToUnicode.transformToKannada(text)
+    }
+
+    static String convertSLPToIAST(String text) {
+        return new SLPToIAST().transform(text)
+    }
+
+
+    static String convertUniformItransToDevanagari(String text) {
+        return convertSLPToDevanagari(convertUniformItransToSLP(text))
+    }
+
+    static String convertRawItransToDevanagari(String text) {
+        return convertSLPToDevanagari(convertRawItransToSLP(text))
+    }
+
+    static String convertSLPToUniformItrans(String text) {
+        return SLPToItrans.transform(text)
+    }
+
+    static String convertSLPToHK(String text) {
+        return SLPToHK.transform(text)
+    }
+
+    static String convertSLPToVelthuis(String text) {
+        return SLPToVelthuis.transform(text)
+    }
+
+    static String convertDevanagariToSLP(String text) {
+        return new DvnToSLP().transform(text)
+    }
+
+    static String convertDevanagariToUniformItrans(String text) {
+        return convertSLPToUniformItrans(convertDevanagariToSLP(text))
+    }
+
+    static String convertIASTToSLP(String text) {
+        return IASTToSLP.transform(text)
+    }
+
+    static String convertVelthuisToSLP(String text) {
+        return VelthuisToSLP.transform(text)
+    }
+
+    static String convertIASTToUniformItrans(String text) {
+        return convertSLPToUniformItrans(convertIASTToSLP(text))
+    }
+
+    static String convertHKToSLP(String texting) {
+        return HKToSLP.transform(texting)
+    }
+
+
+    static String convertHKToIAST(String texting) {
+        return convertSLPToIAST(convertHKToSLP(texting))
+    }
+
+    static String convertVelthuisToIAST(String texting) {
+        return convertSLPToIAST(convertVelthuisToSLP(texting))
+    }
+
+    static String convertHKToDVN(String texting) {
+        return convertSLPToDevanagari(convertHKToSLP(texting))
+    }
+
+    static String convertDVNToIAST(String texting) {
+        String wordInSLP = convertDevanagariToSLP(texting)
         return convertSLPToIAST(wordInSLP)
     }
 
-    static String convertIASTToDVN(String string) {
-        String wordInSLP = convertIASTToSLP(string)
+    static String convertIASTToDVN(String texting) {
+        String wordInSLP = convertIASTToSLP(texting)
         return convertSLPToDevanagari(wordInSLP)
     }
 
-    static String convertVelthuisToDVN(String string) {
-        String wordInSLP = convertVelthuisToSLP(string)
+    static String convertVelthuisToDVN(String texting) {
+        String wordInSLP = convertVelthuisToSLP(texting)
         return convertSLPToDevanagari(wordInSLP)
     }
 
-    static String convertIPAToDevanagari(String string) {
-        String wordInSLP = convertIPAToSLP(string)
+    static String convertIPAToDevanagari(String texting) {
+        String wordInSLP = convertIPAToSLP(texting)
         return convertSLPToDevanagari(wordInSLP)
     }
 
@@ -146,7 +180,7 @@ class EncodingUtil {
             println("ind sizes" + splits*.size().join(","))
             println("userInputSplit.size(): ${userInputSplit.size()}")
             /* println("userInputSplit first 'n' chars " + splits*.join(", ").collect {
-                 it.substring(0, it.size() > PREVIEW_CHARS ? PREVIEW_CHARS : it.size())
+                 it.subtexting(0, it.size() > PREVIEW_CHARS ? PREVIEW_CHARS : it.size())
              } + "<<<")*/
 
         } else {
@@ -162,7 +196,7 @@ class EncodingUtil {
         println("parallelly converted list size${results.size()}")
         println("parallelly converted list ind sizes: " + results*.size().join(","))
         /* println(">>parallelly converted list first 'n' chars " + results.collect {
-             it.substring(0, it.size() > PREVIEW_CHARS ? PREVIEW_CHARS : it.size())
+             it.subtexting(0, it.size() > PREVIEW_CHARS ? PREVIEW_CHARS : it.size())
          } + "<<<")*/
         String output = results.join(" ")
 
@@ -171,8 +205,7 @@ class EncodingUtil {
         return output
     }
 
-    private
-    static String _convert(String convertibleText, String inputEncoding, String outputEncoding, boolean capitalizeIAST) {
+    private static String _convert(String convertibleText, String inputEncoding, String outputEncoding, boolean capitalizeIAST) {
         if (inputEncoding == outputEncoding) {
             return convertibleText
         }
@@ -209,16 +242,16 @@ class EncodingUtil {
             return convertibleText
     }
 
-    static String convertSLPToIPA(String str) {
-        return SLPToIPA.transform(str)
+    static String convertSLPToIPA(String text) {
+        return SLPToIPA.transform(text)
     }
 
-    static String convertIPAToSLP(String str) {
-        return IPAToSLP.transform(str)
+    static String convertIPAToSLP(String text) {
+        return IPAToSLP.transform(text)
     }
 
-    static String convertDevanagariToIPA(String str) {
-        return DevangariToIPA.transform(str)
+    static String convertDevanagariToIPA(String text) {
+        return DevangariToIPA.transform(text)
     }
 
     static String convertToSLP(String convertibleText, String targetEncoding) {
@@ -240,49 +273,65 @@ class EncodingUtil {
             return convertibleText
     }
 
-    static String convertSLPToEncoding(String str, String encoding) {
+    static String convertSLPToEncoding(String text, String encoding) {
         if (Constants.ITRANS.equalsIgnoreCase(encoding))
-            return convertSLPToUniformItrans(str)
+            return convertSLPToUniformItrans(text)
         else if (Constants.HK.equalsIgnoreCase(encoding))
-            return convertSLPToHK(str)
+            return convertSLPToHK(text)
         else if (Constants.UNICODE_DVN.equalsIgnoreCase(encoding))
-            return convertSLPToDevanagari(str)
+            return convertSLPToDevanagari(text)
+        else if (Constants.BANGLA.equalsIgnoreCase(encoding))
+            return convertSLPToBangla(text)
+        else if (Constants.GUJARATI.equalsIgnoreCase(encoding))
+            return convertSLPToGujarati(text)
+        else if (Constants.GURUMUKHI.equalsIgnoreCase(encoding))
+            return convertSLPToGurumukhi(text)
+        else if (Constants.ORIYA.equalsIgnoreCase(encoding))
+            return convertSLPToOriya(text)
+        else if (Constants.TAMIL.equalsIgnoreCase(encoding))
+            return convertSLPToTamil(text)
+        else if (Constants.TELUGU.equalsIgnoreCase(encoding))
+            return convertSLPToTelugu(text)
+        else if (Constants.KANNADA.equalsIgnoreCase(encoding))
+            return convertSLPToKannada(text)
+        else if (Constants.MALAYALAM.equalsIgnoreCase(encoding))
+            return convertSLPToMalayalam(text)
         else if (Constants.IAST.equalsIgnoreCase(encoding))
-            return convertSLPToIAST(str)
+            return convertSLPToIAST(text)
         else if (Constants.VELTHUIS.equalsIgnoreCase(encoding))
-            return convertSLPToVelthuis(str)
+            return convertSLPToVelthuis(text)
         else if (Constants.IPA.equalsIgnoreCase(encoding))
-            return convertSLPToIPA(str)
+            return convertSLPToIPA(text)
         else
-            return str
+            return text
     }
 
-    static String convertToIAST(String str, String encoding) {
+    static String convertToIAST(String text, String encoding) {
         if (Constants.ITRANS.equalsIgnoreCase(encoding))
-            return convertRawItransToIAST(str)
+            return convertRawItransToIAST(text)
         else if (Constants.HK.equalsIgnoreCase(encoding))
-            return convertHKToIAST(str)
+            return convertHKToIAST(text)
         else if (Constants.SLP.equalsIgnoreCase(encoding))
-            return convertSLPToIAST(str)
+            return convertSLPToIAST(text)
         else if (Constants.UNICODE_DVN.equalsIgnoreCase(encoding))
-            return convertDVNToIAST(str)
+            return convertDVNToIAST(text)
         else if (Constants.HK.equalsIgnoreCase(encoding))
-            return convertHKToIAST(str)
+            return convertHKToIAST(text)
         else if (Constants.VELTHUIS.equalsIgnoreCase(encoding))
-            return convertVelthuisToIAST(str)
-        else return str
+            return convertVelthuisToIAST(text)
+        else return text
     }
 
     static String toUTF8(String isoString)
     /**
-     * Convert ISO8859-1 format string (which is the default sent by IE
+     * Convert ISO8859-1 format texting (which is the default sent by IE
      * to the UTF-8 format that the database is in.
      */ {
         String utf8String = ""
         if (isoString != null && isoString.length() > 0) {
             try {
-                byte[] stringBytesISO = isoString.getBytes("ISO-8859-1")
-                utf8String = new String(stringBytesISO, "UTF-8")
+                byte[] textingBytesISO = isoString.getBytes("ISO-8859-1")
+                utf8String = new String(textingBytesISO, "UTF-8")
             } catch (UnsupportedEncodingException e) {
                 // As we can't translate just send back the best guess.
                 Log.info("UnsupportedEncodingException is: " + e.getMessage())

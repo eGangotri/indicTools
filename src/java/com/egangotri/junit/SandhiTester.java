@@ -30,7 +30,7 @@ public class SandhiTester
         // System.gc();
         long mem3 = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
         long time3 = System.currentTimeMillis();
-        new SLPToDevanagari().transform(testString);
+        SLPToDevanagari.transform(testString);
         long time4 = System.currentTimeMillis();
         long totalTime2 = time4 - time3;
         long mem4 = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();

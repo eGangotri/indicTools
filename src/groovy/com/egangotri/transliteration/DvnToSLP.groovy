@@ -170,7 +170,7 @@ public class DvnToSLP
         return newString; // return transformed;
     }
 
-    public String listToString(ArrayList<String> shabda)
+    public static String listToString(ArrayList<String> shabda)
     {
         String s = "";
         for (String string: shabda)

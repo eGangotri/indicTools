@@ -107,7 +107,7 @@ public class SivaSutraInfo extends JFrame implements ActionListener
         }
 
         String xxx = (new SivaSutra()).getPratyahaara("al", marker);
-        returnMe = dvn.transform(xxx);
+        returnMe = SLPToDevanagari.transform(xxx);
 
         if (restore == true)
         {

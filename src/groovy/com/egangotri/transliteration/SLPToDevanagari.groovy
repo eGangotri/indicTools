@@ -5,18 +5,23 @@
 package com.egangotri.transliteration
 
 import com.egangotri.constants.SLPConstants;
-import com.egangotri.util.VowelUtil;
+import com.egangotri.util.VowelUtil
 
+import javax.xml.bind.DatatypeConverter;
 import java.util.*;
 
 public class SLPToDevanagari
 {
-    private Hashtable<String, String> unicode;
+    private static Hashtable<String, String> unicode;
 
-    private Hashtable<String, String> matra;
+    private static Hashtable<String, String> matra;
 
-    private final String halant = "\u094d"; 
-    public void populateHashTable()
+    private static final String halant = "\u094d";
+
+    static {
+        populateHashTable()
+    }
+    static void populateHashTable()
         {
             unicode = new Hashtable<String, String>();
             matra = new Hashtable<String, String>();
@@ -152,12 +157,7 @@ public class SLPToDevanagari
             
         }
 
-    public SLPToDevanagari()
-    {
-        populateHashTable();
-    }
-
-    public String transform(String s1)
+    public static String transform(String s1)
     {
     
         String transformed = "";
@@ -221,4 +221,23 @@ public class SLPToDevanagari
         return transformed; // return transformed;
     }
 
+    static void main(def args){
+        int hex =   0x0906 + 0x10845
+        println("hex: $hex ${Integer.toHexString(hex)}")
+        //0x1118
+        int sharadaHexDiff = 0x1087e
+
+        String hexString = "D804DD83"
+        byte[] bytes = DatatypeConverter.parseHexBinary(hexString);
+        String result= new String(bytes, "UTF-16");
+        println("result $result ${result == "𑆃"}")
+    }
+
+    //https://stackoverflow.com/questions/13990941/how-to-convert-hex-string-to-java-string
+    static String hexToUTF16(String hexString) {
+        byte[] bytes = DatatypeConverter.parseHexBinary(hexString);
+        String result= new String(bytes, "UTF-16");
+        println("result $result")
+        return result
+    }
 }

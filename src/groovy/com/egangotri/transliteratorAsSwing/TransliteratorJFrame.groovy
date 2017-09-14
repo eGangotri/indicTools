@@ -96,29 +96,23 @@ public class TransliteratorJFrame extends JFrame implements ActionListener, KeyL
         aboutItem.setActionCommand("about_item")
         aboutItem.addActionListener(this)
 
-        itransItem = new JMenuItem("ITRANS " + Constants.ENCODING_SCHEME)
-        itransItem.setActionCommand("itrans_encoding")
-        itransItem.addActionListener(this)
+        itransItem = new JMenuItem("ITRANS $Constants.ENCODING_SCHEME")
+        setMenuItem(itransItem, "itrans_encoding")
 
-        slpItem = new JMenuItem("SLP " + Constants.ENCODING_SCHEME)
-        slpItem.setActionCommand("slp_encoding")
-        slpItem.addActionListener(this)
+        slpItem = new JMenuItem("SLP $Constants.ENCODING_SCHEME")
+        setMenuItem(slpItem, "slp_encoding")
 
-        hkItem = new JMenuItem("Harvard Kyoto " + Constants.ENCODING_SCHEME)
-        hkItem.setActionCommand("hk_encoding")
-        hkItem.addActionListener(this)
+        hkItem = new JMenuItem("Harvard Kyoto $Constants.ENCODING_SCHEME")
+        setMenuItem(hkItem, "hk_encoding")
 
-        velthuisItem = new JMenuItem("Velthuis " + Constants.ENCODING_SCHEME)
-        velthuisItem.setActionCommand("velthuis_encoding")
-        velthuisItem.addActionListener(this)
+        velthuisItem = new JMenuItem("Velthuis $Constants.ENCODING_SCHEME")
+        setMenuItem(velthuisItem, "velthuis_encoding")
 
-        dvnItem = new JMenuItem("Devanagari " + Constants.ENCODING_SCHEME)
-        dvnItem.setActionCommand("devanagari_encoding")
-        dvnItem.addActionListener(this)
+        dvnItem = new JMenuItem("Devanagari $Constants.ENCODING_SCHEME")
+        setMenuItem(dvnItem, "devanagari_encoding")
 
-        iastItem = new JMenuItem("IAST " + Constants.ENCODING_SCHEME)
-        iastItem.setActionCommand("iast_encoding")
-        iastItem.addActionListener(this)
+        iastItem = new JMenuItem("IAST $Constants.ENCODING_SCHEME")
+        setMenuItem(iastItem, "iast_encoding")
 
         // add menuitems to menu
         file.add(open_1)
@@ -435,5 +429,10 @@ public class TransliteratorJFrame extends JFrame implements ActionListener, KeyL
         new TransliteratorJFrame().setVisible(true)
 
     } // end of main
+
+    public void setMenuItem(JMenuItem menuItem, String encoding){
+        menuItem.setActionCommand(encoding)
+        menuItem.addActionListener(this)
+    }
 
 }
