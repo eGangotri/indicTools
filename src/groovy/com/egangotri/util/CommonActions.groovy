@@ -1,9 +1,7 @@
 package com.egangotri.util
 
-import com.egangotri.transliteration.RTFDocsSwingDisplayer
+import com.egangotri.transliteration.otherTransformations.RTFDocsSwingDisplayer
 import groovy.util.logging.Slf4j
-
-import javax.swing.JOptionPane
 
 /**
  * Created by user on 5/22/2016.

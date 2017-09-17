@@ -70,8 +70,7 @@ public class PratyaharaDecoder
         UditSavarna us = new UditSavarna();
         SUPAffixes sup = new SUPAffixes();
         TingAffixes ting = new TingAffixes();
-        SivaSutra ss = new SivaSutra();
-        
+
         // I if String is eligible for udita-savarna operations
         if (us.is_udita(strInSLP))
             result = us.vargas(strInSLP);
@@ -89,7 +88,7 @@ public class PratyaharaDecoder
         {
             // This line modified to use the Two Argument Method in siva_sutra
             // Class
-            result = ss.getPratyahaara(strInSLP, excludeMarkers);
+            result = SivaSutra.getPratyahaara(strInSLP, excludeMarkers);
         }
         
         return result; // Plain English

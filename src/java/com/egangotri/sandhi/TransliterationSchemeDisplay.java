@@ -1,5 +1,5 @@
 package com.egangotri.sandhi;
-import com.egangotri.transliteration.ItransScheme;
+import com.egangotri.transliteration.otherTransformations.ItransScheme;
 import com.egangotri.util.Log;
 
 import java.awt.event.*;

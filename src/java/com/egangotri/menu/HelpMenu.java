@@ -7,10 +7,8 @@ import javax.swing.JMenu;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 
-import com.egangotri.sandhi.SandhiJFrame;
-import com.egangotri.transliteration.RTFDocsSwingDisplayer;
+import com.egangotri.transliteration.otherTransformations.RTFDocsSwingDisplayer;
 import com.egangotri.util.CommonActions;
-import com.egangotri.util.Log;
 import com.egangotri.util.Project;
 
 public class HelpMenu extends JMenu implements ActionListener

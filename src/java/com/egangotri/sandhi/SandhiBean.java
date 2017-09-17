@@ -49,8 +49,8 @@ public class SandhiBean
         dvnInput1 = EncodingUtil.convertToDVN(prathama, encoding);
         dvnInput2 = EncodingUtil.convertToDVN(dvitiya, encoding);
 
-        tf1InSLP = EncodingUtil.convertToSLP(prathama, encoding);
-        tf2InSLP = EncodingUtil.convertToSLP(dvitiya, encoding);
+        tf1InSLP = EncodingUtil.toSLP(prathama, encoding);
+        tf2InSLP = EncodingUtil.toSLP(dvitiya, encoding);
 
         // convert anta + adi into their Sandhied form(s)
         SandhiMaker sandhiMaker = new SandhiMaker(tf1InSLP, tf2InSLP, padanta, pragrhya);
@@ -58,7 +58,7 @@ public class SandhiBean
         String sandhiMergedForm = sandhiMaker.getSandhiCombinedForm(); // Merge the Two Words
         Log.info("sandhiMerged Form " + sandhiMergedForm);
 
-        romanInput3 = EncodingUtil.convertSLPToEncoding(sandhiMergedForm, encoding);
+        romanInput3 = EncodingUtil.slpToEncoding(sandhiMergedForm, encoding);
         dvnInput3 = EncodingUtil.convertSLPToDevanagari(sandhiMergedForm);
         notes = sandhiMaker.getSandhiNotes();
     }

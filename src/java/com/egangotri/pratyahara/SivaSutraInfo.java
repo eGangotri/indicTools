@@ -1,7 +1,7 @@
 package com.egangotri.pratyahara;
 
+import com.egangotri.transliteration.SLPToIndic;
 import com.egangotri.util.Log;
-import com.egangotri.transliteration.SLPToDevanagari;
 
 import java.io.*;
 import java.awt.event.*;
@@ -99,15 +99,14 @@ public class SivaSutraInfo extends JFrame implements ActionListener
     {
         String returnMe = "";
         boolean restore = false;
-        SLPToDevanagari dvn = new SLPToDevanagari();
-        if (marker == false)
+        if (!marker)
         {
             marker = true;
             restore = true;
         }
 
-        String xxx = (new SivaSutra()).getPratyahaara("al", marker);
-        returnMe = SLPToDevanagari.transform(xxx);
+        String expandedPratyahaara = SivaSutra.getPratyahaara("al", marker);
+        returnMe = SLPToIndic.transform(expandedPratyahaara);
 
         if (restore == true)
         {

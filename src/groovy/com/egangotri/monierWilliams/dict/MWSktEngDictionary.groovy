@@ -12,7 +12,7 @@ import com.egangotri.monierWilliams.util.DictionaryBean
 import com.egangotri.monierWilliams.util.DictionaryConstants
 import com.egangotri.monierWilliams.util.DictionaryUtil
 import com.egangotri.pratyahara.PratyahaarJFrame
-import com.egangotri.transliteration.RTFDocsSwingDisplayer
+import com.egangotri.transliteration.otherTransformations.RTFDocsSwingDisplayer
 import com.egangotri.util.EncodingUtil
 import com.egangotri.util.Log
 import com.egangotri.util.Project
@@ -336,7 +336,7 @@ public class MWSktEngDictionary extends JFrame implements ActionListener, KeyLis
     public List fetchMeaning(String entry){
         //DictionaryService svc = (DictionaryService) SpringUtil.getBean("DictionaryService")
         //return getDictionaryDAO().findWord(word, searchType )
-        String wordForSearch = EncodingUtil.convertToSLP(entry, encodingPanel.getEncoding())
+        String wordForSearch = EncodingUtil.toSLP(entry, encodingPanel.getEncoding())
         Long count = DBUtil.findWordCount(wordForSearch, searchTypePanel.getSearchType())
         if(count > DictionaryConstants.DICTIONARY_MAX_RESULTS_ALLOWED){
             System.out.println("More Values than the Limit of ${DictionaryConstants.DICTIONARY_MAX_RESULTS_ALLOWED} found")

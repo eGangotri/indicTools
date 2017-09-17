@@ -2,7 +2,7 @@ package com.egangotri.junit;
 
 import com.egangotri.chanda.MetricAnalyzer;
 import com.egangotri.transliteration.DvnToSLP;
-import com.egangotri.transliteration.SLPToDevanagari;
+import com.egangotri.transliteration.fromSLP.SLPToDevanagari;
 import com.egangotri.util.EncodingUtil;
 import com.egangotri.util.Log;
 

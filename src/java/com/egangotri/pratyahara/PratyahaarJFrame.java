@@ -1,8 +1,7 @@
 package com.egangotri.pratyahara;
 
 import com.egangotri.panel.EncodingPanelForPratyahara;
-import com.egangotri.sandhi.SandhiJFrame;
-import com.egangotri.transliteration.RTFDocsSwingDisplayer;
+import com.egangotri.transliteration.otherTransformations.RTFDocsSwingDisplayer;
 import com.egangotri.util.EncodingUtil;
 
 import java.awt.event.*;
@@ -193,7 +192,7 @@ public class PratyahaarJFrame extends JFrame implements ActionListener, KeyListe
             
             if (e.getKeyCode() == KeyEvent.VK_ENTER)
             {
-                tb1.setText(pratyahara.decodePratyahara(EncodingUtil.convertToSLP(tf1.getText().trim(), encodingPanel.getEncoding()), markerChkBox.isSelected()));
+                tb1.setText(pratyahara.decodePratyahara(EncodingUtil.toSLP(tf1.getText().trim(), encodingPanel.getEncoding()), markerChkBox.isSelected()));
             }
             else
             {
@@ -212,7 +211,7 @@ public class PratyahaarJFrame extends JFrame implements ActionListener, KeyListe
         
         if (actionCmd.equals("Enter"))
         {
-            tb1.setText(pratyahara.decodePratyahara(EncodingUtil.convertToSLP(tf1.getText().trim(), encodingPanel.getEncoding()), markerChkBox.isSelected()));
+            tb1.setText(pratyahara.decodePratyahara(EncodingUtil.toSLP(tf1.getText().trim(), encodingPanel.getEncoding()), markerChkBox.isSelected()));
         }
 
         else if (actionCmd.equals("clear"))

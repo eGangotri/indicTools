@@ -1,6 +1,6 @@
 package com.egangotri.sandhi;
 
-import com.egangotri.transliteration.SLPToItrans;
+import com.egangotri.transliteration.fromSLP.SLPToItrans;
 import com.egangotri.util.ConsonantUtil;
 import com.egangotri.util.Log;
 import com.egangotri.util.VarnaUtil;
