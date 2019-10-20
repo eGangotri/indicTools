@@ -139,15 +139,7 @@ public class IndicToSLPMap {
 
         } // end of for
 
-        String newString = listToString(shabda);
-        //Discard the shabda array
-        shabda = null;
-
-        return newString; // return transformed;
-    }
-
-    static String listToString(ArrayList<String> shabda) {
-        shabda.join("")
+        return  shabda.join("") + "\uD804\uDD83" + "\uD804\uDD84" + "\uD804\uDD85" + "\uD804\uDC05" + "\u0905"; // return transformed;
     }
 
 }

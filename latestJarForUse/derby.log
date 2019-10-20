@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 29 19:46:50 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0160-0823-29fd-00000a696a80 
+on database directory C:\ws\indicTools\latestJarForUse\db\MW_DICTIONARY with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/C:/ws/indicTools/latestJarForUse/indicTools-dictionary.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\ws\indicTools\latestJarForUse
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

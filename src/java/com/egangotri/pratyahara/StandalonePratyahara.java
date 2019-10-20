@@ -235,7 +235,7 @@ public void actionPerformed(ActionEvent e)
 	else if( (e.getActionCommand()).equals("copyright") )
 		{
 			String copyright = "\u00A9 2005 All Rights Reserved. Chetan Pandey\n"
-								+ "Pls. Contact taddhita_priya@yahoo.com for questions and suggestions.";
+								+ "Pls. Contact egangotritrust@gmail.com for questions and suggestions.";
 			JOptionPane.showMessageDialog(this,copyright,"About My Pratyahaara Program", JOptionPane.PLAIN_MESSAGE );
 		}
 

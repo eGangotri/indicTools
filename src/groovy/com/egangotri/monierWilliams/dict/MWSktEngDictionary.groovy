@@ -270,7 +270,7 @@ public class MWSktEngDictionary extends JFrame implements ActionListener, KeyLis
 
         else if ((e.getActionCommand()).equals("about_item"))
         {
-            String copyright = "\u00A9 2009 All Rights Reserved. Chetan Pandey\n" + "Pls. Contact taddhita_priya@yahoo.com for questions and suggestions."
+            String copyright = "\u00A9 2009 All Rights Reserved. Chetan Pandey\n" + "Pls. Contact egangotritrust@gmail.com for questions and suggestions."
 
             JOptionPane.showMessageDialog(this, copyright, "Monier Williams Sanskrit English Dictionary", JOptionPane.PLAIN_MESSAGE)
 
