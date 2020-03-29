@@ -16,6 +16,14 @@ Transliterator for Indic Scripts with support for back and forth Conversion betw
 
 Find any Sandhi between 2 Words. Based on Siddhanta Kaumudi
 
+####Monier Williams Dictionary####
+In order to use the Dictionary, download the entire latestJarForUse Folder
+
+run by double clicking indicTools-dictionary.jar
+or
+java -jar <>/indicTools-dictionary.jar
+
+
 ####Download JAR from####
 
 https://github.com/eGangotri/indicTools/tree/master/latestJarForUse
